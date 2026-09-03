@@ -930,7 +930,7 @@
           <button class="btn" id="reveal">👁 Visa facit</button>
         `;
         document.getElementById("check").addEventListener("click", () => {
-          const { correctCount, total } = grade(false);
+          const { correctCount, total } = paintInputs(false);
           outcome = correctCount === total;
           document.getElementById("card-result").innerHTML =
             `<div class="check-result ${outcome ? "all-correct" : ""}">${correctCount} / ${total} rätt</div>`;
@@ -939,7 +939,7 @@
           else { if (!s.wrongIds.includes(card.id)) s.wrongIds.push(card.id); }
         });
         document.getElementById("reveal").addEventListener("click", () => {
-          grade(true);
+          paintInputs(true);
           outcome = false;
           document.getElementById("card-result").innerHTML =
             '<div class="check-result">Facit ifyllt.</div>';
