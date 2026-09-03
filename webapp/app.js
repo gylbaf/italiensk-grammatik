@@ -376,10 +376,26 @@
           <div id="card-body">${bodyHtml}</div>
           <div id="card-result"></div>
         </div>
+        <div class="session-nav" style="display: flex; justify-content: space-between; margin-top: .8rem; margin-bottom: .8rem;">
+          <button class="btn" id="prev-btn" ${s.index === 0 ? "disabled" : ""}>◀ Föregående</button>
+          <button class="btn" id="next-btn" ${s.index >= s.cards.length - 1 ? "disabled" : ""}>Nästa ▶</button>
+        </div>
         <div class="session-controls" id="session-controls"></div>
       `;
 
       document.getElementById("back-home").addEventListener("click", () => this.goHome());
+      document.getElementById("prev-btn").addEventListener("click", () => {
+        if (s.index > 0) {
+          s.index--;
+          this.renderSession();
+        }
+      });
+      document.getElementById("next-btn").addEventListener("click", () => {
+        if (s.index < s.cards.length - 1) {
+          s.index++;
+          this.renderSession();
+        }
+      });
 
       if (card.passage) this.renderPassageMarkingControls(card);
       else if (card.matching) this.renderMatchingControls(card);
