@@ -713,31 +713,24 @@
         controls.innerHTML = `
           <button class="btn primary" id="check">✅ Rätta</button>
           <button class="btn" id="reveal">👁 Visa facit</button>
-          ${outcome !== null ? '<button class="btn" id="next">Nästa ▶</button>' : ""}
         `;
         document.getElementById("check").addEventListener("click", () => {
           const { correctCount, total } = grade(false);
           outcome = correctCount === total;
           document.getElementById("card-result").innerHTML =
             `<div class="check-result ${outcome ? "all-correct" : ""}">${correctCount} / ${total} rätt</div>`;
-          renderButtons();
+          recordResult(card.id, outcome);
+          if (outcome) { if (!s.correctIds.includes(card.id)) s.correctIds.push(card.id); }
+          else { if (!s.wrongIds.includes(card.id)) s.wrongIds.push(card.id); }
         });
         document.getElementById("reveal").addEventListener("click", () => {
           grade(true);
           outcome = false;
           document.getElementById("card-result").innerHTML =
             '<div class="check-result">Facit ifyllt.</div>';
-          renderButtons();
+          recordResult(card.id, false);
+          if (!s.wrongIds.includes(card.id)) s.wrongIds.push(card.id);
         });
-        const nextBtn = document.getElementById("next");
-        if (nextBtn) {
-          nextBtn.addEventListener("click", () => {
-            recordResult(card.id, outcome);
-            (outcome ? s.correctIds : s.wrongIds).push(card.id);
-            s.index++;
-            this.renderSession();
-          });
-        }
       };
       renderButtons();
     },
@@ -935,31 +928,24 @@
         controls.innerHTML = `
           <button class="btn primary" id="check">✅ Rätta</button>
           <button class="btn" id="reveal">👁 Visa facit</button>
-          ${outcome !== null ? '<button class="btn" id="next">Nästa ▶</button>' : ""}
         `;
         document.getElementById("check").addEventListener("click", () => {
-          const { correctCount, total } = paintInputs(false);
+          const { correctCount, total } = grade(false);
           outcome = correctCount === total;
           document.getElementById("card-result").innerHTML =
             `<div class="check-result ${outcome ? "all-correct" : ""}">${correctCount} / ${total} rätt</div>`;
-          renderButtons();
+          recordResult(card.id, outcome);
+          if (outcome) { if (!s.correctIds.includes(card.id)) s.correctIds.push(card.id); }
+          else { if (!s.wrongIds.includes(card.id)) s.wrongIds.push(card.id); }
         });
         document.getElementById("reveal").addEventListener("click", () => {
-          paintInputs(true);
-          outcome = false; // seeing the facit counts as "not answered correctly" for stats
+          grade(true);
+          outcome = false;
           document.getElementById("card-result").innerHTML =
             '<div class="check-result">Facit ifyllt.</div>';
-          renderButtons();
+          recordResult(card.id, false);
+          if (!s.wrongIds.includes(card.id)) s.wrongIds.push(card.id);
         });
-        const nextBtn = document.getElementById("next");
-        if (nextBtn) {
-          nextBtn.addEventListener("click", () => {
-            recordResult(card.id, outcome);
-            (outcome ? s.correctIds : s.wrongIds).push(card.id);
-            s.index++;
-            this.renderSession();
-          });
-        }
       };
       renderButtons();
 
@@ -977,13 +963,11 @@
 
       const renderButtons = () => {
         controls.innerHTML = !revealed
-          ? `<button class="btn primary" id="reveal">👁 Visa facit</button>
-             <button class="btn" id="skip">Hoppa över ▶</button>`
+          ? `<button class="btn primary" id="reveal">👁 Visa facit</button>`
           : `<div class="result-buttons">
                <button class="btn correct" id="mark-correct">✅ Rätt</button>
                <button class="btn wrong" id="mark-wrong">❌ Fel</button>
-             </div>
-             <button class="btn" id="next">Nästa ▶</button>`;
+             </div>`;
 
         if (!revealed) {
           document.getElementById("reveal").addEventListener("click", () => {
@@ -993,24 +977,16 @@
               : `<div class="no-answer">Inget facit tillgängligt för denna övning.</div>`;
             renderButtons();
           });
-          document.getElementById("skip").addEventListener("click", () => {
-            s.index++;
-            this.renderSession();
-          });
         } else {
           document.getElementById("mark-correct").addEventListener("click", () => {
             recordResult(card.id, true);
-            s.correctIds.push(card.id);
+            if (!s.correctIds.includes(card.id)) s.correctIds.push(card.id);
             s.index++;
             this.renderSession();
           });
           document.getElementById("mark-wrong").addEventListener("click", () => {
             recordResult(card.id, false);
-            s.wrongIds.push(card.id);
-            s.index++;
-            this.renderSession();
-          });
-          document.getElementById("next").addEventListener("click", () => {
+            if (!s.wrongIds.includes(card.id)) s.wrongIds.push(card.id);
             s.index++;
             this.renderSession();
           });
