@@ -50,7 +50,7 @@
 - p. ___ obbligo ___ obblig___ ___
 - q. ___ figlio ___ figl___ ___
 - r. ___ latte ___ latt___ ___
-- s. ___ mezzaluna ___ mezz__ lun___ ___
+- s. ___ mezzaluna ___ mezz___ lun___ ___
 - t. ___ aspirapolvere / aspiravolvere ___ aspirapolver___ ___
 - u. ___ asciugamano ___ asciugaman___ ___
 
