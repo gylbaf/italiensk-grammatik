@@ -42,7 +42,8 @@ A lightweight, fully static web application for practicing Italian grammar based
 │   ├── scheda*.md                  # Grammar theory + numbered exercises (1-40)
 │   ├── soluzioni-*.md              # Answer keys (facit) for schede
 │   └── Esercizi*.md                # Standalone exercise sets and answer keys
-└── *.pdf                           # Original source PDFs (reference only)
+└── pdf/                            # Original source PDFs (reference only)
+│   ├── *.pdf                           
 ```
 
 ## Getting Started

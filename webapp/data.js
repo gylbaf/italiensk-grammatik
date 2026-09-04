@@ -9,11 +9,19 @@ window.QUIZ_DATA = {
     {
      "num": "01",
      "instruction": "Inserisci l'articolo determinativo corretto davanti a ogni nome.",
-     "body": "___ pesce ___ albero\n___ occhiali ___ vita\n___ articolo ___ capelli\n___ pioggia ___ spinaci\n___ spazzolino ___ olio\n___ incidente ___ ladri\n___ fiore ___ strada\n___ cugino ___ scienziato\n___ matite ___ vetro\n___ zucchino ___ dentista\n___ religione ___ incrocio",
-     "answerBody": "- il pesce / l' albero\n- gli occhiali / la vita\n- l' articolo / i capelli\n- la pioggia / gli spinaci\n- lo spazzolino / l' olio\n- l' incidente / i ladri\n- il fiore / la strada\n- il cugino / lo scienziato\n- le matite / il vetro\n- lo zucchino / il dentista\n- la religione / l' incrocio",
+     "body": "1. ___ pesce\n2. ___ albero\n3. ___ occhiali\n4. ___ vita\n5. ___ articolo\n6. ___ capelli\n7. ___ pioggia\n8. ___ spinaci\n9. ___ spazzolino\n10. ___ olio\n11. ___ incidente\n12. ___ ladri\n13. ___ fiore\n14. ___ strada\n15. ___ cugino\n16. ___ scienziato\n17. ___ matite\n18. ___ vetro\n19. ___ zucchino\n20. ___ dentista\n21. ___ religione\n22. ___ incrocio",
+     "answerBody": "1. **il** pesce\n2. **l'** albero\n3. **gli** occhiali\n4. **la** vita\n5. **l'** articolo\n6. **i** capelli\n7. **la** pioggia\n8. **gli** spinaci\n9. **lo** spazzolino\n10. **l'** olio\n11. **l'** incidente\n12. **i** ladri\n13. **il** fiore\n14. **la** strada\n15. **il** cugino\n16. **lo** scienziato\n17. **le** matite\n18. **il** vetro\n19. **lo** zucchino\n20. **il** dentista\n21. **la** religione\n22. **l'** incrocio",
      "matching": null,
      "passage": {
       "tokens": [
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
        {
         "t": "raw",
         "v": " "
@@ -23,6 +31,14 @@ window.QUIZ_DATA = {
         "id": 0,
         "v": "pesce",
         "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
        },
        {
         "t": "raw",
@@ -44,6 +60,14 @@ window.QUIZ_DATA = {
        },
        {
         "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
         "v": " "
        },
        {
@@ -51,6 +75,14 @@ window.QUIZ_DATA = {
         "id": 2,
         "v": "occhiali",
         "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
        },
        {
         "t": "raw",
@@ -72,6 +104,14 @@ window.QUIZ_DATA = {
        },
        {
         "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
         "v": " "
        },
        {
@@ -79,6 +119,14 @@ window.QUIZ_DATA = {
         "id": 4,
         "v": "articolo",
         "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
        },
        {
         "t": "raw",
@@ -100,6 +148,14 @@ window.QUIZ_DATA = {
        },
        {
         "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
         "v": " "
        },
        {
@@ -107,6 +163,14 @@ window.QUIZ_DATA = {
         "id": 6,
         "v": "pioggia",
         "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
        },
        {
         "t": "raw",
@@ -128,6 +192,14 @@ window.QUIZ_DATA = {
        },
        {
         "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
         "v": " "
        },
        {
@@ -135,6 +207,14 @@ window.QUIZ_DATA = {
         "id": 8,
         "v": "spazzolino",
         "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
        },
        {
         "t": "raw",
@@ -156,6 +236,14 @@ window.QUIZ_DATA = {
        },
        {
         "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
         "v": " "
        },
        {
@@ -163,6 +251,14 @@ window.QUIZ_DATA = {
         "id": 10,
         "v": "incidente",
         "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
        },
        {
         "t": "raw",
@@ -184,6 +280,14 @@ window.QUIZ_DATA = {
        },
        {
         "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
         "v": " "
        },
        {
@@ -191,6 +295,14 @@ window.QUIZ_DATA = {
         "id": 12,
         "v": "fiore",
         "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
        },
        {
         "t": "raw",
@@ -212,6 +324,14 @@ window.QUIZ_DATA = {
        },
        {
         "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
         "v": " "
        },
        {
@@ -219,6 +339,14 @@ window.QUIZ_DATA = {
         "id": 14,
         "v": "cugino",
         "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
        },
        {
         "t": "raw",
@@ -240,6 +368,14 @@ window.QUIZ_DATA = {
        },
        {
         "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
         "v": " "
        },
        {
@@ -247,6 +383,14 @@ window.QUIZ_DATA = {
         "id": 16,
         "v": "matite",
         "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
        },
        {
         "t": "raw",
@@ -268,6 +412,14 @@ window.QUIZ_DATA = {
        },
        {
         "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
         "v": " "
        },
        {
@@ -275,6 +427,14 @@ window.QUIZ_DATA = {
         "id": 18,
         "v": "zucchino",
         "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
        },
        {
         "t": "raw",
@@ -296,6 +456,14 @@ window.QUIZ_DATA = {
        },
        {
         "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
         "v": " "
        },
        {
@@ -303,6 +471,14 @@ window.QUIZ_DATA = {
         "id": 20,
         "v": "religione",
         "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
        },
        {
         "t": "raw",
@@ -648,9 +824,13 @@ window.QUIZ_DATA = {
          "options": [
           "lo",
           "l'",
-          "il esercito"
+          "il"
          ],
          "answer": "l'"
+        },
+        {
+         "t": "text",
+         "v": " esercito"
         }
        ],
        "answers": [

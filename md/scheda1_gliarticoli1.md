@@ -74,17 +74,28 @@ Grammatica 1
 
 ### 01 • Inserisci l'articolo determinativo corretto davanti a ogni nome.
 
-___ pesce ___ albero
-___ occhiali ___ vita
-___ articolo ___ capelli
-___ pioggia ___ spinaci
-___ spazzolino ___ olio
-___ incidente ___ ladri
-___ fiore ___ strada
-___ cugino ___ scienziato
-___ matite ___ vetro
-___ zucchino ___ dentista
-___ religione ___ incrocio
+1. ___ pesce
+2. ___ albero
+3. ___ occhiali
+4. ___ vita
+5. ___ articolo
+6. ___ capelli
+7. ___ pioggia
+8. ___ spinaci
+9. ___ spazzolino
+10. ___ olio
+11. ___ incidente
+12. ___ ladri
+13. ___ fiore
+14. ___ strada
+15. ___ cugino
+16. ___ scienziato
+17. ___ matite
+18. ___ vetro
+19. ___ zucchino
+20. ___ dentista
+21. ___ religione
+22. ___ incrocio
 
 ### 02 • Sostituisci l'articolo indeterminativo con l'articolo determinativo al plurale e trasforma i nomi al plurale.
 

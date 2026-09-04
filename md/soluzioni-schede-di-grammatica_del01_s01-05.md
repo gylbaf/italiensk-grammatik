@@ -4,17 +4,28 @@
 ## Scheda 1 – Gli articoli 1
 
 ### 01 • Inserisci l'articolo determinativo corretto davanti a ogni nome.
-- il pesce / l' albero
-- gli occhiali / la vita
-- l' articolo / i capelli
-- la pioggia / gli spinaci
-- lo spazzolino / l' olio
-- l' incidente / i ladri
-- il fiore / la strada
-- il cugino / lo scienziato
-- le matite / il vetro
-- lo zucchino / il dentista
-- la religione / l' incrocio
+1. **il** pesce
+2. **l'** albero
+3. **gli** occhiali
+4. **la** vita
+5. **l'** articolo
+6. **i** capelli
+7. **la** pioggia
+8. **gli** spinaci
+9. **lo** spazzolino
+10. **l'** olio
+11. **l'** incidente
+12. **i** ladri
+13. **il** fiore
+14. **la** strada
+15. **il** cugino
+16. **lo** scienziato
+17. **le** matite
+18. **il** vetro
+19. **lo** zucchino
+20. **il** dentista
+21. **la** religione
+22. **l'** incrocio
 
 ### 02 • Sostituisci l'articolo indeterminativo con l'articolo determinativo al plurale e trasforma i nomi al plurale.
 - un quaderno → i quaderni (esempio)
