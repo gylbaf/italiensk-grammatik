@@ -69,15 +69,13 @@ j. maniglia
 
 ### 03 • Completa la tabella, con l'aiuto del dizionario.
 
-| Nome primitivo | Nomi derivati |
-| --- | --- |
-| 1. città | cittadino, cittadinanza, concittadino |
-| 2. fiore | ___ |
-| 3. lavoro | ___ |
-| 4. erba | ___ |
-| 5. carta | ___ |
-| 6. occhio | ___ |
-| 7. latte | ___ |
-| 8. pane | ___ |
-| 9. libro | ___ |
-| 10. dente | ___ |
+1. città – cittadino, cittadinanza, concittadino
+2. fiore – ___
+3. lavoro – ___
+4. erba – ___
+5. carta – ___
+6. occhio – ___
+7. latte – ___
+8. pane – ___
+9. libro – ___
+10. dente – ___

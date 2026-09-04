@@ -9048,13 +9048,185 @@ window.QUIZ_DATA = {
     {
      "num": "03",
      "instruction": "Completa la tabella, con l'aiuto del dizionario.",
-     "body": "| Nome primitivo | Nomi derivati |\n| --- | --- |\n| 1. città | cittadino, cittadinanza, concittadino |\n| 2. fiore | ___ |\n| 3. lavoro | ___ |\n| 4. erba | ___ |\n| 5. carta | ___ |\n| 6. occhio | ___ |\n| 7. latte | ___ |\n| 8. pane | ___ |\n| 9. libro | ___ |\n| 10. dente | ___ |",
+     "body": "1. città – cittadino, cittadinanza, concittadino\n2. fiore – ___\n3. lavoro – ___\n4. erba – ___\n5. carta – ___\n6. occhio – ___\n7. latte – ___\n8. pane – ___\n9. libro – ___\n10. dente – ___",
      "answerBody": "1. città – cittadino, cittadinanza, concittadino\n2. fiore – fioraio, fioreria, fioretto\n3. lavoro – lavoratore, lavorazione, lavorio\n4. erba – erbivoro, erbaio, erbivendolo\n5. carta – cartone, cartella, cartina\n6. occhio – occhiolino, occhiata, occhiello\n7. latte – lattosio, latteria, latticinio\n8. pane – panettiere, panificio, panettone\n9. libro – libreria, libraio, libretto\n10. dente – dentista, dentiera, dentatura",
      "matching": null,
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. città – cittadino, cittadinanza, concittadino"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. fiore – "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "fioraio, fioreria, fioretto"
+         ]
+        }
+       ],
+       "answers": [
+        "fioraio, fioreria, fioretto"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. lavoro – "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "lavoratore, lavorazione, lavorio"
+         ]
+        }
+       ],
+       "answers": [
+        "lavoratore, lavorazione, lavorio"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. erba – "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "erbivoro, erbaio, erbivendolo"
+         ]
+        }
+       ],
+       "answers": [
+        "erbivoro, erbaio, erbivendolo"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. carta – "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "cartone, cartella, cartina"
+         ]
+        }
+       ],
+       "answers": [
+        "cartone, cartella, cartina"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. occhio – "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "occhiolino, occhiata, occhiello"
+         ]
+        }
+       ],
+       "answers": [
+        "occhiolino, occhiata, occhiello"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "7. latte – "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "lattosio, latteria, latticinio"
+         ]
+        }
+       ],
+       "answers": [
+        "lattosio, latteria, latticinio"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "8. pane – "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "panettiere, panificio, panettone"
+         ]
+        }
+       ],
+       "answers": [
+        "panettiere, panificio, panettone"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "9. libro – "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "libreria, libraio, libretto"
+         ]
+        }
+       ],
+       "answers": [
+        "libreria, libraio, libretto"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "10. dente – "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "dentista, dentiera, dentatura"
+         ]
+        }
+       ],
+       "answers": [
+        "dentista, dentiera, dentatura"
+       ]
+      }
+     ]
     }
    ]
   },
