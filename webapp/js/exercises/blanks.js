@@ -78,6 +78,11 @@ QuizApp.exercises = QuizApp.exercises || {};
           }
         });
         cells.push(cur);
+        // Ta bort "1. " prefixet så radnumren inte syns (önskat)
+        if (cells[0] && cells[0][0] && cells[0][0].t === "text") {
+          cells[0][0].v = cells[0][0].v.replace(/^\s*\d+\.\s*/, "");
+          if (cells[0][0].v === "") cells[0].shift();
+        }
         html += '<tr>';
         cells.forEach((cellSegs) => {
           html += '<td class="table-cell">';
