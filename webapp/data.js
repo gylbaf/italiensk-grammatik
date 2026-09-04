@@ -825,9 +825,13 @@ window.QUIZ_DATA = {
          "options": [
           "lo",
           "l'",
-          "il esercito"
+          "il"
          ],
          "answer": "l'"
+        },
+        {
+         "t": "text",
+         "v": " esercito"
         }
        ],
        "answers": [
@@ -849,6 +853,10 @@ window.QUIZ_DATA = {
           "i"
          ],
          "answer": "gli"
+        },
+        {
+         "t": "text",
+         "v": " articoli"
         }
        ],
        "answers": [
@@ -870,6 +878,10 @@ window.QUIZ_DATA = {
           "le"
          ],
          "answer": "il"
+        },
+        {
+         "t": "text",
+         "v": " generale"
         }
        ],
        "answers": [
@@ -938,9 +950,13 @@ window.QUIZ_DATA = {
          "options": [
           "un'",
           "l'",
-          "lo ufficio"
+          "lo"
          ],
          "answer": "l'"
+        },
+        {
+         "t": "text",
+         "v": " ufficio"
         }
        ],
        "answers": [
@@ -1563,9 +1579,13 @@ window.QUIZ_DATA = {
          "options": [
           "della",
           "dell'",
-          "del benzina"
+          "del"
          ],
          "answer": "della"
+        },
+        {
+         "t": "text",
+         "v": " benzina"
         }
        ],
        "answers": [
@@ -2484,13 +2504,13 @@ window.QUIZ_DATA = {
          "i": 0,
          "options": [
           "Calleri",
-          "il Calleri"
+          "il"
          ],
          "answer": "Calleri"
         },
         {
          "t": "text",
-         "v": " ormai morto dalle lamiere dell'auto."
+         "v": " Calleri ormai morto dalle lamiere dell'auto."
         }
        ],
        "answers": [
@@ -2594,13 +2614,13 @@ window.QUIZ_DATA = {
          "i": 0,
          "options": [
           "Sergio Benni",
-          "Il Sergio Benni"
+          "Il"
          ],
          "answer": "Sergio Benni"
         },
         {
          "t": "text",
-         "v": " fa l'elettrauto."
+         "v": " Sergio Benni fa l'elettrauto."
         }
        ],
        "answers": [
@@ -10364,7 +10384,7 @@ window.QUIZ_DATA = {
         },
         {
          "t": "text",
-         "v": "fonato."
+         "v": " dirò che hai telefonato."
         }
        ],
        "answers": [

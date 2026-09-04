@@ -137,21 +137,29 @@ def build_choices(body: str, answer_body: str):
                     optN = words[0]
                     suffix = ""
                 else:
-                    bold_word_count = len(bolds[0].group(1).split())
-                    if words[0].lower() in ("il", "lo", "la", "i", "gli", "le", "un", "uno", "una", "un'", "dal", "del", "dalla", "dello"):
-                        opt_len = bold_word_count + (0 if bolds[0].group(1).split()[0].lower() in ("il", "lo", "la", "i", "gli", "le", "un", "uno", "una", "un'", "dal", "del", "dalla", "dello") else 1)
-                        opt_len = min(len(words), max(1, opt_len))
-                    else:
-                        opt_len = 1
-                    optN = " ".join(words[:opt_len])
+                    # Last part is always "<article> <noun>" (e.g. "il esercito", "i articoli")
+                    # Take first word as option, rest as suffix
+                    optN = words[0]
                     suffix = pN[len(optN):]
 
             q_parts = q_line.split(" / ")
             if len(q_parts) == len(parts):
                 q_pN = q_parts[-1]
-                idx_opt = q_pN.rfind(optN)
-                if idx_opt != -1:
-                    suffix = q_pN[idx_opt + len(optN):]
+                # Use word-boundary search to avoid matching inside noun (e.g. "i" in "articoli", "le" in "generale")
+                m_q = re.search(r'(^|\s)' + re.escape(optN) + r'(\s|$)', q_pN)
+                if m_q:
+                    # suffix is everything after the option word in q_pN
+                    opt_end = m_q.start() + len(m_q.group(0).rstrip()) if m_q.group(0).strip() == optN else q_pN.find(optN) + len(optN)
+                    # simpler: find first occurrence with boundary
+                    idx = q_pN.find(optN)
+                    # ensure boundary
+                    while idx != -1:
+                        before_ok = idx == 0 or q_pN[idx-1].isspace()
+                        after_ok = idx + len(optN) == len(q_pN) or q_pN[idx+len(optN)].isspace()
+                        if before_ok and after_ok:
+                            suffix = q_pN[idx + len(optN):]
+                            break
+                        idx = q_pN.find(optN, idx + 1)
 
             mid_opts = []
             for p in parts[1:-1]:
