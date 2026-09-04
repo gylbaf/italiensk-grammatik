@@ -40,20 +40,74 @@ QuizApp.exercises = QuizApp.exercises || {};
       if (!opts || opts.some((o) => o.length > 8)) return false;
       return true;
     });
-    html += '<div class="fill-lines' + (isYAlign ? ' fill-lines--y-align' : '') + '">';
+    // Scheda 9 Ex02: 4 former per rad, endast ändelser/artiklar – visa som kompakt tabell
+    const isTable4 = !isYAlign && blanksLines.length === 6 && blanksLines.filter(l=>!l.isHelp).every(l=>{
+      const blanks = l.segments.filter(s=>s.t==='blank').length;
+      return blanks===0 || blanks>=6;
+    });
+    const extraClass = isYAlign ? ' fill-lines--y-align' : isTable4 ? ' fill-lines--table-4' : '';
+    if (extraClass.includes('table-4')) {
+      html += '<div class="fill-lines' + extraClass + '"><table class="table-4"><thead><tr><th>maschile singolare</th><th>femminile singolare</th><th>maschile plurale</th><th>femminile plurale</th></tr></thead><tbody>';
+    } else {
+      html += '<div class="fill-lines' + extraClass + '">';
+    }
     blanksLines.forEach((line, li) => {
       if (wordBank && wordBank.length && line.segments.length === 1 && line.segments[0].t === "text" && line.segments[0].v.includes("•")) {
         return;
       }
       const isHelp = !!line.isHelp;
-      html += '<div class="fill-line' + (isHelp ? ' fill-line--help' : '') + '">';
+      // Scheda 9 Ex02: 4 former per rad – riktig tabell
+      if (extraClass.includes('table-4') && !isHelp) {
+        const cells = [];
+        let cur = [];
+        line.segments.forEach((seg) => {
+          if (seg.t === "text" && /\s[—–-]\s/.test(seg.v)) {
+            const parts = seg.v.split(/\s+[—–-]\s+/);
+            for (let pi = 0; pi < parts.length; pi++) {
+              if (parts[pi]) cur.push({ t: "text", v: parts[pi] });
+              if (pi < parts.length - 1) {
+                cells.push(cur);
+                cur = [];
+              }
+            }
+          } else if (seg.t === "text" && (seg.v.trim() === "—" || seg.v.trim() === "–" || seg.v.trim() === "-")) {
+            cells.push(cur);
+            cur = [];
+          } else {
+            cur.push(seg);
+          }
+        });
+        cells.push(cur);
+        html += '<tr>';
+        cells.forEach((cellSegs) => {
+          html += '<td class="table-cell">';
+          cellSegs.forEach((seg) => {
+            if (seg.t === "text") {
+              html += `<span>${escapeHtml(seg.v)}</span>`;
+            } else if (seg.t === "blank") {
+              const expectedLen = (seg.answers && seg.answers[0]) ? seg.answers[0].length : ((line.answers && line.answers[seg.i]) ? line.answers[seg.i].length : 2);
+              const inputSize = Math.max(2, Math.min(8, expectedLen + 1));
+              html += `<input type="text" class="blank-input blank-input--small" autocomplete="off" autocapitalize="off" spellcheck="false" data-line="${li}" data-blank="${seg.i}" size="${inputSize}">`;
+            }
+          });
+          html += '</td>';
+        });
+        html += '</tr>';
+        return;
+      }
+      const isLargeLine = line.segments.length === 1 && line.segments[0].t === "blank" && ((line.answers && line.answers[0] && line.answers[0].length > 35) || (line.segments[0].answers && line.segments[0].answers[0] && line.segments[0].answers[0].length > 35));
+      html += '<div class="fill-line' + (isHelp ? ' fill-line--help' : '') + (isLargeLine ? ' fill-line--large' : '') + '">';
       line.segments.forEach((seg) => {
         if (seg.t === "text") {
           html += `<span>${escapeHtml(seg.v)}</span>`;
         } else if (seg.t === "blank") {
           const expectedLen = (seg.answers && seg.answers[0]) ? seg.answers[0].length : ((line.answers && line.answers[seg.i]) ? line.answers[seg.i].length : 8);
-          const inputSize = Math.max(8, Math.min(26, expectedLen + 2));
-          html += `<input type="text" class="blank-input" autocomplete="off" autocapitalize="off" spellcheck="false" data-line="${li}" data-blank="${seg.i}" size="${inputSize}">`;
+          if (isLargeLine) {
+            html += `<textarea class="blank-input blank-textarea" autocomplete="off" autocapitalize="off" spellcheck="false" data-line="${li}" data-blank="${seg.i}" rows="2" placeholder="Skriv hela meningen här..."></textarea>`;
+          } else {
+            const inputSize = Math.max(8, Math.min(26, expectedLen + 2));
+            html += `<input type="text" class="blank-input" autocomplete="off" autocapitalize="off" spellcheck="false" data-line="${li}" data-blank="${seg.i}" size="${inputSize}">`;
+          }
         } else if (seg.t === "choice") {
           html += `<span class="choice-group" data-line="${li}" data-choice="${seg.i}" style="--choice-count:${seg.options.length}">` +
             seg.options.map((opt) =>
@@ -72,7 +126,11 @@ QuizApp.exercises = QuizApp.exercises || {};
       });
       html += "</div>";
     });
-    html += "</div>";
+    if (extraClass.includes('table-4')) {
+      html += "</tbody></table></div>";
+    } else {
+      html += "</div>";
+    }
     return html;
   }
 
@@ -178,7 +236,7 @@ QuizApp.exercises = QuizApp.exercises || {};
             total++;
             const accepted = seg.answers || (line.answers ? [line.answers[seg.i]] : []);
             const ans = accepted[0] || "";
-            const input = document.querySelector(`input[data-line="${li}"][data-blank="${seg.i}"]`);
+            const input = document.querySelector(`.blank-input[data-line="${li}"][data-blank="${seg.i}"]`);
             if (!input) return;
             if (fillCorrect) {
               input.value = ans;

@@ -74,25 +74,23 @@ Una penna e un libro nuovi
 
 ### 01 • Completa la tabella.
 
-|  | singolare | plurale |
-|---|---|---|
-| 1. | giornata faticosa | ___ |
-| 2. | bella canzone | ___ |
-| 3. | alloggio piccolo | ___ |
-| 4. | occhio azzurro | ___ |
-| 5. | stella luminosa | ___ |
-| 6. | stanza buia | ___ |
-| 7. | donna noiosa | ___ |
-| 8. | esercizio difficile | ___ |
+1. giornata faticosa – ___
+2. bella canzone – ___
+3. alloggio piccolo – ___
+4. occhio azzurro – ___
+5. stella luminosa – ___
+6. stanza buia – ___
+7. donna noiosa – ___
+8. esercizio difficile – ___
 
 ### 02 • Completa la tabella.
 
 1. il nuovo compagno — la nuova compagna — i nuovi compagni — le nuove compagne
-2. il ragazzo antipatico — ___ — ___ — ___
-3. ___ — l'insegnante severa — ___ — ___
-4. l'operaio puntuale — ___ — ___ — ___
-5. ___ — ___ — i bambini allegri — ___
-6. ___ — l'allieva intelligente — ___ — ___
+2. il ragazzo antipatico — ___ ragazz___ antipatic___ — ___ ragazz___ antipatic___ — ___ ragazz___ antipatic___
+3. ___ insegnant___ sever___ — l'insegnante severa — ___ insegnant___ sever___ — ___ insegnant___ sever___
+4. l'operaio puntuale — ___ operai___ puntual___ — ___ operai___ puntual___ — ___ operai___ puntual___
+5. ___ bambin___ allegr___ — ___ bambin___ allegr___ — i bambini allegri — ___ bambin___ allegr___
+6. ___ alliev___ intelligent___ — l'allieva intelligente — ___ alliev___ intelligent___ — ___ alliev___ intelligent___
 
 ### 03 • Completa le frasi inserendo l'aggettivo tra parentesi concordato al nome a cui si riferisce.
 

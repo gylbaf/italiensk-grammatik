@@ -312,8 +312,9 @@ def build_blanks(body: str, answer_body: str):
         return None
     q_lines = [l for l in body.split("\n") if l.strip() != ""]
     a_lines = [l for l in answer_body.split("\n") if l.strip() != ""]
-    # Interfolierade hjälprader (t.ex. "_Måltiden är serverad_") under varje fråga – q längre än a, hjälprader har 0 blanks
-    interleaved = len(q_lines) > len(a_lines) and any("_" in l or "Måltiden" in l or "Monstret" in l for l in q_lines)
+    # Interfolierade rader – q längre än a (hjälprader eller "___" på egen rad som i 9/04)
+    blank_q = sum(1 for l in q_lines if l.count("___") > 0)
+    interleaved = len(q_lines) > len(a_lines) and blank_q == len(a_lines)
     if interleaved:
         lines = []
         total_blanks = 0
@@ -321,18 +322,12 @@ def build_blanks(body: str, answer_body: str):
         for q_line in q_lines:
             n_blanks = q_line.count("___")
             if n_blanks == 0:
-                # Hjälprad (svensk översättning) – visa som liten kursiv text, förbrukar ingen facit-rad
-                # Känn igen hjälp via "_" eller svenska tecken; annars exempelrad som ska para med facit
-                is_help = q_line.strip().startswith("_") or "Måltiden" in q_line or "Monstret" in q_line or "Spetsen" in q_line or "Stolpen" in q_line or "Statyns" in q_line or "Fallet" in q_line or "Punkten" in q_line or "Brudslöjan" in q_line or "Pistolskottet" in q_line or "Banken" in q_line or "Kapitalet" in q_line or "Felet" in q_line or "Taket" in q_line or "Marken" in q_line
-                if is_help:
-                    # Ta bort markdown-italics "_" för visning men behåll som text
+                # Textrad utan lucka (prompt eller svensk hjälp) – förbrukar ingen facit-rad
+                if q_line.strip().startswith("_"):
                     clean = q_line.strip().strip("_").strip()
                     lines.append({"segments": [{"t": "text", "v": clean}], "answers": [], "isHelp": True})
-                    continue
-                # Exempelrad utan lucka men med motsvarande facit-rad – förbrukar facit
-                if a_idx < len(a_lines):
-                    a_idx += 1
-                lines.append({"segments": [{"t": "text", "v": q_line}], "answers": []})
+                else:
+                    lines.append({"segments": [{"t": "text", "v": q_line}], "answers": []})
                 continue
             if a_idx >= len(a_lines):
                 return None

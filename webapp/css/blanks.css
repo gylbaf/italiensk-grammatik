@@ -86,6 +86,73 @@
     grid-column: 2;
   }
 }
+/* Scheda 9 Ex02: 4 former per rad – riktig tabell, isolerad till denna övning */
+.fill-lines--table-4 { gap: 0; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.fill-lines--table-4 .table-4 {
+  width: 100%;
+  min-width: 780px;
+  border-collapse: collapse;
+  font-size: .96rem;
+  table-layout: fixed;
+}
+.fill-lines--table-4 .table-4 th,
+.fill-lines--table-4 .table-4 td {
+  border: 1px solid var(--border);
+  padding: .45rem .6rem;
+  text-align: left;
+  vertical-align: middle;
+}
+.fill-lines--table-4 .table-4 th {
+  background: #f4ede4;
+  font-size: .78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: var(--muted);
+  text-align: center;
+}
+
+.fill-lines--table-4 .table-4 td.table-cell {
+  background: #fffdf9;
+  white-space: nowrap;
+}
+.fill-lines--table-4 .table-4 tr:first-child td.table-cell {
+  background: #f4ede4;
+  border-style: dashed;
+  font-weight: 600;
+}
+.fill-lines--table-4 .blank-input--small {
+  min-width: 1.6em;
+  width: 1.9em;
+  max-width: 2.2em;
+  text-align: center;
+  font-size: .82rem;
+  padding: .1rem .15rem;
+  margin: 0 .04rem;
+}
+.fill-line--large { display: block; margin: .1rem 0 .9rem 0; }
+.blank-textarea {
+  width: 100%;
+  min-height: 3.2em;
+  resize: vertical;
+  border: 1.5px solid var(--border);
+  border-bottom: 2px solid var(--accent);
+  border-radius: 8px;
+  padding: .55rem .7rem;
+  font-size: 1rem;
+  font-family: inherit;
+  background: #fffdf9;
+  line-height: 1.5;
+  display: block;
+  margin-top: .35rem;
+}
+.blank-textarea:focus { outline: none; border-bottom-color: var(--accent-dark); background: #fff; }
+.blank-textarea.correct { background: #eaf6ea; border-bottom-color: var(--green); }
+.blank-textarea.wrong { background: #fbeaea; border-bottom-color: var(--red); }
+@media (max-width: 640px) {
+  .fill-lines--table-4 .table-4 { font-size: .9rem; }
+  .fill-lines--table-4 .table-4 th, .fill-lines--table-4 .table-4 td { padding: .35rem .45rem; }
+}
 .blank-input {
   border: 1px solid var(--border);
   border-bottom: 2px solid var(--accent);

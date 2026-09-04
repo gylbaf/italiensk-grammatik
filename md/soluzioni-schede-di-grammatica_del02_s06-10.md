@@ -159,11 +159,11 @@
 
 ### 02 • Completa la tabella.
 1. il nuovo compagno – la nuova compagna – i nuovi compagni – le nuove compagne
-2. il ragazzo antipatico – la ragazza antipatica – i ragazzi antipatici – le ragazze antipatiche
-3. l'insegnante severo – l'insegnante severa – gli insegnanti severi – le insegnanti severe
-4. l'operaio puntuale – l'operaia puntuale – gli operai puntuali – le operaie puntuali
-5. il bambino allegro – la bambina allegra – i bambini allegri – le bambine allegre
-6. l'allievo intelligente – l'allieva intelligente – gli allievi intelligenti – le allieve intelligenti
+2. il ragazzo antipatico – **la** ragazz**a** antipatic**a** – **i** ragazz**i** antipatic**i** – **le** ragazz**e** antipatic**e**
+3. **l'** insegnant**e** sever**o** – l'insegnante severa – **gli** insegnant**i** sever**i** – **le** insegnant**i** sever**e**
+4. l'operaio puntuale – **l'** operai**a** puntual**e** – **gli** operai**i** puntual**i** – **le** operai**e** puntual**i**
+5. **il** bambin**o** allegr**o** – **la** bambin**a** allegr**a** – i bambini allegri – **le** bambin**e** allegr**e**
+6. **l'** alliev**o** intelligent**e** – l'allieva intelligente – **gli** alliev**i** intelligent**i** – **le** alliev**e** intelligent**i**
 
 ### 03 • Completa le frasi inserendo l'aggettivo tra parentesi concordato al nome a cui si riferisce.
 1. Sul balcone ho molti vasi **pieni** (pieno) di fiori **rossi** (rosso).

@@ -9239,24 +9239,749 @@ window.QUIZ_DATA = {
     {
      "num": "01",
      "instruction": "Completa la tabella.",
-     "body": "|  | singolare | plurale |\n|---|---|---|\n| 1. | giornata faticosa | ___ |\n| 2. | bella canzone | ___ |\n| 3. | alloggio piccolo | ___ |\n| 4. | occhio azzurro | ___ |\n| 5. | stella luminosa | ___ |\n| 6. | stanza buia | ___ |\n| 7. | donna noiosa | ___ |\n| 8. | esercizio difficile | ___ |",
+     "body": "1. giornata faticosa – ___\n2. bella canzone – ___\n3. alloggio piccolo – ___\n4. occhio azzurro – ___\n5. stella luminosa – ___\n6. stanza buia – ___\n7. donna noiosa – ___\n8. esercizio difficile – ___",
      "answerBody": "1. giornata faticosa – giornate faticose\n2. bella canzone – belle canzoni\n3. alloggio piccolo – alloggi piccoli\n4. occhio azzurro – occhi azzurri\n5. stella luminosa – stelle luminose\n6. stanza buia – stanze buie\n7. donna noiosa – donne noiose\n8. esercizio difficile – esercizi difficili",
      "matching": null,
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. giornata faticosa – "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "giornate faticose"
+         ]
+        }
+       ],
+       "answers": [
+        "giornate faticose"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. bella canzone – "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "belle canzoni"
+         ]
+        }
+       ],
+       "answers": [
+        "belle canzoni"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. alloggio piccolo – "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "alloggi piccoli"
+         ]
+        }
+       ],
+       "answers": [
+        "alloggi piccoli"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. occhio azzurro – "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "occhi azzurri"
+         ]
+        }
+       ],
+       "answers": [
+        "occhi azzurri"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. stella luminosa – "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "stelle luminose"
+         ]
+        }
+       ],
+       "answers": [
+        "stelle luminose"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. stanza buia – "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "stanze buie"
+         ]
+        }
+       ],
+       "answers": [
+        "stanze buie"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "7. donna noiosa – "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "donne noiose"
+         ]
+        }
+       ],
+       "answers": [
+        "donne noiose"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "8. esercizio difficile – "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "esercizi difficili"
+         ]
+        }
+       ],
+       "answers": [
+        "esercizi difficili"
+       ]
+      }
+     ]
     },
     {
      "num": "02",
      "instruction": "Completa la tabella.",
-     "body": "1. il nuovo compagno — la nuova compagna — i nuovi compagni — le nuove compagne\n2. il ragazzo antipatico — ___ — ___ — ___\n3. ___ — l'insegnante severa — ___ — ___\n4. l'operaio puntuale — ___ — ___ — ___\n5. ___ — ___ — i bambini allegri — ___\n6. ___ — l'allieva intelligente — ___ — ___",
-     "answerBody": "1. il nuovo compagno – la nuova compagna – i nuovi compagni – le nuove compagne\n2. il ragazzo antipatico – la ragazza antipatica – i ragazzi antipatici – le ragazze antipatiche\n3. l'insegnante severo – l'insegnante severa – gli insegnanti severi – le insegnanti severe\n4. l'operaio puntuale – l'operaia puntuale – gli operai puntuali – le operaie puntuali\n5. il bambino allegro – la bambina allegra – i bambini allegri – le bambine allegre\n6. l'allievo intelligente – l'allieva intelligente – gli allievi intelligenti – le allieve intelligenti",
+     "body": "1. il nuovo compagno — la nuova compagna — i nuovi compagni — le nuove compagne\n2. il ragazzo antipatico — ___ ragazz___ antipatic___ — ___ ragazz___ antipatic___ — ___ ragazz___ antipatic___\n3. ___ insegnant___ sever___ — l'insegnante severa — ___ insegnant___ sever___ — ___ insegnant___ sever___\n4. l'operaio puntuale — ___ operai___ puntual___ — ___ operai___ puntual___ — ___ operai___ puntual___\n5. ___ bambin___ allegr___ — ___ bambin___ allegr___ — i bambini allegri — ___ bambin___ allegr___\n6. ___ alliev___ intelligent___ — l'allieva intelligente — ___ alliev___ intelligent___ — ___ alliev___ intelligent___",
+     "answerBody": "1. il nuovo compagno – la nuova compagna – i nuovi compagni – le nuove compagne\n2. il ragazzo antipatico – **la** ragazz**a** antipatic**a** – **i** ragazz**i** antipatic**i** – **le** ragazz**e** antipatic**e**\n3. **l'** insegnant**e** sever**o** – l'insegnante severa – **gli** insegnant**i** sever**i** – **le** insegnant**i** sever**e**\n4. l'operaio puntuale – **l'** operai**a** puntual**e** – **gli** operai**i** puntual**i** – **le** operai**e** puntual**i**\n5. **il** bambin**o** allegr**o** – **la** bambin**a** allegr**a** – i bambini allegri – **le** bambin**e** allegr**e**\n6. **l'** alliev**o** intelligent**e** – l'allieva intelligente – **gli** alliev**i** intelligent**i** – **le** alliev**e** intelligent**i**",
      "matching": null,
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. il nuovo compagno — la nuova compagna — i nuovi compagni — le nuove compagne"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. il ragazzo antipatico — "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " ragazz"
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "a"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " antipatic"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "a"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " ragazz"
+        },
+        {
+         "t": "blank",
+         "i": 4,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " antipatic"
+        },
+        {
+         "t": "blank",
+         "i": 5,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 6,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " ragazz"
+        },
+        {
+         "t": "blank",
+         "i": 7,
+         "answers": [
+          "e"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " antipatic"
+        },
+        {
+         "t": "blank",
+         "i": 8,
+         "answers": [
+          "e"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "a",
+        "a",
+        "i",
+        "i",
+        "i",
+        "le",
+        "e",
+        "e"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " insegnant"
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "e"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " sever"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "o"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — l'insegnante severa — "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "gli"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " insegnant"
+        },
+        {
+         "t": "blank",
+         "i": 4,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " sever"
+        },
+        {
+         "t": "blank",
+         "i": 5,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 6,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " insegnant"
+        },
+        {
+         "t": "blank",
+         "i": 7,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " sever"
+        },
+        {
+         "t": "blank",
+         "i": 8,
+         "answers": [
+          "e"
+         ]
+        }
+       ],
+       "answers": [
+        "l'",
+        "e",
+        "o",
+        "gli",
+        "i",
+        "i",
+        "le",
+        "i",
+        "e"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. l'operaio puntuale — "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " operai"
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "a"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " puntual"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "e"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "gli"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " operai"
+        },
+        {
+         "t": "blank",
+         "i": 4,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " puntual"
+        },
+        {
+         "t": "blank",
+         "i": 5,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 6,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " operai"
+        },
+        {
+         "t": "blank",
+         "i": 7,
+         "answers": [
+          "e"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " puntual"
+        },
+        {
+         "t": "blank",
+         "i": 8,
+         "answers": [
+          "i"
+         ]
+        }
+       ],
+       "answers": [
+        "l'",
+        "a",
+        "e",
+        "gli",
+        "i",
+        "i",
+        "le",
+        "e",
+        "i"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " bambin"
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "o"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " allegr"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "o"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " bambin"
+        },
+        {
+         "t": "blank",
+         "i": 4,
+         "answers": [
+          "a"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " allegr"
+        },
+        {
+         "t": "blank",
+         "i": 5,
+         "answers": [
+          "a"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — i bambini allegri — "
+        },
+        {
+         "t": "blank",
+         "i": 6,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " bambin"
+        },
+        {
+         "t": "blank",
+         "i": 7,
+         "answers": [
+          "e"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " allegr"
+        },
+        {
+         "t": "blank",
+         "i": 8,
+         "answers": [
+          "e"
+         ]
+        }
+       ],
+       "answers": [
+        "il",
+        "o",
+        "o",
+        "la",
+        "a",
+        "a",
+        "le",
+        "e",
+        "e"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " alliev"
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "o"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " intelligent"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "e"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — l'allieva intelligente — "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "gli"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " alliev"
+        },
+        {
+         "t": "blank",
+         "i": 4,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " intelligent"
+        },
+        {
+         "t": "blank",
+         "i": 5,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 6,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " alliev"
+        },
+        {
+         "t": "blank",
+         "i": 7,
+         "answers": [
+          "e"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " intelligent"
+        },
+        {
+         "t": "blank",
+         "i": 8,
+         "answers": [
+          "i"
+         ]
+        }
+       ],
+       "answers": [
+        "l'",
+        "o",
+        "e",
+        "gli",
+        "i",
+        "i",
+        "le",
+        "e",
+        "i"
+       ]
+      }
+     ]
     },
     {
      "num": "03",
@@ -9413,7 +10138,123 @@ window.QUIZ_DATA = {
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. Mio cugino è un ragazzo intelligente, ma troppo vanitoso."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Mia cugina è una ragazza intelligente, ma troppo vanitosa."
+         ]
+        }
+       ],
+       "answers": [
+        "Mia cugina è una ragazza intelligente, ma troppo vanitosa."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Il gatto di Bruno è piccolo, nero e molto affettuoso."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "La gatta di Bruna è piccola, nera e molto affettuosa."
+         ]
+        }
+       ],
+       "answers": [
+        "La gatta di Bruna è piccola, nera e molto affettuosa."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Piero e Giovanni sono i compagni più simpatici e divertenti della classe."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Piera e Giovanna sono le compagne più simpatiche e divertenti della classe."
+         ]
+        }
+       ],
+       "answers": [
+        "Piera e Giovanna sono le compagne più simpatiche e divertenti della classe."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Il fratello di Paolo fa il cassiere in banca."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "La sorella di Paola fa la cassiera in banca."
+         ]
+        }
+       ],
+       "answers": [
+        "La sorella di Paola fa la cassiera in banca."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. Il dottor Pezzano è un pediatra molto competente e preparato."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "La dottoressa Pezzano è una pediatra molto competente e preparata."
+         ]
+        }
+       ],
+       "answers": [
+        "La dottoressa Pezzano è una pediatra molto competente e preparata."
+       ]
+      }
+     ]
     }
    ]
   },
@@ -10699,7 +11540,171 @@ window.QUIZ_DATA = {
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "Facciamo una festa a scuola…"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. Chi porta la coca-cola e l'aranciata? "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "La"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " porta Youssef."
+        }
+       ],
+       "answers": [
+        "La"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Chi porta i bicchieri? "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Li"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " porta Vittoria."
+        }
+       ],
+       "answers": [
+        "Li"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Chi porta i tovaglioli di carta? "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Li"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " porta Cristina."
+        }
+       ],
+       "answers": [
+        "Li"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Chi porta le patatine? "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " porta Florina."
+        }
+       ],
+       "answers": [
+        "Le"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. Chi porta la torta? "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "La"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " porta Daniela."
+        }
+       ],
+       "answers": [
+        "La"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. Chi porta le pizzette e le frittelle? "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " porta Rafael."
+        }
+       ],
+       "answers": [
+        "Le"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "7. Chi porta il gelato? "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Lo"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " porta Karen."
+        }
+       ],
+       "answers": [
+        "Lo"
+       ]
+      }
+     ]
     },
     {
      "num": "02",
@@ -11903,7 +12908,187 @@ window.QUIZ_DATA = {
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. Chi porta le fotocopie al preside?"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Gliele"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " porto io mentre vado in segreteria."
+        }
+       ],
+       "answers": [
+        "Gliele"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Chi restituisce i soldi agli zii?"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Glieli"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " restituiremo noi domenica."
+        }
+       ],
+       "answers": [
+        "Glieli"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Chi scrive un biglietto di auguri a Marta?"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Glielo"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " scrivo io volentieri."
+        }
+       ],
+       "answers": [
+        "Glielo"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Chi prepara la merenda ai bambini?"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Gliela"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " prepara mia mamma."
+        }
+       ],
+       "answers": [
+        "Gliela"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. Mi impresti il libro di geografia? – Oggi mi serve; "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Te lo"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " impresterò domani."
+        }
+       ],
+       "answers": [
+        "Te lo"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. Ho sete, berrei una bibita. – Andiamo al bar, "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "te la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " offro io."
+        }
+       ],
+       "answers": [
+        "te la"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "7. Quando mi regali un videogioco nuovo?"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Te lo"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " regalerò per il tuo compleanno."
+        }
+       ],
+       "answers": [
+        "Te lo"
+       ]
+      }
+     ]
     },
     {
      "num": "02",
@@ -11914,7 +13099,123 @@ window.QUIZ_DATA = {
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. Vuoi conoscere Paola? Presenterò Paola a te stasera."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "**Te la presenterò stasera.**"
+         ]
+        }
+       ],
+       "answers": [
+        "**Te la presenterò stasera.**"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Ho finito il problema. Posso far vedere il problema alla professoressa?"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "**Posso farglielo vedere?**"
+         ]
+        }
+       ],
+       "answers": [
+        "**Posso farglielo vedere?**"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Mio fratello aveva dei francobolli e ha dato a me cinque francobolli."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "a me cinque francobolli"
+         ]
+        }
+       ],
+       "answers": [
+        "a me cinque francobolli"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Se non ti piace come si comporta, dì questo a lui."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "questo a lui"
+         ]
+        }
+       ],
+       "answers": [
+        "questo a lui"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. Vittoria mi ha imprestato 5 euro. Devo ricordarmi di restituire 5 euro a lei."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "5 euro a lei"
+         ]
+        }
+       ],
+       "answers": [
+        "5 euro a lei"
+       ]
+      }
+     ]
     },
     {
      "num": "03",
@@ -11925,7 +13226,123 @@ window.QUIZ_DATA = {
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. Hai troppe prugne? Portale a noi."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Portacele."
+         ]
+        }
+       ],
+       "answers": [
+        "Portacele."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Non ti servono quei giornali? Portali a noi."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Portaceli."
+         ]
+        }
+       ],
+       "answers": [
+        "Portaceli."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Ho fatto il gelato alla nocciola. Lo farò assaggiare a te."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Te lo farò assaggiare."
+         ]
+        }
+       ],
+       "answers": [
+        "Te lo farò assaggiare."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Il direttore ha l'abitudine di cambiare gli orari senza dirlo a noi."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "senza dircelo."
+         ]
+        }
+       ],
+       "answers": [
+        "senza dircelo."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. Hai detto al macellaio che la carne non era buona? – No, mi sono dimenticato di questo."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "No, me ne sono dimenticato."
+         ]
+        }
+       ],
+       "answers": [
+        "No, me ne sono dimenticato."
+       ]
+      }
+     ]
     },
     {
      "num": "04",
@@ -12061,7 +13478,146 @@ window.QUIZ_DATA = {
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. Ho venduto il motorino. Il motorino era vecchio."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Ho venduto il motorino che era vecchio."
+         ]
+        }
+       ],
+       "answers": [
+        "Ho venduto il motorino che era vecchio."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Ho messo le calze nel cassetto. Il cassetto è già pieno."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Ho messo le calze nel cassetto che è già pieno."
+         ]
+        }
+       ],
+       "answers": [
+        "Ho messo le calze nel cassetto che è già pieno."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Luisa è andata da un'amica. L'amica è ucraina."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Luisa è andata da un'amica che è ucraina."
+         ]
+        }
+       ],
+       "answers": [
+        "Luisa è andata da un'amica che è ucraina."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Ho telefonato a una zia. La zia abita nel Veneto."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Ho telefonato a una zia che abita nel Veneto."
+         ]
+        }
+       ],
+       "answers": [
+        "Ho telefonato a una zia che abita nel Veneto."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. Ho consultato un sito Internet. Il sito è poco interessante."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Ho consultato un sito internet che è poco interessante."
+         ]
+        }
+       ],
+       "answers": [
+        "Ho consultato un sito internet che è poco interessante."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. Non trovo più i documenti. I documenti erano sul tavolo."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Non trovo più i documenti che erano sul tavolo."
+         ]
+        }
+       ],
+       "answers": [
+        "Non trovo più i documenti che erano sul tavolo."
+       ]
+      }
+     ]
     },
     {
      "num": "03",
@@ -12380,7 +13936,123 @@ window.QUIZ_DATA = {
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. La sua sorella si chiama Kristin."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Sua sorella si chiama Kristin."
+         ]
+        }
+       ],
+       "answers": [
+        "Sua sorella si chiama Kristin."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Suoi fratelli non sono ancora arrivati."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "I suoi fratelli non sono ancora arrivati."
+         ]
+        }
+       ],
+       "answers": [
+        "I suoi fratelli non sono ancora arrivati."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Mio cuginetto fa sempre i capricci."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Il mio cuginetto fa sempre i capricci."
+         ]
+        }
+       ],
+       "answers": [
+        "Il mio cuginetto fa sempre i capricci."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Suo vestito è tutto macchiato."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Il suo vestito è tutto macchiato."
+         ]
+        }
+       ],
+       "answers": [
+        "Il suo vestito è tutto macchiato."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. Mamma, hai visto mie scarpe nuove?"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Mamma, hai visto le mie scarpe nuove?"
+         ]
+        }
+       ],
+       "answers": [
+        "Mamma, hai visto le mie scarpe nuove?"
+       ]
+      }
+     ]
     },
     {
      "num": "04",
@@ -12828,7 +14500,201 @@ window.QUIZ_DATA = {
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. Dimmi che cosa vuoi."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "Che cosa vuoi?"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Che cosa vuoi?"
+         ]
+        }
+       ],
+       "answers": [
+        "Che cosa vuoi?"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Non riesco a capire che cosa stai facendo."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Che cosa stai facendo?"
+         ]
+        }
+       ],
+       "answers": [
+        "Che cosa stai facendo?"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Vorrei sapere quanto costano questi pantaloni."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Quanto costano questi pantaloni?"
+         ]
+        }
+       ],
+       "answers": [
+        "Quanto costano questi pantaloni?"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Dimmi che ore sono."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Che ore sono?"
+         ]
+        }
+       ],
+       "answers": [
+        "Che ore sono?"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. Ti ho chiesto a chi stavi telefonando."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "A chi stavi telefonando?"
+         ]
+        }
+       ],
+       "answers": [
+        "A chi stavi telefonando?"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. Chissà quanti amici ha Beppe."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Quanti amici ha Beppe?"
+         ]
+        }
+       ],
+       "answers": [
+        "Quanti amici ha Beppe?"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "7. Fammi sapere a che ora arrivi."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "A che ora arrivi?"
+         ]
+        }
+       ],
+       "answers": [
+        "A che ora arrivi?"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "8. Non so quante uova devo mettere nella crema."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Quante uova devo mettere nella crema?"
+         ]
+        }
+       ],
+       "answers": [
+        "Quante uova devo mettere nella crema?"
+       ]
+      }
+     ]
     },
     {
      "num": "04",
@@ -12839,7 +14705,197 @@ window.QUIZ_DATA = {
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Piove e fa freddo."
+         ]
+        }
+       ],
+       "answers": [
+        "Piove e fa freddo."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "Piove e fa freddo."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Spaghetti al pomodoro."
+         ]
+        }
+       ],
+       "answers": [
+        "Spaghetti al pomodoro."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "Spaghetti al pomodoro."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Due euro al chilo."
+         ]
+        }
+       ],
+       "answers": [
+        "Due euro al chilo."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "Due euro al chilo."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Credo che verrà alle nove."
+         ]
+        }
+       ],
+       "answers": [
+        "Credo che verrà alle nove."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "Credo che verrà alle nove."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Mi piacerebbe fare la parrucchiera."
+         ]
+        }
+       ],
+       "answers": [
+        "Mi piacerebbe fare la parrucchiera."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "Mi piacerebbe fare la parrucchiera."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Quella rosa a righe blu."
+         ]
+        }
+       ],
+       "answers": [
+        "Quella rosa a righe blu."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "Quella rosa a righe blu."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "7. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Le otto meno venti."
+         ]
+        }
+       ],
+       "answers": [
+        "Le otto meno venti."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "Le otto meno venti."
+        }
+       ],
+       "answers": []
+      }
+     ]
     }
    ]
   },
@@ -14039,7 +16095,169 @@ window.QUIZ_DATA = {
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. La mamma esce di casa al mattino presto."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "La mamma è uscita di casa al mattino presto."
+         ]
+        }
+       ],
+       "answers": [
+        "La mamma è uscita di casa al mattino presto."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Accompagna me a scuola."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Mi ha accompagnato a scuola."
+         ]
+        }
+       ],
+       "answers": [
+        "Mi ha accompagnato a scuola."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Porta Angela alla scuola materna."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Ha portato Angela alla scuola materna."
+         ]
+        }
+       ],
+       "answers": [
+        "Ha portato Angela alla scuola materna."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Va a fare la spesa al mercato."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "È andata a fare (la spesa al mercato)."
+         ]
+        }
+       ],
+       "answers": [
+        "È andata a fare (la spesa al mercato)."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. Torna a casa verso le dieci."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "È tornata a casa."
+         ]
+        }
+       ],
+       "answers": [
+        "È tornata a casa."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. Fa le pulizie, lava e stira."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Ha fatto le pulizie, ha lavato e ha stirato."
+         ]
+        }
+       ],
+       "answers": [
+        "Ha fatto le pulizie, ha lavato e ha stirato."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "7. Prepara il pranzo."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Ha preparato il pranzo."
+         ]
+        }
+       ],
+       "answers": [
+        "Ha preparato il pranzo."
+       ]
+      }
+     ]
     },
     {
      "num": "03",
@@ -14800,7 +17018,123 @@ window.QUIZ_DATA = {
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. Il re Vittorio Emanuele II è vissuto a Torino e a Roma."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "visse"
+         ]
+        }
+       ],
+       "answers": [
+        "visse"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Dante ha scritto la Divina Commedia."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "scrisse"
+         ]
+        }
+       ],
+       "answers": [
+        "scrisse"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Il giorno di Ferragosto di vent'anni fa è morta mia zia."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "morì"
+         ]
+        }
+       ],
+       "answers": [
+        "morì"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Napoleone è nato nel secolo diciottesimo."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "nacque"
+         ]
+        }
+       ],
+       "answers": [
+        "nacque"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. La signora Cheng è venuta ad abitare in Italia quasi trent'anni fa."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "venne"
+         ]
+        }
+       ],
+       "answers": [
+        "venne"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -16385,7 +18719,143 @@ window.QUIZ_DATA = {
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. Jennifer, cerca di arrivare puntuale!"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   Signorina, "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "cerchi di arrivare puntuale!"
+         ]
+        }
+       ],
+       "answers": [
+        "cerchi di arrivare puntuale!"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Mamma, rispondi al telefono!"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   Signora, "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "risponda al telefono!"
+         ]
+        }
+       ],
+       "answers": [
+        "risponda al telefono!"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Luca, telefona all'avvocato!"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   Dottor Giovanardi, "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "telefoni all'avvocato!"
+         ]
+        }
+       ],
+       "answers": [
+        "telefoni all'avvocato!"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Carlotta, riportami il libro!"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   Signorina Buzzi, "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "mi riporti il libro!"
+         ]
+        }
+       ],
+       "answers": [
+        "mi riporti il libro!"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. Giovanni, compila questo modulo!"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   Signor Golzio, "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "compili questo modulo!"
+         ]
+        }
+       ],
+       "answers": [
+        "compili questo modulo!"
+       ]
+      }
+     ]
     },
     {
      "num": "05",
@@ -16616,7 +19086,143 @@ window.QUIZ_DATA = {
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. Dato che pago con la carta di credito, tengo pochi soldi nel portafoglio."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "**Pagando** …"
+         ]
+        }
+       ],
+       "answers": [
+        "**Pagando** …"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Mentre scendeva le scale, Paola è scivolata e si è fatta male."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "**Scendendo** …"
+         ]
+        }
+       ],
+       "answers": [
+        "**Scendendo** …"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. La poveretta è stata investita dalla macchina, mentre attraversava la strada sulle strisce pedonali."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "**attraversando** …"
+         ]
+        }
+       ],
+       "answers": [
+        "**attraversando** …"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Mentre pensava a lei, Peter era felice."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "**Pensando** …"
+         ]
+        }
+       ],
+       "answers": [
+        "**Pensando** …"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. Quando mi lavo i capelli, mi accorgo che ne perdo molti."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "**Lavandomi** …"
+         ]
+        }
+       ],
+       "answers": [
+        "**Lavandomi** …"
+       ]
+      }
+     ]
     },
     {
      "num": "02",
@@ -17006,7 +19612,7 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "Io penso / io studio fino alle sei."
+         "v": "Modello – Io penso / io studio fino alle sei. → **Io penso di studiare fino alle sei.**"
         }
        ],
        "answers": []
@@ -17355,6 +19961,15 @@ window.QUIZ_DATA = {
       "sempre"
      ],
      "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "appena • domani • tardi • mai • poi • ora • subito • oggi • presto • qualche volta • mai • spesso • sempre"
+        }
+       ],
+       "answers": []
+      },
       {
        "segments": [
         {
@@ -19346,6 +21961,15 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
+         "v": "di • alla • salvo • intorno al • a • del • di • secondo • di • nella • per • a • di fronte alla • di • alle"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
          "v": "1. Una piccola folla di curiosi si è radunata "
         },
         {
@@ -20354,7 +22978,143 @@ window.QUIZ_DATA = {
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. studiare / prendere un bel voto"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Se studi, prendi un bel voto."
+         ]
+        }
+       ],
+       "answers": [
+        "Se studi, prendi un bel voto."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. mangiare troppo / fare indigestione"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Se mangi troppo, fai indigestione."
+         ]
+        }
+       ],
+       "answers": [
+        "Se mangi troppo, fai indigestione."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. nevicare / giocare a palle di neve"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Se nevica, giochiamo a palle di neve."
+         ]
+        }
+       ],
+       "answers": [
+        "Se nevica, giochiamo a palle di neve."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. fare bel tempo / andare a passeggio"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Se fa bel tempo, andiamo a passeggio."
+         ]
+        }
+       ],
+       "answers": [
+        "Se fa bel tempo, andiamo a passeggio."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. perdere tempo / non finire il lavoro"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Se perdo tempo, non finisco il lavoro."
+         ]
+        }
+       ],
+       "answers": [
+        "Se perdo tempo, non finisco il lavoro."
+       ]
+      }
+     ]
     },
     {
      "num": "02",
@@ -20365,7 +23125,143 @@ window.QUIZ_DATA = {
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. avere tanti soldi / fare il giro del mondo"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Se avessi tanti soldi, farei il giro del mondo."
+         ]
+        }
+       ],
+       "answers": [
+        "Se avessi tanti soldi, farei il giro del mondo."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. essere un calciatore / guadagnare molto"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Se fossi un calciatore, guadagnerei molto."
+         ]
+        }
+       ],
+       "answers": [
+        "Se fossi un calciatore, guadagnerei molto."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. abitare in Francia / imparare il francese"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Se abitassi in Francia, imparerei il francese."
+         ]
+        }
+       ],
+       "answers": [
+        "Se abitassi in Francia, imparerei il francese."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. ammalarsi / chiamare il medico"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Se mi ammalassi, chiamerei il medico."
+         ]
+        }
+       ],
+       "answers": [
+        "Se mi ammalassi, chiamerei il medico."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. potere / invitare tutti al ristorante"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Se potessi, inviterei tutti al ristorante."
+         ]
+        }
+       ],
+       "answers": [
+        "Se potessi, inviterei tutti al ristorante."
+       ]
+      }
+     ]
     },
     {
      "num": "03",
@@ -20376,7 +23272,143 @@ window.QUIZ_DATA = {
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. andare a casa degli zii / vedere Adriana"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Se fossi andato a casa degli zii, avresti visto Adriana."
+         ]
+        }
+       ],
+       "answers": [
+        "Se fossi andato a casa degli zii, avresti visto Adriana."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. esserci il sole / abbronzarsi"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Se ci fosse stato il sole, ci saremmo abbronzati."
+         ]
+        }
+       ],
+       "answers": [
+        "Se ci fosse stato il sole, ci saremmo abbronzati."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. essere promosso / essere più contento"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Se fosse stato promosso, sarebbe stato più contento."
+         ]
+        }
+       ],
+       "answers": [
+        "Se fosse stato promosso, sarebbe stato più contento."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. aver mangiato di meno / digerire"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Se avessi mangiato di meno, avresti digerito."
+         ]
+        }
+       ],
+       "answers": [
+        "Se avessi mangiato di meno, avresti digerito."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. non comportarsi male / non essere punito dall'insegnante"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Se non ti fossi comportato male, non saresti stato punito dall'insegnante."
+         ]
+        }
+       ],
+       "answers": [
+        "Se non ti fossi comportato male, non saresti stato punito dall'insegnante."
+       ]
+      }
+     ]
     },
     {
      "num": "04",
@@ -20387,7 +23419,143 @@ window.QUIZ_DATA = {
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. Se studierei di più, prenderei dei bei voti."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Se studiassi di più, prenderei dei bei voti."
+         ]
+        }
+       ],
+       "answers": [
+        "Se studiassi di più, prenderei dei bei voti."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Se studiavo, stavo promosso."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Se avessi studiato, sarei stato promosso."
+         ]
+        }
+       ],
+       "answers": [
+        "Se avessi studiato, sarei stato promosso."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Se mi telefonavi, venivo a prenderti."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Se mi avessi telefonato, sarei venuto a prenderti."
+         ]
+        }
+       ],
+       "answers": [
+        "Se mi avessi telefonato, sarei venuto a prenderti."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Se avrò i soldi, mi comprerei gli occhiali da sole come Elsi."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Se avessi i soldi, mi comprerei gli occhiali da sole …"
+         ]
+        }
+       ],
+       "answers": [
+        "Se avessi i soldi, mi comprerei gli occhiali da sole …"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. Se papà lo lasciasse, andasse a casa."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Se papà lo lasciasse, andrebbe a casa."
+         ]
+        }
+       ],
+       "answers": [
+        "Se papà lo lasciasse, andrebbe a casa."
+       ]
+      }
+     ]
     },
     {
      "num": "05",
