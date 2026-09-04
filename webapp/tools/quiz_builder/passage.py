@@ -60,6 +60,15 @@ def build_passage_marking(body: str, answer_body: str, instruction: str = ""):
             "mode": "gender"
         }
 
+    # Only for Scheda 4 Ex 01 – guard on instruction to avoid false positives
+    # (e.g. Scheda 1 Ex 01 contains "strada" but is a blanks exercise, not passage)
+    instr_l = (instruction or "").lower()
+    body_l = (body or "").lower()
+    if "sottolinea" not in instr_l and "nomi comuni" not in instr_l and "nomi propri" not in instr_l and "brano" not in instr_l:
+        # also check body for passage-specific markers
+        if "sindaco" not in body_l and "drezzo" not in body_l:
+            return None
+
     common_nouns = {
         "sindaco", "guida", "auto", "concittadini", "trasporto", "comune",
         "abitanti", "confine", "mesi", "autobus", "cantiere", "strada",

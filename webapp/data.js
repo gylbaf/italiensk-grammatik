@@ -12,494 +12,495 @@ window.QUIZ_DATA = {
      "body": "1. ___ pesce\n2. ___ albero\n3. ___ occhiali\n4. ___ vita\n5. ___ articolo\n6. ___ capelli\n7. ___ pioggia\n8. ___ spinaci\n9. ___ spazzolino\n10. ___ olio\n11. ___ incidente\n12. ___ ladri\n13. ___ fiore\n14. ___ strada\n15. ___ cugino\n16. ___ scienziato\n17. ___ matite\n18. ___ vetro\n19. ___ zucchino\n20. ___ dentista\n21. ___ religione\n22. ___ incrocio",
      "answerBody": "1. **il** pesce\n2. **l'** albero\n3. **gli** occhiali\n4. **la** vita\n5. **l'** articolo\n6. **i** capelli\n7. **la** pioggia\n8. **gli** spinaci\n9. **lo** spazzolino\n10. **l'** olio\n11. **l'** incidente\n12. **i** ladri\n13. **il** fiore\n14. **la** strada\n15. **il** cugino\n16. **lo** scienziato\n17. **le** matite\n18. **il** vetro\n19. **lo** zucchino\n20. **il** dentista\n21. **la** religione\n22. **l'** incrocio",
      "matching": null,
-     "passage": {
-      "tokens": [
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 0,
-        "v": "pesce",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 1,
-        "v": "albero",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 2,
-        "v": "occhiali",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 3,
-        "v": "vita",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 4,
-        "v": "articolo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 5,
-        "v": "capelli",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 6,
-        "v": "pioggia",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 7,
-        "v": "spinaci",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 8,
-        "v": "spazzolino",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 9,
-        "v": "olio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 10,
-        "v": "incidente",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 11,
-        "v": "ladri",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 12,
-        "v": "fiore",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 13,
-        "v": "strada",
-        "role": "common"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 14,
-        "v": "cugino",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 15,
-        "v": "scienziato",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 16,
-        "v": "matite",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 17,
-        "v": "vetro",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 18,
-        "v": "zucchino",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 19,
-        "v": "dentista",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 20,
-        "v": "religione",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 21,
-        "v": "incrocio",
-        "role": "none"
-       }
-      ],
-      "totalItems": 1
-     },
+     "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " pesce"
+        }
+       ],
+       "answers": [
+        "il"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " albero"
+        }
+       ],
+       "answers": [
+        "l'"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "gli"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " occhiali"
+        }
+       ],
+       "answers": [
+        "gli"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " vita"
+        }
+       ],
+       "answers": [
+        "la"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " articolo"
+        }
+       ],
+       "answers": [
+        "l'"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " capelli"
+        }
+       ],
+       "answers": [
+        "i"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "7. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " pioggia"
+        }
+       ],
+       "answers": [
+        "la"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "8. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "gli"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " spinaci"
+        }
+       ],
+       "answers": [
+        "gli"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "9. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "lo"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " spazzolino"
+        }
+       ],
+       "answers": [
+        "lo"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "10. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " olio"
+        }
+       ],
+       "answers": [
+        "l'"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "11. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " incidente"
+        }
+       ],
+       "answers": [
+        "l'"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "12. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " ladri"
+        }
+       ],
+       "answers": [
+        "i"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "13. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " fiore"
+        }
+       ],
+       "answers": [
+        "il"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "14. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " strada"
+        }
+       ],
+       "answers": [
+        "la"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "15. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " cugino"
+        }
+       ],
+       "answers": [
+        "il"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "16. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "lo"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " scienziato"
+        }
+       ],
+       "answers": [
+        "lo"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "17. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " matite"
+        }
+       ],
+       "answers": [
+        "le"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "18. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " vetro"
+        }
+       ],
+       "answers": [
+        "il"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "19. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "lo"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " zucchino"
+        }
+       ],
+       "answers": [
+        "lo"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "20. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " dentista"
+        }
+       ],
+       "answers": [
+        "il"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "21. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " religione"
+        }
+       ],
+       "answers": [
+        "la"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "22. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " incrocio"
+        }
+       ],
+       "answers": [
+        "l'"
+       ]
+      }
+     ]
     },
     {
      "num": "02",
@@ -824,13 +825,9 @@ window.QUIZ_DATA = {
          "options": [
           "lo",
           "l'",
-          "il"
+          "il esercito"
          ],
          "answer": "l'"
-        },
-        {
-         "t": "text",
-         "v": " esercito"
         }
        ],
        "answers": [
@@ -2338,1224 +2335,279 @@ window.QUIZ_DATA = {
      "body": "1. Alberto / L'Alberto frequenta l'ultimo anno di università al politecnico.\n2. Mi hanno telefonato Guglielmi / i Guglielmi per disdire l'appuntamento che avevamo con loro.\n3. Kilimangiaro / Il Kilimangiaro è un monte di Africa / dell'Africa.\n4. Hai visitato Napoli / la Napoli archeologica?\n5. Deledda / La Deledda è l'unica scrittrice italiana che ha vinto il premio Nobel per la letteratura.\n6. I Vigili del Fuoco hanno estratto Calleri / il Calleri ormai morto dalle lamiere dell'auto.\n7. Tunisia / La Tunisia è bagnata da Mediterraneo / dal Mediterraneo.\n8. Roma è attraversata da Tevere / dal Tevere.\n9. Marocco / Il Marocco è un paese bellissimo.\n10. Sergio Benni / Il Sergio Benni fa l'elettrauto.",
      "answerBody": "1. **Alberto** / L'Alberto frequenta l'ultimo anno di università al politecnico.\n2. Mi hanno telefonato Guglielmi / **i Guglielmi** per disdire l'appuntamento che avevamo con loro.\n3. Kilimangiaro / **Il Kilimangiaro** è un monte di Africa / **dell'Africa**.\n4. Hai visitato Napoli / **la Napoli** archeologica?\n5. Deledda / **La Deledda** è l'unica scrittrice italiana che ha vinto il premio Nobel per la letteratura.\n6. I Vigili del Fuoco hanno estratto **Calleri** / il Calleri ormai morto dalle lamiere dell'auto.\n7. Tunisia / **La Tunisia** è bagnata da Mediterraneo / **dal Mediterraneo**.\n8. Roma è attraversata da Tevere / **dal Tevere**.\n9. Marocco / **Il Marocco** è un paese bellissimo.\n10. **Sergio Benni** / Il Sergio Benni fa l'elettrauto.",
      "matching": null,
-     "passage": {
-      "tokens": [
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 0,
-        "v": "Alberto",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "L'"
-       },
-       {
-        "t": "word",
-        "id": 1,
-        "v": "Alberto",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 2,
-        "v": "frequenta",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "l'"
-       },
-       {
-        "t": "word",
-        "id": 3,
-        "v": "ultimo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 4,
-        "v": "anno",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 5,
-        "v": "di",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 6,
-        "v": "università",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 7,
-        "v": "al",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 8,
-        "v": "politecnico",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 9,
-        "v": "Mi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 10,
-        "v": "hanno",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 11,
-        "v": "telefonato",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 12,
-        "v": "Guglielmi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 13,
-        "v": "i",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 14,
-        "v": "Guglielmi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 15,
-        "v": "per",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 16,
-        "v": "disdire",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "l'"
-       },
-       {
-        "t": "word",
-        "id": 17,
-        "v": "appuntamento",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 18,
-        "v": "che",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 19,
-        "v": "avevamo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 20,
-        "v": "con",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 21,
-        "v": "loro",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 22,
-        "v": "Kilimangiaro",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 23,
-        "v": "Il",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 24,
-        "v": "Kilimangiaro",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 25,
-        "v": "è",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 26,
-        "v": "un",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 27,
-        "v": "monte",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 28,
-        "v": "di",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 29,
-        "v": "Africa",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "dell'"
-       },
-       {
-        "t": "word",
-        "id": 30,
-        "v": "Africa",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 31,
-        "v": "Hai",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 32,
-        "v": "visitato",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 33,
-        "v": "Napoli",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 34,
-        "v": "la",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 35,
-        "v": "Napoli",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 36,
-        "v": "archeologica",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "?"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 37,
-        "v": "Deledda",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 38,
-        "v": "La",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 39,
-        "v": "Deledda",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 40,
-        "v": "è",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "l'"
-       },
-       {
-        "t": "word",
-        "id": 41,
-        "v": "unica",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 42,
-        "v": "scrittrice",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 43,
-        "v": "italiana",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 44,
-        "v": "che",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 45,
-        "v": "ha",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 46,
-        "v": "vinto",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 47,
-        "v": "il",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 48,
-        "v": "premio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 49,
-        "v": "Nobel",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 50,
-        "v": "per",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 51,
-        "v": "la",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 52,
-        "v": "letteratura",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 53,
-        "v": "I",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 54,
-        "v": "Vigili",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 55,
-        "v": "del",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 56,
-        "v": "Fuoco",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 57,
-        "v": "hanno",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 58,
-        "v": "estratto",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 59,
-        "v": "Calleri",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 60,
-        "v": "il",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 61,
-        "v": "Calleri",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 62,
-        "v": "ormai",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 63,
-        "v": "morto",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 64,
-        "v": "dalle",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 65,
-        "v": "lamiere",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "dell'"
-       },
-       {
-        "t": "word",
-        "id": 66,
-        "v": "auto",
-        "role": "common"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 67,
-        "v": "Tunisia",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 68,
-        "v": "La",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 69,
-        "v": "Tunisia",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 70,
-        "v": "è",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 71,
-        "v": "bagnata",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 72,
-        "v": "da",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 73,
-        "v": "Mediterraneo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 74,
-        "v": "dal",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 75,
-        "v": "Mediterraneo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 76,
-        "v": "Roma",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 77,
-        "v": "è",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 78,
-        "v": "attraversata",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 79,
-        "v": "da",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 80,
-        "v": "Tevere",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 81,
-        "v": "dal",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 82,
-        "v": "Tevere",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 83,
-        "v": "Marocco",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 84,
-        "v": "Il",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 85,
-        "v": "Marocco",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 86,
-        "v": "è",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 87,
-        "v": "un",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 88,
-        "v": "paese",
-        "role": "common"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 89,
-        "v": "bellissimo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 90,
-        "v": "Sergio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 91,
-        "v": "Benni",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 92,
-        "v": "Il",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 93,
-        "v": "Sergio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 94,
-        "v": "Benni",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 95,
-        "v": "fa",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "l'"
-       },
-       {
-        "t": "word",
-        "id": 96,
-        "v": "elettrauto",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       }
-      ],
-      "totalItems": 2
-     },
+     "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. "
+        },
+        {
+         "t": "choice",
+         "i": 0,
+         "options": [
+          "Alberto",
+          "L'Alberto"
+         ],
+         "answer": "Alberto"
+        },
+        {
+         "t": "text",
+         "v": " frequenta l'ultimo anno di università al politecnico."
+        }
+       ],
+       "answers": [
+        "Alberto"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Mi hanno telefonato "
+        },
+        {
+         "t": "choice",
+         "i": 0,
+         "options": [
+          "Guglielmi",
+          "i Guglielmi"
+         ],
+         "answer": "i Guglielmi"
+        },
+        {
+         "t": "text",
+         "v": " per disdire l'appuntamento che avevamo con loro."
+        }
+       ],
+       "answers": [
+        "i Guglielmi"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. "
+        },
+        {
+         "t": "choice",
+         "i": 0,
+         "options": [
+          "Kilimangiaro",
+          "Il Kilimangiaro"
+         ],
+         "answer": "Il Kilimangiaro"
+        },
+        {
+         "t": "text",
+         "v": " è un monte "
+        },
+        {
+         "t": "choice",
+         "i": 1,
+         "options": [
+          "di Africa",
+          "dell'Africa"
+         ],
+         "answer": "dell'Africa"
+        },
+        {
+         "t": "text",
+         "v": "."
+        }
+       ],
+       "answers": [
+        "Il Kilimangiaro",
+        "dell'Africa"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Hai visitato "
+        },
+        {
+         "t": "choice",
+         "i": 0,
+         "options": [
+          "Napoli",
+          "la Napoli"
+         ],
+         "answer": "la Napoli"
+        },
+        {
+         "t": "text",
+         "v": " archeologica?"
+        }
+       ],
+       "answers": [
+        "la Napoli"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. "
+        },
+        {
+         "t": "choice",
+         "i": 0,
+         "options": [
+          "Deledda",
+          "La Deledda"
+         ],
+         "answer": "La Deledda"
+        },
+        {
+         "t": "text",
+         "v": " è l'unica scrittrice italiana che ha vinto il premio Nobel per la letteratura."
+        }
+       ],
+       "answers": [
+        "La Deledda"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. I Vigili del Fuoco hanno estratto "
+        },
+        {
+         "t": "choice",
+         "i": 0,
+         "options": [
+          "Calleri",
+          "il Calleri"
+         ],
+         "answer": "Calleri"
+        },
+        {
+         "t": "text",
+         "v": " ormai morto dalle lamiere dell'auto."
+        }
+       ],
+       "answers": [
+        "Calleri"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "7. "
+        },
+        {
+         "t": "choice",
+         "i": 0,
+         "options": [
+          "Tunisia",
+          "La Tunisia"
+         ],
+         "answer": "La Tunisia"
+        },
+        {
+         "t": "text",
+         "v": " è bagnata "
+        },
+        {
+         "t": "choice",
+         "i": 1,
+         "options": [
+          "da Mediterraneo",
+          "dal Mediterraneo"
+         ],
+         "answer": "dal Mediterraneo"
+        },
+        {
+         "t": "text",
+         "v": "."
+        }
+       ],
+       "answers": [
+        "La Tunisia",
+        "dal Mediterraneo"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "8. Roma è attraversata "
+        },
+        {
+         "t": "choice",
+         "i": 0,
+         "options": [
+          "da Tevere",
+          "dal Tevere"
+         ],
+         "answer": "dal Tevere"
+        },
+        {
+         "t": "text",
+         "v": "."
+        }
+       ],
+       "answers": [
+        "dal Tevere"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "9. "
+        },
+        {
+         "t": "choice",
+         "i": 0,
+         "options": [
+          "Marocco",
+          "Il Marocco"
+         ],
+         "answer": "Il Marocco"
+        },
+        {
+         "t": "text",
+         "v": " è un paese bellissimo."
+        }
+       ],
+       "answers": [
+        "Il Marocco"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "10. "
+        },
+        {
+         "t": "choice",
+         "i": 0,
+         "options": [
+          "Sergio Benni",
+          "Il Sergio Benni"
+         ],
+         "answer": "Sergio Benni"
+        },
+        {
+         "t": "text",
+         "v": " fa l'elettrauto."
+        }
+       ],
+       "answers": [
+        "Sergio Benni"
+       ]
+      }
+     ]
     },
     {
      "num": "02",
@@ -3661,1466 +2713,353 @@ window.QUIZ_DATA = {
      "body": "1. Ho incontrato ___ professor Rossi davanti alla scuola.\n2. ___ maestra Grandi oggi ci ha portati al museo.\n3. ___ Lombardia è una regione ricca e verde.\n4. Ho chiesto a Paola com'era ___ Australia: ci è stata in vacanza per tre mesi!\n5. È ___ Po il fiume che nasce dal Monviso?\n6. ___ Milano ci sono spesso avvenimenti internazionali molto importanti.\n7. ___ Francia si fa festa il 14 luglio.\n8. ___ Roma oggi ha vinto la partita.\n9. ___ Canestri non sono in casa. Riprova più tardi.\n10. ___ Anna Picchio non lavora più qui da due anni.\n11. ___ Picchio adesso si è trasferita a Firenze.\n12. ___ Roma dell'antichità era una città importantissima.\n13. ___ Roma è una città che gode di un magnifico clima.\n14. Quando ___ Manzoni ha pubblicato I Promessi sposi aveva quarantadue anni.\n15. ___ Gran Bretagna si guida a sinistra.",
      "answerBody": "1. Ho incontrato **il** professor Rossi davanti alla scuola.\n2. **La** maestra Grandi oggi ci ha portati al museo.\n3. **La** Lombardia è una regione ricca e verde.\n4. Ho chiesto a Paola com'era **l'** Australia: ci è stata in vacanza per tre mesi!\n5. È **il** Po il fiume che nasce dal Monviso?\n6. **A** Milano ci sono spesso avvenimenti internazionali molto importanti.\n7. **In** Francia si fa festa il 14 luglio.\n8. **La** Roma oggi ha vinto la partita.\n9. **I** Canestri non sono in casa. Riprova più tardi.\n10. (–) Anna Picchio non lavora più qui da due anni.\n11. **La** Picchio adesso si è trasferita a Firenze.\n12. **La** Roma dell'antichità era una città importantissima.\n13. (–) Roma è una città che gode di un magnifico clima.\n14. Quando **il** Manzoni ha pubblicato I Promessi sposi aveva quarantadue anni.\n15. **In** Gran Bretagna si guida a sinistra.",
      "matching": null,
-     "passage": {
-      "tokens": [
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 0,
-        "v": "Ho",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 1,
-        "v": "incontrato",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 2,
-        "v": "professor",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 3,
-        "v": "Rossi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 4,
-        "v": "davanti",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 5,
-        "v": "alla",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 6,
-        "v": "scuola",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 7,
-        "v": "maestra",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 8,
-        "v": "Grandi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 9,
-        "v": "oggi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 10,
-        "v": "ci",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 11,
-        "v": "ha",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 12,
-        "v": "portati",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 13,
-        "v": "al",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 14,
-        "v": "museo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 15,
-        "v": "Lombardia",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 16,
-        "v": "è",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 17,
-        "v": "una",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 18,
-        "v": "regione",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 19,
-        "v": "ricca",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 20,
-        "v": "e",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 21,
-        "v": "verde",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 22,
-        "v": "Ho",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 23,
-        "v": "chiesto",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 24,
-        "v": "a",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 25,
-        "v": "Paola",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 26,
-        "v": "com'era",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 27,
-        "v": "Australia",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ":"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 28,
-        "v": "ci",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 29,
-        "v": "è",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 30,
-        "v": "stata",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 31,
-        "v": "in",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 32,
-        "v": "vacanza",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 33,
-        "v": "per",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 34,
-        "v": "tre",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 35,
-        "v": "mesi",
-        "role": "common"
-       },
-       {
-        "t": "raw",
-        "v": "!"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 36,
-        "v": "È",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 37,
-        "v": "Po",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 38,
-        "v": "il",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 39,
-        "v": "fiume",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 40,
-        "v": "che",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 41,
-        "v": "nasce",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 42,
-        "v": "dal",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 43,
-        "v": "Monviso",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "?"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 44,
-        "v": "Milano",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 45,
-        "v": "ci",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 46,
-        "v": "sono",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 47,
-        "v": "spesso",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 48,
-        "v": "avvenimenti",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 49,
-        "v": "internazionali",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 50,
-        "v": "molto",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 51,
-        "v": "importanti",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 52,
-        "v": "Francia",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 53,
-        "v": "si",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 54,
-        "v": "fa",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 55,
-        "v": "festa",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 56,
-        "v": "il",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 57,
-        "v": "luglio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 58,
-        "v": "Roma",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 59,
-        "v": "oggi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 60,
-        "v": "ha",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 61,
-        "v": "vinto",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 62,
-        "v": "la",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 63,
-        "v": "partita",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 64,
-        "v": "Canestri",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 65,
-        "v": "non",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 66,
-        "v": "sono",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 67,
-        "v": "in",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 68,
-        "v": "casa",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 69,
-        "v": "Riprova",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 70,
-        "v": "più",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 71,
-        "v": "tardi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 72,
-        "v": "Anna",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 73,
-        "v": "Picchio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 74,
-        "v": "non",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 75,
-        "v": "lavora",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 76,
-        "v": "più",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 77,
-        "v": "qui",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 78,
-        "v": "da",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 79,
-        "v": "due",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 80,
-        "v": "anni",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 81,
-        "v": "Picchio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 82,
-        "v": "adesso",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 83,
-        "v": "si",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 84,
-        "v": "è",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 85,
-        "v": "trasferita",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 86,
-        "v": "a",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 87,
-        "v": "Firenze",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 88,
-        "v": "Roma",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "dell'"
-       },
-       {
-        "t": "word",
-        "id": 89,
-        "v": "antichità",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 90,
-        "v": "era",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 91,
-        "v": "una",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 92,
-        "v": "città",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 93,
-        "v": "importantissima",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 94,
-        "v": "Roma",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 95,
-        "v": "è",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 96,
-        "v": "una",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 97,
-        "v": "città",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 98,
-        "v": "che",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 99,
-        "v": "gode",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 100,
-        "v": "di",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 101,
-        "v": "un",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 102,
-        "v": "magnifico",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 103,
-        "v": "clima",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 104,
-        "v": "Quando",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 105,
-        "v": "Manzoni",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 106,
-        "v": "ha",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 107,
-        "v": "pubblicato",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 108,
-        "v": "I",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 109,
-        "v": "Promessi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 110,
-        "v": "sposi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 111,
-        "v": "aveva",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 112,
-        "v": "quarantadue",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 113,
-        "v": "anni",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 114,
-        "v": "Gran",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 115,
-        "v": "Bretagna",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 116,
-        "v": "si",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 117,
-        "v": "guida",
-        "role": "common"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 118,
-        "v": "a",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 119,
-        "v": "sinistra",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       }
-      ],
-      "totalItems": 2
-     },
+     "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. Ho incontrato "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " professor Rossi davanti alla scuola."
+        }
+       ],
+       "answers": [
+        "il"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "La"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " maestra Grandi oggi ci ha portati al museo."
+        }
+       ],
+       "answers": [
+        "La"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "La"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " Lombardia è una regione ricca e verde."
+        }
+       ],
+       "answers": [
+        "La"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Ho chiesto a Paola com'era "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " Australia: ci è stata in vacanza per tre mesi!"
+        }
+       ],
+       "answers": [
+        "l'"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. È "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " Po il fiume che nasce dal Monviso?"
+        }
+       ],
+       "answers": [
+        "il"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "A"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " Milano ci sono spesso avvenimenti internazionali molto importanti."
+        }
+       ],
+       "answers": [
+        "A"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "7. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "In"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " Francia si fa festa il 14 luglio."
+        }
+       ],
+       "answers": [
+        "In"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "8. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "La"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " Roma oggi ha vinto la partita."
+        }
+       ],
+       "answers": [
+        "La"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "9. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "I"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " Canestri non sono in casa. Riprova più tardi."
+        }
+       ],
+       "answers": [
+        "I"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "10. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "–",
+          "-",
+          "",
+          "(–)",
+          "nessuno",
+          "no",
+          "/"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " Anna Picchio non lavora più qui da due anni."
+        }
+       ],
+       "answers": [
+        "–"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "11. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "La"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " Picchio adesso si è trasferita a Firenze."
+        }
+       ],
+       "answers": [
+        "La"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "12. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "La"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " Roma dell'antichità era una città importantissima."
+        }
+       ],
+       "answers": [
+        "La"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "13. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "–",
+          "-",
+          "",
+          "(–)",
+          "nessuno",
+          "no",
+          "/"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " Roma è una città che gode di un magnifico clima."
+        }
+       ],
+       "answers": [
+        "–"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "14. Quando "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " Manzoni ha pubblicato I Promessi sposi aveva quarantadue anni."
+        }
+       ],
+       "answers": [
+        "il"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "15. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "In"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " Gran Bretagna si guida a sinistra."
+        }
+       ],
+       "answers": [
+        "In"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -10457,605 +8396,7 @@ window.QUIZ_DATA = {
      "body": "| Nome primitivo | Nomi derivati |\n| --- | --- |\n| 1. città | cittadino, cittadinanza, concittadino |\n| 2. fiore | ___ |\n| 3. lavoro | ___ |\n| 4. erba | ___ |\n| 5. carta | ___ |\n| 6. occhio | ___ |\n| 7. latte | ___ |\n| 8. pane | ___ |\n| 9. libro | ___ |\n| 10. dente | ___ |",
      "answerBody": "1. città – cittadino, cittadinanza, concittadino\n2. fiore – fioraio, fioreria, fioretto\n3. lavoro – lavoratore, lavorazione, lavorio\n4. erba – erbivoro, erbaio, erbivendolo\n5. carta – cartone, cartella, cartina\n6. occhio – occhiolino, occhiata, occhiello\n7. latte – lattosio, latteria, latticinio\n8. pane – panettiere, panificio, panettone\n9. libro – libreria, libraio, libretto\n10. dente – dentista, dentiera, dentatura",
      "matching": null,
-     "passage": {
-      "tokens": [
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 0,
-        "v": "Nome",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 1,
-        "v": "primitivo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 2,
-        "v": "Nomi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 3,
-        "v": "derivati",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "---"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "---"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 4,
-        "v": "città",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 5,
-        "v": "cittadino",
-        "role": "common"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 6,
-        "v": "cittadinanza",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 7,
-        "v": "concittadino",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 8,
-        "v": "fiore",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 9,
-        "v": "lavoro",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 10,
-        "v": "erba",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 11,
-        "v": "carta",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 12,
-        "v": "occhio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 13,
-        "v": "latte",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 14,
-        "v": "pane",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 15,
-        "v": "libro",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 16,
-        "v": "dente",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "|"
-       }
-      ],
-      "totalItems": 1
-     },
+     "passage": null,
      "categorization": null,
      "wordBank": null,
      "blanks": null
@@ -15827,1111 +13168,7 @@ window.QUIZ_DATA = {
      "body": "1. Mirella ___ (essere) una ragazza intelligente, che ___ (imparare) subito tutto.\n2. In montagna noi ___ (fare) delle gite molto faticose, ___ (camminare) anche cinque o sei ore.\n3. Elena ___ (avere) la brutta abitudine di arrabbiarsi subito e di gridare.\n4. Al mio paese io ___ (abitare) con la mia famiglia in una casa vicina al mare.\n5. Queste case una volta non c'___ (essere). La strada ___ (passare) in mezzo ai prati e mio zio laggiù ___ (avere) un orto.\n6. Mentre io ___ (fare) i compiti, mio fratello ___ (parlare) e mi ___ (disturbare).\n7. Mio nonno ___ (fare) il macellaio.",
      "answerBody": "1. Mirella era (essere) una ragazza intelligente, che imparava (imparare) subito tutto.\n2. In montagna noi facevamo (fare) delle gite molto faticose, camminavamo (camminare) anche cinque o sei ore.\n3. Elena aveva (avere) la brutta abitudine di arrabbiarsi subito e di gridare.\n4. Al mio paese io abitavo (abitare) con la mia famiglia in una casa vicina al mare.\n5. Queste case una volta non c'erano (essere). La strada passava (passare) in mezzo ai prati e mio zio laggiù aveva (avere) un orto.\n6. Mentre io facevo (fare) i compiti, mio fratello parlava (parlare) e mi disturbava (disturbare).\n7. Mio nonno faceva (fare) il macellaio.",
      "matching": null,
-     "passage": {
-      "tokens": [
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 0,
-        "v": "Mirella",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 1,
-        "v": "essere",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 2,
-        "v": "una",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 3,
-        "v": "ragazza",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 4,
-        "v": "intelligente",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 5,
-        "v": "che",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 6,
-        "v": "imparare",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 7,
-        "v": "subito",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 8,
-        "v": "tutto",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 9,
-        "v": "In",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 10,
-        "v": "montagna",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 11,
-        "v": "noi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 12,
-        "v": "fare",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 13,
-        "v": "delle",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 14,
-        "v": "gite",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 15,
-        "v": "molto",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 16,
-        "v": "faticose",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 17,
-        "v": "camminare",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 18,
-        "v": "anche",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 19,
-        "v": "cinque",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 20,
-        "v": "o",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 21,
-        "v": "sei",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 22,
-        "v": "ore",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 23,
-        "v": "Elena",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 24,
-        "v": "avere",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 25,
-        "v": "la",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 26,
-        "v": "brutta",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 27,
-        "v": "abitudine",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 28,
-        "v": "di",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 29,
-        "v": "arrabbiarsi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 30,
-        "v": "subito",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 31,
-        "v": "e",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 32,
-        "v": "di",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 33,
-        "v": "gridare",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 34,
-        "v": "Al",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 35,
-        "v": "mio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 36,
-        "v": "paese",
-        "role": "common"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 37,
-        "v": "io",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 38,
-        "v": "abitare",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 39,
-        "v": "con",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 40,
-        "v": "la",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 41,
-        "v": "mia",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 42,
-        "v": "famiglia",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 43,
-        "v": "in",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 44,
-        "v": "una",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 45,
-        "v": "casa",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 46,
-        "v": "vicina",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 47,
-        "v": "al",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 48,
-        "v": "mare",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 49,
-        "v": "Queste",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 50,
-        "v": "case",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 51,
-        "v": "una",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 52,
-        "v": "volta",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 53,
-        "v": "non",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 54,
-        "v": "c'",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 55,
-        "v": "essere",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 56,
-        "v": "La",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 57,
-        "v": "strada",
-        "role": "common"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 58,
-        "v": "passare",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 59,
-        "v": "in",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 60,
-        "v": "mezzo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 61,
-        "v": "ai",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 62,
-        "v": "prati",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 63,
-        "v": "e",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 64,
-        "v": "mio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 65,
-        "v": "zio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 66,
-        "v": "laggiù",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 67,
-        "v": "avere",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 68,
-        "v": "un",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 69,
-        "v": "orto",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 70,
-        "v": "Mentre",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 71,
-        "v": "io",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 72,
-        "v": "fare",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 73,
-        "v": "i",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 74,
-        "v": "compiti",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 75,
-        "v": "mio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 76,
-        "v": "fratello",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 77,
-        "v": "parlare",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 78,
-        "v": "e",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 79,
-        "v": "mi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 80,
-        "v": "disturbare",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 81,
-        "v": "Mio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 82,
-        "v": "nonno",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 83,
-        "v": "fare",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 84,
-        "v": "il",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 85,
-        "v": "macellaio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       }
-      ],
-      "totalItems": 2
-     },
+     "passage": null,
      "categorization": null,
      "wordBank": null,
      "blanks": null
@@ -16942,613 +13179,7 @@ window.QUIZ_DATA = {
      "body": "1. Ora abito in Italia. ___\nPrima ___\n2. Ora vado nella scuola ___\nAl mio paese ___\n3. In Italia i miei compagni sono ___\nAl mio paese ___\n4. Qui la mia casa è ___\nAl mio paese ___\n5. Ora mio padre fa ___\nPrima mio padre ___\n6. Il tempo qui è ___\nAl mio paese ___\n7. In Italia mangio ___\nAl mio paese ___",
      "answerBody": "1. Ora abito in Italia. – Prima abitavo in Francia.\n2. Ora vado nella scuola privata. – Al mio paese andavo nella scuola pubblica.\n3. In Italia i miei compagni sono simpatici. – Al mio paese i miei compagni erano poco socievoli.\n4. Qui la mia casa è grande e luminosa. – Al mio paese era piccola e buia.\n5. Ora mio padre fa l'avvocato. – Prima mio padre faceva il ragioniere.\n6. Il tempo qui è brutto. – Al mio paese il tempo era sempre bello.\n7. In Italia mangio pasta tutti i giorni. – Al mio paese mangiavo sempre patate.",
      "matching": null,
-     "passage": {
-      "tokens": [
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 0,
-        "v": "Ora",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 1,
-        "v": "abito",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 2,
-        "v": "in",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 3,
-        "v": "Italia",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "word",
-        "id": 4,
-        "v": "Prima",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 5,
-        "v": "Ora",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 6,
-        "v": "vado",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 7,
-        "v": "nella",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 8,
-        "v": "scuola",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "word",
-        "id": 9,
-        "v": "Al",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 10,
-        "v": "mio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 11,
-        "v": "paese",
-        "role": "common"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 12,
-        "v": "In",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 13,
-        "v": "Italia",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 14,
-        "v": "i",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 15,
-        "v": "miei",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 16,
-        "v": "compagni",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 17,
-        "v": "sono",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "word",
-        "id": 18,
-        "v": "Al",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 19,
-        "v": "mio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 20,
-        "v": "paese",
-        "role": "common"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 21,
-        "v": "Qui",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 22,
-        "v": "la",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 23,
-        "v": "mia",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 24,
-        "v": "casa",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 25,
-        "v": "è",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "word",
-        "id": 26,
-        "v": "Al",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 27,
-        "v": "mio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 28,
-        "v": "paese",
-        "role": "common"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 29,
-        "v": "Ora",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 30,
-        "v": "mio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 31,
-        "v": "padre",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 32,
-        "v": "fa",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "word",
-        "id": 33,
-        "v": "Prima",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 34,
-        "v": "mio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 35,
-        "v": "padre",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 36,
-        "v": "Il",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 37,
-        "v": "tempo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 38,
-        "v": "qui",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 39,
-        "v": "è",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "word",
-        "id": 40,
-        "v": "Al",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 41,
-        "v": "mio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 42,
-        "v": "paese",
-        "role": "common"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 43,
-        "v": "In",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 44,
-        "v": "Italia",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 45,
-        "v": "mangio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "word",
-        "id": 46,
-        "v": "Al",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 47,
-        "v": "mio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 48,
-        "v": "paese",
-        "role": "common"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       }
-      ],
-      "totalItems": 5
-     },
+     "passage": null,
      "categorization": null,
      "wordBank": null,
      "blanks": null
@@ -17973,1508 +13604,295 @@ window.QUIZ_DATA = {
      "body": "1. Mentre telefonavo / ho telefonato, Paola arrivava / è arrivata.\n2. Mentre il marito preparava / ha preparato la tavola, la moglie cucinava / ha cucinato.\n3. Quando uscivo / sono uscito, pioveva / è piovuto.\n4. Andando a scuola, vedevo / ho visto un incidente stradale.\n5. Andando a scuola, vedevo / ho visto tutti i giorni tua sorella alla fermata dell'autobus.\n6. Sergio non mangiava / ha mangiato niente, perché stava / è stato male.\n7. Quando abitavo / ho abitato in Cile, andavo / sono andato a scuola da febbraio a novembre.\n8. Quando Rosa lavorava / ha lavorato per la famiglia D'Angelo, guadagnava / ha guadagnato abbastanza bene.\n9. Mentre la professoressa spiegava / ha spiegato, Martin si metteva / si è messo a gridare.\n10. Visto che faceva / ha fatto bel tempo, partivamo / siamo partiti presto per il mare.",
      "answerBody": "1. Mentre telefonavo / ho telefonato, Paola arrivava / è arrivata. → **telefonavo**, **è arrivata**\n2. Mentre il marito preparava / ha preparato la tavola, la moglie cucinava / ha cucinato. → **preparava**, **cucinava**\n3. Quando uscivo / sono uscito, pioveva / è piovuto. → **sono uscito**, **pioveva**\n4. Andando a scuola, vedevo / ho visto un incidente stradale. → **ho visto**\n5. Andando a scuola, vedevo / ho visto tutti i giorni tua sorella alla fermata dell'autobus. → **vedevo**\n6. Sergio non mangiava / ha mangiato niente, perché stava / è stato male. → **ha mangiato**, **stava**\n7. Quando abitavo / ho abitato in Cile, andavo / sono andato a scuola da febbraio a novembre. → **abitavo**, **sono andato**\n8. Quando Rosa lavorava / ha lavorato per la famiglia D'Angelo, guadagnava / ha guadagnato abbastanza bene. → **lavorava**, **guadagnava**\n9. Mentre la professoressa spiegava / ha spiegato, Martin si metteva / si è messo a gridare. → **spiegava**, **si è messo**\n10. Visto che faceva / ha fatto bel tempo, partivamo / siamo partiti presto per il mare. → **faceva**, **siamo partiti**",
      "matching": null,
-     "passage": {
-      "tokens": [
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 0,
-        "v": "Mentre",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 1,
-        "v": "telefonavo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 2,
-        "v": "ho",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 3,
-        "v": "telefonato",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 4,
-        "v": "Paola",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 5,
-        "v": "arrivava",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 6,
-        "v": "è",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 7,
-        "v": "arrivata",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 8,
-        "v": "Mentre",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 9,
-        "v": "il",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 10,
-        "v": "marito",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 11,
-        "v": "preparava",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 12,
-        "v": "ha",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 13,
-        "v": "preparato",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 14,
-        "v": "la",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 15,
-        "v": "tavola",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 16,
-        "v": "la",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 17,
-        "v": "moglie",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 18,
-        "v": "cucinava",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 19,
-        "v": "ha",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 20,
-        "v": "cucinato",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 21,
-        "v": "Quando",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 22,
-        "v": "uscivo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 23,
-        "v": "sono",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 24,
-        "v": "uscito",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 25,
-        "v": "pioveva",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 26,
-        "v": "è",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 27,
-        "v": "piovuto",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 28,
-        "v": "Andando",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 29,
-        "v": "a",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 30,
-        "v": "scuola",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 31,
-        "v": "vedevo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 32,
-        "v": "ho",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 33,
-        "v": "visto",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 34,
-        "v": "un",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 35,
-        "v": "incidente",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 36,
-        "v": "stradale",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 37,
-        "v": "Andando",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 38,
-        "v": "a",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 39,
-        "v": "scuola",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 40,
-        "v": "vedevo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 41,
-        "v": "ho",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 42,
-        "v": "visto",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 43,
-        "v": "tutti",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 44,
-        "v": "i",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 45,
-        "v": "giorni",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 46,
-        "v": "tua",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 47,
-        "v": "sorella",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 48,
-        "v": "alla",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 49,
-        "v": "fermata",
-        "role": "common"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "dell'"
-       },
-       {
-        "t": "word",
-        "id": 50,
-        "v": "autobus",
-        "role": "common"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 51,
-        "v": "Sergio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 52,
-        "v": "non",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 53,
-        "v": "mangiava",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 54,
-        "v": "ha",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 55,
-        "v": "mangiato",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 56,
-        "v": "niente",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 57,
-        "v": "perché",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 58,
-        "v": "stava",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 59,
-        "v": "è",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 60,
-        "v": "stato",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 61,
-        "v": "male",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 62,
-        "v": "Quando",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 63,
-        "v": "abitavo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 64,
-        "v": "ho",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 65,
-        "v": "abitato",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 66,
-        "v": "in",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 67,
-        "v": "Cile",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 68,
-        "v": "andavo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 69,
-        "v": "sono",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 70,
-        "v": "andato",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 71,
-        "v": "a",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 72,
-        "v": "scuola",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 73,
-        "v": "da",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 74,
-        "v": "febbraio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 75,
-        "v": "a",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 76,
-        "v": "novembre",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 77,
-        "v": "Quando",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 78,
-        "v": "Rosa",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 79,
-        "v": "lavorava",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 80,
-        "v": "ha",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 81,
-        "v": "lavorato",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 82,
-        "v": "per",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 83,
-        "v": "la",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 84,
-        "v": "famiglia",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 85,
-        "v": "D'Angelo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 86,
-        "v": "guadagnava",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 87,
-        "v": "ha",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 88,
-        "v": "guadagnato",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 89,
-        "v": "abbastanza",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 90,
-        "v": "bene",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 91,
-        "v": "Mentre",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 92,
-        "v": "la",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 93,
-        "v": "professoressa",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 94,
-        "v": "spiegava",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 95,
-        "v": "ha",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 96,
-        "v": "spiegato",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 97,
-        "v": "Martin",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 98,
-        "v": "si",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 99,
-        "v": "metteva",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 100,
-        "v": "si",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 101,
-        "v": "è",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 102,
-        "v": "messo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 103,
-        "v": "a",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 104,
-        "v": "gridare",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 105,
-        "v": "Visto",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 106,
-        "v": "che",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 107,
-        "v": "faceva",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 108,
-        "v": "ha",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 109,
-        "v": "fatto",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 110,
-        "v": "bel",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 111,
-        "v": "tempo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 112,
-        "v": "partivamo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "/"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 113,
-        "v": "siamo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 114,
-        "v": "partiti",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 115,
-        "v": "presto",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 116,
-        "v": "per",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 117,
-        "v": "il",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 118,
-        "v": "mare",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       }
-      ],
-      "totalItems": 2
-     },
+     "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. "
+        },
+        {
+         "t": "choice",
+         "i": 0,
+         "options": [
+          "Mentre telefonavo",
+          "telefonavo"
+         ],
+         "answer": "telefonavo"
+        },
+        {
+         "t": "choice",
+         "i": 1,
+         "options": [
+          ",",
+          "è arrivata"
+         ],
+         "answer": "è arrivata"
+        }
+       ],
+       "answers": [
+        "telefonavo",
+        "è arrivata"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. "
+        },
+        {
+         "t": "choice",
+         "i": 0,
+         "options": [
+          "Mentre il marito preparava",
+          "preparava"
+         ],
+         "answer": "preparava"
+        },
+        {
+         "t": "choice",
+         "i": 1,
+         "options": [
+          ",",
+          "cucinava"
+         ],
+         "answer": "cucinava"
+        }
+       ],
+       "answers": [
+        "preparava",
+        "cucinava"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. "
+        },
+        {
+         "t": "choice",
+         "i": 0,
+         "options": [
+          "Quando uscivo",
+          "sono uscito"
+         ],
+         "answer": "sono uscito"
+        },
+        {
+         "t": "choice",
+         "i": 1,
+         "options": [
+          ",",
+          "pioveva"
+         ],
+         "answer": "pioveva"
+        }
+       ],
+       "answers": [
+        "sono uscito",
+        "pioveva"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Andando "
+        },
+        {
+         "t": "choice",
+         "i": 0,
+         "options": [
+          "a scuola, vedevo",
+          "ho visto"
+         ],
+         "answer": "ho visto"
+        },
+        {
+         "t": "text",
+         "v": " un incidente stradale."
+        }
+       ],
+       "answers": [
+        "ho visto"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. Andando a scuola, "
+        },
+        {
+         "t": "choice",
+         "i": 0,
+         "options": [
+          "vedevo",
+          "vedevo"
+         ],
+         "answer": "vedevo"
+        }
+       ],
+       "answers": [
+        "vedevo"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. "
+        },
+        {
+         "t": "choice",
+         "i": 0,
+         "options": [
+          "Sergio non mangiava",
+          "ha mangiato"
+         ],
+         "answer": "ha mangiato"
+        },
+        {
+         "t": "choice",
+         "i": 1,
+         "options": [
+          ",",
+          "stava"
+         ],
+         "answer": "stava"
+        }
+       ],
+       "answers": [
+        "ha mangiato",
+        "stava"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "7. "
+        },
+        {
+         "t": "choice",
+         "i": 0,
+         "options": [
+          "Quando abitavo",
+          "abitavo"
+         ],
+         "answer": "abitavo"
+        },
+        {
+         "t": "choice",
+         "i": 1,
+         "options": [
+          ",",
+          "sono andato"
+         ],
+         "answer": "sono andato"
+        }
+       ],
+       "answers": [
+        "abitavo",
+        "sono andato"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "8. "
+        },
+        {
+         "t": "choice",
+         "i": 0,
+         "options": [
+          "Quando Rosa lavorava",
+          "lavorava"
+         ],
+         "answer": "lavorava"
+        },
+        {
+         "t": "choice",
+         "i": 1,
+         "options": [
+          ",",
+          "guadagnava"
+         ],
+         "answer": "guadagnava"
+        }
+       ],
+       "answers": [
+        "lavorava",
+        "guadagnava"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "9. "
+        },
+        {
+         "t": "choice",
+         "i": 0,
+         "options": [
+          "Mentre la professoressa spiegava",
+          "spiegava"
+         ],
+         "answer": "spiegava"
+        },
+        {
+         "t": "choice",
+         "i": 1,
+         "options": [
+          ",",
+          "si è messo"
+         ],
+         "answer": "si è messo"
+        }
+       ],
+       "answers": [
+        "spiegava",
+        "si è messo"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "10. "
+        },
+        {
+         "t": "choice",
+         "i": 0,
+         "options": [
+          "Visto che faceva",
+          "faceva"
+         ],
+         "answer": "faceva"
+        },
+        {
+         "t": "choice",
+         "i": 1,
+         "options": [
+          ",",
+          "siamo partiti"
+         ],
+         "answer": "siamo partiti"
+        }
+       ],
+       "answers": [
+        "faceva",
+        "siamo partiti"
+       ]
+      }
+     ]
     },
     {
      "num": "03",
@@ -19634,741 +14052,7 @@ window.QUIZ_DATA = {
      "body": "1. L'autobus che va a scuola ___ (fermarsi) proprio davanti a casa mia.\n2. Andrea in genere ___ (svegliarsi) alle sette, ma stamattina ___ (svegliarsi) tardi e così è arrivato in classe alle nove.\n3. Ho dimenticato l'ombrello e così ___ (bagnare) dalla testa ai piedi.\n4. Vincenzo per andare al matrimonio di suo fratello ___ (mettersi) un vestito nero.\n5. Piero ___ (farsi) la barba con il rasoio elettrico.",
      "answerBody": "1. L'autobus che va a scuola si ferma (fermarsi) proprio davanti a casa mia.\n2. Andrea in genere si sveglia (svegliarsi) alle sette, ma stamattina si è svegliato (svegliarsi) tardi e così è arrivato in classe alle nove.\n3. Ho dimenticato l'ombrello e così mi sono bagnato (bagnare) dalla testa ai piedi.\n4. Vincenzo per andare al matrimonio di suo fratello si mette (mettersi) un vestito nero.\n5. Piero si fa (farsi) la barba con il rasoio elettrico.",
      "matching": null,
-     "passage": {
-      "tokens": [
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "L'"
-       },
-       {
-        "t": "word",
-        "id": 0,
-        "v": "autobus",
-        "role": "common"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 1,
-        "v": "che",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 2,
-        "v": "va",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 3,
-        "v": "a",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 4,
-        "v": "scuola",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 5,
-        "v": "fermarsi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 6,
-        "v": "proprio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 7,
-        "v": "davanti",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 8,
-        "v": "a",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 9,
-        "v": "casa",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 10,
-        "v": "mia",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 11,
-        "v": "Andrea",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 12,
-        "v": "in",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 13,
-        "v": "genere",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 14,
-        "v": "svegliarsi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 15,
-        "v": "alle",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 16,
-        "v": "sette",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 17,
-        "v": "ma",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 18,
-        "v": "stamattina",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 19,
-        "v": "svegliarsi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 20,
-        "v": "tardi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 21,
-        "v": "e",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 22,
-        "v": "così",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 23,
-        "v": "è",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 24,
-        "v": "arrivato",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 25,
-        "v": "in",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 26,
-        "v": "classe",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 27,
-        "v": "alle",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 28,
-        "v": "nove",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 29,
-        "v": "Ho",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 30,
-        "v": "dimenticato",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "l'"
-       },
-       {
-        "t": "word",
-        "id": 31,
-        "v": "ombrello",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 32,
-        "v": "e",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 33,
-        "v": "così",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 34,
-        "v": "bagnare",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 35,
-        "v": "dalla",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 36,
-        "v": "testa",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 37,
-        "v": "ai",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 38,
-        "v": "piedi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 39,
-        "v": "Vincenzo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 40,
-        "v": "per",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 41,
-        "v": "andare",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 42,
-        "v": "al",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 43,
-        "v": "matrimonio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 44,
-        "v": "di",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 45,
-        "v": "suo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 46,
-        "v": "fratello",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 47,
-        "v": "mettersi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 48,
-        "v": "un",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 49,
-        "v": "vestito",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 50,
-        "v": "nero",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 51,
-        "v": "Piero",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 52,
-        "v": "farsi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 53,
-        "v": "la",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 54,
-        "v": "barba",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 55,
-        "v": "con",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 56,
-        "v": "il",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 57,
-        "v": "rasoio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 58,
-        "v": "elettrico",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       }
-      ],
-      "totalItems": 1
-     },
+     "passage": null,
      "categorization": null,
      "wordBank": null,
      "blanks": null
@@ -21125,715 +14809,121 @@ window.QUIZ_DATA = {
      "body": "1. Ti ___ (portare) alla stazione, ma non ho la macchina.\n2. I signori Gaidano ___ (volere) tornare a Torino, ma per ora continuano a lavorare in Svizzera.\n3. Zia, ti ___ (piacere) venire con noi al concerto?\n4. Mi dispiace, io ti ___ (accompagnare) volentieri dal medico, ma alle 9 devo essere in ufficio.\n5. Enrico e Fabiola ___ (sposarsi) ma non hanno ancora trovato casa.",
      "answerBody": "- 1. Ti **porterei** (portare) alla stazione, ma non ho la macchina.\n- 2. I signori Gaidano **vorrebbero** (volere) tornare a Torino, ma per ora continuano a lavorare in Svizzera.\n- 3. Zia, ti **piacerebbe** (piacere) venire con noi al concerto?\n- 4. Mi dispiace, io ti **accompagnerei** (accompagnare) volentieri dal medico, ma alle 9 devo essere in ufficio.\n- 5. Enrico e Fabiola **si sposerebbero** (sposarsi) ma non hanno ancora trovato casa.",
      "matching": null,
-     "passage": {
-      "tokens": [
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 0,
-        "v": "Ti",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 1,
-        "v": "portare",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 2,
-        "v": "alla",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 3,
-        "v": "stazione",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 4,
-        "v": "ma",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 5,
-        "v": "non",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 6,
-        "v": "ho",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 7,
-        "v": "la",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 8,
-        "v": "macchina",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 9,
-        "v": "I",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 10,
-        "v": "signori",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 11,
-        "v": "Gaidano",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 12,
-        "v": "volere",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 13,
-        "v": "tornare",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 14,
-        "v": "a",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 15,
-        "v": "Torino",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 16,
-        "v": "ma",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 17,
-        "v": "per",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 18,
-        "v": "ora",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 19,
-        "v": "continuano",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 20,
-        "v": "a",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 21,
-        "v": "lavorare",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 22,
-        "v": "in",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 23,
-        "v": "Svizzera",
-        "role": "proper",
-        "cap": "Svizzera"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 24,
-        "v": "Zia",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 25,
-        "v": "ti",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 26,
-        "v": "piacere",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 27,
-        "v": "venire",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 28,
-        "v": "con",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 29,
-        "v": "noi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 30,
-        "v": "al",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 31,
-        "v": "concerto",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "?"
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 32,
-        "v": "Mi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 33,
-        "v": "dispiace",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 34,
-        "v": "io",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 35,
-        "v": "ti",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 36,
-        "v": "accompagnare",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 37,
-        "v": "volentieri",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 38,
-        "v": "dal",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 39,
-        "v": "medico",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 40,
-        "v": "ma",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 41,
-        "v": "alle",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 42,
-        "v": "devo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 43,
-        "v": "essere",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 44,
-        "v": "in",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 45,
-        "v": "ufficio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 46,
-        "v": "Enrico",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 47,
-        "v": "e",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 48,
-        "v": "Fabiola",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "raw",
-        "v": "("
-       },
-       {
-        "t": "word",
-        "id": 49,
-        "v": "sposarsi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ")"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 50,
-        "v": "ma",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 51,
-        "v": "non",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 52,
-        "v": "hanno",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 53,
-        "v": "ancora",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 54,
-        "v": "trovato",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 55,
-        "v": "casa",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       }
-      ],
-      "totalItems": 1
-     },
+     "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. Ti "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "porterei"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (portare) alla stazione, ma non ho la macchina."
+        }
+       ],
+       "answers": [
+        "porterei"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. I signori Gaidano "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "vorrebbero"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (volere) tornare a Torino, ma per ora continuano a lavorare in Svizzera."
+        }
+       ],
+       "answers": [
+        "vorrebbero"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Zia, ti "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "piacerebbe"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (piacere) venire con noi al concerto?"
+        }
+       ],
+       "answers": [
+        "piacerebbe"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Mi dispiace, io ti "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "accompagnerei"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (accompagnare) volentieri dal medico, ma alle 9 devo essere in ufficio."
+        }
+       ],
+       "answers": [
+        "accompagnerei"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. Enrico e Fabiola "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "si sposerebbero"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (sposarsi) ma non hanno ancora trovato casa."
+        }
+       ],
+       "answers": [
+        "si sposerebbero"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -22696,677 +15786,7 @@ window.QUIZ_DATA = {
      "body": "1. Dato che pago con la carta di credito, tengo pochi soldi nel portafoglio.\n   ___\n2. Mentre scendeva le scale, Paola è scivolata e si è fatta male.\n   ___\n3. La poveretta è stata investita dalla macchina, mentre attraversava la strada sulle strisce pedonali.\n   ___\n4. Mentre pensava a lei, Peter era felice.\n   ___\n5. Quando mi lavo i capelli, mi accorgo che ne perdo molti.\n   ___",
      "answerBody": "- 1. **Dato che pago** con la carta di credito, tengo pochi soldi nel portafoglio. → **Pagando** …\n- 2. **Mentre scendeva** le scale, Paola è scivolata e si è fatta male. → **Scendendo** …\n- 3. La poveretta è stata investita dalla macchina, **mentre attraversava** la strada sulle strisce pedonali. → **attraversando** …\n- 4. **Mentre pensava** a lei, Peter era felice. → **Pensando** …\n- 5. **Quando mi lavo** i capelli, mi accorgo che ne perdo molti. → **Lavandomi** …",
      "matching": null,
-     "passage": {
-      "tokens": [
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 0,
-        "v": "Dato",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 1,
-        "v": "che",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 2,
-        "v": "pago",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 3,
-        "v": "con",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 4,
-        "v": "la",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 5,
-        "v": "carta",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 6,
-        "v": "di",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 7,
-        "v": "credito",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 8,
-        "v": "tengo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 9,
-        "v": "pochi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 10,
-        "v": "soldi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 11,
-        "v": "nel",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 12,
-        "v": "portafoglio",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n   "
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 13,
-        "v": "Mentre",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 14,
-        "v": "scendeva",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 15,
-        "v": "le",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 16,
-        "v": "scale",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 17,
-        "v": "Paola",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 18,
-        "v": "è",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 19,
-        "v": "scivolata",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 20,
-        "v": "e",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 21,
-        "v": "si",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 22,
-        "v": "è",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 23,
-        "v": "fatta",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 24,
-        "v": "male",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n   "
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 25,
-        "v": "La",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 26,
-        "v": "poveretta",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 27,
-        "v": "è",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 28,
-        "v": "stata",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 29,
-        "v": "investita",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 30,
-        "v": "dalla",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 31,
-        "v": "macchina",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 32,
-        "v": "mentre",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 33,
-        "v": "attraversava",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 34,
-        "v": "la",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 35,
-        "v": "strada",
-        "role": "common"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 36,
-        "v": "sulle",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 37,
-        "v": "strisce",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 38,
-        "v": "pedonali",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n   "
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 39,
-        "v": "Mentre",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 40,
-        "v": "pensava",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 41,
-        "v": "a",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 42,
-        "v": "lei",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 43,
-        "v": "Peter",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 44,
-        "v": "era",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 45,
-        "v": "felice",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n   "
-       },
-       {
-        "t": "raw",
-        "v": "\n"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 46,
-        "v": "Quando",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 47,
-        "v": "mi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 48,
-        "v": "lavo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 49,
-        "v": "i",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 50,
-        "v": "capelli",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": ","
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 51,
-        "v": "mi",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 52,
-        "v": "accorgo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 53,
-        "v": "che",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 54,
-        "v": "ne",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 55,
-        "v": "perdo",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": " "
-       },
-       {
-        "t": "word",
-        "id": 56,
-        "v": "molti",
-        "role": "none"
-       },
-       {
-        "t": "raw",
-        "v": "."
-       },
-       {
-        "t": "raw",
-        "v": "\n   "
-       }
-      ],
-      "totalItems": 1
-     },
+     "passage": null,
      "categorization": null,
      "wordBank": null,
      "blanks": null
