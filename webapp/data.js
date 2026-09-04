@@ -12,340 +12,318 @@ window.QUIZ_DATA = {
      "body": "___ pesce ___ albero\n___ occhiali ___ vita\n___ articolo ___ capelli\n___ pioggia ___ spinaci\n___ spazzolino ___ olio\n___ incidente ___ ladri\n___ fiore ___ strada\n___ cugino ___ scienziato\n___ matite ___ vetro\n___ zucchino ___ dentista\n___ religione ___ incrocio",
      "answerBody": "- il pesce / l' albero\n- gli occhiali / la vita\n- l' articolo / i capelli\n- la pioggia / gli spinaci\n- lo spazzolino / l' olio\n- l' incidente / i ladri\n- il fiore / la strada\n- il cugino / lo scienziato\n- le matite / il vetro\n- lo zucchino / il dentista\n- la religione / l' incrocio",
      "matching": null,
-     "passage": null,
+     "passage": {
+      "tokens": [
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 0,
+        "v": "pesce",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 1,
+        "v": "albero",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 2,
+        "v": "occhiali",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 3,
+        "v": "vita",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 4,
+        "v": "articolo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 5,
+        "v": "capelli",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 6,
+        "v": "pioggia",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 7,
+        "v": "spinaci",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 8,
+        "v": "spazzolino",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 9,
+        "v": "olio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 10,
+        "v": "incidente",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 11,
+        "v": "ladri",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 12,
+        "v": "fiore",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 13,
+        "v": "strada",
+        "role": "common"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 14,
+        "v": "cugino",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 15,
+        "v": "scienziato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 16,
+        "v": "matite",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 17,
+        "v": "vetro",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 18,
+        "v": "zucchino",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 19,
+        "v": "dentista",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 20,
+        "v": "religione",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 21,
+        "v": "incrocio",
+        "role": "none"
+       }
+      ],
+      "totalItems": 1
+     },
+     "categorization": null,
      "wordBank": null,
-     "blanks": [
-      {
-       "segments": [
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "il"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " pesce "
-        },
-        {
-         "t": "blank",
-         "i": 1,
-         "answers": [
-          "l'"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " albero"
-        }
-       ],
-       "answers": [
-        "il",
-        "l'"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "gli"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " occhiali "
-        },
-        {
-         "t": "blank",
-         "i": 1,
-         "answers": [
-          "la"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " vita"
-        }
-       ],
-       "answers": [
-        "gli",
-        "la"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "l'"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " articolo "
-        },
-        {
-         "t": "blank",
-         "i": 1,
-         "answers": [
-          "i"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " capelli"
-        }
-       ],
-       "answers": [
-        "l'",
-        "i"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "la"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " pioggia "
-        },
-        {
-         "t": "blank",
-         "i": 1,
-         "answers": [
-          "gli"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " spinaci"
-        }
-       ],
-       "answers": [
-        "la",
-        "gli"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "lo"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " spazzolino "
-        },
-        {
-         "t": "blank",
-         "i": 1,
-         "answers": [
-          "l'"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " olio"
-        }
-       ],
-       "answers": [
-        "lo",
-        "l'"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "l'"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " incidente "
-        },
-        {
-         "t": "blank",
-         "i": 1,
-         "answers": [
-          "i"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " ladri"
-        }
-       ],
-       "answers": [
-        "l'",
-        "i"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "il"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " fiore "
-        },
-        {
-         "t": "blank",
-         "i": 1,
-         "answers": [
-          "la"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " strada"
-        }
-       ],
-       "answers": [
-        "il",
-        "la"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "il"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " cugino "
-        },
-        {
-         "t": "blank",
-         "i": 1,
-         "answers": [
-          "lo"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " scienziato"
-        }
-       ],
-       "answers": [
-        "il",
-        "lo"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "le"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " matite "
-        },
-        {
-         "t": "blank",
-         "i": 1,
-         "answers": [
-          "il"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " vetro"
-        }
-       ],
-       "answers": [
-        "le",
-        "il"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "lo"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " zucchino "
-        },
-        {
-         "t": "blank",
-         "i": 1,
-         "answers": [
-          "il"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " dentista"
-        }
-       ],
-       "answers": [
-        "lo",
-        "il"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "la"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " religione "
-        },
-        {
-         "t": "blank",
-         "i": 1,
-         "answers": [
-          "l'"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " incrocio"
-        }
-       ],
-       "answers": [
-        "la",
-        "l'"
-       ]
-      }
-     ]
+     "blanks": null
     },
     {
      "num": "02",
@@ -354,6 +332,7 @@ window.QUIZ_DATA = {
      "answerBody": "- un quaderno → i quaderni (esempio)\n1. una finestra → le finestre\n2. un uomo → gli uomini\n3. un'unghia → le unghie\n4. un'operaia → le operaie\n5. uno straniero → gli stranieri\n6. un orso → gli orsi\n7. un gioco → i giochi\n8. un vecchio → i vecchi\n9. uno stupido → gli stupidi\n10. un impiegato → gli impiegati",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -554,6 +533,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. il / **lo** / un zio\n2. le / **gli** / li zii\n3. **un** / un' / uno albero\n4. **la** / le / un cattedrale\n5. lo / **l'** / il esercito\n6. li / **gli** / i articoli\n7. **il** / la / le generale\n8. un / **un'** / una associazione\n9. **le** / la / un ferrovie\n10. un' / **l'** / lo ufficio\n11. una / **un'** / la assenza\n12. **i** / le / gli lavaggi",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -692,10 +672,6 @@ window.QUIZ_DATA = {
           "i"
          ],
          "answer": "gli"
-        },
-        {
-         "t": "text",
-         "v": " articoli"
         }
        ],
        "answers": [
@@ -717,10 +693,6 @@ window.QUIZ_DATA = {
           "le"
          ],
          "answer": "il"
-        },
-        {
-         "t": "text",
-         "v": " generale"
         }
        ],
        "answers": [
@@ -857,6 +829,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Tutti **gli** errori che fai sono dovuti alla tua distrazione.\n2. Prendi **la** pentola più grande che riesci a trovare.\n3. **Le** scarpe da ginnastica che Stefano ha comprato sono bellissime.\n4. Vorrei **un** francobollo per **una** lettera da spedire in Perù.\n5. **L'** orologio è fermo. Sono già **le** sette?\n6. **Il** telegiornale ha trasmesso **le** ultime notizie.\n7. Mia zia è **una** donna molto simpatica, ma **le** sue sorelle no.\n8. **I** tuoi vicini di casa hanno **un** modo di fare insopportabile.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -1104,6 +1077,7 @@ window.QUIZ_DATA = {
      "answerBody": "(senza soluzione fissa – spunti liberi)\n1. La casa nuova / Una casa nuova\n2. Un inverno / L'inverno\n3. Un lago / Il lago\n4. La cartolina / Una cartolina\n5. Lo sport / Uno sport",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -1122,6 +1096,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. del / della / **dell'** acqua\n2. delle / **degli** / dell' alberi\n3. **del** / dello / dell' cioccolato\n4. **delle** / dei / dell' insegnanti\n5. della / delle / **dell'** olio\n6. dello / del / **delle** sciocchezze\n7. del / della / **delle** risposte\n8. della / **delle** / dell' associazioni\n9. **dello** / del / dell' zucchero\n10. **del** / dell' / dello latte\n11. dei / **degli** / delli studenti\n12. **della** / dell' / del benzina",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -1429,6 +1404,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. un banco – dei banchi\n2. una compagna – delle compagne\n3. un giorno – dei giorni\n4. un problema – dei problemi\n5. una lezione – delle lezioni\n6. una pagina – delle pagine\n7. una finestra – delle finestre\n8. un gioco – dei giochi\n9. una merendina – delle merendine\n10. una cosa – delle cose\n11. uno scalino – degli scalini\n12. un berretto – dei berretti\n13. uno zaino – degli zaini\n14. una scarpa – delle scarpe\n15. un orologio – degli orologi",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -1729,6 +1705,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Fai **degli** errori dovuti alla tua distrazione.\n2. Prendi **dell'** acqua per far bollire **delle** patate per stasera.\n3. Stefano ha comprato **delle** bellissime scarpe da ginnastica.\n4. Vorrei **dei** francobolli per il Perù.\n5. Metti nella valigia **delle** calze, **delle** magliette, **delle** mutande e un paio di pantaloni.\n6. Il telegiornale ha trasmesso **delle** notizie terribili sulla guerra in Cecenia.\n7. Mia zia ha **delle** sorelle non molto simpatiche.\n8. I vicini di casa di Giulia hanno **dei** modi di fare insopportabili.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -1952,6 +1929,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Per favore, dammi **dei** soldi per pagare il macellaio. → **un po' di soldi**\n2. Vuoi ancora **della** coca-cola? → **un po' di coca-cola**\n3. Metti ancora **del** sale nell'acqua per la pasta. → **un po' di sale**\n4. C'era **del** fango sul pavimento e così sono scivolato. → **un po' di fango**\n5. Qui ci vuole **del** nastro adesivo per aggiustare il libro. → **un po' di nastro adesivo**\n6. Hai **della** carta da imprestarmi? → **un po' di carta**\n7. Ci ha preparato **del** tiramisù. → **un po' di tiramisù**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -2180,278 +2158,1224 @@ window.QUIZ_DATA = {
      "body": "1. Alberto / L'Alberto frequenta l'ultimo anno di università al politecnico.\n2. Mi hanno telefonato Guglielmi / i Guglielmi per disdire l'appuntamento che avevamo con loro.\n3. Kilimangiaro / Il Kilimangiaro è un monte di Africa / dell'Africa.\n4. Hai visitato Napoli / la Napoli archeologica?\n5. Deledda / La Deledda è l'unica scrittrice italiana che ha vinto il premio Nobel per la letteratura.\n6. I Vigili del Fuoco hanno estratto Calleri / il Calleri ormai morto dalle lamiere dell'auto.\n7. Tunisia / La Tunisia è bagnata da Mediterraneo / dal Mediterraneo.\n8. Roma è attraversata da Tevere / dal Tevere.\n9. Marocco / Il Marocco è un paese bellissimo.\n10. Sergio Benni / Il Sergio Benni fa l'elettrauto.",
      "answerBody": "1. **Alberto** / L'Alberto frequenta l'ultimo anno di università al politecnico.\n2. Mi hanno telefonato Guglielmi / **i Guglielmi** per disdire l'appuntamento che avevamo con loro.\n3. Kilimangiaro / **Il Kilimangiaro** è un monte di Africa / **dell'Africa**.\n4. Hai visitato Napoli / **la Napoli** archeologica?\n5. Deledda / **La Deledda** è l'unica scrittrice italiana che ha vinto il premio Nobel per la letteratura.\n6. I Vigili del Fuoco hanno estratto **Calleri** / il Calleri ormai morto dalle lamiere dell'auto.\n7. Tunisia / **La Tunisia** è bagnata da Mediterraneo / **dal Mediterraneo**.\n8. Roma è attraversata da Tevere / **dal Tevere**.\n9. Marocco / **Il Marocco** è un paese bellissimo.\n10. **Sergio Benni** / Il Sergio Benni fa l'elettrauto.",
      "matching": null,
-     "passage": null,
+     "passage": {
+      "tokens": [
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 0,
+        "v": "Alberto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "L'"
+       },
+       {
+        "t": "word",
+        "id": 1,
+        "v": "Alberto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 2,
+        "v": "frequenta",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "l'"
+       },
+       {
+        "t": "word",
+        "id": 3,
+        "v": "ultimo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 4,
+        "v": "anno",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 5,
+        "v": "di",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 6,
+        "v": "università",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 7,
+        "v": "al",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 8,
+        "v": "politecnico",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 9,
+        "v": "Mi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 10,
+        "v": "hanno",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 11,
+        "v": "telefonato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 12,
+        "v": "Guglielmi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 13,
+        "v": "i",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 14,
+        "v": "Guglielmi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 15,
+        "v": "per",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 16,
+        "v": "disdire",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "l'"
+       },
+       {
+        "t": "word",
+        "id": 17,
+        "v": "appuntamento",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 18,
+        "v": "che",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 19,
+        "v": "avevamo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 20,
+        "v": "con",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 21,
+        "v": "loro",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 22,
+        "v": "Kilimangiaro",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 23,
+        "v": "Il",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 24,
+        "v": "Kilimangiaro",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 25,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 26,
+        "v": "un",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 27,
+        "v": "monte",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 28,
+        "v": "di",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 29,
+        "v": "Africa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "dell'"
+       },
+       {
+        "t": "word",
+        "id": 30,
+        "v": "Africa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 31,
+        "v": "Hai",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 32,
+        "v": "visitato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 33,
+        "v": "Napoli",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 34,
+        "v": "la",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 35,
+        "v": "Napoli",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 36,
+        "v": "archeologica",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "?"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 37,
+        "v": "Deledda",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 38,
+        "v": "La",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 39,
+        "v": "Deledda",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 40,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "l'"
+       },
+       {
+        "t": "word",
+        "id": 41,
+        "v": "unica",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 42,
+        "v": "scrittrice",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 43,
+        "v": "italiana",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 44,
+        "v": "che",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 45,
+        "v": "ha",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 46,
+        "v": "vinto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 47,
+        "v": "il",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 48,
+        "v": "premio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 49,
+        "v": "Nobel",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 50,
+        "v": "per",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 51,
+        "v": "la",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 52,
+        "v": "letteratura",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 53,
+        "v": "I",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 54,
+        "v": "Vigili",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 55,
+        "v": "del",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 56,
+        "v": "Fuoco",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 57,
+        "v": "hanno",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 58,
+        "v": "estratto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 59,
+        "v": "Calleri",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 60,
+        "v": "il",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 61,
+        "v": "Calleri",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 62,
+        "v": "ormai",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 63,
+        "v": "morto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 64,
+        "v": "dalle",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 65,
+        "v": "lamiere",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "dell'"
+       },
+       {
+        "t": "word",
+        "id": 66,
+        "v": "auto",
+        "role": "common"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 67,
+        "v": "Tunisia",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 68,
+        "v": "La",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 69,
+        "v": "Tunisia",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 70,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 71,
+        "v": "bagnata",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 72,
+        "v": "da",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 73,
+        "v": "Mediterraneo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 74,
+        "v": "dal",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 75,
+        "v": "Mediterraneo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 76,
+        "v": "Roma",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 77,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 78,
+        "v": "attraversata",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 79,
+        "v": "da",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 80,
+        "v": "Tevere",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 81,
+        "v": "dal",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 82,
+        "v": "Tevere",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 83,
+        "v": "Marocco",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 84,
+        "v": "Il",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 85,
+        "v": "Marocco",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 86,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 87,
+        "v": "un",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 88,
+        "v": "paese",
+        "role": "common"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 89,
+        "v": "bellissimo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 90,
+        "v": "Sergio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 91,
+        "v": "Benni",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 92,
+        "v": "Il",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 93,
+        "v": "Sergio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 94,
+        "v": "Benni",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 95,
+        "v": "fa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "l'"
+       },
+       {
+        "t": "word",
+        "id": 96,
+        "v": "elettrauto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       }
+      ],
+      "totalItems": 2
+     },
+     "categorization": null,
      "wordBank": null,
-     "blanks": [
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "1. "
-        },
-        {
-         "t": "choice",
-         "i": 0,
-         "options": [
-          "Alberto",
-          "L'Alberto"
-         ],
-         "answer": "Alberto"
-        },
-        {
-         "t": "text",
-         "v": " frequenta l'ultimo anno di università al politecnico."
-        }
-       ],
-       "answers": [
-        "Alberto"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "2. Mi hanno telefonato "
-        },
-        {
-         "t": "choice",
-         "i": 0,
-         "options": [
-          "Guglielmi",
-          "i Guglielmi"
-         ],
-         "answer": "i Guglielmi"
-        },
-        {
-         "t": "text",
-         "v": " per disdire l'appuntamento che avevamo con loro."
-        }
-       ],
-       "answers": [
-        "i Guglielmi"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "3. "
-        },
-        {
-         "t": "choice",
-         "i": 0,
-         "options": [
-          "Kilimangiaro",
-          "Il Kilimangiaro"
-         ],
-         "answer": "Il Kilimangiaro"
-        },
-        {
-         "t": "text",
-         "v": " è un monte "
-        },
-        {
-         "t": "choice",
-         "i": 1,
-         "options": [
-          "di Africa",
-          "dell'Africa"
-         ],
-         "answer": "dell'Africa"
-        },
-        {
-         "t": "text",
-         "v": "."
-        }
-       ],
-       "answers": [
-        "Il Kilimangiaro",
-        "dell'Africa"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "4. Hai visitato "
-        },
-        {
-         "t": "choice",
-         "i": 0,
-         "options": [
-          "Napoli",
-          "la Napoli"
-         ],
-         "answer": "la Napoli"
-        },
-        {
-         "t": "text",
-         "v": " archeologica?"
-        }
-       ],
-       "answers": [
-        "la Napoli"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "5. "
-        },
-        {
-         "t": "choice",
-         "i": 0,
-         "options": [
-          "Deledda",
-          "La Deledda"
-         ],
-         "answer": "La Deledda"
-        },
-        {
-         "t": "text",
-         "v": " è l'unica scrittrice italiana che ha vinto il premio Nobel per la letteratura."
-        }
-       ],
-       "answers": [
-        "La Deledda"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "6. I Vigili del Fuoco hanno estratto "
-        },
-        {
-         "t": "choice",
-         "i": 0,
-         "options": [
-          "Calleri",
-          "il Calleri"
-         ],
-         "answer": "Calleri"
-        },
-        {
-         "t": "text",
-         "v": " ormai morto dalle lamiere dell'auto."
-        }
-       ],
-       "answers": [
-        "Calleri"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "7. "
-        },
-        {
-         "t": "choice",
-         "i": 0,
-         "options": [
-          "Tunisia",
-          "La Tunisia"
-         ],
-         "answer": "La Tunisia"
-        },
-        {
-         "t": "text",
-         "v": " è bagnata "
-        },
-        {
-         "t": "choice",
-         "i": 1,
-         "options": [
-          "da Mediterraneo",
-          "dal Mediterraneo"
-         ],
-         "answer": "dal Mediterraneo"
-        },
-        {
-         "t": "text",
-         "v": "."
-        }
-       ],
-       "answers": [
-        "La Tunisia",
-        "dal Mediterraneo"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "8. Roma è attraversata "
-        },
-        {
-         "t": "choice",
-         "i": 0,
-         "options": [
-          "da Tevere",
-          "dal Tevere"
-         ],
-         "answer": "dal Tevere"
-        },
-        {
-         "t": "text",
-         "v": "."
-        }
-       ],
-       "answers": [
-        "dal Tevere"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "9. "
-        },
-        {
-         "t": "choice",
-         "i": 0,
-         "options": [
-          "Marocco",
-          "Il Marocco"
-         ],
-         "answer": "Il Marocco"
-        },
-        {
-         "t": "text",
-         "v": " è un paese bellissimo."
-        }
-       ],
-       "answers": [
-        "Il Marocco"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "10. "
-        },
-        {
-         "t": "choice",
-         "i": 0,
-         "options": [
-          "Sergio Benni",
-          "Il Sergio Benni"
-         ],
-         "answer": "Sergio Benni"
-        },
-        {
-         "t": "text",
-         "v": " fa l'elettrauto."
-        }
-       ],
-       "answers": [
-        "Sergio Benni"
-       ]
-      }
-     ]
+     "blanks": null
     },
     {
      "num": "02",
@@ -2547,6 +3471,7 @@ window.QUIZ_DATA = {
       }
      ],
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -2556,352 +3481,1466 @@ window.QUIZ_DATA = {
      "body": "1. Ho incontrato ___ professor Rossi davanti alla scuola.\n2. ___ maestra Grandi oggi ci ha portati al museo.\n3. ___ Lombardia è una regione ricca e verde.\n4. Ho chiesto a Paola com'era ___ Australia: ci è stata in vacanza per tre mesi!\n5. È ___ Po il fiume che nasce dal Monviso?\n6. ___ Milano ci sono spesso avvenimenti internazionali molto importanti.\n7. ___ Francia si fa festa il 14 luglio.\n8. ___ Roma oggi ha vinto la partita.\n9. ___ Canestri non sono in casa. Riprova più tardi.\n10. ___ Anna Picchio non lavora più qui da due anni.\n11. ___ Picchio adesso si è trasferita a Firenze.\n12. ___ Roma dell'antichità era una città importantissima.\n13. ___ Roma è una città che gode di un magnifico clima.\n14. Quando ___ Manzoni ha pubblicato I Promessi sposi aveva quarantadue anni.\n15. ___ Gran Bretagna si guida a sinistra.",
      "answerBody": "1. Ho incontrato **il** professor Rossi davanti alla scuola.\n2. **La** maestra Grandi oggi ci ha portati al museo.\n3. **La** Lombardia è una regione ricca e verde.\n4. Ho chiesto a Paola com'era **l'** Australia: ci è stata in vacanza per tre mesi!\n5. È **il** Po il fiume che nasce dal Monviso?\n6. **A** Milano ci sono spesso avvenimenti internazionali molto importanti.\n7. **In** Francia si fa festa il 14 luglio.\n8. **La** Roma oggi ha vinto la partita.\n9. **I** Canestri non sono in casa. Riprova più tardi.\n10. (–) Anna Picchio non lavora più qui da due anni.\n11. **La** Picchio adesso si è trasferita a Firenze.\n12. **La** Roma dell'antichità era una città importantissima.\n13. (–) Roma è una città che gode di un magnifico clima.\n14. Quando **il** Manzoni ha pubblicato I Promessi sposi aveva quarantadue anni.\n15. **In** Gran Bretagna si guida a sinistra.",
      "matching": null,
-     "passage": null,
+     "passage": {
+      "tokens": [
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 0,
+        "v": "Ho",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 1,
+        "v": "incontrato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 2,
+        "v": "professor",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 3,
+        "v": "Rossi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 4,
+        "v": "davanti",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 5,
+        "v": "alla",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 6,
+        "v": "scuola",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 7,
+        "v": "maestra",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 8,
+        "v": "Grandi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 9,
+        "v": "oggi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 10,
+        "v": "ci",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 11,
+        "v": "ha",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 12,
+        "v": "portati",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 13,
+        "v": "al",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 14,
+        "v": "museo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 15,
+        "v": "Lombardia",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 16,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 17,
+        "v": "una",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 18,
+        "v": "regione",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 19,
+        "v": "ricca",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 20,
+        "v": "e",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 21,
+        "v": "verde",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 22,
+        "v": "Ho",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 23,
+        "v": "chiesto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 24,
+        "v": "a",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 25,
+        "v": "Paola",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 26,
+        "v": "com'era",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 27,
+        "v": "Australia",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ":"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 28,
+        "v": "ci",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 29,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 30,
+        "v": "stata",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 31,
+        "v": "in",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 32,
+        "v": "vacanza",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 33,
+        "v": "per",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 34,
+        "v": "tre",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 35,
+        "v": "mesi",
+        "role": "common"
+       },
+       {
+        "t": "raw",
+        "v": "!"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 36,
+        "v": "È",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 37,
+        "v": "Po",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 38,
+        "v": "il",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 39,
+        "v": "fiume",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 40,
+        "v": "che",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 41,
+        "v": "nasce",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 42,
+        "v": "dal",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 43,
+        "v": "Monviso",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "?"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 44,
+        "v": "Milano",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 45,
+        "v": "ci",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 46,
+        "v": "sono",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 47,
+        "v": "spesso",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 48,
+        "v": "avvenimenti",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 49,
+        "v": "internazionali",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 50,
+        "v": "molto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 51,
+        "v": "importanti",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 52,
+        "v": "Francia",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 53,
+        "v": "si",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 54,
+        "v": "fa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 55,
+        "v": "festa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 56,
+        "v": "il",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 57,
+        "v": "luglio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 58,
+        "v": "Roma",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 59,
+        "v": "oggi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 60,
+        "v": "ha",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 61,
+        "v": "vinto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 62,
+        "v": "la",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 63,
+        "v": "partita",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 64,
+        "v": "Canestri",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 65,
+        "v": "non",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 66,
+        "v": "sono",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 67,
+        "v": "in",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 68,
+        "v": "casa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 69,
+        "v": "Riprova",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 70,
+        "v": "più",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 71,
+        "v": "tardi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 72,
+        "v": "Anna",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 73,
+        "v": "Picchio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 74,
+        "v": "non",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 75,
+        "v": "lavora",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 76,
+        "v": "più",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 77,
+        "v": "qui",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 78,
+        "v": "da",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 79,
+        "v": "due",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 80,
+        "v": "anni",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 81,
+        "v": "Picchio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 82,
+        "v": "adesso",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 83,
+        "v": "si",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 84,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 85,
+        "v": "trasferita",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 86,
+        "v": "a",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 87,
+        "v": "Firenze",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 88,
+        "v": "Roma",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "dell'"
+       },
+       {
+        "t": "word",
+        "id": 89,
+        "v": "antichità",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 90,
+        "v": "era",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 91,
+        "v": "una",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 92,
+        "v": "città",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 93,
+        "v": "importantissima",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 94,
+        "v": "Roma",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 95,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 96,
+        "v": "una",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 97,
+        "v": "città",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 98,
+        "v": "che",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 99,
+        "v": "gode",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 100,
+        "v": "di",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 101,
+        "v": "un",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 102,
+        "v": "magnifico",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 103,
+        "v": "clima",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 104,
+        "v": "Quando",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 105,
+        "v": "Manzoni",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 106,
+        "v": "ha",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 107,
+        "v": "pubblicato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 108,
+        "v": "I",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 109,
+        "v": "Promessi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 110,
+        "v": "sposi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 111,
+        "v": "aveva",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 112,
+        "v": "quarantadue",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 113,
+        "v": "anni",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 114,
+        "v": "Gran",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 115,
+        "v": "Bretagna",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 116,
+        "v": "si",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 117,
+        "v": "guida",
+        "role": "common"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 118,
+        "v": "a",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 119,
+        "v": "sinistra",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       }
+      ],
+      "totalItems": 2
+     },
+     "categorization": null,
      "wordBank": null,
-     "blanks": [
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "1. Ho incontrato "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "il"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " professor Rossi davanti alla scuola."
-        }
-       ],
-       "answers": [
-        "il"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "2. "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "La"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " maestra Grandi oggi ci ha portati al museo."
-        }
-       ],
-       "answers": [
-        "La"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "3. "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "La"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " Lombardia è una regione ricca e verde."
-        }
-       ],
-       "answers": [
-        "La"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "4. Ho chiesto a Paola com'era "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "l'"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " Australia: ci è stata in vacanza per tre mesi!"
-        }
-       ],
-       "answers": [
-        "l'"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "5. È "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "il"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " Po il fiume che nasce dal Monviso?"
-        }
-       ],
-       "answers": [
-        "il"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "6. "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "A"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " Milano ci sono spesso avvenimenti internazionali molto importanti."
-        }
-       ],
-       "answers": [
-        "A"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "7. "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "In"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " Francia si fa festa il 14 luglio."
-        }
-       ],
-       "answers": [
-        "In"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "8. "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "La"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " Roma oggi ha vinto la partita."
-        }
-       ],
-       "answers": [
-        "La"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "9. "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "I"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " Canestri non sono in casa. Riprova più tardi."
-        }
-       ],
-       "answers": [
-        "I"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "10. "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "–",
-          "-",
-          "",
-          "(–)",
-          "nessuno",
-          "no",
-          "/"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " Anna Picchio non lavora più qui da due anni."
-        }
-       ],
-       "answers": [
-        "–"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "11. "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "La"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " Picchio adesso si è trasferita a Firenze."
-        }
-       ],
-       "answers": [
-        "La"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "12. "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "La"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " Roma dell'antichità era una città importantissima."
-        }
-       ],
-       "answers": [
-        "La"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "13. "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "–",
-          "-",
-          "",
-          "(–)",
-          "nessuno",
-          "no",
-          "/"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " Roma è una città che gode di un magnifico clima."
-        }
-       ],
-       "answers": [
-        "–"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "14. Quando "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "il"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " Manzoni ha pubblicato I Promessi sposi aveva quarantadue anni."
-        }
-       ],
-       "answers": [
-        "il"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "15. "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "In"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " Gran Bretagna si guida a sinistra."
-        }
-       ],
-       "answers": [
-        "In"
-       ]
-      }
-     ]
+     "blanks": null
     }
    ]
   },
@@ -3993,6 +6032,7 @@ window.QUIZ_DATA = {
       ],
       "totalItems": 29
      },
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -4003,6 +6043,158 @@ window.QUIZ_DATA = {
      "answerBody": "Elenco: alessandro manzoni, bottiglia, ferro, luce, unghia, statua, gamba, arancia, milano, londra, roberto, giocattolo, vittorio emanuele, berlusconi, africa, rio delle amazzoni, appennini, bologna, vasco rossi, informazione, ralph schumacher, papà, dizionario\n- Nomi comuni: bottiglia, arancia, ferro, giocattolo, luce, informazione, unghia, papà, statua, dizionario, gamba\n- Nomi propri: Alessandro Manzoni, Africa, Milano, Rio delle Amazzoni, Londra, Appennini, Roberto, Bologna, Vittorio Emanuele, Vasco Rossi, Berlusconi, Ralph Schumacher",
      "matching": null,
      "passage": null,
+     "categorization": {
+      "categories": [
+       {
+        "id": "cat_0",
+        "title": "Nomi comuni"
+       },
+       {
+        "id": "cat_1",
+        "title": "Nomi propri"
+       }
+      ],
+      "items": [
+       {
+        "id": "w_0",
+        "text": "alessandro manzoni",
+        "facitText": "Alessandro Manzoni",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_1",
+        "text": "bottiglia",
+        "facitText": "bottiglia",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_2",
+        "text": "ferro",
+        "facitText": "ferro",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_3",
+        "text": "luce",
+        "facitText": "luce",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_4",
+        "text": "unghia",
+        "facitText": "unghia",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_5",
+        "text": "statua",
+        "facitText": "statua",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_6",
+        "text": "gamba",
+        "facitText": "gamba",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_7",
+        "text": "arancia",
+        "facitText": "arancia",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_8",
+        "text": "milano",
+        "facitText": "Milano",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_9",
+        "text": "londra",
+        "facitText": "Londra",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_10",
+        "text": "roberto",
+        "facitText": "Roberto",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_11",
+        "text": "giocattolo",
+        "facitText": "giocattolo",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_12",
+        "text": "vittorio emanuele",
+        "facitText": "Vittorio Emanuele",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_13",
+        "text": "berlusconi",
+        "facitText": "Berlusconi",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_14",
+        "text": "africa",
+        "facitText": "Africa",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_15",
+        "text": "rio delle amazzoni",
+        "facitText": "Rio delle Amazzoni",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_16",
+        "text": "appennini",
+        "facitText": "Appennini",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_17",
+        "text": "bologna",
+        "facitText": "Bologna",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_18",
+        "text": "vasco rossi",
+        "facitText": "Vasco Rossi",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_19",
+        "text": "informazione",
+        "facitText": "informazione",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_20",
+        "text": "ralph schumacher",
+        "facitText": "Ralph Schumacher",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_21",
+        "text": "papà",
+        "facitText": "papà",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_22",
+        "text": "dizionario",
+        "facitText": "dizionario",
+        "targetCat": "cat_0"
+       }
+      ]
+     },
      "wordBank": [
       "alessandro manzoni",
       "bottiglia",
@@ -4037,6 +6229,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Alessandro Del Piero – **calciatore**\n2. Giacomo Leopardi – **scrittore**\n3. Venezia – **città**\n4. Ferrari – **macchina**\n5. Juventus – **squadra**\n6. Danubio – **fiume**\n7. Sicilia – **isola**\n8. montagna – **Everest**\n9. lago – **di Garda**\n10. cantante – **Lucio Battisti**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -4228,6 +6421,7 @@ window.QUIZ_DATA = {
      "answerBody": "Elenco: api, clienti, giocatori, navi, alberi, mucche, foglie, musicisti, giudici, fogli\n1. Lo sciame è un gruppo di **api**.\n2. La flotta è formata da **navi**.\n3. La squadra è formata da **giocatori**.\n4. La mandria è formata da **mucche**.\n5. La risma è un insieme di **fogli**.\n6. La clientela è formata da **clienti**.\n7. La giuria è un gruppo di **giudici**.\n8. Il fogliame è formato da **foglie**.\n9. Il bosco è formato da **alberi**.\n10. L'orchestra è un gruppo di **musicisti**.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": [
       "api",
       "clienti",
@@ -4447,6 +6641,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. la lezion**e**\n2. **il** problema\n3. il poet**a**\n4. **l'** operaio\n5. il giornalist**a**\n6. il cugin**o**\n7. **il** formaggio\n8. **la** mano\n9. lo zuccher**o**\n10. la carn**e**\n11. **il** videogioco\n12. **il** giovedì\n13. la soluzion**e**\n14. **il** pilota\n15. **la** parrucchiera\n16. **il** salame\n17. il pomodor**o**\n18. **il** clima\n19. lo student**e**\n20. **la** bontà",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -4858,10 +7053,1296 @@ window.QUIZ_DATA = {
     {
      "num": "02",
      "instruction": "Nel brano che segue le parole in corsivo sono nomi. Sottolinea in blu i nomi maschili e in rosso i nomi femminili.",
-     "body": "Un incredibile incidente è avvenuto all'aeroporto del Cairo. Per non investire un cammello che trotterellava da solo sulla pista, il pilota di un aereo che stava decollando ha sbandato ed è finito sulla sabbia, atterrando malamente sulla pancia, perché il carrello con le ruote era ormai stato ritirato. Non ci sono state vittime, ma il velivolo ha subito gravi danni. Non si sa da quale carovana sia fuggito l'animale, che – apparendo all'improvviso – ha spaventato il pilota, costringendolo ad una manovra d'emergenza, per evitare un investimento che sarebbe stato molto pericoloso. L'aeroporto è rimasto chiuso due ore per sgomberare la pista e riattivare il traffico.\n\n(adattato dalla «Domenica del Corriere», 11 luglio 1965)",
+     "body": "Un incredibile *incidente* è avvenuto all'*aeroporto* del Cairo. Per non investire un *cammello* che trotterellava da solo sulla *pista*, il *pilota* di un *aereo* che stava decollando ha sbandato ed è finito sulla *sabbia*, atterrando malamente sulla *pancia*, perché il *carrello* con le *ruote* era ormai stato ritirato. Non ci sono state *vittime*, ma il *velivolo* ha subito gravi *danni*. Non si sa da quale *carovana* sia fuggito l'*animale*, che – apparendo all'improvviso – ha spaventato il *pilota*, costringendolo ad una *manovra* d'*emergenza*, per evitare un *investimento* che sarebbe stato molto pericoloso. L'*aeroporto* è rimasto chiuso due *ore* per sgomberare la *pista* e riattivare il *traffico*.\n\n(adattato dalla «Domenica del Corriere», 11 luglio 1965)",
      "answerBody": "> Un incredibile *incidente* (M) è avvenuto all'*aeroporto* (M) del Cairo. Per non investire un *cammello* (M) che trotterellava da solo sulla *pista* (F), il *pilota* (M) di un *aereo* (M) che stava decollando ha sbandato ed è finito sulla *sabbia* (F), atterrando malamente sulla *pancia* (F), perché il *carrello* (M) con le *ruote* (F) era ormai stato ritirato. Non ci sono state *vittime* (F), ma il *velivolo* (M) ha subito gravi *danni* (M). Non si sa da quale *carovana* (F) sia fuggito l'*animale* (M), che – apparendo all'improvviso – ha spaventato il *pilota* (M), costringendolo ad una *manovra* (F) d'*emergenza* (F), per evitare un *investimento* (M) che sarebbe stato molto pericoloso. L'*aeroporto* (M) è rimasto chiuso due *ore* (F) per sgomberare la *pista* (F) e riattivare il *traffico* (M).\n- (adattato dalla «Domenica del Corriere», 11 luglio 1965)",
      "matching": null,
-     "passage": null,
+     "passage": {
+      "tokens": [
+       {
+        "t": "word",
+        "id": 0,
+        "v": "Un",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 1,
+        "v": "incredibile",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 2,
+        "v": "incidente",
+        "role": "masculine"
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 3,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 4,
+        "v": "avvenuto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 5,
+        "v": "all'",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 6,
+        "v": "aeroporto",
+        "role": "masculine"
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 7,
+        "v": "del",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 8,
+        "v": "Cairo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 9,
+        "v": "Per",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 10,
+        "v": "non",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 11,
+        "v": "investire",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 12,
+        "v": "un",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 13,
+        "v": "cammello",
+        "role": "masculine"
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 14,
+        "v": "che",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 15,
+        "v": "trotterellava",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 16,
+        "v": "da",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 17,
+        "v": "solo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 18,
+        "v": "sulla",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 19,
+        "v": "pista",
+        "role": "feminine"
+       },
+       {
+        "t": "raw",
+        "v": "*,"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 20,
+        "v": "il",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 21,
+        "v": "pilota",
+        "role": "masculine"
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 22,
+        "v": "di",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 23,
+        "v": "un",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 24,
+        "v": "aereo",
+        "role": "masculine"
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 25,
+        "v": "che",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 26,
+        "v": "stava",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 27,
+        "v": "decollando",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 28,
+        "v": "ha",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 29,
+        "v": "sbandato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 30,
+        "v": "ed",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 31,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 32,
+        "v": "finito",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 33,
+        "v": "sulla",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 34,
+        "v": "sabbia",
+        "role": "feminine"
+       },
+       {
+        "t": "raw",
+        "v": "*,"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 35,
+        "v": "atterrando",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 36,
+        "v": "malamente",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 37,
+        "v": "sulla",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 38,
+        "v": "pancia",
+        "role": "feminine"
+       },
+       {
+        "t": "raw",
+        "v": "*,"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 39,
+        "v": "perché",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 40,
+        "v": "il",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 41,
+        "v": "carrello",
+        "role": "masculine"
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 42,
+        "v": "con",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 43,
+        "v": "le",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 44,
+        "v": "ruote",
+        "role": "feminine"
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 45,
+        "v": "era",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 46,
+        "v": "ormai",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 47,
+        "v": "stato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 48,
+        "v": "ritirato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 49,
+        "v": "Non",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 50,
+        "v": "ci",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 51,
+        "v": "sono",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 52,
+        "v": "state",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 53,
+        "v": "vittime",
+        "role": "feminine"
+       },
+       {
+        "t": "raw",
+        "v": "*,"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 54,
+        "v": "ma",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 55,
+        "v": "il",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 56,
+        "v": "velivolo",
+        "role": "masculine"
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 57,
+        "v": "ha",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 58,
+        "v": "subito",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 59,
+        "v": "gravi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 60,
+        "v": "danni",
+        "role": "masculine"
+       },
+       {
+        "t": "raw",
+        "v": "*."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 61,
+        "v": "Non",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 62,
+        "v": "si",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 63,
+        "v": "sa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 64,
+        "v": "da",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 65,
+        "v": "quale",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 66,
+        "v": "carovana",
+        "role": "feminine"
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 67,
+        "v": "sia",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 68,
+        "v": "fuggito",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "l'"
+       },
+       {
+        "t": "word",
+        "id": 69,
+        "v": "",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 70,
+        "v": "animale",
+        "role": "masculine"
+       },
+       {
+        "t": "raw",
+        "v": "*,"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 71,
+        "v": "che",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "–"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 72,
+        "v": "apparendo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 73,
+        "v": "all'improvviso",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "–"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 74,
+        "v": "ha",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 75,
+        "v": "spaventato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 76,
+        "v": "il",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 77,
+        "v": "pilota",
+        "role": "masculine"
+       },
+       {
+        "t": "raw",
+        "v": "*,"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 78,
+        "v": "costringendolo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 79,
+        "v": "ad",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 80,
+        "v": "una",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 81,
+        "v": "manovra",
+        "role": "feminine"
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 82,
+        "v": "d'",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 83,
+        "v": "emergenza",
+        "role": "feminine"
+       },
+       {
+        "t": "raw",
+        "v": "*,"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 84,
+        "v": "per",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 85,
+        "v": "evitare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 86,
+        "v": "un",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 87,
+        "v": "investimento",
+        "role": "masculine"
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 88,
+        "v": "che",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 89,
+        "v": "sarebbe",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 90,
+        "v": "stato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 91,
+        "v": "molto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 92,
+        "v": "pericoloso",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "L'"
+       },
+       {
+        "t": "word",
+        "id": 93,
+        "v": "",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 94,
+        "v": "aeroporto",
+        "role": "masculine"
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 95,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 96,
+        "v": "rimasto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 97,
+        "v": "chiuso",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 98,
+        "v": "due",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 99,
+        "v": "ore",
+        "role": "feminine"
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 100,
+        "v": "per",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 101,
+        "v": "sgomberare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 102,
+        "v": "la",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 103,
+        "v": "pista",
+        "role": "feminine"
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 104,
+        "v": "e",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 105,
+        "v": "riattivare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 106,
+        "v": "il",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "*"
+       },
+       {
+        "t": "word",
+        "id": 107,
+        "v": "traffico",
+        "role": "masculine"
+       },
+       {
+        "t": "raw",
+        "v": "*."
+       }
+      ],
+      "totalItems": 23,
+      "mode": "gender"
+     },
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -4872,6 +8353,132 @@ window.QUIZ_DATA = {
      "answerBody": "Elenco: corpo, cervello, televisione, cugino, foglio, sete, elefante, asino, pioggia, impiegato, medico, gallina, calore, zia, leonessa, segretaria\n- Maschile / dipende dal sesso della persona: cugino, impiegato, medico\n- Maschile / dipende dal sesso dell'animale: elefante, asino\n- Maschile / solo categoria grammaticale: corpo, calore, cervello, foglio\n- Femminile / dipende dal sesso della persona: zia, segretaria\n- Femminile / dipende dal sesso dell'animale: gallina, leonessa\n- Femminile / solo categoria grammaticale: televisione, sete, pioggia",
      "matching": null,
      "passage": null,
+     "categorization": {
+      "categories": [
+       {
+        "id": "cat_0",
+        "title": "Maschile / dipende dal sesso della persona"
+       },
+       {
+        "id": "cat_1",
+        "title": "Maschile / dipende dal sesso dell'animale"
+       },
+       {
+        "id": "cat_2",
+        "title": "Maschile / solo categoria grammaticale"
+       },
+       {
+        "id": "cat_3",
+        "title": "Femminile / dipende dal sesso della persona"
+       },
+       {
+        "id": "cat_4",
+        "title": "Femminile / dipende dal sesso dell'animale"
+       },
+       {
+        "id": "cat_5",
+        "title": "Femminile / solo categoria grammaticale"
+       }
+      ],
+      "items": [
+       {
+        "id": "w_0",
+        "text": "corpo",
+        "facitText": "corpo",
+        "targetCat": "cat_2"
+       },
+       {
+        "id": "w_1",
+        "text": "cervello",
+        "facitText": "cervello",
+        "targetCat": "cat_2"
+       },
+       {
+        "id": "w_2",
+        "text": "televisione",
+        "facitText": "televisione",
+        "targetCat": "cat_5"
+       },
+       {
+        "id": "w_3",
+        "text": "cugino",
+        "facitText": "cugino",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_4",
+        "text": "foglio",
+        "facitText": "foglio",
+        "targetCat": "cat_2"
+       },
+       {
+        "id": "w_5",
+        "text": "sete",
+        "facitText": "sete",
+        "targetCat": "cat_5"
+       },
+       {
+        "id": "w_6",
+        "text": "elefante",
+        "facitText": "elefante",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_7",
+        "text": "asino",
+        "facitText": "asino",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_8",
+        "text": "pioggia",
+        "facitText": "pioggia",
+        "targetCat": "cat_5"
+       },
+       {
+        "id": "w_9",
+        "text": "impiegato",
+        "facitText": "impiegato",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_10",
+        "text": "medico",
+        "facitText": "medico",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_11",
+        "text": "gallina",
+        "facitText": "gallina",
+        "targetCat": "cat_4"
+       },
+       {
+        "id": "w_12",
+        "text": "calore",
+        "facitText": "calore",
+        "targetCat": "cat_2"
+       },
+       {
+        "id": "w_13",
+        "text": "zia",
+        "facitText": "zia",
+        "targetCat": "cat_3"
+       },
+       {
+        "id": "w_14",
+        "text": "leonessa",
+        "facitText": "leonessa",
+        "targetCat": "cat_4"
+       },
+       {
+        "id": "w_15",
+        "text": "segretaria",
+        "facitText": "segretaria",
+        "targetCat": "cat_3"
+       }
+      ]
+     },
      "wordBank": [
       "corpo",
       "cervello",
@@ -4907,6 +8514,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Il pasto **è servito** / La pasta **è al dente**\n2. Il mostro **ci fa paura** / La mostra **è molto interessante**\n3. Il pizzo **è fatto a mano** / La pizza **mi piace tanto**\n4. Il palo **è alto e diritto** / La pala **è in giardino**\n5. Il busto **della statua è rotto** / La busta **è senza francobollo**\n6. Il caso **è risolto** / La casa **è grande**\n7. Il punto **indica la fine della frase** / La punta **della freccia è di metallo**\n8. Il velo **della sposa è bianco** / La vela **della nave è gonfia**\n9. Il colpo **di pistola mi ha spaventato** / La colpa **del ladro è grave**\n10. La banca **è chiusa il sabato** / Il banco **di scuola è piccolo**\n11. Il capitale **che ho in banca non basta** / La capitale **dell'Italia è Roma**\n12. Il torto **è tuo, lei ha ragione** / La torta **di mele è la mia preferita**\n13. Il soffitto **è molto alto** / La soffitta **è piena di mobili vecchi**\n14. Il suolo **sotto i miei piedi trema** / La suola **delle mie scarpe è bucata**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -5338,6 +8946,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. il ragazzo – la ragazza\n2. il cavallo – la cavalla\n3. l'elefante – l'elefantessa\n4. il lettore – la lettrice\n5. il bidello – la bidella\n6. lo zio – la zia\n7. il telefonista – la telefonista\n8. il fidanzato – la fidanzata\n9. il contadino – la contadina\n10. lo sciatore – la sciatrice\n11. il regista – la regista\n12. il professore – la professoressa\n13. il biologo – la biologa\n14. il segretario – la segretaria\n15. il gallo – la gallina\n16. il re – la regina\n17. il cugino – la cugina\n18. il cane – la cagna\n19. il maestro – la maestra\n20. il giornalista – la giornalista\n21. il lattaio – la lattaia\n22. il sarto – la sarta\n23. il suonatore – la suonatrice\n24. il pianista – la pianista\n25. il panettiere – la panettiera\n26. il preside – la preside\n27. lo studente – la studentessa\n28. il nonno – la nonna",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -5356,6 +8965,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. l'omicida – gli omicidi\n2. l'uomo – gli uomini\n3. la borsetta – le borsette\n4. il pino – i pini\n5. la ciliegia – le ciliegie\n6. la scodella – le scodelle\n7. la pioggia – le piogge\n8. il giornalista – i giornalisti\n9. l'automobile – le automobili\n10. il lampadario – i lampadari\n11. la principessa – le principesse\n12. il rubinetto – i rubinetti\n13. lo zaino – gli zaini\n14. il semaforo – i semafori\n15. la goccia – le gocce\n16. il guadagno – i guadagni\n17. la lavatrice – le lavatrici\n18. il giornale – i giornali\n19. la freccia – le frecce\n20. il dizionario – i dizionari\n21. la pallina – le palline\n22. il frigorifero – i frigoriferi\n23. la ringhiera – le ringhiere\n24. la scarpa – le scarpe",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -5799,6 +9409,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. il medico – i medici\n2. l'infermiera – le infermiere\n3. il dottore – i dottori\n4. l'infermiere – gli infermieri\n5. la medicina – le medicine\n6. la farmacia – le farmacie\n7. il farmacista – i farmacisti\n8. il farmaco – i farmaci\n9. l'iniezione – le iniezioni\n10. lo sciroppo – gli sciroppi\n11. la pastiglia – le pastiglie\n12. la radiografia – le radiografie\n13. l'analisi – le analisi\n14. la goccia – le gocce\n15. l'ambulatorio – gli ambulatori\n16. l'ospedale – gli ospedali\n17. il pediatra – i pediatri\n18. il cardiologo – i cardiologi",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -6154,6 +9765,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. doccia → **a. docce** / b. doccie\n2. geologo → **a. geologi** / b. geologhi\n3. buccia → **a. bucce** / b. buccie\n4. portafoglio → **a. portafogli** / b. portafoglii\n5. dizionario → a. dizionarii / **b. dizionari**\n6. brontolio → a. brontoli / **b. brontolii**\n7. traffico → **a. traffici** / b. traffichi\n8. focaccia → **a. focacce** / b. focaccie\n9. rasoio → **a. rasoi** / b. rasoii\n10. vocabolario → a. vocabolarii / **b. vocabolari**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -6401,6 +10013,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. maglieria, magnifico, maglierista – derivano da **maglia**\n2. ventilatore, ventaglio, ventata – derivano da **vento**\n3. panettiere, panettone, panificio – derivano da **pane**\n4. cavalletto, cavaliere, cavalluccio – derivano da **cavallo**\n5. acquitrino, acquazzone, acquario – derivano da **acqua**\n6. scalone, scalinata, scalino – derivano da **scala**\n7. marinaio, mareggiata, maremoto – derivano da **mare**\n8. casolare, casato, casalinga – derivano da **casa**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -6654,6 +10267,7 @@ window.QUIZ_DATA = {
       }
      ],
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -6663,7 +10277,606 @@ window.QUIZ_DATA = {
      "body": "| Nome primitivo | Nomi derivati |\n| --- | --- |\n| 1. città | cittadino, cittadinanza, concittadino |\n| 2. fiore | ___ |\n| 3. lavoro | ___ |\n| 4. erba | ___ |\n| 5. carta | ___ |\n| 6. occhio | ___ |\n| 7. latte | ___ |\n| 8. pane | ___ |\n| 9. libro | ___ |\n| 10. dente | ___ |",
      "answerBody": "1. città – cittadino, cittadinanza, concittadino\n2. fiore – fioraio, fioreria, fioretto\n3. lavoro – lavoratore, lavorazione, lavorio\n4. erba – erbivoro, erbaio, erbivendolo\n5. carta – cartone, cartella, cartina\n6. occhio – occhiolino, occhiata, occhiello\n7. latte – lattosio, latteria, latticinio\n8. pane – panettiere, panificio, panettone\n9. libro – libreria, libraio, libretto\n10. dente – dentista, dentiera, dentatura",
      "matching": null,
-     "passage": null,
+     "passage": {
+      "tokens": [
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 0,
+        "v": "Nome",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 1,
+        "v": "primitivo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 2,
+        "v": "Nomi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 3,
+        "v": "derivati",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "---"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "---"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 4,
+        "v": "città",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 5,
+        "v": "cittadino",
+        "role": "common"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 6,
+        "v": "cittadinanza",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 7,
+        "v": "concittadino",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 8,
+        "v": "fiore",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 9,
+        "v": "lavoro",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 10,
+        "v": "erba",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 11,
+        "v": "carta",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 12,
+        "v": "occhio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 13,
+        "v": "latte",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 14,
+        "v": "pane",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 15,
+        "v": "libro",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 16,
+        "v": "dente",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "|"
+       }
+      ],
+      "totalItems": 1
+     },
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -6682,6 +10895,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. giornata faticosa – giornate faticose\n2. bella canzone – belle canzoni\n3. alloggio piccolo – alloggi piccoli\n4. occhio azzurro – occhi azzurri\n5. stella luminosa – stelle luminose\n6. stanza buia – stanze buie\n7. donna noiosa – donne noiose\n8. esercizio difficile – esercizi difficili",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -6692,6 +10906,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. il nuovo compagno – la nuova compagna – i nuovi compagni – le nuove compagne\n2. il ragazzo antipatico – la ragazza antipatica – i ragazzi antipatici – le ragazze antipatiche\n3. l'insegnante severo – l'insegnante severa – gli insegnanti severi – le insegnanti severe\n4. l'operaio puntuale – l'operaia puntuale – gli operai puntuali – le operaie puntuali\n5. il bambino allegro – la bambina allegra – i bambini allegri – le bambine allegre\n6. l'allievo intelligente – l'allieva intelligente – gli allievi intelligenti – le allieve intelligenti",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -6702,6 +10917,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Sul balcone ho molti vasi **pieni** (pieno) di fiori **rossi** (rosso).\n2. Sono passati due camion molto **veloci** (veloce) e **rumorosi** (rumoroso).\n3. Maddalena ha avuto delle occasioni **favorevoli** (favorevole) di lavoro, ma non le ha accettate.\n4. Questi biscotti sono troppo **dolci** (dolce).\n5. Francesca fa sempre delle telefonate così **lunghe** (lunga) che suo padre si arrabbia.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -6847,6 +11063,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Mio cugino è un ragazzo intelligente, ma troppo vanitoso. → **Mia cugina è una ragazza intelligente, ma troppo vanitosa.**\n2. Il gatto di Bruno è piccolo, nero e molto affettuoso. → **La gatta di Bruna è piccola, nera e molto affettuosa.**\n3. Piero e Giovanni sono i compagni più simpatici e divertenti della classe. → **Piera e Giovanna sono le compagne più simpatiche e divertenti della classe.**\n4. Il fratello di Paolo fa il cassiere in banca. → **La sorella di Paola fa la cassiera in banca.**\n5. Il dottor Pezzano è un pediatra molto competente e preparato. → **La dottoressa Pezzano è una pediatra molto competente e preparata.**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -6865,6 +11082,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. amaro – più amaro – amarissimo\n2. luminosa – più luminosa – luminosissima\n3. antichi – più antichi – antichissimi\n4. strane – più strane – stranissime\n5. digeribile – più digeribile – digeribilissimo\n6. pesanti – più pesanti – pesantissimi\n7. faticosa – più faticosa – faticosissima\n8. lucido – più lucido – lucidissimo",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -6875,6 +11093,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. piccolo – il più piccolo\n2. divertente – il più divertente\n3. nera – la più nera\n4. chiari – i più chiari\n5. golose – le più golose\n6. povera – la più povera\n7. giovane – la più giovane\n8. gustoso – il più gustoso\n9. spiritosi – i più spiritosi\n10. utili – i più utili",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -7066,6 +11285,150 @@ window.QUIZ_DATA = {
      "answerBody": "Esempio nel PDF: **Il sole è più luminoso della luna.**\n- Colonna 1: 1 il gatto, 2 l'Everest, 3 il sole, 4 l'erba / 5 il ghiaccio, 6 l'Africa, 7 l'oro, 8 l'uva\n- Colonna 2: 1 veloce, 2 alto, 3 luminoso, 4 verde / 5 freddo, 6 popolosa, 7 prezioso, 8 dolce\n- Colonna 3: 1 la tartaruga, 2 il Cervino, 3 la luna, 4 le foglie / 5 l'acqua, 6 l'Oceania, 7 l'argento, 8 la banana",
      "matching": null,
      "passage": null,
+     "categorization": {
+      "categories": [
+       {
+        "id": "cat_0",
+        "title": "Colonna 1"
+       },
+       {
+        "id": "cat_1",
+        "title": "Colonna 2"
+       },
+       {
+        "id": "cat_2",
+        "title": "Colonna 3"
+       }
+      ],
+      "items": [
+       {
+        "id": "w_0",
+        "text": "1 il gatto",
+        "facitText": "1 il gatto",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_1",
+        "text": "2 l'Everest",
+        "facitText": "2 l'Everest",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_2",
+        "text": "3 il sole",
+        "facitText": "3 il sole",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_3",
+        "text": "4 l'erba / 5 il ghiaccio",
+        "facitText": "4 l'erba / 5 il ghiaccio",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_4",
+        "text": "6 l'Africa",
+        "facitText": "6 l'Africa",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_5",
+        "text": "7 l'oro",
+        "facitText": "7 l'oro",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_6",
+        "text": "8 l'uva",
+        "facitText": "8 l'uva",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_7",
+        "text": "1 veloce",
+        "facitText": "1 veloce",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_8",
+        "text": "2 alto",
+        "facitText": "2 alto",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_9",
+        "text": "3 luminoso",
+        "facitText": "3 luminoso",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_10",
+        "text": "4 verde / 5 freddo",
+        "facitText": "4 verde / 5 freddo",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_11",
+        "text": "6 popolosa",
+        "facitText": "6 popolosa",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_12",
+        "text": "7 prezioso",
+        "facitText": "7 prezioso",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_13",
+        "text": "8 dolce",
+        "facitText": "8 dolce",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_14",
+        "text": "1 la tartaruga",
+        "facitText": "1 la tartaruga",
+        "targetCat": "cat_2"
+       },
+       {
+        "id": "w_15",
+        "text": "2 il Cervino",
+        "facitText": "2 il Cervino",
+        "targetCat": "cat_2"
+       },
+       {
+        "id": "w_16",
+        "text": "3 la luna",
+        "facitText": "3 la luna",
+        "targetCat": "cat_2"
+       },
+       {
+        "id": "w_17",
+        "text": "4 le foglie / 5 l'acqua",
+        "facitText": "4 le foglie / 5 l'acqua",
+        "targetCat": "cat_2"
+       },
+       {
+        "id": "w_18",
+        "text": "6 l'Oceania",
+        "facitText": "6 l'Oceania",
+        "targetCat": "cat_2"
+       },
+       {
+        "id": "w_19",
+        "text": "7 l'argento",
+        "facitText": "7 l'argento",
+        "targetCat": "cat_2"
+       },
+       {
+        "id": "w_20",
+        "text": "8 la banana",
+        "facitText": "8 la banana",
+        "targetCat": "cat_2"
+       }
+      ]
+     },
      "wordBank": null,
      "blanks": null
     },
@@ -7076,6 +11439,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. leopardo / gatto – **Il leopardo è più pericoloso del gatto.** / **Il gatto è meno grosso del leopardo.**\n2. Roma / Bologna – **Roma è più popolosa di Bologna.** / **Bologna è meno grande di Roma.**\n3. mio cugino / tuo fratello – **Mio cugino è più giovane di tuo fratello.** / **Tuo fratello è meno alto di mio cugino.**\n4. Stefano / Piergiorgio – **Stefano è più intelligente di Piergiorgio.** / **Piergiorgio è meno grasso di Stefano.**\n5. estate / primavera – **L'estate è più calda della primavera.** / **La primavera è meno afosa dell'estate.**\n6. mare / lago – **Il mare è più blu del lago.** / **Il lago è meno afoso del mare.**\n7. ciliegia / mela – **La ciliegia è più piccola della mela.** / **La mela è meno dolce della ciliegia.**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -7094,6 +11458,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. **io** andavo – 13. **loro** avevano\n2. **lui** ha studiato – 14. **voi** siete\n3. **loro** ridono – 15. **voi** siete ritornati\n4. **lui** è stato – 16. **lui** scrive\n5. **voi** scrivete – 17. **tu** hai fatto\n6. **noi** siamo partiti – 18. **io** facevo\n7. **noi** andiamo – 19. **lui** dorme\n8. **io** bevo – 20. **loro** fanno\n9. **noi** abbiamo dormito – 21. **lui** studia\n10. **tu** mangi – 22. **lui** andava\n11. **lui** balla – 23. **io** sono andato\n12. **io** ho scritto – 24. **lui** beve",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -7513,6 +11878,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. L'oculista … **Lui** mi ha visitato l'altro ieri.\n2. Giulia … **Lei** ci ha invitati a pranzo per domenica.\n3. Franco e sua moglie … **Loro** hanno più di ottant'anni.\n4. In questo periodo il muratore … **lui** non lavora.\n5. Rocky è il cane del benzinaio: Rocky … **lui** sta tutto il giorno al distributore.\n6. Il presidente … **Lui** ha fatto un'importante dichiarazione.\n7. Luisa … **Lei** è mia amica da vent'anni.\n8. I sindacati … **Loro** hanno deciso di continuare lo sciopero.\n9. Marco … **Lui** fa il cameriere in un albergo al mare.\n10. I miei genitori … **Loro** sono in pensione.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -7744,6 +12110,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. **Lui** gli ha promesso un lavoro.\n2. Avevo perso i documenti, ma **lui** li ha trovati nell'atrio.\n3. **Io** non so proprio più che cosa fare per convincerlo a rimanere.\n4. **Noi** abbiamo deciso di iscriverci al corso di musica, e **tu**?\n5. I carabinieri hanno cercato di inseguire il ladro, ma **lui** è riuscito a scappare.\n6. **Lei** è intelligente e simpatica, mentre **lui** è veramente uno stupido.\n7. **Noi** siamo nati a Casablanca, **lui** invece è tunisino.\n8. Sono stufo di mettere in ordine sempre io; oggi fatelo **voi**.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -7963,6 +12330,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. ~~Io~~ sono italiano, e tu? → cancellare **Io**\n2. ~~Io~~ avevo un gatto che si chiamava Ulisse e ~~lui~~ era rosso e bianco. → cancellare **Io**, **lui**\n3. Oggi ~~io~~ devo lavare i piatti. → cancellare **io**\n4. Oggi devo lavare i piatti io. → nessun pronome da cancellare (**io** resta, enfatico)\n5. ~~Io~~ ho portato il caffè a Stefano e ~~lui~~ mi ha ringraziata moltissimo. → cancellare **Io**, **lui**\n6. ~~Noi~~ abbiamo affittato una casa nuova e ~~noi~~ domani traslocheremo. → cancellare **Noi**, **noi**\n7. Se ~~tu~~ studi qualche ora oggi, ~~tu~~ domani sarai libero di andare alla partita. → cancellare entrambi i **tu**\n8. Non è lui che ha vinto la gara, ma quel ragazzo biondo che è seduto là. → nessun pronome da cancellare\n\n---",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -7981,6 +12349,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Chi porta la coca-cola e l'aranciata? … **La** porta Youssef.\n2. Chi porta i bicchieri? … **Li** porta Vittoria.\n3. Chi porta i tovaglioli di carta? … **Li** porta Cristina.\n4. Chi porta le patatine? … **Le** porta Florina.\n5. Chi porta la torta? … **La** porta Daniela.\n6. Chi porta le pizzette e le frittelle? … **Le** porta Rafael.\n7. Chi porta il gelato? … **Lo** porta Karen.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -7991,6 +12360,7 @@ window.QUIZ_DATA = {
      "answerBody": "|  | Presente | Passato prossimo |\n| --- | --- | --- |\n| 1. Mangi il pesce? | No, non **lo** mangio mai. | Sì, **l'**ho mangiato domenica. |\n| 2. Mangi la pasta? | Sì, **la** mangio quasi tutti i giorni. | Oggi no, ma **l'**ho mangiata ieri. |\n| 3. Mangi il tiramisù? | Non **lo** mangio perché è troppo grasso. | Sì, **l'**ho mangiato qualche volta al ristorante. |\n| 4. Mangi le banane? | Sì, **le** mangio, ma in Italia non sono buone. | Sì, **le** ho mangiate oggi a merenda. |\n| 5. Mangi i cioccolatini? | Sì, **li** mangio tutte le volte che posso. | Sì, Anna ne ha portati a scuola e **li** ho mangiati tutti io. |",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -8190,6 +12560,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Matteo e Simone dipingono con le tempere. Io invece non … **le** ho mai usate.\n2. Non so fare le equazioni. Non … **le** abbiamo ancora studiate.\n3. Non ho portato il vocabolario, … **lo** dimentico sempre.\n4. Ruth ha sbagliato il problema. Non … **l'**ha proprio capito.\n5. Joseph ha le scarpe da ginnastica nuove. … **Le** ha comprate ieri.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -8311,6 +12682,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Se ti piace quella maglietta, compra**la**!\n2. Se hai bisogno di un quaderno, compra**lo**!\n3. Se manca il latte, compriamo**lo**!\n4. Se volete dei pennarelli nuovi, comprate**li**!\n5. Se hai dimenticato il biglietto, compra**lo**!",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -8432,6 +12804,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Sono ammalata da due giorni e mia mamma vuole portar**mi** dal medico.\n2. Il gatto è in casa, ma io non riesco a trovar**lo**.\n3. Perché i vostri genitori vogliono portar**vi** in montagna, se non vi piace?\n4. Non ho capito questa spiegazione anche se la professoressa … **l'**ha ripetuta due volte.\n5. Le rose erano appassite e … **le** ho buttate via.\n\n---",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -8450,6 +12823,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Il dottore non c'è. Quando torna, **gli** / le dirò che hai telefonato.\n2. Vorrei una maglietta. Me / **Mi** piacerebbe viola.\n3. È arrivato lo zio. Le / **Gli** / Li hai già parlato?\n4. Sono andato dalla professoressa e **le** / gli / ci ho raccontato tutto.\n5. Luca è offeso con te. Devi **chiedergli** / chiederle / chiederci scusa.\n6. Se volete **vi** / ve impresto le mie cassette.\n7. Giulia è insopportabile. Parla di lei / **sé** continuamente.\n8. Tutti vogliono venire con **te** / ti / tu perché sei molto simpatico.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -8469,7 +12843,7 @@ window.QUIZ_DATA = {
         },
         {
          "t": "text",
-         "v": " dirò che hai telefonato."
+         "v": "fonato."
         }
        ],
        "answers": [
@@ -8657,6 +13031,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Sono andato dal tabaccaio e … **gli** ho portato i soldi che mancavano.\n2. José è tornato dal farmacista e … **gli** ha detto che le medicine non andavano bene.\n3. Se venite a casa mia, … **vi** faccio provare il mio computer nuovo.\n4. … **Mi** restituisci i soldi che ti ho imprestato?\n5. … **Ti** telefono domani per sapere se puoi venire al cinema.\n6. Siamo molto contenti perché la professoressa Tallone … **ci** accompagna in gita al castello di Fénis.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -8800,6 +13175,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Se vuoi parlare con Federico, telefona**gli** subito, perché poi va via.\n2. La mamma compie gli anni. Regaliamo**le** un profumo.\n3. Se avete deciso di chiedere scusa a Fatima, parlate**le** ora.\n4. Se continuate a dir**mi** un mucchio di bugie, come posso fidarmi di voi?\n5. Posso telefonar**vi** verso le sette o dormite ancora?\n6. Dicendo**gli** queste cose, lo hai fatto arrabbiare.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -8943,6 +13319,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Giovanna ha quattro figli e parla sempre **dei quattro figli**. → … di loro. (= parla sempre di loro.)\n2. Ho telefonato a Rosa e ho detto **a Rosa** che passerò domani a trovarla. → … e le ho detto che passerò … (= Le ho telefonato e le ho detto che passerò domani a trovarla.)\n3. Mettiti d'accordo con Mario per andare al cinema **con Mario**. → … con lui.\n4. Alina ha salutato Olga, ma lei non ha risposto **a Alina**. → … ma lei non le ha risposto.\n5. L'avvocato ha convocato il cliente per spiegare **al cliente** a che punto è la causa. → … per spiegargli a che punto …\n6. Matteo è venuto da me per dire **a me** che c'era una telefonata urgente. → … per dirmi che …\n7. Angelo è andato a trovare Paola perché voleva parlare **a Paola**. → … parlarle.\n8. Quando vai dal medico, spiega **al medico** i tuoi sintomi. → … spiegagli i tuoi sintomi.\n\n---",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -8961,6 +13338,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Porta **a noi** una birra. → **Portaci una birra.**\n2. Luisa ha telefonato **a noi**? → **Luisa ci ha telefonato?**\n3. Ho la febbre, vado a letto e resto **a letto** fino a domani. → … e ci resto fino a domani.\n4. Mario ha regalato **a noi** una scatola di cioccolatini. → Mario ci ha regalato una scatola di cioccolatini.\n5. La dottoressa oggi è in studio e sarà **in studio** anche venerdì. → … e ci sarà anche venerdì.\n6. Tutti vanno alla festa, ma io non posso andare **alla festa**. → … ma io non posso andarci.\n7. Restituisci **a noi** gli sci. → Restituiscici gli sci.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -8971,6 +13349,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Non mi importa niente **di lui**. → **Non me ne importa niente.**\n2. Non gli importa niente **di studiare**. → **Non gliene importa niente.**\n3. Tanta gente parla male **di Manuela**. → **Tanta gente ne parla male.**\n4. Ho troppe banane. Vuoi un po' **di banane**? → **Ne vuoi un po'?**\n5. A Fausto piace molto il calcio. Parla sempre **di calcio**. → **Ne parla sempre.**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -8981,6 +13360,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Quando … **ci** porti le fotografie delle vacanze?\n2. Domani vai a Milano in macchina? No, … **ci** vado in treno.\n3. I miei fratelli sono in America e … **ne** sento molto la mancanza.\n4. Avete visto il fidanzato di Valeria? Che cosa … **ne** dite?\n5. Mi mancavano molti colori e allora … **ne** ho comprato una scatola.\n6. Non ho voglia di andare a quel pranzo. E tu … **ci** vuoi andare?\n7. Ti piace questo agnello arrosto? … **Ne** vuoi ancora?",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -9146,6 +13526,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Vuoi lo zucchero nel caffè? – Sì, … **ne** metto … **un cucchiaino**.\n2. Che belle pere! … **Ne** vorrei … **un chilo**.\n3. Quante uova ti servono? Comprane … **una dozzina**.\n4. Che buona questa torta! Posso averne … ancora … **una fetta**?\n5. Sono quasi senza benzina. Me … **ne** metta … **dieci litri**.\n6. Manca il pane. Comprane … **una forma grossa**.\n7. Aggiungi un po' di sale agli spinaci. … **Ne** basta … **un pizzico**.\n\n---",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": [
       "una fetta",
       "un chilo",
@@ -9172,6 +13553,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Chi porta le fotocopie al preside? – … **Gliele** porto io mentre vado in segreteria.\n2. Chi restituisce i soldi agli zii? – … **Glieli** restituiremo noi domenica.\n3. Chi scrive un biglietto di auguri a Marta? – … **Glielo** scrivo io volentieri.\n4. Chi prepara la merenda ai bambini? – … **Gliela** prepara mia mamma.\n5. Mi impresti il libro di geografia? – Oggi mi serve; … **Te lo** impresterò domani.\n6. Ho sete, berrei una bibita. – Andiamo al bar, … **te la** offro io.\n7. Quando mi regali un videogioco nuovo? – … **Te lo** regalerò per il tuo compleanno.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -9182,6 +13564,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Vuoi conoscere Paola? Presenterò **Paola a te** stasera. → **Te la presenterò stasera.**\n2. Ho finito il problema. Posso far vedere **il problema alla professoressa**? → **Posso farglielo vedere?**\n3. Mio fratello aveva dei francobolli e ha dato **a me cinque francobolli**. → … e me li ha dati.\n4. Se non ti piace come si comporta, dì **questo a lui**. → … diglielo.\n5. Vittoria mi ha imprestato 5 euro. Devo ricordarmi di restituire **5 euro a lei**. → … di restituirglieli.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -9192,6 +13575,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Hai troppe prugne? *Portale a noi.* → **Portacele.**\n2. Non ti servono quei giornali? *Portali a noi.* → **Portaceli.**\n3. Ho fatto il gelato alla nocciola. *Lo farò assaggiare a te.* → **Te lo farò assaggiare.**\n4. Il direttore ha l'abitudine di cambiare gli orari senza *dirlo a noi*. → **senza dircelo.**\n5. Hai detto al macellaio che la carne non era buona? – No, *mi sono dimenticato di questo*. → **No, me ne sono dimenticato.**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -9202,6 +13586,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Hai fatto vedere le foto allo zio Lino? Sì, … **gliele ho fatte vedere**.\n2. Quando ti hanno fatto la multa? … **Me l'hanno fatta** … oggi.\n3. Gli hai preparato tu la cena? Sì, … **gliel'ho preparata io**.\n4. Gli hai spiegato che qui non c'è lavoro? Sì, … **gliel'ho spiegato**.\n5. Hai detto a Susanna che non voglio il dolce? Sì, … **gliel'ho detto**.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -9315,6 +13700,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Il centralino mi ha dato **un numero di interno** (blu) **che** (rosso) probabilmente era sbagliato.\n2. **La legge** (blu) **che** (rosso) è stata proposta da alcuni partiti sarà approvata.\n3. Ti piace **la canzone** (blu) **che** (rosso) ha vinto il festival?\n4. **Aureliano** (blu), **che** (rosso) è sempre stato benissimo, da qualche mese si ammala continuamente.\n5. Matteo gioca con l'acqua in **una vasca** (blu) **che** (rosso) suo papà ha messo sul terrazzo.\n6. Non so se **la signora** (blu) **che** (rosso) ho visto in segreteria sarà la nostra nuova preside.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -9325,6 +13711,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Ho venduto il motorino. Il motorino era vecchio. → **Ho venduto il motorino che era vecchio.**\n2. Ho messo le calze nel cassetto. Il cassetto è già pieno. → **Ho messo le calze nel cassetto che è già pieno.**\n3. Luisa è andata da un'amica. L'amica è ucraina. → **Luisa è andata da un'amica che è ucraina.**\n4. Ho telefonato a una zia. La zia abita nel Veneto. → **Ho telefonato a una zia che abita nel Veneto.**\n5. Ho consultato un sito Internet. Il sito è poco interessante. → **Ho consultato un sito internet che è poco interessante.**\n6. Non trovo più i documenti. I documenti erano sul tavolo. → **Non trovo più i documenti che erano sul tavolo.**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -9335,6 +13722,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. La casa … **in cui** abito ora è molto più grande di quella di prima.\n2. Le cugine … **di cui** ti ho parlato arriveranno in Italia il prossimo mese.\n3. La città … **da cui** vengo si trova nell'interno dell'Ecuador.\n4. La persona … **a cui** scrivo mi è molto cara.\n5. Il computer … **con cui** scrivo è nuovissimo.\n6. I motivi … **per cui** mi arrabbio con Carlo sono sempre gli stessi.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -9478,6 +13866,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. La pizza … **che** fanno qui è la migliore della città.\n2. Ti spiego il motivo per … **cui** sono qui.\n3. Franco è il ragazzo con … **cui** esce mia sorella.\n4. Ho già speso tutti i soldi … **che** mi ha dato mio padre.\n5. La sedia su … **cui** sei seduto sta per rompersi.\n6. Mi è piaciuto molto il libro … **che** mi hai portato.\n7. Il compito in classe … **che** abbiamo fatto ieri era difficile.\n8. Il motorino … **che** ha investito Laura andava troppo veloce.\n\n---",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -9496,6 +13885,7 @@ window.QUIZ_DATA = {
      "answerBody": "|  | Singolare maschile | Singolare femminile | Plurale maschile | Plurale femminile |\n| --- | --- | --- | --- | --- |\n| 1. | il mio gatto | la mia gatta | i miei gatti | le mie gatte |\n| 2. | il tuo amico | **la tua amica** | **i tuoi amici** | **le tue amiche** |\n| 3. | **il suo compagno** | la sua compagna | **i suoi compagni** | **le sue compagne** |\n| 4. | **il nostro insegnante** | **la nostra insegnante** | **i nostri insegnanti** | le nostre insegnanti |\n| 5. | vostro figlio | vostra figlia | **i vostri figli** | **le vostre figlie** |\n| 6. | **il loro collega** | **la loro collega** | i loro colleghi | **le loro colleghe** |",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -9506,6 +13896,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Per favore, dammi la … **mia (A)** borsa.\n2. Nella **mia (A)** famiglia siamo tutti bruni.\n3. La **mia (A)** insegnante di scienze è abbastanza brava. La **mia (P)** invece mi sembra più severa.\n4. **Mio (A)** nonno è nato in Egitto.\n5. I genitori di Ester mi hanno invitato nella … **loro (A)** casa al mare.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -9639,6 +14030,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. La sua sorella si chiama Kristin. → **Sua sorella si chiama Kristin.**\n2. Suoi fratelli non sono ancora arrivati. → **I suoi fratelli non sono ancora arrivati.**\n3. Mio cuginetto fa sempre i capricci. → **Il mio cuginetto fa sempre i capricci.**\n4. Suo vestito è tutto macchiato. → **Il suo vestito è tutto macchiato.**\n5. Mamma, hai visto mie scarpe nuove? → **Mamma, hai visto le mie scarpe nuove?**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -9649,6 +14041,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Marco, … **tuo** figlio si chiama Matteo?\n2. Luisa, … **i tuoi** figli si chiamano Matteo e Anna?\n3. Carlo, … **il mio** vocabolario di inglese è più completo del … **tuo**.\n4. Vuoi vedere … **la mia** casa?\n5. Ho comprato un gelato anche per … **mio** fratello.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -9782,6 +14175,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. La macchina *che abbiamo noi*. = **la nostra macchina**\n2. La segretaria *che lavora per te*. = **la tua segretaria**\n3. Il sogno *che ho sempre avuto*. = **il mio sogno**\n4. La dieta *che stai facendo*. = **la tua dieta**\n5. Le pantofole *che uso in casa*. = **le mie pantofole**\n6. I giocattoli *con cui gioca Sara*. = **i suoi giocattoli**\n7. Il gatto *che abbiamo noi*. = **il nostro gatto**\n8. I vestiti *che Luisa mette*. = **i suoi vestiti**\n9. I discorsi *che fate*. = **i vostri discorsi**\n\n---",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -9800,6 +14194,7 @@ window.QUIZ_DATA = {
      "answerBody": "|  | Singolare maschile | Singolare femminile | Plurale maschile | Plurale femminile |\n| --- | --- | --- | --- | --- |\n| 1. | questo compagno | questa compagna | questi compagni | queste compagne |\n| 2. | questo amico | **questa amica** | **questi amici** | **queste amiche** |\n| 3. | **questo operaio** | questa operaia | **questi operai** | **queste operaie** |\n| 4. | quel professore | **quella professoressa** | **quei professori** | **quelle professoresse** |\n| 5. | **quell'insegnante** | quella insegnante | **quegli insegnanti** | **quelle insegnanti** |\n| 6. | quell'uomo | **quella donna** | **quegli uomini** | **quelle donne** |\n| 7. | **quel ragazzo** | **quella ragazza** | quei ragazzi | **quelle ragazze** |\n| 8. | **quello studente** | **quella studentessa** | **quegli studenti** | quelle studentesse |",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -9810,6 +14205,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Ti ricordi il nome di … **quell'**albergo dove abbiamo dormito a Roma?\n2. Non trovo più … **quella** bolletta della luce da pagare.\n3. … **Quel** cameriere ha le unghie sporche.\n4. L'avvocato Ardusso lavora in … **quel** palazzo bianco e grigio.\n5. … **Quei** ragazzi credono di essere in gamba, ma sono solo dei pasticcioni.\n6. … **Quell'**ananas è maturo?",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -9953,6 +14349,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Questo vestito è … **quello** che hai messo al matrimonio di Clara?\n2. Questo colore non va bene. Proviamo … **questo**.\n3. Mia madre è uscita dall'ospedale e questo è … **quello** che conta.\n4. I cugini di Sandro non verranno al matrimonio e … **questo** mi dispiace molto.\n5. Se comprerò delle scarpe nuove, butterò via … **quelle** vecchie.\n6. Ti regalo una mia fotografia. Quale vuoi? – Prendo … **questa**.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -9963,6 +14360,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Da quando è morta sua moglie, Gino non è più … **lo stesso**.\n2. Al cinema Lux danno sempre … **lo stesso** film.\n3. Che noia! Sempre … **gli stessi** discorsi!\n4. Luisa si mette … **lo stesso** vestito tutti i giorni.\n5. Fa' quello che vuoi, per me è … **la stessa** cosa.\n6. I medici … **stessi** si sono stupiti di una guarigione così rapida.\n7. Le sorelle Gigliotti vanno nello … **stesso** albergo da dieci anni.\n8. Purtroppo la salute non è più … **la stessa** di quando ero giovane.\n\n---",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -9981,6 +14379,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. qualche quaderno – alcuni quaderni\n2. … **qualche** giorno – **alcuni giorni**\n3. … **qualche** ragazza – **alcune ragazze**\n4. … **qualche** pagina – **alcune pagine**\n5. … **qualche** cane – **alcuni cani**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": [
       "alcuni",
       "troppo",
@@ -9999,6 +14398,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. a. Non ho nessuno amico. / **b. Non ho nessun amico. ✓** / c. Non ho nessuni amico.\n2. a. Non ho nessune amiche. / b. Non ho nessun amica. / **c. Non ho nessun'amica. ✓**\n3. a. Igor in Italia non ha nessun zio. / **b. Igor in Italia non ha nessuno zio. ✓**\n4. a. Igor in Italia non ha nessune sorelle. / **b. Igor in Italia non ha nessuna sorella. ✓**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -10009,6 +14409,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Carlo aveva nessuna scusa per non venire. → **Carlo non aveva nessuna scusa per non venire.**\n2. Niente gli fa paura. → **Correcta (nessuna correzione).**\n3. Ho visto nessuno, la strada era deserta. → **Non ho visto nessuno, la strada era deserta.**\n4. C'è nessuno? → **Non c'è nessuno?**\n5. Jason ha due sorelle ma ha nessun fratello. → **Jason ha due sorelle ma non ha nessun fratello.**\n6. Digli niente, tanto non capisce. → **Non dirgli niente, tanto non capisce.**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -10019,6 +14420,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. In questa scuola ci sono … **molti** allievi stranieri.\n2. Suo figlio mangia … **poca** frutta e verdura e così gli mancano … **alcune** vitamine.\n3. … **Qualcuno** ha visto i fratelli Chang?\n4. Sergio è sempre in ritardo perché ha … **troppo** da fare.\n5. In questa frase c'è … **qualcosa** che non va.\n6. Fa' più attenzione: in … **ogni** esercizio ci sono almeno dieci errori!\n7. Vieni pure a trovarmi in un giorno … **qualsiasi**: sono sempre a casa.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -10029,6 +14431,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Mi dispiace, abbiamo idee troppo **diverse**. … **che non coincidono per niente**\n2. Ho **diverse** idee su come ristrutturare questa casa. … **parecchie**\n3. Alla festa di Carnevale ogni bambino aveva una maschera **diversa**. … **differente**\n4. Questo film non mi è piaciuto. Pensavo che fosse **diverso**. … **di un altro genere**\n5. Ho aspettato **diversi** giorni, poi gli ho telefonato. … **molti**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": [
       "parecchie",
       "differente",
@@ -10053,6 +14456,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Quanto latte bevi al mattino?\n2. Quale frutta preferisci?\n3. Che colore ti piace di più?\n4. Quanti ragazzi vanno alla gita?\n5. In che via abiti?\n6. A che piano abiti?\n7. Che progetti hai per le vacanze?\n8. In quali giorni riceve il medico?",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -10063,6 +14467,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Che cosa è successo?\n2. Di chi stai parlando?\n3. Chi conosci a questa festa?\n4. Non so chi ha pagato e chi no.\n5. Dimmi che cosa vuoi per pranzo.\n6. Non c'è più aranciata. Chi l'ha bevuta?\n7. Il prosciutto è finito. Quanto ne devo comprare?\n8. Chi ha detto che oggi avrebbe fatto caldo?",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -10073,6 +14478,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Dimmi che cosa vuoi. → Che cosa vuoi?\n2. Non riesco a capire che cosa stai facendo. → Che cosa stai facendo?\n3. Vorrei sapere quanto costano questi pantaloni. → Quanto costano questi pantaloni?\n4. Dimmi che ore sono. → Che ore sono?\n5. Ti ho chiesto a chi stavi telefonando. → A chi stavi telefonando?\n6. Chissà quanti amici ha Beppe. → Quanti amici ha Beppe?\n7. Fammi sapere a che ora arrivi. → A che ora arrivi?\n8. Non so quante uova devo mettere nella crema. → Quante uova devo mettere nella crema?",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -10083,6 +14489,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Che tempo fa a Milano? – Piove e fa freddo.\n2. Che cosa prendi? – Spaghetti al pomodoro.\n3. Quanto costano le arance? – Due euro al chilo.\n4. Quando verrà Mario? – Credo che verrà alle nove.\n5. Che lavoro vorresti fare? – Mi piacerebbe fare la parrucchiera.\n6. Quale camicia preferisci? – Quella rosa a righe blu.\n7. Che ore sono? – Le otto meno venti.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -10101,6 +14508,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. mille → 1000\n2. centocinquantadue → 152\n3. ventinove → 29\n4. diciottomila → 18000\n5. sessantuno → 61\n6. quattromiladuecentoquarantasette → 4247\n7. trecentonovantacinque → 395\n8. quattromilioni → 4000000",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -10260,6 +14668,7 @@ window.QUIZ_DATA = {
      "answerBody": "- a. 22 → ventidue\n- b. 1 045 → millequarantacinque\n- c. 783 → settecentottantatré\n- d. 1 890 000 → un milione e ottocentonovantamila\n- e. 267 → duecentosessantasette\n- f. 1951 → millenovecentocinquantuno\n- g. 2000 → duemila\n- h. 88 600 → ottantottomilaseicento",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -10419,6 +14828,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Io abito al primo piano.\n2. Un litro di latte costa 2 euro.\n3. Prenderemo il treno delle 5.\n4. Oggi è il 6 di febbraio.\n5. 20 è un terzo di 60.\n6. Il primo classificato di una gara prende la medaglia d'oro.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -10539,6 +14949,7 @@ window.QUIZ_DATA = {
       }
      ],
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -10557,6 +14968,7 @@ window.QUIZ_DATA = {
      "answerBody": "*studiano • lavora • conosce • gridano • camminate • ridiamo • mangia • laviamo • vincete • giocate • parli*\n\n| Voce verbale | Radice | Desinenza | Persona | Numero |\n| --- | --- | --- | --- | --- |\n| andiamo | and- | -iamo | 1ª | plurale |\n| studiano | studi- | -ano | 3ª | plurale |\n| lavora | lavor- | -a | 3ª | singolare |\n| conosce | conosc- | -e | 3ª | singolare |\n| gridano | grid- | -ano | 3ª | plurale |\n| camminate | cammin- | -ate | 2ª | plurale |\n| ridiamo | rid- | -iamo | 1ª | plurale |\n| mangia | mangi- | -a | 3ª | singolare |\n| laviamo | lav- | -iamo | 1ª | plurale |\n| giocate | gioc- | -ate | 2ª | plurale |\n| parli | parl- | -i | 2ª | singolare |\n\n*(Anm.: vincete ingår i ordlistan men finns inte ifyllt i tabellen på sidan.)*",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": [
       "studiano",
       "lavora",
@@ -10579,6 +14991,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. andare - saltare - **singolare** - cercare - pagare\n2. spendere - convincere - **salumiere** - sapere - ridere\n3. finire - blandire - costruire - **lire** - bollire",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -10589,6 +15002,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. arrivare → partire\n2. incominciare → finire\n3. continuare → smettere\n4. risparmiare → sprecare\n5. salire → scendere\n6. vivere → morire\n7. ricordare → dimenticare\n8. pulire → sporcare\n9. aprire → chiudere\n10. entrare → uscire",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -10780,6 +15194,7 @@ window.QUIZ_DATA = {
      "answerBody": "Siamo andati a raccogliere le mele. Ogni anno torniamo dalla stessa contadina, che ce le vende per poco purché le raccogliamo. C'era un po' di sole, ma l'aria era fredda, già autunnale. Ci siamo arrampicati su per il pendìo, abbiamo scosso i meli: le mele gialle e le mele rosse cadevano, rotolavano, si nascondevano nell'erba, coprivano il prato. Si sentiva profumo di frutta matura, di foglie umide e arrivava a folate dalla casa il fumo della stufa accesa. Eravamo allegri. Marta ci ha accolti in casa. È vecchia, parla solo dialetto; ogni volta ci offre un bicchiere di vino rosso e le prime castagne. Ci racconta del passato, di quando suo marito era ancora vivo e la collina lì intorno era tutta accuratamente coltivata a vigna. Ora Marta è sola, le viti non ci sono più e al loro posto crescono i meli.\n\n*Understrukna verbformer (röda på sidan):* siamo andati, raccogliere, torniamo, vende, raccogliamo, era (C'era), era (l'aria era), siamo arrampicati, abbiamo scosso, cadevano, rotolavano, si nascondevano, coprivano, si sentiva, arrivava, Eravamo, ha accolti, È, parla, offre, racconta, era (marito era), era (collina era), è, sono, crescono.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -10798,6 +15213,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. giocate → giocare\n2. mangiamo → mangiare\n3. fumano → fumare\n4. vanno → andare\n5. viene → venire\n6. beve → bere\n7. stanno → stare\n8. salgono → salire\n9. vuole → volere\n10. puoi → potere\n11. capisce → capire\n12. ritorni → ritornare\n13. paghiamo → pagare\n14. escono → uscire\n15. andate → andare\n16. fa → fare\n17. diciamo → dire\n18. devono → dovere\n19. possiamo → potere\n20. fanno → fare\n21. uscite → uscire",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -11191,6 +15607,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Mia mamma ha (avere) due sorelle.\n2. Gli studenti sono (essere) tutti in classe.\n3. Tibor parla (parlare) volentieri con tutti.\n4. Io finisco (finire) di studiare dopo cena.\n5. Voi due andate (andare) nella stessa scuola?\n6. Noi leggiamo (leggere) questo libro in classe.\n7. Alberto scrive (scrivere) in modo poco chiaro.\n8. Forse Marta non sa (sapere) il mio indirizzo.\n9. Mio cugino cerca (cercare) lavoro, ma non lo trova (trovare).\n10. Gli zii vengono (venire) a trovarci tutte le domeniche.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -11201,6 +15618,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Alberto → a. studia matematica. → studiare\n2. Silvano e Giorgio → f. passano le vacanze in California. → passare\n3. I miei cani → g. abbaiano poco. → abbaiare\n4. Papà → b. calcola le spese mensili. → calcolare\n5. Vittoria → d. è una maestra in pensione. → essere\n6. Il giornale → e. è pieno di brutte notizie. → essere\n7. Nerina e Maria Carla → c. sono due sorelle. → essere",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -11219,6 +15637,7 @@ window.QUIZ_DATA = {
      "answerBody": "| Infinito | Indicativo presente | Indicativo imperfetto |\n| --- | --- | --- |\n| 1. lavorare | io lavoro | io lavoravo |\n| 2. andare | io vado | io andavo |\n| 3. ridere | lui ride | lui rideva |\n| 4. vedere | noi vediamo | noi vedevamo |\n| 5. giocare | tu giochi | tu giocavi |\n| 6. finire | voi finite | voi finivate |\n| 7. comprare | tu compri | tu compravi |\n| 8. vendere | lei vende | lei vendeva |\n| 9. preparare | io preparo | io preparavo |\n| 10. uscire | tu esci | tu uscivi |",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -11228,7 +15647,1112 @@ window.QUIZ_DATA = {
      "body": "1. Mirella ___ (essere) una ragazza intelligente, che ___ (imparare) subito tutto.\n2. In montagna noi ___ (fare) delle gite molto faticose, ___ (camminare) anche cinque o sei ore.\n3. Elena ___ (avere) la brutta abitudine di arrabbiarsi subito e di gridare.\n4. Al mio paese io ___ (abitare) con la mia famiglia in una casa vicina al mare.\n5. Queste case una volta non c'___ (essere). La strada ___ (passare) in mezzo ai prati e mio zio laggiù ___ (avere) un orto.\n6. Mentre io ___ (fare) i compiti, mio fratello ___ (parlare) e mi ___ (disturbare).\n7. Mio nonno ___ (fare) il macellaio.",
      "answerBody": "1. Mirella era (essere) una ragazza intelligente, che imparava (imparare) subito tutto.\n2. In montagna noi facevamo (fare) delle gite molto faticose, camminavamo (camminare) anche cinque o sei ore.\n3. Elena aveva (avere) la brutta abitudine di arrabbiarsi subito e di gridare.\n4. Al mio paese io abitavo (abitare) con la mia famiglia in una casa vicina al mare.\n5. Queste case una volta non c'erano (essere). La strada passava (passare) in mezzo ai prati e mio zio laggiù aveva (avere) un orto.\n6. Mentre io facevo (fare) i compiti, mio fratello parlava (parlare) e mi disturbava (disturbare).\n7. Mio nonno faceva (fare) il macellaio.",
      "matching": null,
-     "passage": null,
+     "passage": {
+      "tokens": [
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 0,
+        "v": "Mirella",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 1,
+        "v": "essere",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 2,
+        "v": "una",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 3,
+        "v": "ragazza",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 4,
+        "v": "intelligente",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 5,
+        "v": "che",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 6,
+        "v": "imparare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 7,
+        "v": "subito",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 8,
+        "v": "tutto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 9,
+        "v": "In",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 10,
+        "v": "montagna",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 11,
+        "v": "noi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 12,
+        "v": "fare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 13,
+        "v": "delle",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 14,
+        "v": "gite",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 15,
+        "v": "molto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 16,
+        "v": "faticose",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 17,
+        "v": "camminare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 18,
+        "v": "anche",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 19,
+        "v": "cinque",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 20,
+        "v": "o",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 21,
+        "v": "sei",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 22,
+        "v": "ore",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 23,
+        "v": "Elena",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 24,
+        "v": "avere",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 25,
+        "v": "la",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 26,
+        "v": "brutta",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 27,
+        "v": "abitudine",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 28,
+        "v": "di",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 29,
+        "v": "arrabbiarsi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 30,
+        "v": "subito",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 31,
+        "v": "e",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 32,
+        "v": "di",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 33,
+        "v": "gridare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 34,
+        "v": "Al",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 35,
+        "v": "mio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 36,
+        "v": "paese",
+        "role": "common"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 37,
+        "v": "io",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 38,
+        "v": "abitare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 39,
+        "v": "con",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 40,
+        "v": "la",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 41,
+        "v": "mia",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 42,
+        "v": "famiglia",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 43,
+        "v": "in",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 44,
+        "v": "una",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 45,
+        "v": "casa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 46,
+        "v": "vicina",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 47,
+        "v": "al",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 48,
+        "v": "mare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 49,
+        "v": "Queste",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 50,
+        "v": "case",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 51,
+        "v": "una",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 52,
+        "v": "volta",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 53,
+        "v": "non",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 54,
+        "v": "c'",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 55,
+        "v": "essere",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 56,
+        "v": "La",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 57,
+        "v": "strada",
+        "role": "common"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 58,
+        "v": "passare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 59,
+        "v": "in",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 60,
+        "v": "mezzo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 61,
+        "v": "ai",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 62,
+        "v": "prati",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 63,
+        "v": "e",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 64,
+        "v": "mio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 65,
+        "v": "zio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 66,
+        "v": "laggiù",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 67,
+        "v": "avere",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 68,
+        "v": "un",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 69,
+        "v": "orto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 70,
+        "v": "Mentre",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 71,
+        "v": "io",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 72,
+        "v": "fare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 73,
+        "v": "i",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 74,
+        "v": "compiti",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 75,
+        "v": "mio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 76,
+        "v": "fratello",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 77,
+        "v": "parlare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 78,
+        "v": "e",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 79,
+        "v": "mi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 80,
+        "v": "disturbare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 81,
+        "v": "Mio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 82,
+        "v": "nonno",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 83,
+        "v": "fare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 84,
+        "v": "il",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 85,
+        "v": "macellaio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       }
+      ],
+      "totalItems": 2
+     },
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -11238,7 +16762,614 @@ window.QUIZ_DATA = {
      "body": "1. Ora abito in Italia. ___\nPrima ___\n2. Ora vado nella scuola ___\nAl mio paese ___\n3. In Italia i miei compagni sono ___\nAl mio paese ___\n4. Qui la mia casa è ___\nAl mio paese ___\n5. Ora mio padre fa ___\nPrima mio padre ___\n6. Il tempo qui è ___\nAl mio paese ___\n7. In Italia mangio ___\nAl mio paese ___",
      "answerBody": "1. Ora abito in Italia. – Prima abitavo in Francia.\n2. Ora vado nella scuola privata. – Al mio paese andavo nella scuola pubblica.\n3. In Italia i miei compagni sono simpatici. – Al mio paese i miei compagni erano poco socievoli.\n4. Qui la mia casa è grande e luminosa. – Al mio paese era piccola e buia.\n5. Ora mio padre fa l'avvocato. – Prima mio padre faceva il ragioniere.\n6. Il tempo qui è brutto. – Al mio paese il tempo era sempre bello.\n7. In Italia mangio pasta tutti i giorni. – Al mio paese mangiavo sempre patate.",
      "matching": null,
-     "passage": null,
+     "passage": {
+      "tokens": [
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 0,
+        "v": "Ora",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 1,
+        "v": "abito",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 2,
+        "v": "in",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 3,
+        "v": "Italia",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "word",
+        "id": 4,
+        "v": "Prima",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 5,
+        "v": "Ora",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 6,
+        "v": "vado",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 7,
+        "v": "nella",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 8,
+        "v": "scuola",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "word",
+        "id": 9,
+        "v": "Al",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 10,
+        "v": "mio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 11,
+        "v": "paese",
+        "role": "common"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 12,
+        "v": "In",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 13,
+        "v": "Italia",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 14,
+        "v": "i",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 15,
+        "v": "miei",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 16,
+        "v": "compagni",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 17,
+        "v": "sono",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "word",
+        "id": 18,
+        "v": "Al",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 19,
+        "v": "mio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 20,
+        "v": "paese",
+        "role": "common"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 21,
+        "v": "Qui",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 22,
+        "v": "la",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 23,
+        "v": "mia",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 24,
+        "v": "casa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 25,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "word",
+        "id": 26,
+        "v": "Al",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 27,
+        "v": "mio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 28,
+        "v": "paese",
+        "role": "common"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 29,
+        "v": "Ora",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 30,
+        "v": "mio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 31,
+        "v": "padre",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 32,
+        "v": "fa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "word",
+        "id": 33,
+        "v": "Prima",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 34,
+        "v": "mio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 35,
+        "v": "padre",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 36,
+        "v": "Il",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 37,
+        "v": "tempo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 38,
+        "v": "qui",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 39,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "word",
+        "id": 40,
+        "v": "Al",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 41,
+        "v": "mio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 42,
+        "v": "paese",
+        "role": "common"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 43,
+        "v": "In",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 44,
+        "v": "Italia",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 45,
+        "v": "mangio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "word",
+        "id": 46,
+        "v": "Al",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 47,
+        "v": "mio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 48,
+        "v": "paese",
+        "role": "common"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       }
+      ],
+      "totalItems": 5
+     },
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -11257,6 +17388,7 @@ window.QUIZ_DATA = {
      "answerBody": "| Infinito | Presente | Imperfetto | Passato prossimo |\n| --- | --- | --- | --- |\n| 1. scrivere | io scrivo | io scrivevo | io ho scritto |\n| 2. pensare | io penso | io pensavo | io ho pensato |\n| 3. pagare | tu paghi | tu pagavi | tu hai pagato |\n| 4. rispondere | lei risponde | lei rispondeva | lei ha risposto |\n| 5. aiutare | voi aiutate | voi aiutavate | voi avete aiutato |\n| 6. tornare | loro tornano | loro tornavano | loro sono tornate |\n| 7. venire | lui viene | lui veniva | lui è venuto |\n| 8. leggere | noi leggiamo | noi leggevamo | noi abbiamo letto |\n| 9. ascoltare | io ascolto | io ascoltavo | io ho ascoltato |\n| 10. ripetere | tu ripeti | tu ripetevi | tu hai ripetuto |",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -11267,6 +17399,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. La mamma esce di casa al mattino presto. → La mamma è uscita di casa al mattino presto.\n2. Accompagna me a scuola. → Mi ha accompagnato a scuola.\n3. Porta Angela alla scuola materna. → Ha portato Angela alla scuola materna.\n4. Va a fare la spesa al mercato. → È andata a fare (la spesa al mercato).\n5. Torna a casa verso le dieci. → È tornata a casa.\n6. Fa le pulizie, lava e stira. → Ha fatto le pulizie, ha lavato e ha stirato.\n7. Prepara il pranzo. → Ha preparato il pranzo.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -11277,6 +17410,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Luca mi ha detto (dire) che Pietro è partito (partire) ieri.\n2. Questa mattina il signor Gallo ha portato (portare) la macchina dal meccanico e poi è andato (andare) a lavorare in tram.\n3. Che cosa (voi) avete mangiato (mangiare) ieri sera a casa di Fausto?\n4. Lo zio Ivan ha fumato (fumare) troppe sigarette, così poi è stato (stare) male e ha tossito (tossire) tutta la notte.\n5. Il treno è arrivato (arrivare) alle 11.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -11287,6 +17421,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Hai comprato le mele? – Sì, le ho comprate.\n2. Hai comprato le arance? – No, non le ho comprate.\n3. Hai comprato i peperoni? – Sì, li ho comprati.\n4. Hai comprato la torta? – Sì, l'ho comprata.\n5. Hai comprato il pane? – Sì, l'ho comprato.\n6. Hai comprato la carne? – Sì, l'ho comprata.\n7. Hai comprato le merendine? – No, non le ho comprate.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -11423,6 +17558,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Una volta qui c'era / c'è stata una pizzeria. → **c'era**\n2. Facevi / Hai fatto i compiti per domani? → **Hai fatto**\n3. Sabato andavo / sono andato al cinema. → **sono andato**\n4. Finalmente arrivava / è arrivato l'ultimo giorno di scuola. → **è arrivato**\n5. In Perù abitavo / ho abitato in molte città. → **ho abitato**\n6. In passato gli Italiani fumavano / hanno fumato di più. → **fumavano**\n7. L'anno scorso andavo / sono andato in piscina tutti i giorni. → **andavo**\n8. Giovedì andavo / sono andato in piscina con Bruno. → **sono andato**\n9. Da piccolo avevo / ho avuto paura dei tuoni. → **avevo**\n10. Da piccolo avevo / ho avuto il morbillo. → **ho avuto**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -11459,6 +17595,10 @@ window.QUIZ_DATA = {
           "Hai fatto"
          ],
          "answer": "Hai fatto"
+        },
+        {
+         "t": "text",
+         "v": " i compiti per domani?"
         }
        ],
        "answers": [
@@ -11479,6 +17619,10 @@ window.QUIZ_DATA = {
           "sono andato"
          ],
          "answer": "sono andato"
+        },
+        {
+         "t": "text",
+         "v": " al cinema."
         }
        ],
        "answers": [
@@ -11499,6 +17643,10 @@ window.QUIZ_DATA = {
           "è arrivato"
          ],
          "answer": "è arrivato"
+        },
+        {
+         "t": "text",
+         "v": " l'ultimo giorno di scuola."
         }
        ],
        "answers": [
@@ -11519,6 +17667,10 @@ window.QUIZ_DATA = {
           "ho abitato"
          ],
          "answer": "ho abitato"
+        },
+        {
+         "t": "text",
+         "v": " in molte città."
         }
        ],
        "answers": [
@@ -11579,6 +17731,10 @@ window.QUIZ_DATA = {
           "sono andato"
          ],
          "answer": "sono andato"
+        },
+        {
+         "t": "text",
+         "v": " in piscina con Bruno."
         }
        ],
        "answers": [
@@ -11619,6 +17775,10 @@ window.QUIZ_DATA = {
           "ho avuto"
          ],
          "answer": "ho avuto"
+        },
+        {
+         "t": "text",
+         "v": " il morbillo."
         }
        ],
        "answers": [
@@ -11633,290 +17793,1508 @@ window.QUIZ_DATA = {
      "body": "1. Mentre telefonavo / ho telefonato, Paola arrivava / è arrivata.\n2. Mentre il marito preparava / ha preparato la tavola, la moglie cucinava / ha cucinato.\n3. Quando uscivo / sono uscito, pioveva / è piovuto.\n4. Andando a scuola, vedevo / ho visto un incidente stradale.\n5. Andando a scuola, vedevo / ho visto tutti i giorni tua sorella alla fermata dell'autobus.\n6. Sergio non mangiava / ha mangiato niente, perché stava / è stato male.\n7. Quando abitavo / ho abitato in Cile, andavo / sono andato a scuola da febbraio a novembre.\n8. Quando Rosa lavorava / ha lavorato per la famiglia D'Angelo, guadagnava / ha guadagnato abbastanza bene.\n9. Mentre la professoressa spiegava / ha spiegato, Martin si metteva / si è messo a gridare.\n10. Visto che faceva / ha fatto bel tempo, partivamo / siamo partiti presto per il mare.",
      "answerBody": "1. Mentre telefonavo / ho telefonato, Paola arrivava / è arrivata. → **telefonavo**, **è arrivata**\n2. Mentre il marito preparava / ha preparato la tavola, la moglie cucinava / ha cucinato. → **preparava**, **cucinava**\n3. Quando uscivo / sono uscito, pioveva / è piovuto. → **sono uscito**, **pioveva**\n4. Andando a scuola, vedevo / ho visto un incidente stradale. → **ho visto**\n5. Andando a scuola, vedevo / ho visto tutti i giorni tua sorella alla fermata dell'autobus. → **vedevo**\n6. Sergio non mangiava / ha mangiato niente, perché stava / è stato male. → **ha mangiato**, **stava**\n7. Quando abitavo / ho abitato in Cile, andavo / sono andato a scuola da febbraio a novembre. → **abitavo**, **sono andato**\n8. Quando Rosa lavorava / ha lavorato per la famiglia D'Angelo, guadagnava / ha guadagnato abbastanza bene. → **lavorava**, **guadagnava**\n9. Mentre la professoressa spiegava / ha spiegato, Martin si metteva / si è messo a gridare. → **spiegava**, **si è messo**\n10. Visto che faceva / ha fatto bel tempo, partivamo / siamo partiti presto per il mare. → **faceva**, **siamo partiti**",
      "matching": null,
-     "passage": null,
+     "passage": {
+      "tokens": [
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 0,
+        "v": "Mentre",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 1,
+        "v": "telefonavo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 2,
+        "v": "ho",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 3,
+        "v": "telefonato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 4,
+        "v": "Paola",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 5,
+        "v": "arrivava",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 6,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 7,
+        "v": "arrivata",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 8,
+        "v": "Mentre",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 9,
+        "v": "il",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 10,
+        "v": "marito",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 11,
+        "v": "preparava",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 12,
+        "v": "ha",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 13,
+        "v": "preparato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 14,
+        "v": "la",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 15,
+        "v": "tavola",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 16,
+        "v": "la",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 17,
+        "v": "moglie",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 18,
+        "v": "cucinava",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 19,
+        "v": "ha",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 20,
+        "v": "cucinato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 21,
+        "v": "Quando",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 22,
+        "v": "uscivo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 23,
+        "v": "sono",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 24,
+        "v": "uscito",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 25,
+        "v": "pioveva",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 26,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 27,
+        "v": "piovuto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 28,
+        "v": "Andando",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 29,
+        "v": "a",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 30,
+        "v": "scuola",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 31,
+        "v": "vedevo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 32,
+        "v": "ho",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 33,
+        "v": "visto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 34,
+        "v": "un",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 35,
+        "v": "incidente",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 36,
+        "v": "stradale",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 37,
+        "v": "Andando",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 38,
+        "v": "a",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 39,
+        "v": "scuola",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 40,
+        "v": "vedevo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 41,
+        "v": "ho",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 42,
+        "v": "visto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 43,
+        "v": "tutti",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 44,
+        "v": "i",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 45,
+        "v": "giorni",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 46,
+        "v": "tua",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 47,
+        "v": "sorella",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 48,
+        "v": "alla",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 49,
+        "v": "fermata",
+        "role": "common"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "dell'"
+       },
+       {
+        "t": "word",
+        "id": 50,
+        "v": "autobus",
+        "role": "common"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 51,
+        "v": "Sergio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 52,
+        "v": "non",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 53,
+        "v": "mangiava",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 54,
+        "v": "ha",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 55,
+        "v": "mangiato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 56,
+        "v": "niente",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 57,
+        "v": "perché",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 58,
+        "v": "stava",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 59,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 60,
+        "v": "stato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 61,
+        "v": "male",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 62,
+        "v": "Quando",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 63,
+        "v": "abitavo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 64,
+        "v": "ho",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 65,
+        "v": "abitato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 66,
+        "v": "in",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 67,
+        "v": "Cile",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 68,
+        "v": "andavo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 69,
+        "v": "sono",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 70,
+        "v": "andato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 71,
+        "v": "a",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 72,
+        "v": "scuola",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 73,
+        "v": "da",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 74,
+        "v": "febbraio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 75,
+        "v": "a",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 76,
+        "v": "novembre",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 77,
+        "v": "Quando",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 78,
+        "v": "Rosa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 79,
+        "v": "lavorava",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 80,
+        "v": "ha",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 81,
+        "v": "lavorato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 82,
+        "v": "per",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 83,
+        "v": "la",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 84,
+        "v": "famiglia",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 85,
+        "v": "D'Angelo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 86,
+        "v": "guadagnava",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 87,
+        "v": "ha",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 88,
+        "v": "guadagnato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 89,
+        "v": "abbastanza",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 90,
+        "v": "bene",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 91,
+        "v": "Mentre",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 92,
+        "v": "la",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 93,
+        "v": "professoressa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 94,
+        "v": "spiegava",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 95,
+        "v": "ha",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 96,
+        "v": "spiegato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 97,
+        "v": "Martin",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 98,
+        "v": "si",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 99,
+        "v": "metteva",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 100,
+        "v": "si",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 101,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 102,
+        "v": "messo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 103,
+        "v": "a",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 104,
+        "v": "gridare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 105,
+        "v": "Visto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 106,
+        "v": "che",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 107,
+        "v": "faceva",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 108,
+        "v": "ha",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 109,
+        "v": "fatto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 110,
+        "v": "bel",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 111,
+        "v": "tempo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 112,
+        "v": "partivamo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "/"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 113,
+        "v": "siamo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 114,
+        "v": "partiti",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 115,
+        "v": "presto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 116,
+        "v": "per",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 117,
+        "v": "il",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 118,
+        "v": "mare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       }
+      ],
+      "totalItems": 2
+     },
+     "categorization": null,
      "wordBank": null,
-     "blanks": [
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "1. "
-        },
-        {
-         "t": "choice",
-         "i": 0,
-         "options": [
-          "Mentre telefonavo",
-          "telefonavo"
-         ],
-         "answer": "telefonavo"
-        },
-        {
-         "t": "choice",
-         "i": 1,
-         "options": [
-          ",",
-          "è arrivata"
-         ],
-         "answer": "è arrivata"
-        }
-       ],
-       "answers": [
-        "telefonavo",
-        "è arrivata"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "2. "
-        },
-        {
-         "t": "choice",
-         "i": 0,
-         "options": [
-          "Mentre il marito preparava",
-          "preparava"
-         ],
-         "answer": "preparava"
-        },
-        {
-         "t": "choice",
-         "i": 1,
-         "options": [
-          ",",
-          "cucinava"
-         ],
-         "answer": "cucinava"
-        }
-       ],
-       "answers": [
-        "preparava",
-        "cucinava"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "3. "
-        },
-        {
-         "t": "choice",
-         "i": 0,
-         "options": [
-          "Quando uscivo",
-          "sono uscito"
-         ],
-         "answer": "sono uscito"
-        },
-        {
-         "t": "choice",
-         "i": 1,
-         "options": [
-          ",",
-          "pioveva"
-         ],
-         "answer": "pioveva"
-        }
-       ],
-       "answers": [
-        "sono uscito",
-        "pioveva"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "4. Andando "
-        },
-        {
-         "t": "choice",
-         "i": 0,
-         "options": [
-          "a scuola, vedevo",
-          "ho visto"
-         ],
-         "answer": "ho visto"
-        }
-       ],
-       "answers": [
-        "ho visto"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "5. Andando a scuola, "
-        },
-        {
-         "t": "choice",
-         "i": 0,
-         "options": [
-          "vedevo",
-          "vedevo"
-         ],
-         "answer": "vedevo"
-        }
-       ],
-       "answers": [
-        "vedevo"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "6. "
-        },
-        {
-         "t": "choice",
-         "i": 0,
-         "options": [
-          "Sergio non mangiava",
-          "ha mangiato"
-         ],
-         "answer": "ha mangiato"
-        },
-        {
-         "t": "choice",
-         "i": 1,
-         "options": [
-          ",",
-          "stava"
-         ],
-         "answer": "stava"
-        }
-       ],
-       "answers": [
-        "ha mangiato",
-        "stava"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "7. "
-        },
-        {
-         "t": "choice",
-         "i": 0,
-         "options": [
-          "Quando abitavo",
-          "abitavo"
-         ],
-         "answer": "abitavo"
-        },
-        {
-         "t": "choice",
-         "i": 1,
-         "options": [
-          ",",
-          "sono andato"
-         ],
-         "answer": "sono andato"
-        }
-       ],
-       "answers": [
-        "abitavo",
-        "sono andato"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "8. "
-        },
-        {
-         "t": "choice",
-         "i": 0,
-         "options": [
-          "Quando Rosa lavorava",
-          "lavorava"
-         ],
-         "answer": "lavorava"
-        },
-        {
-         "t": "choice",
-         "i": 1,
-         "options": [
-          ",",
-          "guadagnava"
-         ],
-         "answer": "guadagnava"
-        }
-       ],
-       "answers": [
-        "lavorava",
-        "guadagnava"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "9. "
-        },
-        {
-         "t": "choice",
-         "i": 0,
-         "options": [
-          "Mentre la professoressa spiegava",
-          "spiegava"
-         ],
-         "answer": "spiegava"
-        },
-        {
-         "t": "choice",
-         "i": 1,
-         "options": [
-          ",",
-          "si è messo"
-         ],
-         "answer": "si è messo"
-        }
-       ],
-       "answers": [
-        "spiegava",
-        "si è messo"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "10. "
-        },
-        {
-         "t": "choice",
-         "i": 0,
-         "options": [
-          "Visto che faceva",
-          "faceva"
-         ],
-         "answer": "faceva"
-        },
-        {
-         "t": "choice",
-         "i": 1,
-         "options": [
-          ",",
-          "siamo partiti"
-         ],
-         "answer": "siamo partiti"
-        }
-       ],
-       "answers": [
-        "faceva",
-        "siamo partiti"
-       ]
-      }
-     ]
+     "blanks": null
     },
     {
      "num": "03",
@@ -11925,6 +19303,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Stamattina Lino è andato (andare) al mercato.\n2. Lino andava (andare) al mercato tutti i giorni.\n3. Ieri noi abbiamo studiato (studiare) italiano, storia e geometria.\n4. Da piccoli noi studiavamo (studiare) l'aritmetica.\n5. Al mare io mangiavo (mangiare) pesce a pranzo e a cena.\n6. Domenica io ho mangiato (mangiare) il pesce al forno.\n7. Mio nonno da giovane leggeva (leggere) il giornale senza occhiali.\n8. Mio nonno ieri ha letto (leggere) il giornale tutta la sera.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -11935,6 +19314,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Michele ha cambiato (cambiare) la macchina perché era (essere) troppo vecchia.\n2. Ieri era (essere) una bella giornata di sole, ma faceva (fare) abbastanza freddo.\n3. Di solito alla domenica andavo (andare) a pescare con mio padre e mio fratello Joseph.\n4. Quando tu hai telefonato (telefonare), io stavo (stare) ancora dormendo.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -11953,6 +19333,7 @@ window.QUIZ_DATA = {
      "answerBody": "| Infinito | Presente | Passato prossimo | Passato remoto |\n| --- | --- | --- | --- |\n| 1. venire | io vengo | io sono venuto | io venni |\n| 2. vedere | tu vedi | tu hai visto | tu vedesti |\n| 3. vivere | lui vive | lui ha vissuto | lui visse |\n| 4. mettere | loro mettono | loro hanno messo | loro misero |\n| 5. volere | noi vogliamo | noi abbiamo voluto | noi volemmo |\n| 6. tenere | lui tiene | lui ha tenuto | lui tenne |\n| 7. dare | voi date | voi avete dato | voi deste |\n| 8. fare | lui fa | lui ha fatto | lui fece |\n| 9. stare | lui sta | lui è stato | lui stette |",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -11963,6 +19344,7 @@ window.QUIZ_DATA = {
      "answerBody": "*scoppiò • scrisse • fu • morirono • scoprì • dipinse*\n1. Alessandro Manzoni scrisse I Promessi sposi.\n2. La seconda guerra mondiale scoppiò nel 1939.\n3. Nel 1492 Cristoforo Colombo scoprì l'America.\n4. Costantino fu un imperatore romano.\n5. Decine di migliaia di persone morirono a Hiroshima per la bomba atomica.\n6. Leonardo da Vinci dipinse la Gioconda.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": [
       "scoppiò",
       "scrisse",
@@ -11980,6 +19362,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. L'anno scorso noi visitammo (visitare) il Perù e vedemmo (vedere) molti luoghi interessanti.\n2. Molti anni fa i miei genitori decisero (decidere) di andare a vivere in campagna.\n3. Quando Giovanni disse (dire) che aveva deciso di andare a lavorare all'estero, sua madre non fu (essere) affatto contenta.\n4. A Natale, l'anno scorso, nevicò (nevicare) molto.\n5. Michele non seppe (sapere) rispondere a quella domanda.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -11990,6 +19373,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Il re Vittorio Emanuele II è vissuto a Torino e a Roma. → visse\n2. Dante ha scritto la Divina Commedia. → scrisse\n3. Il giorno di Ferragosto di vent'anni fa è morta mia zia. → morì\n4. Napoleone è nato nel secolo diciottesimo. → nacque\n5. La signora Cheng è venuta ad abitare in Italia quasi trent'anni fa. → venne",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -12008,6 +19392,7 @@ window.QUIZ_DATA = {
      "answerBody": "| Infinito | Presente | Futuro | Futuro anteriore |\n| --- | --- | --- | --- |\n| 1. mangiare | tu mangi | tu mangerai | tu avrai mangiato |\n| 2. fare | io faccio | io farò | io avrò fatto |\n| 3. vendere | lei vende | lei venderà | lei avrà venduto |\n| 4. comprare | noi compriamo | noi compreremo | noi avremo comprato |\n| 5. pensare | io penso | io penserò | io avrò pensato |\n| 6. decidere | voi decidete | voi deciderete | voi avrete deciso |\n| 7. venire | tu vieni | tu verrai | tu sarai venuto |\n| 8. regalare | voi regalate | voi regalerete | voi avrete regalato |\n| 9. andare | noi andiamo | noi andremo | noi saremo andati |\n| 10. vedere | io vedo | io vedrò | io avrò visto |",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -12018,6 +19403,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Che cosa farai (fare) quando sarai grande?\n2. Quando arriveremo a Roma, dove andremo (andare)?\n3. Il medico verrà (venire) a visitare Paola domani mattina.\n4. A luglio Cristina tornerà (tornare) in Romania a prendere la figlia.\n5. Appena potrò (potere), io andrò (andare) dal parrucchiere.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -12028,6 +19414,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Questa sera noi mangeremo (mangiare) le castagne.\n2. Mia sorella verrà (venire) al cinema con voi, se dopo voi la riaccompagnerete (riaccompagnare) a casa.\n3. Se io prenderò (prendere) gli antibiotici guarirò (guarire) presto.\n4. La signora Fortisi pagherà (pagare) l'affitto dopodomani.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -12038,6 +19425,7 @@ window.QUIZ_DATA = {
      "answerBody": "*Prima dormirò, poi ricomincerò a studiare. → Quando avrò dormito, ricomincerò a studiare.*\n1. Eric comprerà gli sci e poi verrà in montagna. → Quando Eric avrà comprato gli sci, verrà in montagna.\n2. Venderò la moto e poi ne comprerò una più bella. → Quando avrò venduto la moto, ne comprerò una più bella.\n3. Finirò gli esercizi di inglese e poi guarderò la televisione. → Quando avrò finito gli esercizi di inglese, guarderò la ...\n4. L'avvocato esaminerà la proposta e poi vedrà se accettarla. → Quando l'avvocato avrà esaminato la proposta, vedrà ...\n5. Vedremo gli orari del treno e poi decideremo a che ora partire. → Quando avremo visto gli orari del treno, decideremo a ...\n6. Mario arriverà in albergo e poi ci telefonerà. → Quando Mario sarà arrivato in albergo, ci telefonerà.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -12056,6 +19444,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. A che ora ti svegli? – Mi sveglio alle 7.\n2. A che ora ti alzi? – Mi alzo alle 7 e 10.\n3. E poi che cosa fai? – Mi lavo, mi pettino, mi vesto e mi preparo per uscire.\n4. Come fai a lavarti la faccia? – Mi lavo con il sapone, mi sciacquo con l'acqua, mi asciugo con l'asciugamano.\n5. Che cosa ti diverte fare? – Mi diverto a giocare a calcio.\n6. Che cosa ti annoia? – Mi annoio quando guardo a televisione. *(sic: \"guardo a televisione\" som på sidan)*\n7. Che cosa ti fa arrabbiare? – Io mi arrabbio se c'è troppa confusione.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -12065,7 +19454,742 @@ window.QUIZ_DATA = {
      "body": "1. L'autobus che va a scuola ___ (fermarsi) proprio davanti a casa mia.\n2. Andrea in genere ___ (svegliarsi) alle sette, ma stamattina ___ (svegliarsi) tardi e così è arrivato in classe alle nove.\n3. Ho dimenticato l'ombrello e così ___ (bagnare) dalla testa ai piedi.\n4. Vincenzo per andare al matrimonio di suo fratello ___ (mettersi) un vestito nero.\n5. Piero ___ (farsi) la barba con il rasoio elettrico.",
      "answerBody": "1. L'autobus che va a scuola si ferma (fermarsi) proprio davanti a casa mia.\n2. Andrea in genere si sveglia (svegliarsi) alle sette, ma stamattina si è svegliato (svegliarsi) tardi e così è arrivato in classe alle nove.\n3. Ho dimenticato l'ombrello e così mi sono bagnato (bagnare) dalla testa ai piedi.\n4. Vincenzo per andare al matrimonio di suo fratello si mette (mettersi) un vestito nero.\n5. Piero si fa (farsi) la barba con il rasoio elettrico.",
      "matching": null,
-     "passage": null,
+     "passage": {
+      "tokens": [
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "L'"
+       },
+       {
+        "t": "word",
+        "id": 0,
+        "v": "autobus",
+        "role": "common"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 1,
+        "v": "che",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 2,
+        "v": "va",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 3,
+        "v": "a",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 4,
+        "v": "scuola",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 5,
+        "v": "fermarsi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 6,
+        "v": "proprio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 7,
+        "v": "davanti",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 8,
+        "v": "a",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 9,
+        "v": "casa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 10,
+        "v": "mia",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 11,
+        "v": "Andrea",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 12,
+        "v": "in",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 13,
+        "v": "genere",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 14,
+        "v": "svegliarsi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 15,
+        "v": "alle",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 16,
+        "v": "sette",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 17,
+        "v": "ma",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 18,
+        "v": "stamattina",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 19,
+        "v": "svegliarsi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 20,
+        "v": "tardi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 21,
+        "v": "e",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 22,
+        "v": "così",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 23,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 24,
+        "v": "arrivato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 25,
+        "v": "in",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 26,
+        "v": "classe",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 27,
+        "v": "alle",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 28,
+        "v": "nove",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 29,
+        "v": "Ho",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 30,
+        "v": "dimenticato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "l'"
+       },
+       {
+        "t": "word",
+        "id": 31,
+        "v": "ombrello",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 32,
+        "v": "e",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 33,
+        "v": "così",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 34,
+        "v": "bagnare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 35,
+        "v": "dalla",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 36,
+        "v": "testa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 37,
+        "v": "ai",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 38,
+        "v": "piedi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 39,
+        "v": "Vincenzo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 40,
+        "v": "per",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 41,
+        "v": "andare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 42,
+        "v": "al",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 43,
+        "v": "matrimonio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 44,
+        "v": "di",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 45,
+        "v": "suo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 46,
+        "v": "fratello",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 47,
+        "v": "mettersi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 48,
+        "v": "un",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 49,
+        "v": "vestito",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 50,
+        "v": "nero",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 51,
+        "v": "Piero",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 52,
+        "v": "farsi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 53,
+        "v": "la",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 54,
+        "v": "barba",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 55,
+        "v": "con",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 56,
+        "v": "il",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 57,
+        "v": "rasoio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 58,
+        "v": "elettrico",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       }
+      ],
+      "totalItems": 1
+     },
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -12076,6 +20200,7 @@ window.QUIZ_DATA = {
      "answerBody": "| Presente – Forma attiva | Presente – Forma riflessiva | Passato prossimo – Forma attiva | Passato prossimo – Forma riflessiva |\n| --- | --- | --- | --- |\n| 1. io lavo | io mi lavo | io ho lavato | io mi sono lavato |\n| 2. lui alza | lui si alza | lui ha alzato | lui si è alzato |\n| 3. tu svegli | tu ti svegli | tu hai svegliato | tu ti sei svegliato |\n| 4. noi pettiniamo | noi ci pettiniamo | noi abbiamo pettinato | noi ci siamo pettinati |\n| 5. loro feriscono | loro si feriscono | loro hanno ferito | loro si sono feriti |\n| 6. voi mettete | voi vi mettete | voi avete messo | voi vi siete messi |\n| 7. tu pulisci | tu ti pulisci | tu hai pulito | tu ti sei pulito |\n| 8. loro sentono | loro si sentono | loro hanno sentito | loro si sono sentiti |\n| 9. noi allontaniamo | noi ci allontaniamo | noi abbiamo allontanato | noi ci siamo allontanati |\n| 10. lui muove | lui si muove | lui ha mosso | lui si è mosso |",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -12086,6 +20211,7 @@ window.QUIZ_DATA = {
      "answerBody": "*Testo originale:* Lucia si sveglia alle sette meno un quarto, si alza dopo pochi minuti e va in bagno. Si toglie il pigiama, si lava, si asciuga, si veste, si spazzola i capelli. Poi va in cucina e fa colazione. Prima di uscire si lava i denti, si pettina, si dà un po' di profumo. Poi si infila le scarpe, si mette la giacca ed esce.\n\n*Testo trasformato (soluzione):* Lucia si è svegliata alle sette meno un quarto, si è alzata dopo pochi minuti ed è andata in bagno. Si è tolta il pigiama, si è lavata, si è asciugata, si è vestita, si è spazzolata i capelli. Poi è andata in cucina e ha fatto colazione. Prima di uscire si è lavata i denti, si è pettinata, si è data un po' di profumo. Poi si è infilata le scarpe, si è messa la giacca ed è uscita.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -12104,6 +20230,7 @@ window.QUIZ_DATA = {
      "answerBody": "|  | Indicativo Presente | Indicativo Imperfetto | Congiuntivo Presente | Congiuntivo Imperfetto |\n| --- | --- | --- | --- | --- |\n| 1. | io vado | io andavo | io **vada** | io **andassi** |\n| 2. | tu **dai** | tu davi | tu **dia** | tu **dessi** |\n| 3. | lui **dice** | lui diceva | lui **dica** | lui **dicesse** |\n| 4. | lui **fa** | lui faceva | lui **faccia** | lui **facesse** |\n| 5. | voi uscite | voi **uscivate** | voi **usciate** | voi **usciste** |",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -12114,6 +20241,7 @@ window.QUIZ_DATA = {
      "answerBody": "|  | Indicativo Passato prossimo | Indicativo Trapassato prossimo | Congiuntivo Passato | Congiuntivo Trapassato |\n| --- | --- | --- | --- | --- |\n| 1. | io sono venuto | io ero venuto | io sia venuto | io fossi venuto |\n| 2. | lei è uscita | lei **era** uscita | lei **sia** uscita | lei **fosse** uscita |\n| 3. | noi **abbiamo voluto** | noi **avevamo voluto** | noi **abbiamo voluto** | noi **avessimo voluto** |\n| 4. | voi **avete saputo** | voi **avevate saputo** | voi **abbiate saputo** | voi **aveste saputo** |\n| 5. | lui è andato | lui **era andato** | lui **sia andato** | lui **fosse andato** |",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -12124,6 +20252,7 @@ window.QUIZ_DATA = {
      "answerBody": "- Esempio – Signora, **dovrebbe ritelefonare** domani. → Signora, **ritelefoni** domani.\n- 1. Signorina, **può aspettare** un momento? → Signorina, **aspetti** un momento.\n- 2. Professore, **perché non viene** a mangiare la pizza con noi? → Professore, **venga** a mangiare la pizza con noi.\n- 3. Signorina, **le dispiace chiudere** la porta? → Signorina, **chiuda** la porta.\n- 4. Signor Borello, **potrebbe portarmi** i suoi documenti? → Signor Borello, **mi porti** i suoi documenti.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -12134,6 +20263,7 @@ window.QUIZ_DATA = {
      "answerBody": "Cara Maria,\nnon **ho** più **ricevuto** (blu) tue notizie. Come **stai** (blu)? Come **stanno** (blu) gli zii? Spero che **vada** (rosso) tutto bene e che **siate** (rosso) contenti della casa nuova. Immagino che traslocare **sia stato** (rosso) molto faticoso. Mi ricordo che quando **abbiamo cambiato** (blu) casa noi otto anni fa **era stato** (blu) terribile. Appena ti **è** (blu) possibile, vorrei che tu ti **ricordassi** (rosso) di parlare a Franco, come ti **avevo chiesto** (blu), per sapere se **è** (blu) sempre d'accordo di venderci la macchina quando gli **arriverà** (blu) quella nuova. Se gli **arrivasse** (rosso) entro la fine del prossimo mese, potremmo venire ad Asti e fare l'atto di vendita. Se invece **avesse cambiato** (rosso) idea, dimmelo, e ci **regoleremo** (blu) diversamente.\nTanti saluti agli zii e a te un forte abbraccio. Chiara.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -12152,6 +20282,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Voglio che tu **smetta** (smettere) assolutamente di dire parolacce.\n- 2. Spero proprio che Elena **passi** (passare) l'esame.\n- 3. È difficile che mia sorella **torni** (tornare) tardi alla sera.\n- 4. Non credo che questa **sia** (essere) la soluzione migliore.\n- 5. Immagino che tu non **abbia** (avere) i soldi per pagare il dizionario.\n- 6. Silvia pensa che sua cugina **si trovi** (trovarsi) male a Genova.\n- 7. Tutti pensano che quel ragazzo **rubi** (rubare).",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -12317,6 +20448,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Mi dispiace che Paola **abbia perduto** (perdere) il portafoglio.\n- 2. È probabile che tu **abbia lasciato** (lasciare) l'ombrello in treno.\n- 3. Non credo che voi **abbiate fatto** (fare) da soli questo lavoro.\n- 4. Ho paura che il dottor Pennisi **sia** già **uscito** (uscire).\n- 5. La mamma è preoccupata che papà non **sia** ancora **arrivato** (arrivare).\n- 6. Immagino che ieri in montagna **abbia piovuto** (piovere) tutto il giorno.\n- 7. Spero che tu **ti sia ricordato** (ricordarsi) di comprare le arance.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -12327,6 +20459,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Credevo che Renata e Carla **venissero** (venire) a trovarci.\n- 2. Speravo che tu ormai **stessi** (stare) un po' meglio.\n- 3. Non immaginavamo che il direttore **fosse** (essere) così gentile.\n- 4. Carla aveva paura che i bambini **rompessero** (rompere) i bicchieri.\n- 5. Speravo proprio che lei **si divertisse** (divertirsi) alla festa.\n- 6. Non credevo che la polizia lo **arrestasse** (arrestare).\n- 7. Lucio voleva che Rosaria **cambiasse** (cambiare) lavoro.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -12492,6 +20625,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Ho saputo che la sposa si veste di bianco. → Immagino che **la sposa si vesta di bianco**.\n- 2. Ho sentito che gli zii hanno l'influenza. → Ho paura che **gli zii abbiano l'influenza**.\n- 3. Sono certo che siete felici. → Desidero che **siate felici**.\n- 4. Ho visto che tutti si sono dimenticati di telefonarmi. → Mi dispiace che **tutti si siano dimenticati di telefonarmi**.\n- 5. So che la signora Fiamma ha divorziato. → Suppongo che **la signora Fiamma abbia divorziato**.\n- 6. Mi hanno detto che Ugo ha cambiato lavoro. → È probabile che **Ugo abbia cambiato lavoro**.\n- 7. Sapevo che Rosi abitava qui. → Credevo che **Rosi abitasse qui**. *(nel PDF: \"Robi\" [sic])*",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -12637,6 +20771,7 @@ window.QUIZ_DATA = {
      "answerBody": "- Modello – Mangio una pizza. → **Mangerei volentieri una pizza.**\n- 1. Luca smette di lavorare. → **Luca smetterebbe volentieri di lavorare.**\n- 2. Noi andiamo in palestra. → **Noi andremmo volentieri in palestra.**\n- 3. Suo padre lavora in un negozio. → **Suo padre lavorerebbe volentieri in un negozio.**\n- 4. Johnny cambia casa. → **Johnny cambierebbe volentieri casa.**\n- 5. Facciamo un giorno di vacanza. → **Faremmo volentieri un giorno di vacanza.**\n- 6. Mi metto i pantaloni nuovi. → **Mi metterei volentieri i pantaloni nuovi.**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -12647,6 +20782,7 @@ window.QUIZ_DATA = {
      "answerBody": "- Modello – Sono andato alla partita. → **Sarei andato volentieri alla partita.**\n- 1. Ho fatto molte fotografie a Francesco e Anna. → **Avrei fatto volentieri molte fotografie a Francesco e Anna.**\n- 2. Loro hanno visto l'ultimo film di 007. → **Loro avrebbero visto volentieri l'ultimo film di 007.**\n- 3. Ho mangiato la pasta ai quattro formaggi. → **Avrei mangiato volentieri la pasta ai quattro formaggi.**\n- 4. La zia Anita ha preso il caffè. → **La zia Anita avrebbe preso volentieri il caffè.**\n- 5. Sono partito ieri. → **Sarei partito volentieri ieri.**\n- 6. Siamo andati al matrimonio di Massimo e Stefania. → **Saremmo andati volentieri al matrimonio di Massimo e Stefania.**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -12657,6 +20793,7 @@ window.QUIZ_DATA = {
      "answerBody": "- Modello – Perché non sei venuto al cinema con noi? → **Sarei venuto, ma non avevo i soldi.**\n- 1. Perché non hai telefonato a Maria? → Le **avrei telefonato**, ma ho perso il suo numero.\n- 2. Perché non avete innaffiato i vasi sul terrazzo? → Li **avremmo innaffiati**, ma non c'era acqua.\n- 3. Perché non hai guardato il telegiornale? → Lo **avrei guardato**, ma dovevo fare una telefonata urgente.\n- 4. Perché non hai fatto merenda? → La **avrei fatta**, ma dovevo andare in piscina.\n- 5. Perché non sei andato a piedi? → **Sarei andato a piedi**, ma ho preso il tram perché ero in ritardo.\n- 6. Perché non siete andati al mare domenica? → **Ci saremmo andati**, ma il tempo era brutto.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -12808,120 +20945,715 @@ window.QUIZ_DATA = {
      "body": "1. Ti ___ (portare) alla stazione, ma non ho la macchina.\n2. I signori Gaidano ___ (volere) tornare a Torino, ma per ora continuano a lavorare in Svizzera.\n3. Zia, ti ___ (piacere) venire con noi al concerto?\n4. Mi dispiace, io ti ___ (accompagnare) volentieri dal medico, ma alle 9 devo essere in ufficio.\n5. Enrico e Fabiola ___ (sposarsi) ma non hanno ancora trovato casa.",
      "answerBody": "- 1. Ti **porterei** (portare) alla stazione, ma non ho la macchina.\n- 2. I signori Gaidano **vorrebbero** (volere) tornare a Torino, ma per ora continuano a lavorare in Svizzera.\n- 3. Zia, ti **piacerebbe** (piacere) venire con noi al concerto?\n- 4. Mi dispiace, io ti **accompagnerei** (accompagnare) volentieri dal medico, ma alle 9 devo essere in ufficio.\n- 5. Enrico e Fabiola **si sposerebbero** (sposarsi) ma non hanno ancora trovato casa.",
      "matching": null,
-     "passage": null,
+     "passage": {
+      "tokens": [
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 0,
+        "v": "Ti",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 1,
+        "v": "portare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 2,
+        "v": "alla",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 3,
+        "v": "stazione",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 4,
+        "v": "ma",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 5,
+        "v": "non",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 6,
+        "v": "ho",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 7,
+        "v": "la",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 8,
+        "v": "macchina",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 9,
+        "v": "I",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 10,
+        "v": "signori",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 11,
+        "v": "Gaidano",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 12,
+        "v": "volere",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 13,
+        "v": "tornare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 14,
+        "v": "a",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 15,
+        "v": "Torino",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 16,
+        "v": "ma",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 17,
+        "v": "per",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 18,
+        "v": "ora",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 19,
+        "v": "continuano",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 20,
+        "v": "a",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 21,
+        "v": "lavorare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 22,
+        "v": "in",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 23,
+        "v": "Svizzera",
+        "role": "proper",
+        "cap": "Svizzera"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 24,
+        "v": "Zia",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 25,
+        "v": "ti",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 26,
+        "v": "piacere",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 27,
+        "v": "venire",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 28,
+        "v": "con",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 29,
+        "v": "noi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 30,
+        "v": "al",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 31,
+        "v": "concerto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "?"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 32,
+        "v": "Mi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 33,
+        "v": "dispiace",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 34,
+        "v": "io",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 35,
+        "v": "ti",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 36,
+        "v": "accompagnare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 37,
+        "v": "volentieri",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 38,
+        "v": "dal",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 39,
+        "v": "medico",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 40,
+        "v": "ma",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 41,
+        "v": "alle",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 42,
+        "v": "devo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 43,
+        "v": "essere",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 44,
+        "v": "in",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 45,
+        "v": "ufficio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 46,
+        "v": "Enrico",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 47,
+        "v": "e",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 48,
+        "v": "Fabiola",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "("
+       },
+       {
+        "t": "word",
+        "id": 49,
+        "v": "sposarsi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ")"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 50,
+        "v": "ma",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 51,
+        "v": "non",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 52,
+        "v": "hanno",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 53,
+        "v": "ancora",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 54,
+        "v": "trovato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 55,
+        "v": "casa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       }
+      ],
+      "totalItems": 1
+     },
+     "categorization": null,
      "wordBank": null,
-     "blanks": [
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "1. Ti "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "porterei"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " (portare) alla stazione, ma non ho la macchina."
-        }
-       ],
-       "answers": [
-        "porterei"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "2. I signori Gaidano "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "vorrebbero"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " (volere) tornare a Torino, ma per ora continuano a lavorare in Svizzera."
-        }
-       ],
-       "answers": [
-        "vorrebbero"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "3. Zia, ti "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "piacerebbe"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " (piacere) venire con noi al concerto?"
-        }
-       ],
-       "answers": [
-        "piacerebbe"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "4. Mi dispiace, io ti "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "accompagnerei"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " (accompagnare) volentieri dal medico, ma alle 9 devo essere in ufficio."
-        }
-       ],
-       "answers": [
-        "accompagnerei"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "5. Enrico e Fabiola "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "si sposerebbero"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " (sposarsi) ma non hanno ancora trovato casa."
-        }
-       ],
-       "answers": [
-        "si sposerebbero"
-       ]
-      }
-     ]
+     "blanks": null
     }
    ]
   },
@@ -12938,6 +21670,7 @@ window.QUIZ_DATA = {
      "answerBody": "| Infinito | Tu (imperativo) | Voi (imperativo) |\n| --- | --- | --- |\n| 1. scrivere | **scrivi** | **scrivete** |\n| 2. ritornare | **ritorna** | **ritornate** |\n| 3. studiare | **studia** | **studiate** |\n| 4. dormire | **dormi** | **dormite** |\n| 5. telefonare | **telefona** | **telefonate** |\n| 6. fare | **fa' / fai** | **fate** |\n| 7. andare | **va' / vai** | **andate** |\n| 8. ascoltare | **ascolta** | **ascoltate** |\n| 9. tagliare | **taglia** | **tagliate** |\n| 10. pagare | **paga** | **pagate** |",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -13307,6 +22040,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Franca, **porta** (portare) qui il cane!\n- 2. (Voi) **Leggete** (leggere) più lentamente!\n- 3. Zia, **senti** (sentire), mi fai un favore?\n- 4. Ragazzi, **pulite** (pulire) la vostra camera.\n- 5. Bobby, **mangia** (mangiare) la zuppa!\n- 6. Se ci tieni alla salute, **smetti** (smettere) di fumare.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -13450,6 +22184,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Smetti di studiare. → **Non smettere di studiare.**\n- 2. Compra i francobolli. → **Non comprare i francobolli.**\n- 3. Andate al supermercato. → **Non andate al supermercato.**\n- 4. Butta la pasta. → **Non buttare la pasta.**\n- 5. Mangia il cioccolato. → **Non mangiare il cioccolato.**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -13551,6 +22286,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Jennifer, cerca di arrivare puntuale! → Signorina, **cerchi di arrivare puntuale!**\n- 2. Mamma, rispondi al telefono! → Signora, **risponda al telefono!**\n- 3. Luca, telefona all'avvocato! → Dottor Giovanardi, **telefoni all'avvocato!**\n- 4. Carlotta, riportami il libro! → Signorina Buzzi, **mi riporti il libro!**\n- 5. Giovanni, compila questo modulo! → Signor Golzio, **compili questo modulo!**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -13561,6 +22297,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Federica, **dammi** (darmi) il tuo indirizzo, per favore.\n- 2. Ragazze, **telefonategli** (telefonargli) subito, altrimenti esce.\n- 3. Antonio, **svegliati** (svegliarsi), **sbrigati** (sbrigarsi), è tardi.\n- 4. Paola, **mettiti** (mettersi) la gonna lilla, che ti sta così bene!\n- 5. Daniele, **fammi** (farmi) un cappuccino, per favore.\n- 6. Ester, **dimmi** (dirmi) la verità: hai pianto?\n- 7. Bambini, **alzatevi** (alzarsi) e **venite** (venire) a fare colazione.\n- 8. Andate da Carlo e **portategli** (portargli) le medicine.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -13779,7 +22516,678 @@ window.QUIZ_DATA = {
      "body": "1. Dato che pago con la carta di credito, tengo pochi soldi nel portafoglio.\n   ___\n2. Mentre scendeva le scale, Paola è scivolata e si è fatta male.\n   ___\n3. La poveretta è stata investita dalla macchina, mentre attraversava la strada sulle strisce pedonali.\n   ___\n4. Mentre pensava a lei, Peter era felice.\n   ___\n5. Quando mi lavo i capelli, mi accorgo che ne perdo molti.\n   ___",
      "answerBody": "- 1. **Dato che pago** con la carta di credito, tengo pochi soldi nel portafoglio. → **Pagando** …\n- 2. **Mentre scendeva** le scale, Paola è scivolata e si è fatta male. → **Scendendo** …\n- 3. La poveretta è stata investita dalla macchina, **mentre attraversava** la strada sulle strisce pedonali. → **attraversando** …\n- 4. **Mentre pensava** a lei, Peter era felice. → **Pensando** …\n- 5. **Quando mi lavo** i capelli, mi accorgo che ne perdo molti. → **Lavandomi** …",
      "matching": null,
-     "passage": null,
+     "passage": {
+      "tokens": [
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 0,
+        "v": "Dato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 1,
+        "v": "che",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 2,
+        "v": "pago",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 3,
+        "v": "con",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 4,
+        "v": "la",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 5,
+        "v": "carta",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 6,
+        "v": "di",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 7,
+        "v": "credito",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 8,
+        "v": "tengo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 9,
+        "v": "pochi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 10,
+        "v": "soldi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 11,
+        "v": "nel",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 12,
+        "v": "portafoglio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n   "
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 13,
+        "v": "Mentre",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 14,
+        "v": "scendeva",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 15,
+        "v": "le",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 16,
+        "v": "scale",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 17,
+        "v": "Paola",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 18,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 19,
+        "v": "scivolata",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 20,
+        "v": "e",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 21,
+        "v": "si",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 22,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 23,
+        "v": "fatta",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 24,
+        "v": "male",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n   "
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 25,
+        "v": "La",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 26,
+        "v": "poveretta",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 27,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 28,
+        "v": "stata",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 29,
+        "v": "investita",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 30,
+        "v": "dalla",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 31,
+        "v": "macchina",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 32,
+        "v": "mentre",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 33,
+        "v": "attraversava",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 34,
+        "v": "la",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 35,
+        "v": "strada",
+        "role": "common"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 36,
+        "v": "sulle",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 37,
+        "v": "strisce",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 38,
+        "v": "pedonali",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n   "
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 39,
+        "v": "Mentre",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 40,
+        "v": "pensava",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 41,
+        "v": "a",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 42,
+        "v": "lei",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 43,
+        "v": "Peter",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 44,
+        "v": "era",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 45,
+        "v": "felice",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n   "
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 46,
+        "v": "Quando",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 47,
+        "v": "mi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 48,
+        "v": "lavo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 49,
+        "v": "i",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 50,
+        "v": "capelli",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 51,
+        "v": "mi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 52,
+        "v": "accorgo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 53,
+        "v": "che",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 54,
+        "v": "ne",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 55,
+        "v": "perdo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 56,
+        "v": "molti",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n   "
+       }
+      ],
+      "totalItems": 1
+     },
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -13790,6 +23198,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Il nostro esercito ha vinto la battaglia, **dopo aver combattuto** a lungo. → **avendo combattuto** …\n- 2. **Quando ho sentito** come stavano le cose, ho preferito andarmene. → **Avendo sentito** …\n- 3. **Dato che ha fatto** molti straordinari, mio padre questo mese ha guadagnato più del solito. → **Avendo fatto** …\n- 4. **Dopo aver pagato** tutti i debiti, loro si sentono più tranquilli. → **Avendo pagato** …\n- 5. **Dato che ha visto** che c'era poca gente, Andrea si è offeso ed è andato via. → **Avendo visto** …",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -13800,6 +23209,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Vedendo**le**, ho capito che Francesca e Sandra sono molto amiche.\n- 2. Questi esercizi diventano più chiari rifacendo**li**.\n- 3. Le mie magliette sono diventate troppo strette lavando**le**.\n- 4. Questa merendina sembrava buona, ma mangiando**la** ho sentito un gusto cattivo.\n- 5. Leggendo**lo**, ho visto che questo libro è abbastanza interessante.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -13921,6 +23331,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Fatima **sta preparando** (preparare) il cous-cous.\n- 2. Alla radio **stanno trasmettendo** (trasmettere) il Festival di Sanremo.\n- 3. In questo momento **sta tuonando** (tuonare) e **sta piovendo** (piovere) a dirotto.\n- 4. Mentre io **stavo facendo** (fare) colazione, è arrivata mia sorella piangendo.\n- 5. Questo film **sta avendo** (avere) molto successo.\n- 6. Che cosa **stava facendo** (fare) Ahmed quando l'hai incontrato?\n- 7. A chi **sta telefonando** (telefonare) Carlo?\n- 8. Il Presidente della Repubblica **sta parlando** (parlare) in televisione.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -14128,6 +23539,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Sforzati **di** fare più attenzione.\n- 2. Giorgio e Pina continuano **a** uscire insieme.\n- 3. Provo di nuovo **a** telefonargli.\n- 4. Se non sono arrivati tutti, non metterti **a** mangiare.\n- 5. Vorrei **(–)** ritrovare il berretto che ho perso.\n- 6. Mio zio si diverte **a** scrivere canzoni e **a** suonarle con la chitarra.\n- 7. Mio padre ha deciso **di** cambiare casa.\n- 8. È inutile che insistiamo **a** invitarla.\n- 9. È impossibile **(–)** arrivare in tempo.\n- 10. Incominceremo **a** verniciare le porte domani.\n- (colonna destra) 9. Dora deve **(–)** partire per la Germania.\n- (colonna destra) 10. I signori Traversa hanno deciso **di** traslocare.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -14138,6 +23550,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Finite **di** fare l'esercizio, poi potete **(–)** fare l'intervallo.\n- 2. Non riesco **a** capire le equazioni.\n- 3. Continua **a** suonare, finché risponde.\n- 4. Preferisco **(–)** ascoltare musica che ballare.\n- 5. Lucia pensava **di** iscriversi a un corso di karate.\n- 6. Ricordiamoci **di** andare a ritirare le fotografie.\n- 7. I nostri vicini di casa si rifiutano **di** spostare la macchina.\n- 8. Tenteremo ancora **di** convincerli.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -14148,6 +23561,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. a. Penso andare domani a tagliarmi i capelli. / **b. Penso di andare domani a tagliarmi i capelli. ✓** / c. Penso a andare domani a tagliarmi i capelli.\n- 2. a. È difficile a capire l'italiano? / **b. È difficile capire l'italiano? ✓** / c. È difficile di capire l'italiano?\n- 3. a. Lui preferisce di mangiare il panino. / b. Lui preferisce a mangiare il panino. / **c. Lui preferisce mangiare il panino. ✓**\n- 4. a. Mi ricorderò portarti le cassette. / **b. Mi ricorderò di portarti le cassette. ✓** / c. Mi ricorderò a portarti le cassette.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -14158,6 +23572,7 @@ window.QUIZ_DATA = {
      "answerBody": "- Modello – Io penso / io studio fino alle sei. → **Io penso di studiare fino alle sei.**\n- 1. Lui crede / lui è intelligente → **Lui crede di essere intelligente.**\n- 2. Lui crede / suo fratello è intelligente → **Lui crede che suo fratello sia intelligente.**\n- 3. Noi pensiamo / noi andiamo in vacanza in Marocco → **Noi pensiamo di andare in vacanza in Marocco.**\n- 4. Noi pensiamo / loro vanno in vacanza in Marocco → **Noi pensiamo che loro vadano in vacanza in Marocco.**\n- 5. Io pensavo / io compravo un paio di scarpe da ginnastica → **Io pensavo di comprare un paio di scarpe da ginnastica.**\n- 6. Io pensavo / tu compravi un paio di scarpe da ginnastica → **Io pensavo che tu comprassi un paio di scarpe da ginnastica.**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -14176,6 +23591,7 @@ window.QUIZ_DATA = {
      "answerBody": "| Aggettivo | Avverbio | Aggettivo | Avverbio |\n| --- | --- | --- | --- |\n| 1. dolce | dolcemente | 7. sicuro | **sicuramente** |\n| 2. forte | **fortemente** | 8. giusto | **giustamente** |\n| 3. rumoroso | **rumorosamente** | 9. confuso | **confusamente** |\n| 4. allegro | **allegramente** | 10. felice | **felicemente** |\n| 5. completo | **completamente** | 11. parziale | **parzialmente** |\n| 6. silenzioso | **silenziosamente** | 12. normale | **normalmente** |",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -14397,6 +23813,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. davanti → **i. dinanzi**\n- 2. tanto → **e. molto**\n- 3. raramente → **f. di rado**\n- 4. di sicuro → **b. certamente**\n- 5. altrove → **g. in un altro posto**\n- 6. talvolta → **c. ogni tanto**\n- 7. spesso → **d. sovente**\n- 8. qui → **a. qua**\n- 9. neanche → **h. nemmeno**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -14407,6 +23824,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Se ti alzi **presto**, hai tempo per fare colazione con calma.\n- 2. **Appena** possibile l'amministratore manderà un idraulico a riparare il tubo.\n- 3. Non vado **mai** a ballare, ma vado **qualche volta** al cinema.\n- 4. Riccardo viene **sempre** a trovarci.\n- 5. Ormai è **tardi**, i negozi sono chiusi.\n- 6. Stefania è **spesso** in ritardo e non chiede **mai** scusa.\n- 7. Vieni **presto** perché poi devo uscire.\n- 8. **Domani** andrò dal dentista.\n- 9. Non so spiegarmi il motivo, ma **oggi** sono veramente stanco.\n- 10. **Ora** studio, **poi** telefono a Marta.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": [
       "appena",
       "domani",
@@ -14688,6 +24106,252 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Avverbi di modo: malissimo, **~~di più~~**, gentilmente, benino, educatamente, fortemente.\n- 2. Avverbi di tempo: ora, adesso, **~~forse~~**, stamattina, domani, tardi.\n- 3. Avverbi di luogo: di sopra, da tutte le parti, nelle vicinanze, **~~più o meno~~**, lontano, di fianco.\n- 4. Avverbi di quantità: abbastanza, moltissimo, un po', tanto, troppo, **~~presto~~**.\n- 5. Avverbi interrogativi: perché?, quanto?, quando?, come mai?, dove?, **~~sotto~~**.\n- 6. Avverbi di valutazione: **~~molto~~**, neanche, niente affatto, non, forse, sì.",
      "matching": null,
      "passage": null,
+     "categorization": {
+      "categories": [
+       {
+        "id": "cat_0",
+        "title": "1. Avverbi di modo"
+       },
+       {
+        "id": "cat_1",
+        "title": "2. Avverbi di tempo"
+       },
+       {
+        "id": "cat_2",
+        "title": "3. Avverbi di luogo"
+       },
+       {
+        "id": "cat_3",
+        "title": "4. Avverbi di quantità"
+       },
+       {
+        "id": "cat_4",
+        "title": "5. Avverbi interrogativi"
+       },
+       {
+        "id": "cat_5",
+        "title": "6. Avverbi di valutazione"
+       }
+      ],
+      "items": [
+       {
+        "id": "w_0",
+        "text": "malissimo",
+        "facitText": "malissimo",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_1",
+        "text": "**~~di più~~**",
+        "facitText": "**~~di più~~**",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_2",
+        "text": "gentilmente",
+        "facitText": "gentilmente",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_3",
+        "text": "benino",
+        "facitText": "benino",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_4",
+        "text": "educatamente",
+        "facitText": "educatamente",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_5",
+        "text": "fortemente.",
+        "facitText": "fortemente.",
+        "targetCat": "cat_0"
+       },
+       {
+        "id": "w_6",
+        "text": "ora",
+        "facitText": "ora",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_7",
+        "text": "adesso",
+        "facitText": "adesso",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_8",
+        "text": "**~~forse~~**",
+        "facitText": "**~~forse~~**",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_9",
+        "text": "stamattina",
+        "facitText": "stamattina",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_10",
+        "text": "domani",
+        "facitText": "domani",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_11",
+        "text": "tardi.",
+        "facitText": "tardi.",
+        "targetCat": "cat_1"
+       },
+       {
+        "id": "w_12",
+        "text": "di sopra",
+        "facitText": "di sopra",
+        "targetCat": "cat_2"
+       },
+       {
+        "id": "w_13",
+        "text": "da tutte le parti",
+        "facitText": "da tutte le parti",
+        "targetCat": "cat_2"
+       },
+       {
+        "id": "w_14",
+        "text": "nelle vicinanze",
+        "facitText": "nelle vicinanze",
+        "targetCat": "cat_2"
+       },
+       {
+        "id": "w_15",
+        "text": "**~~più o meno~~**",
+        "facitText": "**~~più o meno~~**",
+        "targetCat": "cat_2"
+       },
+       {
+        "id": "w_16",
+        "text": "lontano",
+        "facitText": "lontano",
+        "targetCat": "cat_2"
+       },
+       {
+        "id": "w_17",
+        "text": "di fianco.",
+        "facitText": "di fianco.",
+        "targetCat": "cat_2"
+       },
+       {
+        "id": "w_18",
+        "text": "abbastanza",
+        "facitText": "abbastanza",
+        "targetCat": "cat_3"
+       },
+       {
+        "id": "w_19",
+        "text": "moltissimo",
+        "facitText": "moltissimo",
+        "targetCat": "cat_3"
+       },
+       {
+        "id": "w_20",
+        "text": "un po'",
+        "facitText": "un po'",
+        "targetCat": "cat_3"
+       },
+       {
+        "id": "w_21",
+        "text": "tanto",
+        "facitText": "tanto",
+        "targetCat": "cat_3"
+       },
+       {
+        "id": "w_22",
+        "text": "troppo",
+        "facitText": "troppo",
+        "targetCat": "cat_3"
+       },
+       {
+        "id": "w_23",
+        "text": "**~~presto~~**.",
+        "facitText": "**~~presto~~**.",
+        "targetCat": "cat_3"
+       },
+       {
+        "id": "w_24",
+        "text": "perché?",
+        "facitText": "perché?",
+        "targetCat": "cat_4"
+       },
+       {
+        "id": "w_25",
+        "text": "quanto?",
+        "facitText": "quanto?",
+        "targetCat": "cat_4"
+       },
+       {
+        "id": "w_26",
+        "text": "quando?",
+        "facitText": "quando?",
+        "targetCat": "cat_4"
+       },
+       {
+        "id": "w_27",
+        "text": "come mai?",
+        "facitText": "come mai?",
+        "targetCat": "cat_4"
+       },
+       {
+        "id": "w_28",
+        "text": "dove?",
+        "facitText": "dove?",
+        "targetCat": "cat_4"
+       },
+       {
+        "id": "w_29",
+        "text": "**~~sotto~~**.",
+        "facitText": "**~~sotto~~**.",
+        "targetCat": "cat_4"
+       },
+       {
+        "id": "w_30",
+        "text": "**~~molto~~**",
+        "facitText": "**~~molto~~**",
+        "targetCat": "cat_5"
+       },
+       {
+        "id": "w_31",
+        "text": "neanche",
+        "facitText": "neanche",
+        "targetCat": "cat_5"
+       },
+       {
+        "id": "w_32",
+        "text": "niente affatto",
+        "facitText": "niente affatto",
+        "targetCat": "cat_5"
+       },
+       {
+        "id": "w_33",
+        "text": "non",
+        "facitText": "non",
+        "targetCat": "cat_5"
+       },
+       {
+        "id": "w_34",
+        "text": "forse",
+        "facitText": "forse",
+        "targetCat": "cat_5"
+       },
+       {
+        "id": "w_35",
+        "text": "sì.",
+        "facitText": "sì.",
+        "targetCat": "cat_5"
+       }
+      ]
+     },
      "wordBank": null,
      "blanks": null
     }
@@ -14705,239 +24369,792 @@ window.QUIZ_DATA = {
      "body": "La casa ___ professore\n\n1. l'infermiera — La casa ___ infermiera\n2. la padrona — La casa ___ padrona\n3. l'avvocato — La casa ___ avvocato\n4. i figli di Claudio — La casa ___ figli di Claudio\n5. mio fratello — La casa ___ mio fratello\n6. Carmen — La casa ___ Carmen\n7. lo scrittore — La casa ___ scrittore\n8. le mie amiche — La casa ___ mie amiche\n9. il sindaco — La casa ___ sindaco\n10. gli studenti — La casa ___ studenti",
      "answerBody": "- Esempio – il professore → La casa **del** professore\n- 1. l'infermiera → La casa **dell'**infermiera\n- 2. la padrona → La casa **della** padrona\n- 3. l'avvocato → La casa **dell'**avvocato\n- 4. i figli di Claudio → La casa **dei** figli di Claudio\n- 5. mio fratello → La casa **di** mio fratello\n- 6. Carmen → La casa **di** Carmen\n- 7. lo scrittore → La casa **dello** scrittore\n- 8. le mie amiche → La casa **delle** mie amiche\n- 9. il sindaco → La casa **del** sindaco\n- 10. gli studenti → La casa **degli** studenti",
      "matching": null,
-     "passage": null,
+     "passage": {
+      "tokens": [
+       {
+        "t": "word",
+        "id": 0,
+        "v": "La",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 1,
+        "v": "casa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 2,
+        "v": "professore",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "l'"
+       },
+       {
+        "t": "word",
+        "id": 3,
+        "v": "infermiera",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "—"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 4,
+        "v": "La",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 5,
+        "v": "casa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 6,
+        "v": "infermiera",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 7,
+        "v": "la",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 8,
+        "v": "padrona",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "—"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 9,
+        "v": "La",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 10,
+        "v": "casa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 11,
+        "v": "padrona",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "l'"
+       },
+       {
+        "t": "word",
+        "id": 12,
+        "v": "avvocato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "—"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 13,
+        "v": "La",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 14,
+        "v": "casa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 15,
+        "v": "avvocato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 16,
+        "v": "i",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 17,
+        "v": "figli",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 18,
+        "v": "di",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 19,
+        "v": "Claudio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "—"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 20,
+        "v": "La",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 21,
+        "v": "casa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 22,
+        "v": "figli",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 23,
+        "v": "di",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 24,
+        "v": "Claudio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 25,
+        "v": "mio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 26,
+        "v": "fratello",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "—"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 27,
+        "v": "La",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 28,
+        "v": "casa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 29,
+        "v": "mio",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 30,
+        "v": "fratello",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 31,
+        "v": "Carmen",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "—"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 32,
+        "v": "La",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 33,
+        "v": "casa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 34,
+        "v": "Carmen",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 35,
+        "v": "lo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 36,
+        "v": "scrittore",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "—"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 37,
+        "v": "La",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 38,
+        "v": "casa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 39,
+        "v": "scrittore",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 40,
+        "v": "le",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 41,
+        "v": "mie",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 42,
+        "v": "amiche",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "—"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 43,
+        "v": "La",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 44,
+        "v": "casa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 45,
+        "v": "mie",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 46,
+        "v": "amiche",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 47,
+        "v": "il",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 48,
+        "v": "sindaco",
+        "role": "common"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "—"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 49,
+        "v": "La",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 50,
+        "v": "casa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 51,
+        "v": "sindaco",
+        "role": "common"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 52,
+        "v": "gli",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 53,
+        "v": "studenti",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": "—"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 54,
+        "v": "La",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 55,
+        "v": "casa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 56,
+        "v": "studenti",
+        "role": "none"
+       }
+      ],
+      "totalItems": 2
+     },
+     "categorization": null,
      "wordBank": null,
-     "blanks": [
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "Esempio – il professore → La casa **del** professore"
-        }
-       ],
-       "answers": []
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "1. l'infermiera — La casa "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "dell'"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " infermiera"
-        }
-       ],
-       "answers": [
-        "dell'"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "2. la padrona — La casa "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "della"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " padrona"
-        }
-       ],
-       "answers": [
-        "della"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "3. l'avvocato — La casa "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "dell'"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " avvocato"
-        }
-       ],
-       "answers": [
-        "dell'"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "4. i figli di Claudio — La casa "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "dei"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " figli di Claudio"
-        }
-       ],
-       "answers": [
-        "dei"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "5. mio fratello — La casa "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "di"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " mio fratello"
-        }
-       ],
-       "answers": [
-        "di"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "6. Carmen — La casa "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "di"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " Carmen"
-        }
-       ],
-       "answers": [
-        "di"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "7. lo scrittore — La casa "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "dello"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " scrittore"
-        }
-       ],
-       "answers": [
-        "dello"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "8. le mie amiche — La casa "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "delle"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " mie amiche"
-        }
-       ],
-       "answers": [
-        "delle"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "9. il sindaco — La casa "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "del"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " sindaco"
-        }
-       ],
-       "answers": [
-        "del"
-       ]
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "10. gli studenti — La casa "
-        },
-        {
-         "t": "blank",
-         "i": 0,
-         "answers": [
-          "degli"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " studenti"
-        }
-       ],
-       "answers": [
-        "degli"
-       ]
-      }
-     ]
+     "blanks": null
     },
     {
      "num": "02",
@@ -14946,6 +25163,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Io vado **a** scuola / **alla - in** stazione / **alla** partita\n- 2. Io vado **al** cinema / **al** supermercato / **allo** stadio\n- 3. Io vado **in** pizzeria / **ai** giardini / **in** piscina\n- 4. Io vado **in** farmacia / **dal** farmacista / **dal** dentista\n- 5. Io vado **dal** dottore / **al** bar / **al** pronto soccorso\n- 6. Io vado **all' - in** ospedale / **in** banca / **alla - in** posta\n- 7. Io vado **in** mensa / **in** centro / **in** segreteria\n- 8. Io vado **da** mio zio / **da** lui / **da** Beppe",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -15325,6 +25543,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Sono stanca **di** studiare; ho voglia **di** uscire **a** fare una passeggiata.\n- 2. L'aereo è partito **da** Roma **alle** 9.05 ed è arrivato **a** Zurigo **alle** 10.35.\n- 3. Le chiavi **della** cantina sono **nella** tasca **della** giacca **di** papà.\n- 4. Giulio andrà **alla** scuola superiore e poi **all'**università **di** Bologna.\n- 5. Il pavimento **della** cucina è sporco **di** sugo **di** pomodoro.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -15590,6 +25809,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Una piccola folla di curiosi si è radunata **intorno al** corpo della vittima.\n- 2. **Salvo** imprevisti, arriveremo **a** casa tua **alle** dieci **del** mattino.\n- 3. **Alla** partita **di** pallavolo tutti facevano il tifo **per** la loro squadra.\n- 4. Ho comprato un libro **di** poesie **nella** libreria **di** via Po.\n- 5. **Secondo** me, continuando **a** non studiare, Enrico sarà bocciato.\n- 6. **Di fronte alla** farmacia c'è un negozio di occhiali, **di** cui è proprietario mio cugino.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": [
       "di",
       "alla",
@@ -15865,6 +26085,7 @@ window.QUIZ_DATA = {
      "answerBody": "- Modello: Ho letto un libro **di** fantascienza. / Ho letto un libro **con** molta curiosità. / Ho letto un libro **dall'**inizio alla fine. / Ho letto un libro **per** due ore.\n- 1. Anna lavora **in** un negozio. / Anna lavora **a** Milano. / Anna lavora **con** sua zia. / Anna lavora **dalle** dieci **alle** diciotto.\n- 2. Vado dalla nonna **di** domenica. / Vado dalla nonna **con** i miei fratelli. / Vado dalla nonna **per** pranzare con lei. / Vado dalla nonna **in** campagna.\n- 3. Francesco ride **per** la barzelletta. / Francesco ride **da** solo. / Francesco ride **con** gli amici. / Francesco ride **di** tutto.\n- 4. Bevo il latte **con** la cioccolata. / Bevo il latte **per** fare colazione. / Bevo il latte **in** cucina. / Bevo il latte **di** mucca.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -15875,6 +26096,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Sono morto **di** stanchezza → **b. causa**\n- 2. A Valerio piace disegnare (a = termine) → **d. termine**\n- 3. Sei uscito **con** i tuoi amici? → **g. compagnia**\n- 4. Ho visto un nido **tra** le foglie → **a. luogo**\n- 5. La professoressa ha parlato **della** seconda guerra mondiale → **f. argomento**\n- 6. Non riesco a dormire **di** giorno → **e. tempo**\n- 7. Il marito **di** Franca si chiama Claudio → **c. possesso**\n- 8. Studio **per** poter andare a lavorare → **h. fine**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -15885,6 +26107,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Appena puoi, passa **da** me. → **luogo** ✓ (agente / causa / luogo)\n- 2. Ho visto un documentario **sui** leoni. → **argomento** ✓ (mezzo / argomento / luogo)\n- 3. Andiamo **a** piedi. → **mezzo** ✓ (termine / modo / mezzo)\n- 4. Fai le cose **con** troppa fretta. → **modo** ✓ (compagnia / causa / modo)\n- 5. L'aereo non è partito **per** la nebbia. → **causa** ✓ (fine / causa / termine)\n- 6. Esco ora **dall'**ospedale. → **luogo** ✓ (agente / luogo / mezzo)\n- 7. **Con** me puoi stare tranquillo. → **compagnia** ✓ (agente / causa / compagnia)\n- 8. La torta è stata portata **da** Jimmy. → **agente** ✓ (agente / causa / luogo)",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -16144,6 +26367,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Ho mangiato molto, però **non sono ancora sazio**.\n- 2. Ho mangiato molto, e allora **bevo un digestivo**.\n- 3. Ho mangiato molto, perché **avevo molta fame**.\n- 4. Ho mangiato molto, anche se **non avevo molta fame**.\n- 5. Ho mangiato molto, come **se non mangiassi da un mese**.\n- 6. Ho mangiato molto, fino a che **non ne potevo più**.\n- 7. Vado a dormire, se **spegni la televisione**.\n- 8. Vado a dormire, perché **ho sonno**.\n- 9. Vado a dormire, purché **tu spenga la televisione**.\n- 10. Vado a dormire, dopo che **avrai spento la televisione**.\n- 11. Vado a dormire, anche **se lasci accesa la televisione**.\n- 12. Vado a dormire, **perciò spegni la televisione!**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -16371,6 +26595,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Verrò in montagna con voi → **b. purché ci sia neve.**\n- 2. Non vinciamo la partita → **c. se non corriamo di più.**\n- 3. Mi ha guardato male → **d. come se fosse colpa mia.**\n- 4. Loredana mangia troppo → **e. anche se le fa male.**\n- 5. Compro la frutta al mercato → **a. perché costa meno.**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -16381,6 +26606,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Ho letto e riletto questa lezione, **ma** non ho capito niente.\n- 2. Vuoi la maglia rossa **o** quella grigia?\n- 3. Davide è bravissimo **sia** in inglese, **che** in matematica.\n- 4. Signora, preferisce questo formaggio fresco **oppure** questo più stagionato?\n- 5. Questo dolce è molto grasso **perciò** piuttosto difficile da digerire.\n- 6. Nel dopoguerra, **dunque** dal 1945 al 1950, l'Italia era in gravi difficoltà economiche.\n- 7. **O** ti decidi a comportarti bene **o** non verrai più con noi.\n- 8. **Sia che** tu vada, **che** tu non vada, telefonagli.",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": [
       {
@@ -16612,6 +26838,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. studiare / prendere un bel voto → **Se studi, prendi un bel voto.**\n- 2. mangiare troppo / fare indigestione → **Se mangi troppo, fai indigestione.**\n- 3. nevicare / giocare a palle di neve → **Se nevica, giochiamo a palle di neve.**\n- 4. fare bel tempo / andare a passeggio → **Se fa bel tempo, andiamo a passeggio.**\n- 5. perdere tempo / non finire il lavoro → **Se perdo tempo, non finisco il lavoro.**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -16622,6 +26849,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. avere tanti soldi / fare il giro del mondo → **Se avessi tanti soldi, farei il giro del mondo.**\n- 2. essere un calciatore / guadagnare molto → **Se fossi un calciatore, guadagnerei molto.**\n- 3. abitare in Francia / imparare il francese → **Se abitassi in Francia, imparerei il francese.**\n- 4. ammalarsi / chiamare il medico → **Se mi ammalassi, chiamerei il medico.**\n- 5. potere / invitare tutti al ristorante → **Se potessi, inviterei tutti al ristorante.**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -16632,6 +26860,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. andare a casa degli zii / vedere Adriana → **Se fossi andato a casa degli zii, avresti visto Adriana.**\n- 2. esserci il sole / abbronzarsi → **Se ci fosse stato il sole, ci saremmo abbronzati.**\n- 3. essere promosso / essere più contento → **Se fosse stato promosso, sarebbe stato più contento.**\n- 4. aver mangiato di meno / digerire → **Se avessi mangiato di meno, avresti digerito.**\n- 5. non comportarsi male / non essere punito dall'insegnante → **Se non ti fossi comportato male, non saresti stato punito dall'insegnante.**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -16642,6 +26871,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Se studierei di più, prenderei dei bei voti. → **Se studiassi di più, prenderei dei bei voti.**\n- 2. Se studiavo, stavo promosso. → **Se avessi studiato, sarei stato promosso.**\n- 3. Se mi telefonavi, venivo a prenderti. → **Se mi avessi telefonato, sarei venuto a prenderti.**\n- 4. Se avrò i soldi, mi comprerei gli occhiali da sole come Elsi. → **Se avessi i soldi, mi comprerei gli occhiali da sole …**\n- 5. Se papà lo lasciasse, andasse a casa. → **Se papà lo lasciasse, andrebbe a casa.**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     },
@@ -16652,6 +26882,7 @@ window.QUIZ_DATA = {
      "answerBody": "- 1. Se riesco a finire in tempo questo lavoro, → **e. mi rilasso e guardo un po' la televisione con voi.**\n- 2. Se i miei trovassero un appartamento più grande, → **f. la zia potrebbe venire a stare con noi.**\n- 3. Se suo padre non fosse morto, → **a. Rita non avrebbe avuto un'infanzia così triste.**\n- 4. Se nascessi un'altra volta, → **b. vorrei essere un pescatore dei mari del Sud.**\n- 5. Se domani mi interroga di geografia, → **c. non so niente.**\n- 6. Se Giovanna ci invitasse a cena, → **d. potremmo portarle una bottiglia di spumante.**",
      "matching": null,
      "passage": null,
+     "categorization": null,
      "wordBank": null,
      "blanks": null
     }
@@ -16714,6 +26945,7 @@ window.QUIZ_DATA = {
      "answerBody": null,
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -16722,6 +26954,7 @@ window.QUIZ_DATA = {
      "answerBody": null,
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -16730,6 +26963,7 @@ window.QUIZ_DATA = {
      "answerBody": null,
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -16738,6 +26972,7 @@ window.QUIZ_DATA = {
      "answerBody": null,
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -16746,6 +26981,7 @@ window.QUIZ_DATA = {
      "answerBody": null,
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -16754,6 +26990,7 @@ window.QUIZ_DATA = {
      "answerBody": null,
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -16762,6 +26999,7 @@ window.QUIZ_DATA = {
      "answerBody": null,
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     }
    ]
@@ -16779,6 +27017,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. La macchina che abbiamo noi. = la nostra macchina ..\n2. La segretaria che lavora per te. = la tua segretaria\n3. Il sogno che ho sempre avuto. = il mio sogno\n4. La dieta che stai facendo. = la tua dieta\n5. Le pantofole che uso in casa. = le mie pantofole\n6. I giocattoli con cui gioca Sara. = i suoi giocattoli.\n7. Il gatto che abbiamo noi. = il nostro gatto\n8. I vestiti che Luisa mette. = i suoi vestiti\n9. I discorsi che fate. = i vostri discorsi\n10. Il libro che Marco legge = il suo libro\n11. I genitori di Sara e Matteo = i loro genitori\n12. Il padre di Pietro = suo padre",
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -16787,6 +27026,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Matteo e Simone dipingono con le tempere. Io invece non *le* ho mai usate.\n2. Non so fare le equazioni. Non *le* abbiamo ancora studiate.\n3. Non ho portato il vocabolario, *lo* dimentico sempre.\n4. Rosa ha sbagliato il problema. Non *l’* ha proprio capito.\n5. Giuseppe ha le scarpe da ginnastica nuove. *Le* ha comprate ieri.\n\n1. Chi porta la coca-cola e l’aranciata? *La* porta Piero.\n2. Chi porta i bicchieri? *Li* porta Vittoria.\n3. Chi porta i tovaglioli di carta? *Li* porta Cristina.\n4. Chi porta le patatine? *Le* porta Elisabetta.\n5. Chi porta la torta? *La* porta Daniela.\n6. Chi porta le pizzette e le frittelle? *Le* porta Rafaele\n7. Chi porta il gelato? *Lo* porta Karen.\n\n1. Sono andato dal tabaccaio e *gli* ho portato i soldi che mancavano.\n2. José è tornato dal farmacista e *gli* ha detto che le medicine non andavano bene.\n3. Se venite a casa mia, *vi* faccio provare il mio computer nuovo.\n4. *Mi* restituisci i soldi che ti ho imprestato?\n5. *Ti* telefono domani per sapere se puoi venire al cinema.\n6. Siamo molto contenti perché la professoressa Tallone *ci* accompagna in gita al castello di Fénis.",
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -16795,6 +27035,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Quando *ci* porti le fotografie delle vacanze?\n2. Domani vai a Milano in macchina? No, *ci* vado in treno.\n3. I miei fratelli sono in America e *ne* sento molto la mancanza.\n4. Avete visto il fidanzato di Valeria? Che cosa *ne* dite?\n5. Mi mancavano molti colori e allora *ne* ho comprato una scatola.\n6. Non ho voglia di andare a quel pranzo. E tu *ci* vuoi andare?\n7. Ti piace questo agnello arrosto? *Ne* vuoi ancora?",
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -16803,6 +27044,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Chi porta le fotocopie al preside? – *Gliele* porto io mentre vado in segreteria.\n2. Chi restituisce i soldi agli zii? – *Glieli* restituiremo noi domenica.\n3. Chi scrive un biglietto di auguri a Marta? – *Glielo* scrivo io volentieri.\n4. Chi prepara la merenda ai bambini? – *Gliela* prepara mia mamma.\n5. Mi impresti il libro di geografia? – Oggi mi serve; *te lo* impresterò domani.\n6. Ho sete, berrei una bibita. – Andiamo al bar, *te la* offro io.\n7. Quando mi regali un videogioco nuovo? – *Te lo* regalerò per il tuo compleanno.",
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -16811,6 +27053,7 @@ window.QUIZ_DATA = {
      "answerBody": "1. Questo vestito è *quello* che hai messo al matrimonio di Clara?\n2. Questo colore non va bene. Proviamo *questo*\n3. Mia madre è uscita dall’ospedale e *questo* è *quello* che conta.\n4. I cugini di Sandro non verranno al matrimonio e *questo* mi dispiace molto.\n5. Se comprerò delle scarpe nuove, butterò via *quelle* vecchie.\n6. Ti regalo una mia fotografia. Quale vuoi? – Prendo *questa*",
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -16819,6 +27062,7 @@ window.QUIZ_DATA = {
      "answerBody": "*alcuni • troppo • altrettanta • parecchi • pochi • tutta • tutto*\n\n1. Per fare un caffè bastano *pochi* minuti.\n2. Mio cugino lavora nell’informatica e guadagna *parecchi* soldi.\n3. In questo periodo mi va *tutto* male.\n4. Non posso pulire *tutta* la casa in dieci minuti.\n5. Qui c’è *troppo* rumore, andiamo via.\n6. Abbiamo molta fame e voi ne avete *altrettanta*.",
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": [
       "*alcuni",
       "troppo",
@@ -16844,6 +27088,7 @@ window.QUIZ_DATA = {
      "answerBody": "andare, aspettare, camminare, correre, giocare, leggere, riordinare, sentire, tornare, viaggiare:\n\n1. *Tornando* a casa, ho incontrato un mio amico, per questo motivo ho fatto tardi.\n2. Sono caduto *andando* in bicicletta.\n3. Mi sono divertito molto *giocando* con i miei amici questo pomeriggio.\n4. *Viaggiando* farai molte esperienze interessanti.\n5. Ho finito di leggere il libro, *aspettando* l’autobus!\n6. Mi piace ascoltare la radio *camminando*.\n7. *Leggendo* quel libro, ho capito molte cose.\n8. Che cosa hai pensato *sentendo* quella strana musica?\n9. *Correndo* lì, non ti sei accorto di nulla?\n10. *Riordinando* la libreria, ho messo da parte i libri che vorrei rileggere.",
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -16852,6 +27097,7 @@ window.QUIZ_DATA = {
      "answerBody": "ammettere, arrivare, capire, chiamare, completare, distrarre, finire, irritare, rivedere, scrivere,\n\n11. Marco è tornato a casa, appena *completato* il lavoro.\n12. Una volta *ammesse* al torneo, le squadre dovranno confermare la loro partecipazione.\n13. Non trovo più la lettera *scritta* da Marcello.\n14. *Finita* la scuola, che cosa farai?\n15. Quanti sono i treni *arrivati* in ritardo per quell’incidente?\n16. Una volta *capito* il problema, abbiamo trovato subito la soluzione.\n17. Marco è andato via, *irritato* da tutto quel rumore!\n18. *Rivisto* ora, questo film mi sembra più bello.\n19. Non potete studiare, continuamente *distratti* dal telefono!\n20. Se *chiamati*, dovete venire subito qui.",
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -16860,6 +27106,7 @@ window.QUIZ_DATA = {
      "answerBody": "Montalbano è il commissario *(nato)* *nato* dalla penna di Andrea Camilleri. Le sue indagini, *(ambientate)* *ambientate* nella cittadina siciliana immaginaria di Vigata, sono diventate una delle serie TV più seguite, *(rimanendo)* *rimanendo* fedeli il più possibile alle trame dei gialli *(scritti)* *scritti* dall’autore siciliano. Gli ascolti in TV sono da record e rispecchiano anche i giudizi positivi della critica televisiva, *(rendendo)* *rendendo* “Il Commissario Montalbano” una delle serie di film per la tv più *(vista)* *vista* di tutti i tempi. Benché si tratti di una serie televisiva, ogni episodio è girato come un film TV a sé stante *(legando / legato)* *legando / legato* agli altri da una labile trama orizzontale.",
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     }
    ]
@@ -16867,80 +27114,4177 @@ window.QUIZ_DATA = {
   {
    "title": "Esercizi italiano I — Esercizio 1",
    "file": "Esercizi lezione  1.md",
-   "answerFile": null,
+   "answerFile": "Esercizi lezione 1 rätt svar.md",
    "note": null,
-   "hasAnswers": false,
+   "hasAnswers": true,
    "sections": [
     {
      "heading": "1. Sätt best. artikel i singular och plural och skriv pluraländelsen: (Översätt)",
-     "body": "- a. ___ bambino ___ bambin___ ___\n- b. ___ gabbiano ___ gabbian___ ___\n- c. ___ valigia ___ valig___ ___\n- d. ___ carne ___ carn___ ___\n- e. ___ uomo ___ uom___ ___\n- f. ___ computer ___ compute___ ___\n- g. ___ yoga ___ yog___ ___\n- h. ___ tram ___ tram___ ___\n- i. ___ urlo ___ url___ ___\n- j. ___ martedì ___ marted___ ___\n- k. ___ prete ___ pret___ ___\n- l. ___ zebra ___ zebr___ ___\n- m. ___ iena ___ ien___ ___\n- n. ___ scaffale ___ scaffal___ ___\n- o. ___ arcobaleno ___ arcobalen___ ___\n- p. ___ città ___ città___ ___\n- q. ___ hit (musica) ___ hit___ ___\n- r. ___ uragano ___ uragan___ ___\n- s. ___ sistema ___ sistem___ ___\n- t. ___ cruciverba ___ cruciverb___ ___\n- u. ___ dente ___ dent___ ___\n- v. ___ zaino ___ zain___ ___\n- w. ___ novità ___ novit___ ___\n- x. ___ sole ___ sol___ ___\n- y. ___ metro ___ metr___ ___\n- z. ___ whiskey ___ whiske___ ___\n- å. ___ diploma ___ diplom___ ___\n- bb. ___ iodio ___ iod___ ___\n- cc. ___ neve ___ nev___ ___\n- a. ___ pollice ___ pollic___ ___\n- b. ___ sport ___ sport___ ___\n- c. ___ scrittrice ___ scrittric___ ___\n- d. ___ crisi ___ cris___ ___\n- e. ___ stazione ___ stazion___ ___\n- f. ___ abete ___ abet___ ___\n- g. ___ bugia ___ bug___ ___\n- h. ___ medico ___ medic___ ___\n- i. ___ ciliegia ___ cilieg___ / cilig___ ___\n- j. ___ eco ___ ec___ ___\n- k. ___ dialogo ___ dialog___ ___\n- l. ___ freccia ___ frecc___ ___\n- m. ___ strega ___ streg___ ___\n- n. ___ sindaco ___ sindac___ ___\n- o. ___ greco ___ grec___ ___\n- p. ___ obbligo ___ obblig___ ___\n- q. ___ figlio ___ figl___ ___\n- r. ___ latte ___ latt___ ___\n- s. ___ mezzaluna ___ mezz__ lun___ ___\n- t. ___ aspirapolvere / aspiravolvere ___ aspirapolver___ ___\n- u. ___ asciugamano ___ asciugaman___ ___",
-     "answerBody": null,
-     "blanks": null,
+     "body": "- a. ___ bambino ___ bambin___ ___\n- b. ___ gabbiano ___ gabbian___ ___\n- c. ___ valigia ___ valig___ ___\n- d. ___ carne ___ carn___ ___\n- e. ___ uomo ___ uom___ ___\n- f. ___ computer ___ compute___ ___\n- g. ___ yoga ___ yog___ ___\n- h. ___ tram ___ tram___ ___\n- i. ___ urlo ___ url___ ___\n- j. ___ martedì ___ marted___ ___\n- k. ___ prete ___ pret___ ___\n- l. ___ zebra ___ zebr___ ___\n- m. ___ iena ___ ien___ ___\n- n. ___ scaffale ___ scaffal___ ___\n- o. ___ arcobaleno ___ arcobalen___ ___\n- p. ___ città ___ città___ ___\n- q. ___ hit (musica) ___ hit___ ___\n- r. ___ uragano ___ uragan___ ___\n- s. ___ sistema ___ sistem___ ___\n- t. ___ cruciverba ___ cruciverb___ ___\n- u. ___ dente ___ dent___ ___\n- v. ___ zaino ___ zain___ ___\n- w. ___ novità ___ novit___ ___\n- x. ___ sole ___ sol___ ___\n- y. ___ metro ___ metr___ ___\n- z. ___ whiskey ___ whiske___ ___\n- å. ___ diploma ___ diplom___ ___\n- bb. ___ iodio ___ iod___ ___\n- cc. ___ neve ___ nev___ ___\n- a. ___ pollice ___ pollic___ ___\n- b. ___ sport ___ sport___ ___\n- c. ___ scrittrice ___ scrittric___ ___\n- d. ___ crisi ___ cris___ ___\n- e. ___ stazione ___ stazion___ ___\n- f. ___ abete ___ abet___ ___\n- g. ___ bugia ___ bug___ ___\n- h. ___ medico ___ medic___ ___\n- i. ___ ciliegia ___ cilieg___ / cilig___ ___\n- j. ___ eco ___ ec___ ___\n- k. ___ dialogo ___ dialog___ ___\n- l. ___ freccia ___ frecc___ ___\n- m. ___ strega ___ streg___ ___\n- n. ___ sindaco ___ sindac___ ___\n- o. ___ greco ___ grec___ ___\n- p. ___ obbligo ___ obblig___ ___\n- q. ___ figlio ___ figl___ ___\n- r. ___ latte ___ latt___ ___\n- s. ___ mezzaluna ___ mezz___ lun___ ___\n- t. ___ aspirapolvere / aspiravolvere ___ aspirapolver___ ___\n- u. ___ asciugamano ___ asciugaman___ ___",
+     "answerBody": "- a. **il** bambino **i** bambin**i** **barnet**\n- b. **il** gabbiano **i** gabbian**i** **måsen**\n- c. **la** valigia **le** valig**ie** **resväskan**\n- d. **la** carne **xx** carn**xx** **köttet (ej pl.)**\n- e. **l'** uomo **gli** uom**ini** **mannen**\n- f. **il** computer **i** compute**r** **datorn**\n- g. **lo** yoga **gli** yog**a** **yoga**\n- h. **il** tram **i** tram**ø** **spårvagn**\n- i. **l'** urlo **le** url**a** **skriket**\n- j. **il** martedì **i** marted**ì** **tisdag**\n- k. **il** prete **i** pret**i** **prästen**\n- l. **la** zebra **le** zebr**e** **zebran**\n- m. **la** iena **le** ien**e** **hyenan**\n- n. **lo** scaffale **gli** scaffal**i** **hyllan**\n- o. **l'** arcobaleno **gli** arcobalen**i** **regnbågen**\n- p. **la** città **le** città**ø** **staden**\n- q. **la** hit (musica) **le** hit**ø** **succén**\n- r. **l'** uragano **gli** uragan**i** **orkanen**\n- s. **il** sistema **i** sistem**i** **systemet**\n- t. **il** cruciverba **i** cruciverb**a** **korsord**\n- u. **il** dente **i** dent**i** **tanden**\n- v. **lo** zaino **gli** zain**i** **ryggsäcken**\n- w. **la** novità **le** novit**à** **nyheten**\n- x. **il** sole **i** sol**i** **solen**\n- y. **la** metro **le** metr**o** **tunnelbanan**\n- z. **il** whiskey **i** whiske**y** **whiskey**\n- å. **il** diploma **i** diplom**i** **diplomet**\n- bb. **lo** iodio **xx** iod**xx** **jod (ej pl.)**\n- cc. **la** neve **xx** nev**xx** **snön (ej pl.)**\n- a. **il** pollice **i** pollic**i** **tummen**\n- b. **lo** sport **gli** sport**ø** **sporten**\n- c. **la** scrittrice **le** scrittric**i** **författarinnan**\n- d. **la** crisi **le** cris**i** **krisen**\n- e. **la** stazione **le** stazion**i** **stationen**\n- f. **l'** abete **gli** abet**i** **granen**\n- g. **la** bugia **le** bug**ie** **lögnen**\n- h. **il** medico **i** medic**i** **läkaren**\n- i. **la** ciliegia **le** cilieg**ie** / cilig**ie** **körsbäret**\n- j. **l'** eco **gli** ec**hi** **(f) (m) ekot**\n- k. **il** dialogo **i** dialog**hi** **dialogen**\n- l. **la** freccia **le** frecc**e** **pilen**\n- m. **la** strega **le** streg**he** **häxor**\n- n. **il** sindaco **i** sindac**i** **borgmästaren**\n- o. **il** greco **i** grec**i** **greken**\n- p. **l'** obbligo **gli** obblig**hi** **nödvändighet**\n- q. **il** figlio **i** figl**i** **sonen**\n- r. **il** latte **xx** latt**xx** **mjölk (ej pl.)**\n- s. **la** mezzaluna **le** mezz**e** lun**e** **halvmånen**\n- t. **l'** aspiravolvere **gli** aspirapolver**e** **dammsugare**\n- u. **l'** asciugamano **gli** asciugaman**i** **handdukarna**",
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- a. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " bambino "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " bambin"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "barnet"
+         ]
+        }
+       ],
+       "answers": [
+        "il",
+        "i",
+        "i",
+        "barnet"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- b. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " gabbiano "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " gabbian"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "måsen"
+         ]
+        }
+       ],
+       "answers": [
+        "il",
+        "i",
+        "i",
+        "måsen"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- c. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " valigia "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " valig"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "ie"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "resväskan"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "le",
+        "ie",
+        "resväskan"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- d. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " carne "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "xx"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " carn"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "xx"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "köttet (ej pl.)"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "xx",
+        "xx",
+        "köttet (ej pl.)"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- e. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " uomo "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "gli"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " uom"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "ini"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "mannen"
+         ]
+        }
+       ],
+       "answers": [
+        "l'",
+        "gli",
+        "ini",
+        "mannen"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- f. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " computer "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " compute"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "r"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "datorn"
+         ]
+        }
+       ],
+       "answers": [
+        "il",
+        "i",
+        "r",
+        "datorn"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- g. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "lo"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " yoga "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "gli"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " yog"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "a"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "yoga"
+         ]
+        }
+       ],
+       "answers": [
+        "lo",
+        "gli",
+        "a",
+        "yoga"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- h. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " tram "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " tram"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "ø"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "spårvagn"
+         ]
+        }
+       ],
+       "answers": [
+        "il",
+        "i",
+        "ø",
+        "spårvagn"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- i. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " urlo "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " url"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "a"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "skriket"
+         ]
+        }
+       ],
+       "answers": [
+        "l'",
+        "le",
+        "a",
+        "skriket"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- j. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " martedì "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " marted"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "ì"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "tisdag"
+         ]
+        }
+       ],
+       "answers": [
+        "il",
+        "i",
+        "ì",
+        "tisdag"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- k. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " prete "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " pret"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "prästen"
+         ]
+        }
+       ],
+       "answers": [
+        "il",
+        "i",
+        "i",
+        "prästen"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- l. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " zebra "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " zebr"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "e"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "zebran"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "le",
+        "e",
+        "zebran"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- m. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " iena "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " ien"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "e"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "hyenan"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "le",
+        "e",
+        "hyenan"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- n. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "lo"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " scaffale "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "gli"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " scaffal"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "hyllan"
+         ]
+        }
+       ],
+       "answers": [
+        "lo",
+        "gli",
+        "i",
+        "hyllan"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- o. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " arcobaleno "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "gli"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " arcobalen"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "regnbågen"
+         ]
+        }
+       ],
+       "answers": [
+        "l'",
+        "gli",
+        "i",
+        "regnbågen"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- p. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " città "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " città"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "ø"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "staden"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "le",
+        "ø",
+        "staden"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- q. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " hit (musica) "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " hit"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "ø"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "succén"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "le",
+        "ø",
+        "succén"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- r. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " uragano "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "gli"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " uragan"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "orkanen"
+         ]
+        }
+       ],
+       "answers": [
+        "l'",
+        "gli",
+        "i",
+        "orkanen"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- s. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " sistema "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " sistem"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "systemet"
+         ]
+        }
+       ],
+       "answers": [
+        "il",
+        "i",
+        "i",
+        "systemet"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- t. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " cruciverba "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " cruciverb"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "a"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "korsord"
+         ]
+        }
+       ],
+       "answers": [
+        "il",
+        "i",
+        "a",
+        "korsord"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- u. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " dente "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " dent"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "tanden"
+         ]
+        }
+       ],
+       "answers": [
+        "il",
+        "i",
+        "i",
+        "tanden"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- v. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "lo"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " zaino "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "gli"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " zain"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "ryggsäcken"
+         ]
+        }
+       ],
+       "answers": [
+        "lo",
+        "gli",
+        "i",
+        "ryggsäcken"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- w. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " novità "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " novit"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "à"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "nyheten"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "le",
+        "à",
+        "nyheten"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- x. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " sole "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " sol"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "solen"
+         ]
+        }
+       ],
+       "answers": [
+        "il",
+        "i",
+        "i",
+        "solen"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- y. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " metro "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " metr"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "o"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "tunnelbanan"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "le",
+        "o",
+        "tunnelbanan"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- z. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " whiskey "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " whiske"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "y"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "whiskey"
+         ]
+        }
+       ],
+       "answers": [
+        "il",
+        "i",
+        "y",
+        "whiskey"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- å. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " diploma "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " diplom"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "diplomet"
+         ]
+        }
+       ],
+       "answers": [
+        "il",
+        "i",
+        "i",
+        "diplomet"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- bb. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "lo"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " iodio "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "xx"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " iod"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "xx"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "jod (ej pl.)"
+         ]
+        }
+       ],
+       "answers": [
+        "lo",
+        "xx",
+        "xx",
+        "jod (ej pl.)"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- cc. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " neve "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "xx"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " nev"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "xx"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "snön (ej pl.)"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "xx",
+        "xx",
+        "snön (ej pl.)"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- a. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " pollice "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " pollic"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "tummen"
+         ]
+        }
+       ],
+       "answers": [
+        "il",
+        "i",
+        "i",
+        "tummen"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- b. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "lo"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " sport "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "gli"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " sport"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "ø"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "sporten"
+         ]
+        }
+       ],
+       "answers": [
+        "lo",
+        "gli",
+        "ø",
+        "sporten"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- c. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " scrittrice "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " scrittric"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "författarinnan"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "le",
+        "i",
+        "författarinnan"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- d. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " crisi "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " cris"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "krisen"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "le",
+        "i",
+        "krisen"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- e. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " stazione "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " stazion"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "stationen"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "le",
+        "i",
+        "stationen"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- f. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " abete "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "gli"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " abet"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "granen"
+         ]
+        }
+       ],
+       "answers": [
+        "l'",
+        "gli",
+        "i",
+        "granen"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- g. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " bugia "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " bug"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "ie"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "lögnen"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "le",
+        "ie",
+        "lögnen"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- h. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " medico "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " medic"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "läkaren"
+         ]
+        }
+       ],
+       "answers": [
+        "il",
+        "i",
+        "i",
+        "läkaren"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- i. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " ciliegia "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " cilieg"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "ie"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " / cilig"
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "ie"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 4,
+         "answers": [
+          "körsbäret"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "le",
+        "ie",
+        "ie",
+        "körsbäret"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- j. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " eco "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "gli"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " ec"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "hi"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "(f) (m) ekot"
+         ]
+        }
+       ],
+       "answers": [
+        "l'",
+        "gli",
+        "hi",
+        "(f) (m) ekot"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- k. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " dialogo "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " dialog"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "hi"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "dialogen"
+         ]
+        }
+       ],
+       "answers": [
+        "il",
+        "i",
+        "hi",
+        "dialogen"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- l. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " freccia "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " frecc"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "e"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "pilen"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "le",
+        "e",
+        "pilen"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- m. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " strega "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " streg"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "he"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "häxor"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "le",
+        "he",
+        "häxor"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- n. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " sindaco "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " sindac"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "borgmästaren"
+         ]
+        }
+       ],
+       "answers": [
+        "il",
+        "i",
+        "i",
+        "borgmästaren"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- o. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " greco "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " grec"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "greken"
+         ]
+        }
+       ],
+       "answers": [
+        "il",
+        "i",
+        "i",
+        "greken"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- p. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " obbligo "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "gli"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " obblig"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "hi"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "nödvändighet"
+         ]
+        }
+       ],
+       "answers": [
+        "l'",
+        "gli",
+        "hi",
+        "nödvändighet"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- q. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " figlio "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " figl"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "sonen"
+         ]
+        }
+       ],
+       "answers": [
+        "il",
+        "i",
+        "i",
+        "sonen"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- r. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " latte "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "xx"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " latt"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "xx"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "mjölk (ej pl.)"
+         ]
+        }
+       ],
+       "answers": [
+        "il",
+        "xx",
+        "xx",
+        "mjölk (ej pl.)"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- s. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " mezzaluna "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " mezz"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "e"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " lun"
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "e"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 4,
+         "answers": [
+          "halvmånen"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "le",
+        "e",
+        "e",
+        "halvmånen"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- t. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " aspirapolvere / aspiravolvere "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "gli"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " aspirapolver"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "e"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "dammsugare"
+         ]
+        }
+       ],
+       "answers": [
+        "l'",
+        "gli",
+        "e",
+        "dammsugare"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- u. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " asciugamano "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "gli"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " asciugaman"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "handdukarna"
+         ]
+        }
+       ],
+       "answers": [
+        "l'",
+        "gli",
+        "i",
+        "handdukarna"
+       ]
+      }
+     ],
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
      "heading": "2. Översätt följande ord:",
      "body": "- il capitale ___\n- la capitale ___\n- il fine ___\n- la fine ___\n- il fronte ___\n- la fronte ___\n- il lama ___\n- la lama ___\n- il radio ___\n- la radio ___",
-     "answerBody": null,
-     "blanks": null,
+     "answerBody": "- il capitale **kapitalet**\n- la capitale **huvudstaden**\n- il fine **målet**\n- la fine **slutet**\n- il fronte **fronten**\n- la fronte **pannan (huvudet)**\n- il lama **laman**\n- la lama **bladet (kniv)**\n- il radio **radium (ämnet)**\n- la radio **radion**",
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- il capitale "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "kapitalet"
+         ]
+        }
+       ],
+       "answers": [
+        "kapitalet"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- la capitale "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "huvudstaden"
+         ]
+        }
+       ],
+       "answers": [
+        "huvudstaden"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- il fine "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "målet"
+         ]
+        }
+       ],
+       "answers": [
+        "målet"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- la fine "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "slutet"
+         ]
+        }
+       ],
+       "answers": [
+        "slutet"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- il fronte "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "fronten"
+         ]
+        }
+       ],
+       "answers": [
+        "fronten"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- la fronte "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "pannan (huvudet)"
+         ]
+        }
+       ],
+       "answers": [
+        "pannan (huvudet)"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- il lama "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "laman"
+         ]
+        }
+       ],
+       "answers": [
+        "laman"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- la lama "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "bladet (kniv)"
+         ]
+        }
+       ],
+       "answers": [
+        "bladet (kniv)"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- il radio "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "radium (ämnet)"
+         ]
+        }
+       ],
+       "answers": [
+        "radium (ämnet)"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- la radio "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "radion"
+         ]
+        }
+       ],
+       "answers": [
+        "radion"
+       ]
+      }
+     ],
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
      "heading": "3. Hitta det motsvarande feminina ordet: (översätt)",
      "body": "- a. Il cameriere ___ ___\n- b. L’imprenditore ___ ___\n- c. Il cantante ___ ___\n- d. Il gallo ___ ___\n- e. L’elefante ___ ___\n- f. Il principe ___ ___\n- g. Il professore ___ ___\n- h. Il consorte ___ ___\n- i. Il fratello ___ ___\n- j. Il toro ___ ___",
-     "answerBody": null,
-     "blanks": null,
+     "answerBody": "- a. Il cameriere **la camariera** **servitör/servitris**\n- b. L’imprenditore **l'imprenditrice** **företagaren**\n- c. Il cantante **la cantante** **sångaren**\n- d. Il gallo **la gallina** **tupp/hönan**\n- e. L’elefante **l'elefantessa** **elefanten**\n- f. Il principe **la principessa** **prins/prinsessan**\n- g. Il professore **la professoressa** **professorn**\n- h. Il consorte **la consorte** **make/maka**\n- i. Il fratello **la sorella** **bror/syster**\n- j. Il toro **la mucca** **tjur/ko**",
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- a. Il cameriere "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la camariera"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "servitör/servitris"
+         ]
+        }
+       ],
+       "answers": [
+        "la camariera",
+        "servitör/servitris"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- b. L’imprenditore "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'imprenditrice"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "företagaren"
+         ]
+        }
+       ],
+       "answers": [
+        "l'imprenditrice",
+        "företagaren"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- c. Il cantante "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la cantante"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "sångaren"
+         ]
+        }
+       ],
+       "answers": [
+        "la cantante",
+        "sångaren"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- d. Il gallo "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la gallina"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "tupp/hönan"
+         ]
+        }
+       ],
+       "answers": [
+        "la gallina",
+        "tupp/hönan"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- e. L’elefante "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'elefantessa"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "elefanten"
+         ]
+        }
+       ],
+       "answers": [
+        "l'elefantessa",
+        "elefanten"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- f. Il principe "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la principessa"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "prins/prinsessan"
+         ]
+        }
+       ],
+       "answers": [
+        "la principessa",
+        "prins/prinsessan"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- g. Il professore "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la professoressa"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "professorn"
+         ]
+        }
+       ],
+       "answers": [
+        "la professoressa",
+        "professorn"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- h. Il consorte "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la consorte"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "make/maka"
+         ]
+        }
+       ],
+       "answers": [
+        "la consorte",
+        "make/maka"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- i. Il fratello "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la sorella"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "bror/syster"
+         ]
+        }
+       ],
+       "answers": [
+        "la sorella",
+        "bror/syster"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- j. Il toro "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la mucca"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "tjur/ko"
+         ]
+        }
+       ],
+       "answers": [
+        "la mucca",
+        "tjur/ko"
+       ]
+      }
+     ],
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
      "heading": "4. Fyll i följande ändelser (därefter i plural):",
      "body": "- a. ___ ragazz___ svedes___ ___ ragazz___ svedes___\n- b. ___ giac___ nuov___ ___ giac___ nuov___\n- c. ___ fior___ fresc___ ___ fior___ fresc___\n- d. ___ donn___ giovan___ ___ donn___ giovan___\n- e. ___ caramell___ ros___ ___ caramell___ ros___",
-     "answerBody": null,
-     "blanks": null,
+     "answerBody": "- a. **la** ragazz**a** svedes**e** **le** ragazz**e** svedes**i**\n- b. **la** giac**ca** nuov**a** **le** giac**che** nuov**e**\n- c. **il** fior**e** fresc**o** **i** fior**i** fresc**hi**\n- d. **la** donn**a** giovan**e** **le** donn**e** giovan**i**\n- e. **la** caramell**a** ros**a** **le** caramell**e** ros**a**",
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- a. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " ragazz"
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "a"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " svedes"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "e"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " ragazz"
+        },
+        {
+         "t": "blank",
+         "i": 4,
+         "answers": [
+          "e"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " svedes"
+        },
+        {
+         "t": "blank",
+         "i": 5,
+         "answers": [
+          "i"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "a",
+        "e",
+        "le",
+        "e",
+        "i"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- b. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " giac"
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "ca"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " nuov"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "a"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " giac"
+        },
+        {
+         "t": "blank",
+         "i": 4,
+         "answers": [
+          "che"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " nuov"
+        },
+        {
+         "t": "blank",
+         "i": 5,
+         "answers": [
+          "e"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "ca",
+        "a",
+        "le",
+        "che",
+        "e"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- c. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " fior"
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "e"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " fresc"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "o"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " fior"
+        },
+        {
+         "t": "blank",
+         "i": 4,
+         "answers": [
+          "i"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " fresc"
+        },
+        {
+         "t": "blank",
+         "i": 5,
+         "answers": [
+          "hi"
+         ]
+        }
+       ],
+       "answers": [
+        "il",
+        "e",
+        "o",
+        "i",
+        "i",
+        "hi"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- d. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " donn"
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "a"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " giovan"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "e"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " donn"
+        },
+        {
+         "t": "blank",
+         "i": 4,
+         "answers": [
+          "e"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " giovan"
+        },
+        {
+         "t": "blank",
+         "i": 5,
+         "answers": [
+          "i"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "a",
+        "e",
+        "le",
+        "e",
+        "i"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- e. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " caramell"
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "a"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " ros"
+        },
+        {
+         "t": "blank",
+         "i": 2,
+         "answers": [
+          "a"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 3,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " caramell"
+        },
+        {
+         "t": "blank",
+         "i": 4,
+         "answers": [
+          "e"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " ros"
+        },
+        {
+         "t": "blank",
+         "i": 5,
+         "answers": [
+          "a"
+         ]
+        }
+       ],
+       "answers": [
+        "la",
+        "a",
+        "a",
+        "le",
+        "e",
+        "a"
+       ]
+      }
+     ],
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
      "heading": "5. Översätt följande meningar:",
      "body": "- a. Un grosso scittore / scrittore ___\n- b. Uno scrittore grosso ___\n- c. Un vecchio amico ___\n- d. Un amico vecchio ___\n- e. Un grande libro ___\n- f. Un libro grande ___\n- g. Un povero uomo ___\n- h. Un uomo povero ___",
-     "answerBody": null,
-     "blanks": null,
+     "answerBody": "- a. Un grosso scittore / scrittore **en stor författare**\n- b. Uno scrittore grosso **En tjock författare**\n- c. Un vecchio amico **en gammal vän**\n- d. Un amico vecchio **en gammal vän (ålder)**\n- e. Un grande libro **en bra bok**\n- f. Un libro grande **en stor bok**\n- g. Un povero uomo **en stackars man**\n- h. Un uomo povero **en fattig man**",
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- a. Un grosso scittore / scrittore "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "en stor författare"
+         ]
+        }
+       ],
+       "answers": [
+        "en stor författare"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- b. Uno scrittore grosso "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "En tjock författare"
+         ]
+        }
+       ],
+       "answers": [
+        "En tjock författare"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- c. Un vecchio amico "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "en gammal vän"
+         ]
+        }
+       ],
+       "answers": [
+        "en gammal vän"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- d. Un amico vecchio "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "en gammal vän (ålder)"
+         ]
+        }
+       ],
+       "answers": [
+        "en gammal vän (ålder)"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- e. Un grande libro "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "en bra bok"
+         ]
+        }
+       ],
+       "answers": [
+        "en bra bok"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- f. Un libro grande "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "en stor bok"
+         ]
+        }
+       ],
+       "answers": [
+        "en stor bok"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- g. Un povero uomo "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "en stackars man"
+         ]
+        }
+       ],
+       "answers": [
+        "en stackars man"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- h. Un uomo povero "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "en fattig man"
+         ]
+        }
+       ],
+       "answers": [
+        "en fattig man"
+       ]
+      }
+     ],
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
      "heading": "6. Komparera följande adjektiv:",
      "body": "- a. Veloce ___ ___\n- b. Alto ___ ___\n- c. Buono ___ ___\n- d. Piccolo ___ ___\n- e. Cattivo ___ ___\n- f. Grande ___ ___",
-     "answerBody": null,
+     "answerBody": "- a. Veloce **più veloce**, **velocissimo** – **il più veloce**\n- b. Alto **più alto**, **altissimo** – **il più alto**\n- c. Buono **migliore**, **ottimo** – **il migliore**\n- d. Piccolo **minore**, **minimo** – **il minore**\n- e. Cattivo **peggiore**, **pessimo** – **il peggiore**\n- f. Grande **maggiore**, **massimo** – **il maggiore**",
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
      "heading": "7. Absolut superlativ:",
      "body": "- a. Bravo ___\n- b. Dolce ___\n- c. Alto ___\n- d. Celebre ___\n- e. Misero ___",
-     "answerBody": null,
-     "blanks": null,
+     "answerBody": "- a. Bravo **bravissimo**\n- b. Dolce **dolcissimo**\n- c. Alto **altissimo**\n- d. Celebre **celeberrimo**\n- e. Misero **miserrimo**",
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- a. Bravo "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "bravissimo"
+         ]
+        }
+       ],
+       "answers": [
+        "bravissimo"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- b. Dolce "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "dolcissimo"
+         ]
+        }
+       ],
+       "answers": [
+        "dolcissimo"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- c. Alto "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "altissimo"
+         ]
+        }
+       ],
+       "answers": [
+        "altissimo"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- d. Celebre "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "celeberrimo"
+         ]
+        }
+       ],
+       "answers": [
+        "celeberrimo"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- e. Misero "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "miserrimo"
+         ]
+        }
+       ],
+       "answers": [
+        "miserrimo"
+       ]
+      }
+     ],
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
      "heading": "8. Skapa adverb av följande ord:",
      "body": "- a. Forte ___\n- b. Certo ___\n- c. Leggero ___\n- d. Veloce ___",
-     "answerBody": null,
-     "blanks": null,
+     "answerBody": "- a. Forte **fortemente**\n- b. Certo **certamente**\n- c. Leggero **leggermente**\n- d. Veloce **velocemente**",
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- a. Forte "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "fortemente"
+         ]
+        }
+       ],
+       "answers": [
+        "fortemente"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- b. Certo "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "certamente"
+         ]
+        }
+       ],
+       "answers": [
+        "certamente"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- c. Leggero "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "leggermente"
+         ]
+        }
+       ],
+       "answers": [
+        "leggermente"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- d. Veloce "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "velocemente"
+         ]
+        }
+       ],
+       "answers": [
+        "velocemente"
+       ]
+      }
+     ],
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
      "heading": "9. Översätt följande adverb:",
      "body": "- a. Accanto ___\n- b. Di fronte ___\n- c. Allora ___\n- d. L’altro ieri ___\n- e. Spesso ___\n- f. Lontano ___\n- g. Nel frattempo ___\n- h. Stamattina ___\n- i. Magari ___\n- j. Altrettanto ___",
-     "answerBody": null,
-     "blanks": null,
+     "answerBody": "- a. Accanto **bredvid**\n- b. Di fronte **framför**\n- c. Allora **då**\n- d. L’altro ieri **iförrgår**\n- e. Spesso **ofta**\n- f. Lontano **långt**\n- g. Nel frattempo **under tiden**\n- h. Stamattina **i morse**\n- i. Magari **kanske**\n- j. Altrettanto **detsamma**",
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- a. Accanto "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "bredvid"
+         ]
+        }
+       ],
+       "answers": [
+        "bredvid"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- b. Di fronte "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "framför"
+         ]
+        }
+       ],
+       "answers": [
+        "framför"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- c. Allora "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "då"
+         ]
+        }
+       ],
+       "answers": [
+        "då"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- d. L’altro ieri "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "iförrgår"
+         ]
+        }
+       ],
+       "answers": [
+        "iförrgår"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- e. Spesso "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "ofta"
+         ]
+        }
+       ],
+       "answers": [
+        "ofta"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- f. Lontano "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "långt"
+         ]
+        }
+       ],
+       "answers": [
+        "långt"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- g. Nel frattempo "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "under tiden"
+         ]
+        }
+       ],
+       "answers": [
+        "under tiden"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- h. Stamattina "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "i morse"
+         ]
+        }
+       ],
+       "answers": [
+        "i morse"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- i. Magari "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "kanske"
+         ]
+        }
+       ],
+       "answers": [
+        "kanske"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- j. Altrettanto "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "detsamma"
+         ]
+        }
+       ],
+       "answers": [
+        "detsamma"
+       ]
+      }
+     ],
      "matching": null,
+     "categorization": null,
      "wordBank": null
     }
    ]
@@ -17408,6 +31752,7 @@ window.QUIZ_DATA = {
       }
      ],
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -17617,6 +31962,7 @@ window.QUIZ_DATA = {
       }
      ],
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -17836,6 +32182,7 @@ window.QUIZ_DATA = {
       }
      ],
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -18428,6 +32775,7 @@ window.QUIZ_DATA = {
       }
      ],
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -18814,6 +33162,7 @@ window.QUIZ_DATA = {
       }
      ],
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -19637,6 +33986,7 @@ window.QUIZ_DATA = {
       }
      ],
      "matching": null,
+     "categorization": null,
      "wordBank": null
     }
    ]
@@ -20861,6 +35211,7 @@ window.QUIZ_DATA = {
       }
      ],
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -21090,6 +35441,7 @@ window.QUIZ_DATA = {
       }
      ],
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -21098,6 +35450,7 @@ window.QUIZ_DATA = {
      "answerBody": null,
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -21106,6 +35459,7 @@ window.QUIZ_DATA = {
      "answerBody": null,
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     }
    ]
@@ -21123,6 +35477,7 @@ window.QUIZ_DATA = {
      "answerBody": "a. Mentre telefonavo / ho telefonato, Paola arrivava / è arrivata.\nb. Mentre il marito preparava / ha preparato la tavola, la moglie cucinava / ha cucinato.\nc. Quando uscivo / sono uscito, pioveva / è piovuto.\nd. Andando a scuola, vedevo / ho visto un incidente stradale.\ne. Andando a scuola, vedevo / ho visto tutti i giorni tua sorella alla fermata dell'autobus.\nf. Sergio non mangiava / ha mangiato niente, perché stava / è stato male.\ng. Quando abitavo / ho abitato in Cile, andavo / sono andato a scuola da febbraio a novembre.\nh. Quando Rosa lavorava / ha lavorato per la famiglia D'Angelo, guadagnava / ha guadagnato abbastanza bene.\ni. Mentre la professoressa spiegava / ha spiegato, Martin si metteva / si è messo a gridare.\nj. Visto che faceva / ha fatto bel tempo, partivamo / siamo partiti presto per il mare.",
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -21256,6 +35611,7 @@ window.QUIZ_DATA = {
       }
      ],
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -21399,6 +35755,7 @@ window.QUIZ_DATA = {
       }
      ],
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -21682,6 +36039,7 @@ window.QUIZ_DATA = {
       }
      ],
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -21690,6 +36048,7 @@ window.QUIZ_DATA = {
      "answerBody": "a. Hur ska det gå till?\n**Cosa dobbiamo fare**\nb. Hur gick det till när ni träffades?\n**Come è andato quando siete incontrati**\nc. Kan du hjälpa till lite?\n**Puoi aiutarmi un po'**\nd. Jag hjälpte till i slutet av arbetet.\n**Io ho aiutato verso la fine del lavoro**\ne. Känner du till hennes äldre böcker?\n**Conosci i suoi vecchi libri**\nf. Jag känner inte till den här stadsdelen.\n**Non conosco questa parte della città**\ng. Hennes lön räckte inte till hur sparsam hon än var.\n**Il suo stipendio non bastava nonostante quanto risparmiava**\nh. Jag har så mycket att göra, men tiden räcker inte till.\n**Ho troppo da fare ma il tempo non basta**\ni. Ser du till att alla har någonstans att sova?\n**Accerti che tutti abbiano un posto per dormire**\nj. Vi ser till grannarnas hus när de är bortresta.\n**Noi controlliamo la casa dei vicini quando sono via**\nk. Har du sett till min mobil?\n**Hai visto il mio cellulare**\nl. Jag har inte sett till Anna på evigheter.\n**È da tanto che non vedo Anna / Non vedo Anna da tanto tempo**\nm. Ska du slå till och köpa de här byxorna?\n___\nn. Säg till om du behöver hjälp.\n___\no. Mamma, säg till Jonas att sluta retas!\n___\np. Jag har aldrig någonting att säga till om.\n___\nq. Vad ska vi ta oss till?\n___\nr. De tog till lite för mycket när de köpte kakor till kalasen, så nu finns det fem burkar över.\n___\ns. Man kan inte ta till sig undervisningen om man är trött.\n___\nt. Språket i den här boken är för svårt. Jag kan inte ta till mig innehållet.\n___\nu. Tittar du till barnen?\n___\nv. Han ska alltid tycka till om allting.\n___\nw. Tänk nu till ordentligt!\n___",
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     }
    ]
@@ -21707,6 +36066,7 @@ window.QUIZ_DATA = {
      "answerBody": null,
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -21715,6 +36075,7 @@ window.QUIZ_DATA = {
      "answerBody": null,
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -21723,6 +36084,7 @@ window.QUIZ_DATA = {
      "answerBody": null,
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -21731,6 +36093,7 @@ window.QUIZ_DATA = {
      "answerBody": null,
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -21739,6 +36102,7 @@ window.QUIZ_DATA = {
      "answerBody": null,
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -21747,6 +36111,7 @@ window.QUIZ_DATA = {
      "answerBody": null,
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -21755,6 +36120,7 @@ window.QUIZ_DATA = {
      "answerBody": null,
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     },
     {
@@ -21763,6 +36129,7 @@ window.QUIZ_DATA = {
      "answerBody": null,
      "blanks": null,
      "matching": null,
+     "categorization": null,
      "wordBank": null
     }
    ]

@@ -1,0 +1,101 @@
+.passage-box {
+  background: #fdfaf5;
+  border: 1.5px solid var(--border);
+  border-radius: 12px;
+  padding: 1.1rem 1.3rem;
+  line-height: 2.3;
+  font-size: 1.05rem;
+}
+.passage-hint {
+  font-size: .84rem;
+  font-weight: 700;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  margin-bottom: .8rem;
+  border-bottom: 1px dashed var(--border);
+  padding-bottom: .4rem;
+}
+.passage-text {
+  font-size: 1.05rem;
+}
+.passage-word {
+  display: inline-block;
+  padding: 0 .2rem;
+  margin: 0 .04rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all .12s ease;
+  user-select: none;
+  border-bottom: 2.5px solid transparent;
+}
+.passage-word:hover:not(.disabled) {
+  background: #faeceb;
+  border-bottom-color: var(--accent);
+}
+.passage-word.marked-noun {
+  border-bottom: 2.5px solid var(--accent);
+  background: #faeceb;
+  color: var(--accent-dark);
+  font-weight: 600;
+}
+.passage-word.marked-proper {
+  border-bottom: 2.5px solid #2563eb;
+  background: #eff6ff;
+  color: #1e40af;
+  font-weight: 700;
+}
+.passage-word.correct {
+  border-bottom: 2.5px solid var(--green) !important;
+  background: #eaf6ea !important;
+  color: var(--green) !important;
+  font-weight: 700;
+}
+.passage-word.correct-proper {
+  border-bottom: 2.5px solid var(--green) !important;
+  background: #eaf6ea !important;
+  color: var(--green) !important;
+  font-weight: 700;
+}
+.passage-word.missed {
+  border-bottom: 2.5px dashed var(--green) !important;
+  background: #eaf6ea !important;
+  color: var(--green) !important;
+  font-weight: 600;
+}
+.passage-word.missed-proper {
+  border-bottom: 2.5px dashed var(--green) !important;
+  background: #eaf6ea !important;
+  color: var(--green) !important;
+  font-weight: 600;
+}
+.passage-word.wrong {
+  border-bottom: 2.5px solid var(--red) !important;
+  background: #fbeaea !important;
+  color: var(--red) !important;
+  text-decoration: line-through;
+}
+.passage-word.marked-masculine {
+  border-bottom: 2.5px solid #2563eb;
+  background: #eff6ff;
+  color: #1e40af;
+  font-weight: 700;
+}
+.passage-word.marked-feminine {
+  border-bottom: 2.5px solid #dc2626;
+  background: #ffeeef;
+  color: #b91c1c;
+  font-weight: 700;
+}
+.passage-word.correct-masculine {
+  border-bottom: 2.5px solid var(--green) !important;
+  background: #eaf6ea !important;
+  color: var(--green) !important;
+  font-weight: 700;
+}
+.passage-word.correct-feminine {
+  border-bottom: 2.5px solid var(--green) !important;
+  background: #eaf6ea !important;
+  color: var(--green) !important;
+  font-weight: 700;
+}

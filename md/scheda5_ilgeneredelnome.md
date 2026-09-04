@@ -62,7 +62,7 @@ Grammatica 5
 
 ### 02 • Nel brano che segue le parole in corsivo sono nomi. Sottolinea in blu i nomi maschili e in rosso i nomi femminili.
 
-Un incredibile incidente è avvenuto all'aeroporto del Cairo. Per non investire un cammello che trotterellava da solo sulla pista, il pilota di un aereo che stava decollando ha sbandato ed è finito sulla sabbia, atterrando malamente sulla pancia, perché il carrello con le ruote era ormai stato ritirato. Non ci sono state vittime, ma il velivolo ha subito gravi danni. Non si sa da quale carovana sia fuggito l'animale, che – apparendo all'improvviso – ha spaventato il pilota, costringendolo ad una manovra d'emergenza, per evitare un investimento che sarebbe stato molto pericoloso. L'aeroporto è rimasto chiuso due ore per sgomberare la pista e riattivare il traffico.
+Un incredibile _incidente_ è avvenuto all'_aeroporto_ del Cairo. Per non investire un _cammello_ che trotterellava da solo sulla _pista_, il _pilota_ di un _aereo_ che stava decollando ha sbandato ed è finito sulla _sabbia_, atterrando malamente sulla _pancia_, perché il _carrello_ con le _ruote_ era ormai stato ritirato. Non ci sono state _vittime_, ma il _velivolo_ ha subito gravi _danni_. Non si sa da quale _carovana_ sia fuggito l'_animale_, che – apparendo all'improvviso – ha spaventato il _pilota_, costringendolo ad una _manovra_ d'_emergenza_, per evitare un _investimento_ che sarebbe stato molto pericoloso. L'_aeroporto_ è rimasto chiuso due _ore_ per sgomberare la _pista_ e riattivare il _traffico_.
 
 (adattato dalla «Domenica del Corriere», 11 luglio 1965)
 
