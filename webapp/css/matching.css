@@ -1,0 +1,110 @@
+.matching-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+.matching-group {
+  background: #fbf9f5;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: .85rem .95rem;
+}
+.matching-group-title {
+  font-weight: 700;
+  color: var(--accent-dark);
+  font-size: .95rem;
+  margin-bottom: .6rem;
+  border-bottom: 1px dashed var(--border);
+  padding-bottom: .3rem;
+}
+.matching-board {
+  display: grid;
+  grid-template-columns: 1fr 1.35fr;
+  gap: .8rem;
+}
+@media (max-width: 640px) {
+  .matching-board {
+    grid-template-columns: 1fr;
+  }
+}
+.matching-col {
+  display: flex;
+  flex-direction: column;
+  gap: .45rem;
+}
+.match-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: .45rem;
+  padding: .5rem .75rem;
+  background: #ffffff;
+  border: 1.5px solid var(--border);
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all .15s ease;
+  user-select: none;
+  font-size: .93rem;
+  min-height: 2.2rem;
+}
+.match-item:hover:not(.disabled) {
+  border-color: var(--accent);
+  background: #fffcf8;
+}
+.match-item.active-source {
+  border-color: var(--accent);
+  background: #faeceb;
+  box-shadow: 0 0 0 3px rgba(181, 50, 44, 0.2);
+}
+.match-item.paired {
+  border-color: #2563eb;
+  background: #eff6ff;
+}
+.match-item.drag-over {
+  border-color: var(--accent);
+  background: #faeceb;
+  transform: scale(1.02);
+}
+.match-item.correct {
+  border-color: var(--green) !important;
+  background: #eaf6ea !important;
+}
+.match-item.wrong {
+  border-color: var(--red) !important;
+  background: #fbeaea !important;
+}
+.match-item.missed {
+  border: 1.5px dashed var(--green) !important;
+  background: #eaf6ea !important;
+}
+.match-item.disabled {
+  cursor: default;
+}
+.match-target-badge, .match-source-badge {
+  display: none;
+  font-size: .78rem;
+  font-weight: 700;
+  padding: .1rem .4rem;
+  border-radius: 4px;
+  background: #2563eb;
+  color: white;
+  white-space: nowrap;
+}
+.match-item.correct .match-target-badge,
+.match-item.correct .match-source-badge {
+  background: var(--green) !important;
+  color: white !important;
+  display: inline-block !important;
+}
+.match-item.wrong .match-target-badge,
+.match-item.wrong .match-source-badge {
+  background: var(--red) !important;
+  color: white !important;
+  display: inline-block !important;
+}
+.match-item.missed .match-target-badge,
+.match-item.missed .match-source-badge {
+  background: var(--green) !important;
+  color: white !important;
+  display: inline-block !important;
+}

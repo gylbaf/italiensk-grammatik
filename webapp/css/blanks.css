@@ -1,0 +1,182 @@
+/* Word bank styles */
+.word-bank {
+  background: #fdfaf5;
+  border: 1.5px solid var(--border);
+  border-radius: 10px;
+  padding: .75rem .9rem;
+  margin-bottom: 1.1rem;
+}
+.word-bank-header {
+  font-size: .8rem;
+  font-weight: 700;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  margin-bottom: .5rem;
+}
+.word-bank-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .45rem;
+}
+.bank-chip {
+  display: inline-block;
+  padding: .25rem .75rem;
+  background: #ffffff;
+  border: 1.5px solid var(--border);
+  border-radius: 999px;
+  font-size: .92rem;
+  font-weight: 500;
+  color: var(--ink);
+  cursor: grab;
+  user-select: none;
+  transition: all .12s ease;
+}
+.bank-chip:hover:not(.disabled) {
+  border-color: var(--accent);
+  background: #fff8f0;
+  transform: translateY(-1px);
+}
+.bank-chip.active-chip {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: white;
+  box-shadow: 0 0 0 3px rgba(181, 50, 44, 0.2);
+}
+.bank-chip.used {
+  opacity: .45;
+  background: #f1ede7;
+  border-style: dashed;
+  text-decoration: line-through;
+}
+.bank-chip.disabled {
+  cursor: default;
+}
+
+/* Fill-in-the-blank input styles */
+.fill-lines { display: flex; flex-direction: column; gap: .55rem; }
+.fill-line { line-height: 2.1; font-size: 1.02rem; }
+.blank-input {
+  border: 1px solid var(--border);
+  border-bottom: 2px solid var(--accent);
+  border-radius: 4px;
+  padding: .1rem .35rem;
+  margin: 0 .15rem;
+  font-size: 1rem;
+  font-family: inherit;
+  background: #fffdf9;
+  min-width: 3.5em;
+  transition: border-color .12s ease, background .12s ease;
+}
+.blank-input:focus { outline: none; border-bottom-color: var(--accent-dark); background: #fff; }
+.blank-input.drag-over {
+  border-color: var(--accent) !important;
+  background: #faeceb !important;
+  box-shadow: 0 0 0 2px var(--accent);
+}
+.blank-input.correct { background: #eaf6ea; border-bottom-color: var(--green); color: var(--green); font-weight: 600; }
+.blank-input.wrong { background: #fbeaea; border-bottom-color: var(--red); color: var(--red); text-decoration: line-through; }
+.blank-hint { font-size: .82rem; color: var(--red); margin-left: .15rem; }
+
+/* Inline choice button styles */
+.choice-group {
+  display: inline-flex;
+  gap: .25rem;
+  align-items: center;
+  vertical-align: middle;
+  margin: 0 .25rem;
+  padding: .12rem .2rem;
+  background: #f0e9df;
+  border-radius: 8px;
+}
+.choice-btn {
+  padding: .15rem .6rem;
+  font-size: .95rem;
+  font-family: inherit;
+  font-weight: 500;
+  border: 1px solid var(--border);
+  background: #ffffff;
+  color: var(--ink);
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all .12s ease;
+  user-select: none;
+  line-height: 1.35;
+}
+.choice-btn:hover:not(:disabled) {
+  background: #fff6ee;
+  border-color: var(--accent);
+}
+.choice-btn.selected {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent-dark);
+  font-weight: 600;
+}
+.choice-btn.correct {
+  background: var(--green) !important;
+  color: #ffffff !important;
+  border-color: #1b5e20 !important;
+  font-weight: 600;
+}
+.choice-btn.wrong {
+  background: var(--red) !important;
+  color: #ffffff !important;
+  border-color: #b71c1c !important;
+  text-decoration: line-through;
+}
+.choice-btn.missed {
+  border: 2px dashed var(--green) !important;
+  background: #eaf6ea !important;
+  color: var(--green) !important;
+  font-weight: 700;
+}
+.choice-btn:disabled {
+  cursor: default;
+}
+
+/* Markable sentence / word highlighting */
+.markable-sentence {
+  display: inline;
+}
+.mark-word {
+  display: inline-block;
+  padding: .05rem .25rem;
+  margin: 0 .04rem;
+  border-radius: 6px;
+  border: 1.5px solid transparent;
+  cursor: pointer;
+  transition: all .12s ease;
+  user-select: none;
+}
+.mark-word:hover:not(.disabled) {
+  background: #faeceb;
+  border-color: var(--accent);
+}
+.mark-word.selected {
+  border-color: var(--accent);
+  background: #faeceb;
+  color: var(--accent-dark);
+  font-weight: 600;
+}
+.mark-word.correct {
+  border-color: var(--green) !important;
+  background: #eaf6ea !important;
+  color: var(--green) !important;
+  font-weight: 700;
+}
+.mark-word.wrong {
+  border-color: var(--red) !important;
+  background: #fbeaea !important;
+  color: var(--red) !important;
+  text-decoration: line-through;
+}
+.mark-word.missed {
+  border: 1.5px dashed var(--green) !important;
+  background: #eaf6ea !important;
+  color: var(--green) !important;
+  font-weight: 700;
+}
+.mark-word.disabled {
+  cursor: default;
+}

@@ -1,0 +1,7 @@
+# Search ignore file (respected by ripgrep and search tools)
+webapp/data.js
+*.pdf
+__pycache__/
+*.pyc
+.opencode/node_modules/
+.git/

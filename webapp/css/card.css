@@ -1,0 +1,88 @@
+.progress {
+  font-size: .9rem;
+  color: var(--muted);
+  margin-bottom: .6rem;
+}
+.progress-bar {
+  height: 6px;
+  background: var(--border);
+  border-radius: 999px;
+  overflow: hidden;
+  margin-bottom: 1rem;
+}
+.progress-bar > div {
+  height: 100%;
+  background: var(--accent);
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 1.2rem 1.3rem;
+  box-shadow: var(--shadow);
+  min-height: 220px;
+}
+.card .instruction {
+  font-weight: 600;
+  margin-bottom: .8rem;
+  color: var(--accent-dark);
+}
+.card .body-text {
+  white-space: pre-wrap;
+  font-size: 1rem;
+}
+.card .answer-block {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px dashed var(--border);
+}
+.card .answer-block .label {
+  font-size: .8rem;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: var(--green);
+  font-weight: 700;
+  margin-bottom: .3rem;
+}
+.card .no-answer {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px dashed var(--border);
+  color: var(--muted);
+  font-style: italic;
+}
+
+.qmd-table {
+  border-collapse: collapse;
+  margin: .5rem 0;
+  width: 100%;
+}
+.qmd-table th, .qmd-table td {
+  border: 1px solid var(--border);
+  padding: .3rem .5rem;
+  text-align: left;
+  font-size: .92rem;
+}
+.qmd-table th { background: #f4ede4; }
+
+.check-result {
+  margin-top: 1rem;
+  padding-top: .8rem;
+  border-top: 1px dashed var(--border);
+  font-weight: 600;
+  color: var(--muted);
+}
+.check-result.all-correct { color: var(--green); }
+
+.summary-box {
+  text-align: center;
+  padding: 2rem 1rem;
+}
+.summary-box .big {
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin: .6rem 0;
+}
+.summary-box .big .correct { color: var(--green); }
+.summary-box .big .wrong { color: var(--red); }
