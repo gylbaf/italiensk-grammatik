@@ -312,8 +312,79 @@ def build_blanks(body: str, answer_body: str):
         return None
     q_lines = [l for l in body.split("\n") if l.strip() != ""]
     a_lines = [l for l in answer_body.split("\n") if l.strip() != ""]
+    # Interfolierade hjälprader (t.ex. "_Måltiden är serverad_") under varje fråga – q längre än a, hjälprader har 0 blanks
+    interleaved = len(q_lines) > len(a_lines) and any("_" in l or "Måltiden" in l or "Monstret" in l for l in q_lines)
+    if interleaved:
+        lines = []
+        total_blanks = 0
+        a_idx = 0
+        for q_line in q_lines:
+            n_blanks = q_line.count("___")
+            if n_blanks == 0:
+                # Hjälprad (svensk översättning) – visa som liten kursiv text, förbrukar ingen facit-rad
+                # Känn igen hjälp via "_" eller svenska tecken; annars exempelrad som ska para med facit
+                is_help = q_line.strip().startswith("_") or "Måltiden" in q_line or "Monstret" in q_line or "Spetsen" in q_line or "Stolpen" in q_line or "Statyns" in q_line or "Fallet" in q_line or "Punkten" in q_line or "Brudslöjan" in q_line or "Pistolskottet" in q_line or "Banken" in q_line or "Kapitalet" in q_line or "Felet" in q_line or "Taket" in q_line or "Marken" in q_line
+                if is_help:
+                    # Ta bort markdown-italics "_" för visning men behåll som text
+                    clean = q_line.strip().strip("_").strip()
+                    lines.append({"segments": [{"t": "text", "v": clean}], "answers": [], "isHelp": True})
+                    continue
+                # Exempelrad utan lucka men med motsvarande facit-rad – förbrukar facit
+                if a_idx < len(a_lines):
+                    a_idx += 1
+                lines.append({"segments": [{"t": "text", "v": q_line}], "answers": []})
+                continue
+            if a_idx >= len(a_lines):
+                return None
+            a_line = a_lines[a_idx]
+            a_idx += 1
+            if re.search(r'\b(?:esempio|modello)\b', a_line, re.I) and not re.match(r'^\s*\d+[\.\)]', q_line):
+                lines.append({"segments": [{"t": "text", "v": re.sub(r'^[-\u2022]\s*', '', a_line.strip())}], "answers": []})
+                continue
+            a_line_norm = re.sub(r'\*?\*?\([–\-]\)\*?\*?', '**–**', a_line)
+            bold_answers = BOLD_RE.findall(a_line_norm)
+            if len(bold_answers) == n_blanks:
+                answers = []
+                accepted_list = []
+                for a in bold_answers:
+                    a_clean = a.strip()
+                    if a_clean in ('–', '-'):
+                        answers.append('–')
+                        accepted_list.append(['–', '-', '', '(–)', 'nessuno', 'no', '/'])
+                    else:
+                        answers.append(a_clean)
+                        accepted_list.append([a_clean])
+            else:
+                answers = try_arrow_or_dash_line_answers(q_line, a_line, n_blanks)
+                accepted_list = [[ans] for ans in answers] if answers else None
+                if answers is None:
+                    answers = try_slash_line_answers(q_line, a_line, n_blanks)
+                    accepted_list = [[ans] for ans in answers] if answers else None
+                    if answers is None:
+                        return None
+            total_blanks += n_blanks
+            parts = q_line.split("___")
+            segments = []
+            for i, part in enumerate(parts):
+                if part:
+                    segments.append({"t": "text", "v": part})
+                if i < len(parts) - 1:
+                    seg_blank = {"t": "blank", "i": i}
+                    if accepted_list and i < len(accepted_list):
+                        seg_blank["answers"] = accepted_list[i]
+                    segments.append(seg_blank)
+            lines.append({"segments": segments, "answers": answers})
+        if total_blanks == 0:
+            return None
+        return lines
+    extra_help_lines = []
     if len(q_lines) != len(a_lines):
-        return None
+        # Tillåt extra hjälprader i slutet (t.ex. "*Hjälp – facit översatt…") utan motsvarande facit-rad
+        if len(q_lines) > len(a_lines) and all(l.count("___") == 0 for l in q_lines[len(a_lines):]):
+            extra_help_lines = q_lines[len(a_lines):]
+            q_lines = q_lines[:len(a_lines)]
+        else:
+            return None
 
     lines = []
     total_blanks = 0
@@ -362,6 +433,10 @@ def build_blanks(body: str, answer_body: str):
                     seg_blank["answers"] = accepted_list[i]
                 segments.append(seg_blank)
         lines.append({"segments": segments, "answers": answers})
+
+    # Lägg till eventuella hjälprader i slutet som ren text (t.ex. översatt facit)
+    for hl in extra_help_lines:
+        lines.append({"segments": [{"t": "text", "v": hl}], "answers": []})
 
     if total_blanks == 0:
         return None

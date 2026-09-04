@@ -57,16 +57,16 @@ alessandro manzoni • bottiglia • ferro • luce • unghia • statua • ga
 
 ### 03 • Scrivi vicino a ogni nome proprio il nome comune che lo spiega e vicino a ogni nome comune un nome proprio adatto.
 
-1. Alessandro Del Piero — calciatore ___
+1. Alessandro Del Piero ___
 2. Giacomo Leopardi ___
 3. Venezia ___
 4. Ferrari ___
 5. Juventus ___
 6. Danubio ___
 7. Sicilia ___
-8. montagna — Everest ___
-9. lago ___
-10. cantante ___
+8. Everest ___
+9. Garda ___
+10. Lucio Battisti ___
 
 ### 04 • Scrivi vicino a ogni nome collettivo da quali persone, animali o cose è formato, scegliendo dall'elenco.
 

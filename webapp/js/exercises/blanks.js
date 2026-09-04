@@ -27,12 +27,26 @@ QuizApp.exercises = QuizApp.exercises || {};
       });
       html += '</div></div>';
     }
-    html += '<div class="fill-lines">';
+    const isYAlign = blanksLines.length >= 6 && blanksLines.every((line) => {
+      const choices = line.segments.filter((s) => s.t === "choice").length;
+      if (choices !== 1) return false;
+      const first = line.segments[0];
+      if (!first || first.t !== "text" || !/^\s*\d+\.\s*$/.test(first.v)) return false;
+      const last = line.segments[line.segments.length - 1];
+      if (!last || last.t !== "text") return false;
+      const txt = last.v.trim();
+      if (txt.length > 18 || txt.includes(".") || txt.includes(",") || txt.split(/\s+/).length > 2) return false;
+      const opts = line.segments.find((s) => s.t === "choice").options;
+      if (!opts || opts.some((o) => o.length > 8)) return false;
+      return true;
+    });
+    html += '<div class="fill-lines' + (isYAlign ? ' fill-lines--y-align' : '') + '">';
     blanksLines.forEach((line, li) => {
       if (wordBank && wordBank.length && line.segments.length === 1 && line.segments[0].t === "text" && line.segments[0].v.includes("•")) {
         return;
       }
-      html += '<div class="fill-line">';
+      const isHelp = !!line.isHelp;
+      html += '<div class="fill-line' + (isHelp ? ' fill-line--help' : '') + '">';
       line.segments.forEach((seg) => {
         if (seg.t === "text") {
           html += `<span>${escapeHtml(seg.v)}</span>`;
@@ -41,7 +55,7 @@ QuizApp.exercises = QuizApp.exercises || {};
           const inputSize = Math.max(8, Math.min(26, expectedLen + 2));
           html += `<input type="text" class="blank-input" autocomplete="off" autocapitalize="off" spellcheck="false" data-line="${li}" data-blank="${seg.i}" size="${inputSize}">`;
         } else if (seg.t === "choice") {
-          html += `<span class="choice-group" data-line="${li}" data-choice="${seg.i}">` +
+          html += `<span class="choice-group" data-line="${li}" data-choice="${seg.i}" style="--choice-count:${seg.options.length}">` +
             seg.options.map((opt) =>
               `<button type="button" class="choice-btn" data-val="${escapeHtml(opt)}">${escapeHtml(opt)}</button>`
             ).join("") +

@@ -62,49 +62,61 @@ Grammatica 6
 ### 01 • Questi nomi hanno un significato completamente diverso se si cambia il genere. Con l'aiuto del dizionario, prova a scrivere una frase per ognuno dei due significati.
 
 1. Il pasto ___ / La pasta ___
+   _Måltiden är serverad / Pastan är al dente_
 2. Il mostro ___ / La mostra ___
+   _Monstret skrämmer oss / Utställningen är mycket intressant_
 3. Il pizzo ___ / La pizza ___
+   _Spetsen (brodyren) är handgjord / Jag gillar pizza väldigt mycket_
 4. Il palo ___ / La pala ___
+   _Stolpen är hög och rak / Spaden står i trädgården_
 5. Il busto ___ / La busta ___
+   _Statyns byst är trasig / Kuvertet saknar frimärke_
 6. Il caso ___ / La casa ___
+   _Fallet är löst / Huset är stort_
 7. Il punto ___ / La punta ___
+   _Punkten markerar slutet på meningen / Pilspetsen är av metall_
 8. Il velo ___ / La vela ___
+   _Brudslöjan är vit / Seglet är fyllt av vind_
 9. Il colpo ___ / La colpa ___
+   _Pistolskottet skrämde mig / Tjuvens skuld är tung_
 10. La banca ___ / Il banco ___
+    _Banken är stängd på lördagar / Skolbänken är liten_
 11. Il capitale ___ / La capitale ___
+    _Kapitalet jag har på banken räcker inte / Italiens huvudstad är Rom_
 12. Il torto ___ / La torta ___
+    _Felet är ditt, hon har rätt / Äppelkakan är min favorit_
 13. Il soffitto ___ / La soffitta ___
+    _Taket är mycket högt / Vinden är full av gamla möbler_
 14. Il suolo ___ / La suola ___
+    _Marken under mina fötter skakar / Skosulan är trasig_
 
 ### 02 • Completa la tabella inserendo le forme mancanti. Se non le conosci, guarda sul dizionario o chiedi aiuto a un compagno.
 
-|  | Maschile | Femminile |
-| --- | --- | --- |
-| 1. | il ragazzo | la ragazza |
-| 2. | il cavallo | ___ |
-| 3. | l'elefante | ___ |
-| 4. | ___ | la lettrice |
-| 5. | il bidello | ___ |
-| 6. | lo zio | ___ |
-| 7. | ___ | la telefonista |
-| 8. | il fidanzato | ___ |
-| 9. | ___ | la contadina |
-| 10. | lo sciatore | ___ |
-| 11. | il regista | ___ |
-| 12. | ___ | la professoressa |
-| 13. | ___ | la biologa |
-| 14. | il segretario | ___ |
-| 15. | il gallo | la gallina |
-| 16. | il re | ___ |
-| 17. | ___ | la cugina |
-| 18. | il cane | ___ |
-| 19. | ___ | la maestra |
-| 20. | il giornalista | ___ |
-| 21. | il lattaio | ___ |
-| 22. | il sarto | ___ |
-| 23. | il suonatore | ___ |
-| 24. | ___ | la pianista |
-| 25. | il panettiere | ___ |
-| 26. | il preside | ___ |
-| 27. | lo studente | ___ |
-| 28. | ___ | la nonna |
+1. il ragazzo → la ragazza
+2. il cavallo → ___
+3. l'elefante → ___
+4. ___ → la lettrice
+5. il bidello → ___
+6. lo zio → ___
+7. ___ → la telefonista
+8. il fidanzato → ___
+9. ___ → la contadina
+10. lo sciatore → ___
+11. il regista → ___
+12. ___ → la professoressa
+13. ___ → la biologa
+14. il segretario → ___
+15. il gallo → la gallina
+16. il re → ___
+17. ___ → la cugina
+18. il cane → ___
+19. ___ → la maestra
+20. il giornalista → ___
+21. il lattaio → ___
+22. il sarto → ___
+23. il suonatore → ___
+24. ___ → la pianista
+25. il panettiere → ___
+26. il preside → ___
+27. lo studente → ___
+28. ___ → la nonna

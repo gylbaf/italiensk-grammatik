@@ -4364,8 +4364,8 @@ window.QUIZ_DATA = {
     {
      "num": "03",
      "instruction": "Scrivi vicino a ogni nome proprio il nome comune che lo spiega e vicino a ogni nome comune un nome proprio adatto.",
-     "body": "1. Alessandro Del Piero — calciatore ___\n2. Giacomo Leopardi ___\n3. Venezia ___\n4. Ferrari ___\n5. Juventus ___\n6. Danubio ___\n7. Sicilia ___\n8. montagna — Everest ___\n9. lago ___\n10. cantante ___",
-     "answerBody": "1. Alessandro Del Piero – **calciatore**\n2. Giacomo Leopardi – **scrittore**\n3. Venezia – **città**\n4. Ferrari – **macchina**\n5. Juventus – **squadra**\n6. Danubio – **fiume**\n7. Sicilia – **isola**\n8. montagna – **Everest**\n9. lago – **di Garda**\n10. cantante – **Lucio Battisti**",
+     "body": "1. Alessandro Del Piero ___\n2. Giacomo Leopardi ___\n3. Venezia ___\n4. Ferrari ___\n5. Juventus ___\n6. Danubio ___\n7. Sicilia ___\n8. Everest ___\n9. Garda ___\n10. Lucio Battisti ___",
+     "answerBody": "1. Alessandro Del Piero – **calciatore**\n2. Giacomo Leopardi – **scrittore**\n3. Venezia – **città**\n4. Ferrari – **macchina**\n5. Juventus – **squadra**\n6. Danubio – **fiume**\n7. Sicilia – **isola**\n8. Everest – **montagna**\n9. Garda – **lago**\n10. Lucio Battisti – **cantante**",
      "matching": null,
      "passage": null,
      "categorization": null,
@@ -4375,7 +4375,7 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "1. Alessandro Del Piero — calciatore "
+         "v": "1. Alessandro Del Piero "
         },
         {
          "t": "blank",
@@ -4501,54 +4501,54 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "8. montagna — Everest "
+         "v": "8. Everest "
         },
         {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Everest"
+          "montagna"
          ]
         }
        ],
        "answers": [
-        "Everest"
+        "montagna"
        ]
       },
       {
        "segments": [
         {
          "t": "text",
-         "v": "9. lago "
+         "v": "9. Garda "
         },
         {
          "t": "blank",
          "i": 0,
          "answers": [
-          "di Garda"
+          "lago"
          ]
         }
        ],
        "answers": [
-        "di Garda"
+        "lago"
        ]
       },
       {
        "segments": [
         {
          "t": "text",
-         "v": "10. cantante "
+         "v": "10. Lucio Battisti "
         },
         {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Lucio Battisti"
+          "cantante"
          ]
         }
        ],
        "answers": [
-        "Lucio Battisti"
+        "cantante"
        ]
       }
      ]
@@ -6649,7 +6649,7 @@ window.QUIZ_DATA = {
     {
      "num": "01",
      "instruction": "Questi nomi hanno un significato completamente diverso se si cambia il genere. Con l'aiuto del dizionario, prova a scrivere una frase per ognuno dei due significati.",
-     "body": "1. Il pasto ___ / La pasta ___\n2. Il mostro ___ / La mostra ___\n3. Il pizzo ___ / La pizza ___\n4. Il palo ___ / La pala ___\n5. Il busto ___ / La busta ___\n6. Il caso ___ / La casa ___\n7. Il punto ___ / La punta ___\n8. Il velo ___ / La vela ___\n9. Il colpo ___ / La colpa ___\n10. La banca ___ / Il banco ___\n11. Il capitale ___ / La capitale ___\n12. Il torto ___ / La torta ___\n13. Il soffitto ___ / La soffitta ___\n14. Il suolo ___ / La suola ___",
+     "body": "1. Il pasto ___ / La pasta ___\n   _Måltiden är serverad / Pastan är al dente_\n2. Il mostro ___ / La mostra ___\n   _Monstret skrämmer oss / Utställningen är mycket intressant_\n3. Il pizzo ___ / La pizza ___\n   _Spetsen (brodyren) är handgjord / Jag gillar pizza väldigt mycket_\n4. Il palo ___ / La pala ___\n   _Stolpen är hög och rak / Spaden står i trädgården_\n5. Il busto ___ / La busta ___\n   _Statyns byst är trasig / Kuvertet saknar frimärke_\n6. Il caso ___ / La casa ___\n   _Fallet är löst / Huset är stort_\n7. Il punto ___ / La punta ___\n   _Punkten markerar slutet på meningen / Pilspetsen är av metall_\n8. Il velo ___ / La vela ___\n   _Brudslöjan är vit / Seglet är fyllt av vind_\n9. Il colpo ___ / La colpa ___\n   _Pistolskottet skrämde mig / Tjuvens skuld är tung_\n10. La banca ___ / Il banco ___\n    _Banken är stängd på lördagar / Skolbänken är liten_\n11. Il capitale ___ / La capitale ___\n    _Kapitalet jag har på banken räcker inte / Italiens huvudstad är Rom_\n12. Il torto ___ / La torta ___\n    _Felet är ditt, hon har rätt / Äppelkakan är min favorit_\n13. Il soffitto ___ / La soffitta ___\n    _Taket är mycket högt / Vinden är full av gamla möbler_\n14. Il suolo ___ / La suola ___\n    _Marken under mina fötter skakar / Skosulan är trasig_",
      "answerBody": "1. Il pasto **è servito** / La pasta **è al dente**\n2. Il mostro **ci fa paura** / La mostra **è molto interessante**\n3. Il pizzo **è fatto a mano** / La pizza **mi piace tanto**\n4. Il palo **è alto e diritto** / La pala **è in giardino**\n5. Il busto **della statua è rotto** / La busta **è senza francobollo**\n6. Il caso **è risolto** / La casa **è grande**\n7. Il punto **indica la fine della frase** / La punta **della freccia è di metallo**\n8. Il velo **della sposa è bianco** / La vela **della nave è gonfia**\n9. Il colpo **di pistola mi ha spaventato** / La colpa **del ladro è grave**\n10. La banca **è chiusa il sabato** / Il banco **di scuola è piccolo**\n11. Il capitale **che ho in banca non basta** / La capitale **dell'Italia è Roma**\n12. Il torto **è tuo, lei ha ragione** / La torta **di mele è la mia preferita**\n13. Il soffitto **è molto alto** / La soffitta **è piena di mobili vecchi**\n14. Il suolo **sotto i miei piedi trema** / La suola **delle mie scarpe è bucata**",
      "matching": null,
      "passage": null,
@@ -6690,6 +6690,16 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
+         "v": "Måltiden är serverad / Pastan är al dente"
+        }
+       ],
+       "answers": [],
+       "isHelp": true
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
          "v": "2. Il mostro "
         },
         {
@@ -6715,6 +6725,16 @@ window.QUIZ_DATA = {
         "ci fa paura",
         "è molto interessante"
        ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "Monstret skrämmer oss / Utställningen är mycket intressant"
+        }
+       ],
+       "answers": [],
+       "isHelp": true
       },
       {
        "segments": [
@@ -6750,6 +6770,16 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
+         "v": "Spetsen (brodyren) är handgjord / Jag gillar pizza väldigt mycket"
+        }
+       ],
+       "answers": [],
+       "isHelp": true
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
          "v": "4. Il palo "
         },
         {
@@ -6775,6 +6805,16 @@ window.QUIZ_DATA = {
         "è alto e diritto",
         "è in giardino"
        ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "Stolpen är hög och rak / Spaden står i trädgården"
+        }
+       ],
+       "answers": [],
+       "isHelp": true
       },
       {
        "segments": [
@@ -6810,6 +6850,16 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
+         "v": "Statyns byst är trasig / Kuvertet saknar frimärke"
+        }
+       ],
+       "answers": [],
+       "isHelp": true
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
          "v": "6. Il caso "
         },
         {
@@ -6835,6 +6885,16 @@ window.QUIZ_DATA = {
         "è risolto",
         "è grande"
        ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "Fallet är löst / Huset är stort"
+        }
+       ],
+       "answers": [],
+       "isHelp": true
       },
       {
        "segments": [
@@ -6870,6 +6930,16 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
+         "v": "Punkten markerar slutet på meningen / Pilspetsen är av metall"
+        }
+       ],
+       "answers": [],
+       "isHelp": true
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
          "v": "8. Il velo "
         },
         {
@@ -6895,6 +6965,16 @@ window.QUIZ_DATA = {
         "della sposa è bianco",
         "della nave è gonfia"
        ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "Brudslöjan är vit / Seglet är fyllt av vind"
+        }
+       ],
+       "answers": [],
+       "isHelp": true
       },
       {
        "segments": [
@@ -6930,6 +7010,16 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
+         "v": "Pistolskottet skrämde mig / Tjuvens skuld är tung"
+        }
+       ],
+       "answers": [],
+       "isHelp": true
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
          "v": "10. La banca "
         },
         {
@@ -6955,6 +7045,16 @@ window.QUIZ_DATA = {
         "è chiusa il sabato",
         "di scuola è piccolo"
        ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "Banken är stängd på lördagar / Skolbänken är liten"
+        }
+       ],
+       "answers": [],
+       "isHelp": true
       },
       {
        "segments": [
@@ -6990,6 +7090,16 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
+         "v": "Kapitalet jag har på banken räcker inte / Italiens huvudstad är Rom"
+        }
+       ],
+       "answers": [],
+       "isHelp": true
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
          "v": "12. Il torto "
         },
         {
@@ -7015,6 +7125,16 @@ window.QUIZ_DATA = {
         "è tuo, lei ha ragione",
         "di mele è la mia preferita"
        ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "Felet är ditt, hon har rätt / Äppelkakan är min favorit"
+        }
+       ],
+       "answers": [],
+       "isHelp": true
       },
       {
        "segments": [
@@ -7050,6 +7170,16 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
+         "v": "Taket är mycket högt / Vinden är full av gamla möbler"
+        }
+       ],
+       "answers": [],
+       "isHelp": true
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
          "v": "14. Il suolo "
         },
         {
@@ -7075,19 +7205,552 @@ window.QUIZ_DATA = {
         "sotto i miei piedi trema",
         "delle mie scarpe è bucata"
        ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "Marken under mina fötter skakar / Skosulan är trasig"
+        }
+       ],
+       "answers": [],
+       "isHelp": true
       }
      ]
     },
     {
      "num": "02",
      "instruction": "Completa la tabella inserendo le forme mancanti. Se non le conosci, guarda sul dizionario o chiedi aiuto a un compagno.",
-     "body": "|  | Maschile | Femminile |\n| --- | --- | --- |\n| 1. | il ragazzo | la ragazza |\n| 2. | il cavallo | ___ |\n| 3. | l'elefante | ___ |\n| 4. | ___ | la lettrice |\n| 5. | il bidello | ___ |\n| 6. | lo zio | ___ |\n| 7. | ___ | la telefonista |\n| 8. | il fidanzato | ___ |\n| 9. | ___ | la contadina |\n| 10. | lo sciatore | ___ |\n| 11. | il regista | ___ |\n| 12. | ___ | la professoressa |\n| 13. | ___ | la biologa |\n| 14. | il segretario | ___ |\n| 15. | il gallo | la gallina |\n| 16. | il re | ___ |\n| 17. | ___ | la cugina |\n| 18. | il cane | ___ |\n| 19. | ___ | la maestra |\n| 20. | il giornalista | ___ |\n| 21. | il lattaio | ___ |\n| 22. | il sarto | ___ |\n| 23. | il suonatore | ___ |\n| 24. | ___ | la pianista |\n| 25. | il panettiere | ___ |\n| 26. | il preside | ___ |\n| 27. | lo studente | ___ |\n| 28. | ___ | la nonna |",
+     "body": "1. il ragazzo → la ragazza\n2. il cavallo → ___\n3. l'elefante → ___\n4. ___ → la lettrice\n5. il bidello → ___\n6. lo zio → ___\n7. ___ → la telefonista\n8. il fidanzato → ___\n9. ___ → la contadina\n10. lo sciatore → ___\n11. il regista → ___\n12. ___ → la professoressa\n13. ___ → la biologa\n14. il segretario → ___\n15. il gallo → la gallina\n16. il re → ___\n17. ___ → la cugina\n18. il cane → ___\n19. ___ → la maestra\n20. il giornalista → ___\n21. il lattaio → ___\n22. il sarto → ___\n23. il suonatore → ___\n24. ___ → la pianista\n25. il panettiere → ___\n26. il preside → ___\n27. lo studente → ___\n28. ___ → la nonna",
      "answerBody": "1. il ragazzo – la ragazza\n2. il cavallo – la cavalla\n3. l'elefante – l'elefantessa\n4. il lettore – la lettrice\n5. il bidello – la bidella\n6. lo zio – la zia\n7. il telefonista – la telefonista\n8. il fidanzato – la fidanzata\n9. il contadino – la contadina\n10. lo sciatore – la sciatrice\n11. il regista – la regista\n12. il professore – la professoressa\n13. il biologo – la biologa\n14. il segretario – la segretaria\n15. il gallo – la gallina\n16. il re – la regina\n17. il cugino – la cugina\n18. il cane – la cagna\n19. il maestro – la maestra\n20. il giornalista – la giornalista\n21. il lattaio – la lattaia\n22. il sarto – la sarta\n23. il suonatore – la suonatrice\n24. il pianista – la pianista\n25. il panettiere – la panettiera\n26. il preside – la preside\n27. lo studente – la studentessa\n28. il nonno – la nonna",
      "matching": null,
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. il ragazzo → la ragazza"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. il cavallo → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la cavalla"
+         ]
+        }
+       ],
+       "answers": [
+        "la cavalla"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. l'elefante → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'elefantessa"
+         ]
+        }
+       ],
+       "answers": [
+        "l'elefantessa"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il lettore"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " → la lettrice"
+        }
+       ],
+       "answers": [
+        "il lettore"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. il bidello → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la bidella"
+         ]
+        }
+       ],
+       "answers": [
+        "la bidella"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. lo zio → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la zia"
+         ]
+        }
+       ],
+       "answers": [
+        "la zia"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "7. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il telefonista"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " → la telefonista"
+        }
+       ],
+       "answers": [
+        "il telefonista"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "8. il fidanzato → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la fidanzata"
+         ]
+        }
+       ],
+       "answers": [
+        "la fidanzata"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "9. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il contadino"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " → la contadina"
+        }
+       ],
+       "answers": [
+        "il contadino"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "10. lo sciatore → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la sciatrice"
+         ]
+        }
+       ],
+       "answers": [
+        "la sciatrice"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "11. il regista → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la regista"
+         ]
+        }
+       ],
+       "answers": [
+        "la regista"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "12. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il professore"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " → la professoressa"
+        }
+       ],
+       "answers": [
+        "il professore"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "13. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il biologo"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " → la biologa"
+        }
+       ],
+       "answers": [
+        "il biologo"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "14. il segretario → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la segretaria"
+         ]
+        }
+       ],
+       "answers": [
+        "la segretaria"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "15. il gallo → la gallina"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "16. il re → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la regina"
+         ]
+        }
+       ],
+       "answers": [
+        "la regina"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "17. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il cugino"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " → la cugina"
+        }
+       ],
+       "answers": [
+        "il cugino"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "18. il cane → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la cagna"
+         ]
+        }
+       ],
+       "answers": [
+        "la cagna"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "19. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il maestro"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " → la maestra"
+        }
+       ],
+       "answers": [
+        "il maestro"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "20. il giornalista → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la giornalista"
+         ]
+        }
+       ],
+       "answers": [
+        "la giornalista"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "21. il lattaio → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la lattaia"
+         ]
+        }
+       ],
+       "answers": [
+        "la lattaia"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "22. il sarto → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la sarta"
+         ]
+        }
+       ],
+       "answers": [
+        "la sarta"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "23. il suonatore → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la suonatrice"
+         ]
+        }
+       ],
+       "answers": [
+        "la suonatrice"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "24. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il pianista"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " → la pianista"
+        }
+       ],
+       "answers": [
+        "il pianista"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "25. il panettiere → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la panettiera"
+         ]
+        }
+       ],
+       "answers": [
+        "la panettiera"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "26. il preside → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la preside"
+         ]
+        }
+       ],
+       "answers": [
+        "la preside"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "27. lo studente → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la studentessa"
+         ]
+        }
+       ],
+       "answers": [
+        "la studentessa"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "28. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il nonno"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " → la nonna"
+        }
+       ],
+       "answers": [
+        "il nonno"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -7900,8 +8563,8 @@ window.QUIZ_DATA = {
     {
      "num": "03",
      "instruction": "Indica (✓) il plurale corretto.",
-     "body": "1. doccia: a. docce / b. doccie\n2. geologo: a. geologi / b. geologhi\n3. buccia: a. bucce / b. buccie\n4. portafoglio: a. portafogli / b. portafoglii\n5. dizionario: a. dizionarii / b. dizionari\n6. brontolio: a. brontoli / b. brontolii\n7. traffico: a. traffici / b. traffichi\n8. focaccia: a. focacce / b. focaccie\n9. rasoio: a. rasoi / b. rasoii\n10. vocabolario: a. vocabolarii / b. vocabolari",
-     "answerBody": "1. doccia → **a. docce** / b. doccie\n2. geologo → **a. geologi** / b. geologhi\n3. buccia → **a. bucce** / b. buccie\n4. portafoglio → **a. portafogli** / b. portafoglii\n5. dizionario → a. dizionarii / **b. dizionari**\n6. brontolio → a. brontoli / **b. brontolii**\n7. traffico → **a. traffici** / b. traffichi\n8. focaccia → **a. focacce** / b. focaccie\n9. rasoio → **a. rasoi** / b. rasoii\n10. vocabolario → a. vocabolarii / **b. vocabolari**",
+     "body": "1. doccia: docce / doccie\n2. geologo: geologi / geologhi\n3. buccia: bucce / buccie\n4. portafoglio: portafogli / portafoglii\n5. dizionario: dizionarii / dizionari\n6. brontolio: brontoli / brontolii\n7. traffico: traffici / traffichi\n8. focaccia: focacce / focaccie\n9. rasoio: rasoi / rasoii\n10. vocabolario: vocabolarii / vocabolari",
+     "answerBody": "1. doccia → **docce** / doccie\n2. geologo → **geologi** / geologhi\n3. buccia → **bucce** / buccie\n4. portafoglio → **portafogli** / portafoglii\n5. dizionario → dizionarii / **dizionari**\n6. brontolio → brontoli / **brontolii**\n7. traffico → **traffici** / traffichi\n8. focaccia → **focacce** / focaccie\n9. rasoio → **rasoi** / rasoii\n10. vocabolario → vocabolarii / **vocabolari**",
      "matching": null,
      "passage": null,
      "categorization": null,
@@ -7917,18 +8580,14 @@ window.QUIZ_DATA = {
          "t": "choice",
          "i": 0,
          "options": [
-          "a. docce",
-          "b."
+          "docce",
+          "doccie"
          ],
-         "answer": "a. docce"
-        },
-        {
-         "t": "text",
-         "v": " doccie"
+         "answer": "docce"
         }
        ],
        "answers": [
-        "a. docce"
+        "docce"
        ]
       },
       {
@@ -7941,18 +8600,14 @@ window.QUIZ_DATA = {
          "t": "choice",
          "i": 0,
          "options": [
-          "a. geologi",
-          "b."
+          "geologi",
+          "geologhi"
          ],
-         "answer": "a. geologi"
-        },
-        {
-         "t": "text",
-         "v": " geologhi"
+         "answer": "geologi"
         }
        ],
        "answers": [
-        "a. geologi"
+        "geologi"
        ]
       },
       {
@@ -7965,18 +8620,14 @@ window.QUIZ_DATA = {
          "t": "choice",
          "i": 0,
          "options": [
-          "a. bucce",
-          "b."
+          "bucce",
+          "buccie"
          ],
-         "answer": "a. bucce"
-        },
-        {
-         "t": "text",
-         "v": " buccie"
+         "answer": "bucce"
         }
        ],
        "answers": [
-        "a. bucce"
+        "bucce"
        ]
       },
       {
@@ -7989,58 +8640,54 @@ window.QUIZ_DATA = {
          "t": "choice",
          "i": 0,
          "options": [
-          "a. portafogli",
-          "b."
+          "portafogli",
+          "portafoglii"
          ],
-         "answer": "a. portafogli"
-        },
-        {
-         "t": "text",
-         "v": " portafoglii"
+         "answer": "portafogli"
         }
        ],
        "answers": [
-        "a. portafogli"
+        "portafogli"
        ]
       },
       {
        "segments": [
         {
          "t": "text",
-         "v": "5. dizionario → a. "
+         "v": "5. dizionario → "
         },
         {
          "t": "choice",
          "i": 0,
          "options": [
           "dizionarii",
-          "b. dizionari"
+          "dizionari"
          ],
-         "answer": "b. dizionari"
+         "answer": "dizionari"
         }
        ],
        "answers": [
-        "b. dizionari"
+        "dizionari"
        ]
       },
       {
        "segments": [
         {
          "t": "text",
-         "v": "6. brontolio → a. "
+         "v": "6. brontolio → "
         },
         {
          "t": "choice",
          "i": 0,
          "options": [
           "brontoli",
-          "b. brontolii"
+          "brontolii"
          ],
-         "answer": "b. brontolii"
+         "answer": "brontolii"
         }
        ],
        "answers": [
-        "b. brontolii"
+        "brontolii"
        ]
       },
       {
@@ -8053,18 +8700,14 @@ window.QUIZ_DATA = {
          "t": "choice",
          "i": 0,
          "options": [
-          "a. traffici",
-          "b."
+          "traffici",
+          "traffichi"
          ],
-         "answer": "a. traffici"
-        },
-        {
-         "t": "text",
-         "v": " traffichi"
+         "answer": "traffici"
         }
        ],
        "answers": [
-        "a. traffici"
+        "traffici"
        ]
       },
       {
@@ -8077,18 +8720,14 @@ window.QUIZ_DATA = {
          "t": "choice",
          "i": 0,
          "options": [
-          "a. focacce",
-          "b."
+          "focacce",
+          "focaccie"
          ],
-         "answer": "a. focacce"
-        },
-        {
-         "t": "text",
-         "v": " focaccie"
+         "answer": "focacce"
         }
        ],
        "answers": [
-        "a. focacce"
+        "focacce"
        ]
       },
       {
@@ -8101,38 +8740,34 @@ window.QUIZ_DATA = {
          "t": "choice",
          "i": 0,
          "options": [
-          "a. rasoi",
-          "b."
+          "rasoi",
+          "rasoii"
          ],
-         "answer": "a. rasoi"
-        },
-        {
-         "t": "text",
-         "v": " rasoii"
+         "answer": "rasoi"
         }
        ],
        "answers": [
-        "a. rasoi"
+        "rasoi"
        ]
       },
       {
        "segments": [
         {
          "t": "text",
-         "v": "10. vocabolario → a. "
+         "v": "10. vocabolario → "
         },
         {
          "t": "choice",
          "i": 0,
          "options": [
           "vocabolarii",
-          "b. vocabolari"
+          "vocabolari"
          ],
-         "answer": "b. vocabolari"
+         "answer": "vocabolari"
         }
        ],
        "answers": [
-        "b. vocabolari"
+        "vocabolari"
        ]
       }
      ]
@@ -16194,7 +16829,94 @@ window.QUIZ_DATA = {
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "Io penso / io studio fino alle sei."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "Io penso di studiare fino alle sei."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Lui crede che suo fratello sia intelligente."
+         ]
+        }
+       ],
+       "answers": [
+        "Lui crede che suo fratello sia intelligente."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. Lui crede / lui è intelligente"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Lui crede / suo fratello è intelligente"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Noi pensiamo / noi andiamo in vacanza in Marocco"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Noi pensiamo / loro vanno in vacanza in Marocco"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. Io pensavo / io compravo un paio di scarpe da ginnastica"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. Io pensavo / tu compravi un paio di scarpe da ginnastica"
+        }
+       ],
+       "answers": []
+      }
+     ]
     }
    ]
   },

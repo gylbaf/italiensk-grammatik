@@ -56,6 +56,36 @@
 /* Fill-in-the-blank input styles */
 .fill-lines { display: flex; flex-direction: column; gap: .55rem; }
 .fill-line { line-height: 2.1; font-size: 1.02rem; }
+.fill-line--help { font-size: .88rem; font-style: italic; color: var(--muted); line-height: 1.5; margin: -.3rem 0 .35rem 2.6em; opacity: .95; }
+
+/* Choice exercises with simple list (e.g. Scheda 2 Ex 01): Y-align svarsalternativen */
+.fill-lines--y-align .fill-line {
+  display: grid;
+  grid-template-columns: 2.6em minmax(210px, 340px) 1fr;
+  align-items: center;
+  column-gap: .6rem;
+  line-height: 1.9;
+}
+.fill-lines--y-align .fill-line .choice-group {
+  width: 100%;
+  justify-content: stretch;
+  display: grid;
+  grid-template-columns: repeat(var(--choice-count, 3), 1fr);
+  gap: .25rem;
+}
+.fill-lines--y-align .choice-btn {
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+}
+@media (max-width: 560px) {
+  .fill-lines--y-align .fill-line {
+    grid-template-columns: 2.2em 1fr;
+  }
+  .fill-lines--y-align .fill-line span:last-child {
+    grid-column: 2;
+  }
+}
 .blank-input {
   border: 1px solid var(--border);
   border-bottom: 2px solid var(--accent);

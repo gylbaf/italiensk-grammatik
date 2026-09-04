@@ -108,13 +108,13 @@ Grammatica 7
 
 ### 03 • Indica (✓) il plurale corretto.
 
-1. doccia: a. docce / b. doccie
-2. geologo: a. geologi / b. geologhi
-3. buccia: a. bucce / b. buccie
-4. portafoglio: a. portafogli / b. portafoglii
-5. dizionario: a. dizionarii / b. dizionari
-6. brontolio: a. brontoli / b. brontolii
-7. traffico: a. traffici / b. traffichi
-8. focaccia: a. focacce / b. focaccie
-9. rasoio: a. rasoi / b. rasoii
-10. vocabolario: a. vocabolarii / b. vocabolari
+1. doccia: docce / doccie
+2. geologo: geologi / geologhi
+3. buccia: bucce / buccie
+4. portafoglio: portafogli / portafoglii
+5. dizionario: dizionarii / dizionari
+6. brontolio: brontoli / brontolii
+7. traffico: traffici / traffichi
+8. focaccia: focacce / focaccie
+9. rasoio: rasoi / rasoii
+10. vocabolario: vocabolarii / vocabolari

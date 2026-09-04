@@ -189,9 +189,9 @@ Elenco: alessandro manzoni, bottiglia, ferro, luce, unghia, statua, gamba, aranc
 5. Juventus – **squadra**
 6. Danubio – **fiume**
 7. Sicilia – **isola**
-8. montagna – **Everest**
-9. lago – **di Garda**
-10. cantante – **Lucio Battisti**
+8. Everest – **montagna**
+9. Garda – **lago**
+10. Lucio Battisti – **cantante**
 
 ### 04 • Scrivi vicino a ogni nome collettivo da quali persone, animali o cose è formato, scegliendo dall'elenco.
 Elenco: api, clienti, giocatori, navi, alberi, mucche, foglie, musicisti, giudici, fogli
