@@ -69,64 +69,61 @@ Il superlativo assoluto si forma in vari modi:
 
 ### 01 • Scrivi il comparativo di maggioranza e il superlativo assoluto degli aggettivi seguenti.
 
-|  | Grado positivo | Grado comparativo | Grado superlativo |
-|---|---|---|---|
-| 1. | amaro | più amaro | amarissimo |
-| 2. | luminosa | ___ | ___ |
-| 3. | antichi | ___ | ___ |
-| 4. | strane | ___ | ___ |
-| 5. | digeribile | ___ | ___ |
-| 6. | pesanti | ___ | ___ |
-| 7. | faticosa | ___ | ___ |
-| 8. | lucido | ___ | ___ |
+1. amaro — più amaro — amarissimo
+2. luminosa — ___ — ___
+3. antichi — ___ — ___
+4. strane — ___ — ___
+5. digeribile — ___ — ___
+6. pesanti — ___ — ___
+7. faticosa — ___ — ___
+8. lucido — ___ — ___
 
 ### 02 • Scrivi il superlativo relativo dei seguenti aggettivi.
 
-1. piccolo ___
-2. divertente ___
-3. nera ___
-4. chiari ___
-5. golose ___
-6. povera ___
-7. giovane ___
-8. gustoso ___
-9. spiritosi ___
-10. utili ___
+1. piccolo → ___ piccolo
+2. divertente → ___ divertente
+3. nera → ___ nera
+4. chiari → ___ chiari
+5. golose → ___ golose
+6. povera → ___ povera
+7. giovane → ___ giovane
+8. gustoso → ___ gustoso
+9. spiritosi → ___ spiritosi
+10. utili → ___ utili
 
 ### 03 • Unisci con una freccia ogni nome della prima colonna ad un aggettivo della seconda colonna e poi a un nome della terza colonna, formando delle frasi comparative (di maggioranza, di minoranza, di uguaglianza), che scriverai sul tuo quaderno.
 
 Il sole è più luminoso della luna.
 
-| Prima colonna | Seconda colonna | Terza colonna |
-|---|---|---|
-| il gatto | alto | la tartaruga |
-| l'Everest | luminoso | la banana |
-| il sole | popolosa | le foglie |
-| l'erba | prezioso | l'acqua |
-| il ghiaccio | veloce | l'Oceania |
-| l'Africa | verde | l'argento |
-| l'oro | dolce | la luna |
-| l'uva | freddo | il Cervino |
+veloce • alto • luminoso • verde • freddo • popolosa • prezioso • dolce • la tartaruga • il Cervino • la luna • le foglie • l'acqua • l'Oceania • l'argento • la banana
+
+- il gatto — ___ — ___
+- l'Everest — ___ — ___
+- il sole — ___ — ___
+- l'erba — ___ — ___
+- il ghiaccio — ___ — ___
+- l'Africa — ___ — ___
+- l'oro — ___ — ___
+- l'uva — ___ — ___
 
 ### 04 • Con le coppie di parole che seguono inventa delle frasi facendo dei paragoni.
 
-1. leopardo / gatto
-Il leopardo è più pericoloso del gatto.
-Il gatto è meno grosso del leopardo.
+1. leopardo / gatto — Il leopardo è più pericoloso del gatto. (pericoloso) — Il gatto è meno grosso del leopardo. (grosso)
 2. Roma / Bologna
-___
-___
+___ (popoloso)
+___ (grande)
 3. mio cugino / tuo fratello
-___
-___
+___ (giovane)
+___ (alto)
 4. Stefano / Piergiorgio
-___
-___
+___ (intelligente)
+___ (grasso)
 5. estate / primavera
-___
-___
+___ (caldo)
+___ (afoso)
 6. mare / lago
-___
-___
+___ (blu)
+___ (afoso)
 7. ciliegia / mela
-___
+___ (piccolo)
+___ (dolce)

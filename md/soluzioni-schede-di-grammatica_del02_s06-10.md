@@ -182,38 +182,55 @@
 ## Scheda 10 – I gradi dell'aggettivo
 
 ### 01 • Scrivi il comparativo di maggioranza e il superlativo assoluto degli aggettivi seguenti.
-1. amaro – più amaro – amarissimo
-2. luminosa – più luminosa – luminosissima
-3. antichi – più antichi – antichissimi
-4. strane – più strane – stranissime
-5. digeribile – più digeribile – digeribilissimo
-6. pesanti – più pesanti – pesantissimi
-7. faticosa – più faticosa – faticosissima
-8. lucido – più lucido – lucidissimo
+1. amaro — più amaro — amarissimo
+2. luminosa — **più luminosa** — **luminosissima**
+3. antichi — **più antichi** — **antichissimi**
+4. strane — **più strane** — **stranissime**
+5. digeribile — **più digeribile** — **digeribilissimo**
+6. pesanti — **più pesanti** — **pesantissimi**
+7. faticosa — **più faticosa** — **faticosissima**
+8. lucido — **più lucido** — **lucidissimo**
 
 ### 02 • Scrivi il superlativo relativo dei seguenti aggettivi.
-1. piccolo – il più piccolo
-2. divertente – il più divertente
-3. nera – la più nera
-4. chiari – i più chiari
-5. golose – le più golose
-6. povera – la più povera
-7. giovane – la più giovane
-8. gustoso – il più gustoso
-9. spiritosi – i più spiritosi
-10. utili – i più utili
+1. piccolo → **il più** piccolo
+2. divertente → **il più** divertente
+3. nera → **la più** nera
+4. chiari → **i più** chiari
+5. golose → **le più** golose
+6. povera → **la più** povera
+7. giovane → **la più** giovane
+8. gustoso → **il più** gustoso
+9. spiritosi → **i più** spiritosi
+10. utili → **i più** utili
 
 ### 03 • Unisci con una freccia ogni nome della prima colonna ad un aggettivo della seconda colonna e poi a un nome della terza colonna, formando delle frasi comparative che scriverai sul tuo quaderno.
 Esempio nel PDF: **Il sole è più luminoso della luna.**
-- Colonna 1: 1 il gatto, 2 l'Everest, 3 il sole, 4 l'erba / 5 il ghiaccio, 6 l'Africa, 7 l'oro, 8 l'uva
-- Colonna 2: 1 veloce, 2 alto, 3 luminoso, 4 verde / 5 freddo, 6 popolosa, 7 prezioso, 8 dolce
-- Colonna 3: 1 la tartaruga, 2 il Cervino, 3 la luna, 4 le foglie / 5 l'acqua, 6 l'Oceania, 7 l'argento, 8 la banana
+- il gatto — **veloce** — **la tartaruga**
+- l'Everest — **alto** — **il Cervino**
+- il sole — **luminoso** — **la luna**
+- l'erba — **verde** — **le foglie**
+- il ghiaccio — **freddo** — **l'acqua**
+- l'Africa — **popolosa** — **l'Oceania**
+- l'oro — **prezioso** — **l'argento**
+- l'uva — **dolce** — **la banana**
 
 ### 04 • Con le coppie di parole che seguono inventa delle frasi facendo dei paragoni.
-1. leopardo / gatto – **Il leopardo è più pericoloso del gatto.** / **Il gatto è meno grosso del leopardo.**
-2. Roma / Bologna – **Roma è più popolosa di Bologna.** / **Bologna è meno grande di Roma.**
-3. mio cugino / tuo fratello – **Mio cugino è più giovane di tuo fratello.** / **Tuo fratello è meno alto di mio cugino.**
-4. Stefano / Piergiorgio – **Stefano è più intelligente di Piergiorgio.** / **Piergiorgio è meno grasso di Stefano.**
-5. estate / primavera – **L'estate è più calda della primavera.** / **La primavera è meno afosa dell'estate.**
-6. mare / lago – **Il mare è più blu del lago.** / **Il lago è meno afoso del mare.**
-7. ciliegia / mela – **La ciliegia è più piccola della mela.** / **La mela è meno dolce della ciliegia.**
+1. leopardo / gatto — Il leopardo è più pericoloso del gatto (pericoloso) — Il gatto è meno grosso del leopardo (grosso)
+2. Roma / Bologna
+**Roma è più popolosa di Bologna** (popoloso)
+**Bologna è meno grande di Roma** (grande)
+3. mio cugino / tuo fratello
+**Mio cugino è più giovane di tuo fratello** (giovane)
+**Tuo fratello è meno alto di mio cugino** (alto)
+4. Stefano / Piergiorgio
+**Stefano è più intelligente di Piergiorgio** (intelligente)
+**Piergiorgio è meno grasso di Stefano** (grasso)
+5. estate / primavera
+**L'estate è più calda della primavera** (caldo)
+**La primavera è meno afosa dell'estate** (afoso)
+6. mare / lago
+**Il mare è più blu del lago** (blu)
+**Il lago è meno afoso del mare** (afoso)
+7. ciliegia / mela
+**La ciliegia è più piccola della mela** (piccolo)
+**La mela è meno dolce della ciliegia** (dolce)

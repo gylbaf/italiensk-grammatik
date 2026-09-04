@@ -3,6 +3,12 @@
 import re
 from .constants import BOLD_RE, _norm_ws
 
+_SEP_RE = re.compile(r"^\s*[-—–]{3,}\s*$")
+
+def _content_lines(text: str):
+    """Split text into non-empty, non-separator lines (drop '---' hrule)."""
+    return [l for l in text.split("\n") if l.strip() != "" and not _SEP_RE.match(l)]
+
 
 def try_arrow_or_dash_line_answers(q_line: str, a_line: str, n_blanks: int):
     """Fallback for single-blank lines where the facit uses an arrow or dash
@@ -77,8 +83,8 @@ def build_choices(body: str, answer_body: str):
     if "___" in body:
         return None
 
-    q_lines = [l for l in body.split("\n") if l.strip() != ""]
-    a_lines = [l for l in answer_body.split("\n") if l.strip() != ""]
+    q_lines = _content_lines(body)
+    a_lines = _content_lines(answer_body)
     if len(q_lines) != len(a_lines):
         return None
 
@@ -237,8 +243,8 @@ def build_mark_and_replace(body: str, answer_body: str):
     and replacing via blank, return markable + blank segments."""
     if not body or not answer_body:
         return None
-    q_lines = [l for l in body.split("\n") if l.strip() != ""]
-    a_lines = [l for l in answer_body.split("\n") if l.strip() != ""]
+    q_lines = _content_lines(body)
+    a_lines = _content_lines(answer_body)
     if len(q_lines) != len(a_lines):
         return None
 
@@ -310,8 +316,8 @@ def build_blanks(body: str, answer_body: str):
     """If body and answer_body line up 1:1, resolve blanks to answer words."""
     if not body or not answer_body:
         return None
-    q_lines = [l for l in body.split("\n") if l.strip() != ""]
-    a_lines = [l for l in answer_body.split("\n") if l.strip() != ""]
+    q_lines = _content_lines(body)
+    a_lines = _content_lines(answer_body)
     # Interfolierade rader – q längre än a (hjälprader eller "___" på egen rad som i 9/04)
     blank_q = sum(1 for l in q_lines if l.count("___") > 0)
     interleaved = len(q_lines) > len(a_lines) and blank_q == len(a_lines)

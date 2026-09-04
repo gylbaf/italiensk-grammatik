@@ -99,3 +99,17 @@
   color: var(--green) !important;
   font-weight: 700;
 }
+.passage-word.marked-delete {
+  text-decoration: line-through;
+  background: #fbeaea;
+  color: var(--red);
+  border-bottom: 2.5px solid var(--red);
+  font-weight: 600;
+}
+.passage-word.correct-delete {
+  text-decoration: line-through;
+  background: #eaf6ea !important;
+  color: var(--green) !important;
+  border-bottom: 2.5px solid var(--green) !important;
+  font-weight: 700;
+}

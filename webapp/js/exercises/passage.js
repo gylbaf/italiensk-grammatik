@@ -10,13 +10,19 @@ QuizApp.exercises = QuizApp.exercises || {};
     let html = '<div class="passage-box">';
     if (passage.mode === "gender") {
       html += '<div class="passage-hint"><strong>Instruktion:</strong> Klicka 1 gång = 🔵 maskulint · Klicka 2 gånger = 🔴 feminint · Klicka 3 gånger för att återställa</div>';
+    } else if (passage.mode === "delete") {
+      html += '<div class="passage-hint"><strong>Instruktion:</strong> Klicka för att stryka över (cancellare) de pronomen som inte behövs · Klicka igen för att ångra</div>';
     } else {
       html += '<div class="passage-hint"><strong>Instruktion:</strong> Klicka 1 gång = stryk under (substantiv) · Klicka 2 gånger = stor bokstav (egennamn) · Klicka 3 gånger för att återställa</div>';
     }
     html += '<div class="passage-text">';
     passage.tokens.forEach((t) => {
       if (t.t === "raw") {
-        html += escapeHtml(t.v);
+        if (t.v === "\n") {
+          html += '<br>';
+        } else {
+          html += escapeHtml(t.v);
+        }
       } else {
         html += `<span class="passage-word" data-word-id="${t.id}" data-role="${escapeHtml(t.role || 'none')}" data-cap="${escapeHtml(t.cap || '')}" data-orig="${escapeHtml(t.v)}">${escapeHtml(t.v)}</span>`;
       }
@@ -41,6 +47,17 @@ QuizApp.exercises = QuizApp.exercises || {};
 
       w.addEventListener("click", () => {
         if (w.classList.contains("disabled")) return;
+        if (card.passage.mode === "delete") {
+          const isMarked = w.classList.contains("marked-delete");
+          w.classList.remove("marked-delete", "correct", "wrong", "missed");
+          if (isMarked) {
+            w.dataset.state = "0";
+          } else {
+            w.classList.add("marked-delete");
+            w.dataset.state = "1";
+          }
+          return;
+        }
         const curState = parseInt(w.dataset.state || "0", 10);
         const nextState = (curState + 1) % 3;
         w.dataset.state = String(nextState);
@@ -83,6 +100,30 @@ QuizApp.exercises = QuizApp.exercises || {};
         if (t.t !== "word") return;
         const el = cardBody.querySelector(`.passage-word[data-word-id="${t.id}"]`);
         if (!el) return;
+
+        if (card.passage.mode === "delete") {
+          if (fillCorrect) {
+            el.classList.add("disabled");
+            el.classList.remove("wrong", "missed", "marked-delete");
+            if (t.role === "delete") {
+              el.classList.add("correct-delete");
+            }
+          } else {
+            const state = parseInt(el.dataset.state || "0", 10);
+            const shouldBeMarked = t.role === "delete";
+            const isMarked = state === 1;
+            if (shouldBeMarked && isMarked) {
+              correctCount++;
+              el.classList.add("correct-delete");
+              el.classList.remove("wrong", "missed");
+            } else if (shouldBeMarked && !isMarked) {
+              el.classList.add("missed");
+            } else if (!shouldBeMarked && isMarked) {
+              el.classList.add("wrong");
+            }
+          }
+          return;
+        }
 
         if (fillCorrect) {
           el.classList.add("disabled");

@@ -10267,19 +10267,8 @@ window.QUIZ_DATA = {
     {
      "num": "01",
      "instruction": "Scrivi il comparativo di maggioranza e il superlativo assoluto degli aggettivi seguenti.",
-     "body": "|  | Grado positivo | Grado comparativo | Grado superlativo |\n|---|---|---|---|\n| 1. | amaro | più amaro | amarissimo |\n| 2. | luminosa | ___ | ___ |\n| 3. | antichi | ___ | ___ |\n| 4. | strane | ___ | ___ |\n| 5. | digeribile | ___ | ___ |\n| 6. | pesanti | ___ | ___ |\n| 7. | faticosa | ___ | ___ |\n| 8. | lucido | ___ | ___ |",
-     "answerBody": "1. amaro – più amaro – amarissimo\n2. luminosa – più luminosa – luminosissima\n3. antichi – più antichi – antichissimi\n4. strane – più strane – stranissime\n5. digeribile – più digeribile – digeribilissimo\n6. pesanti – più pesanti – pesantissimi\n7. faticosa – più faticosa – faticosissima\n8. lucido – più lucido – lucidissimo",
-     "matching": null,
-     "passage": null,
-     "categorization": null,
-     "wordBank": null,
-     "blanks": null
-    },
-    {
-     "num": "02",
-     "instruction": "Scrivi il superlativo relativo dei seguenti aggettivi.",
-     "body": "1. piccolo ___\n2. divertente ___\n3. nera ___\n4. chiari ___\n5. golose ___\n6. povera ___\n7. giovane ___\n8. gustoso ___\n9. spiritosi ___\n10. utili ___",
-     "answerBody": "1. piccolo – il più piccolo\n2. divertente – il più divertente\n3. nera – la più nera\n4. chiari – i più chiari\n5. golose – le più golose\n6. povera – la più povera\n7. giovane – la più giovane\n8. gustoso – il più gustoso\n9. spiritosi – i più spiritosi\n10. utili – i più utili",
+     "body": "1. amaro — più amaro — amarissimo\n2. luminosa — ___ — ___\n3. antichi — ___ — ___\n4. strane — ___ — ___\n5. digeribile — ___ — ___\n6. pesanti — ___ — ___\n7. faticosa — ___ — ___\n8. lucido — ___ — ___",
+     "answerBody": "1. amaro — più amaro — amarissimo\n2. luminosa — **più luminosa** — **luminosissima**\n3. antichi — **più antichi** — **antichissimi**\n4. strane — **più strane** — **stranissime**\n5. digeribile — **più digeribile** — **digeribilissimo**\n6. pesanti — **più pesanti** — **pesantissimi**\n7. faticosa — **più faticosa** — **faticosissima**\n8. lucido — **più lucido** — **lucidissimo**",
      "matching": null,
      "passage": null,
      "categorization": null,
@@ -10289,180 +10278,451 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "1. piccolo "
+         "v": "1. amaro — più amaro — amarissimo"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. luminosa — "
         },
         {
          "t": "blank",
          "i": 0,
          "answers": [
-          "il più piccolo"
+          "più luminosa"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "luminosissima"
          ]
         }
        ],
        "answers": [
-        "il più piccolo"
+        "più luminosa",
+        "luminosissima"
        ]
       },
       {
        "segments": [
         {
          "t": "text",
-         "v": "2. divertente "
+         "v": "3. antichi — "
         },
         {
          "t": "blank",
          "i": 0,
          "answers": [
-          "il più divertente"
+          "più antichi"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "antichissimi"
          ]
         }
        ],
        "answers": [
-        "il più divertente"
+        "più antichi",
+        "antichissimi"
        ]
       },
       {
        "segments": [
         {
          "t": "text",
-         "v": "3. nera "
+         "v": "4. strane — "
         },
         {
          "t": "blank",
          "i": 0,
          "answers": [
-          "la più nera"
+          "più strane"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "stranissime"
          ]
         }
        ],
        "answers": [
-        "la più nera"
+        "più strane",
+        "stranissime"
        ]
       },
       {
        "segments": [
         {
          "t": "text",
-         "v": "4. chiari "
+         "v": "5. digeribile — "
         },
         {
          "t": "blank",
          "i": 0,
          "answers": [
-          "i più chiari"
+          "più digeribile"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "digeribilissimo"
          ]
         }
        ],
        "answers": [
-        "i più chiari"
+        "più digeribile",
+        "digeribilissimo"
        ]
       },
       {
        "segments": [
         {
          "t": "text",
-         "v": "5. golose "
+         "v": "6. pesanti — "
         },
         {
          "t": "blank",
          "i": 0,
          "answers": [
-          "le più golose"
+          "più pesanti"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "pesantissimi"
          ]
         }
        ],
        "answers": [
-        "le più golose"
+        "più pesanti",
+        "pesantissimi"
        ]
       },
       {
        "segments": [
         {
          "t": "text",
-         "v": "6. povera "
+         "v": "7. faticosa — "
         },
         {
          "t": "blank",
          "i": 0,
          "answers": [
-          "la più povera"
+          "più faticosa"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "faticosissima"
          ]
         }
        ],
        "answers": [
-        "la più povera"
+        "più faticosa",
+        "faticosissima"
        ]
       },
       {
        "segments": [
         {
          "t": "text",
-         "v": "7. giovane "
+         "v": "8. lucido — "
         },
         {
          "t": "blank",
          "i": 0,
          "answers": [
-          "la più giovane"
+          "più lucido"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "lucidissimo"
          ]
         }
        ],
        "answers": [
-        "la più giovane"
+        "più lucido",
+        "lucidissimo"
+       ]
+      }
+     ]
+    },
+    {
+     "num": "02",
+     "instruction": "Scrivi il superlativo relativo dei seguenti aggettivi.",
+     "body": "1. piccolo → ___ piccolo\n2. divertente → ___ divertente\n3. nera → ___ nera\n4. chiari → ___ chiari\n5. golose → ___ golose\n6. povera → ___ povera\n7. giovane → ___ giovane\n8. gustoso → ___ gustoso\n9. spiritosi → ___ spiritosi\n10. utili → ___ utili",
+     "answerBody": "1. piccolo → **il più** piccolo\n2. divertente → **il più** divertente\n3. nera → **la più** nera\n4. chiari → **i più** chiari\n5. golose → **le più** golose\n6. povera → **la più** povera\n7. giovane → **la più** giovane\n8. gustoso → **il più** gustoso\n9. spiritosi → **i più** spiritosi\n10. utili → **i più** utili",
+     "matching": null,
+     "passage": null,
+     "categorization": null,
+     "wordBank": null,
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. piccolo → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il più"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " piccolo"
+        }
+       ],
+       "answers": [
+        "il più"
        ]
       },
       {
        "segments": [
         {
          "t": "text",
-         "v": "8. gustoso "
+         "v": "2. divertente → "
         },
         {
          "t": "blank",
          "i": 0,
          "answers": [
-          "il più gustoso"
+          "il più"
          ]
+        },
+        {
+         "t": "text",
+         "v": " divertente"
         }
        ],
        "answers": [
-        "il più gustoso"
+        "il più"
        ]
       },
       {
        "segments": [
         {
          "t": "text",
-         "v": "9. spiritosi "
+         "v": "3. nera → "
         },
         {
          "t": "blank",
          "i": 0,
          "answers": [
-          "i più spiritosi"
+          "la più"
          ]
+        },
+        {
+         "t": "text",
+         "v": " nera"
         }
        ],
        "answers": [
-        "i più spiritosi"
+        "la più"
        ]
       },
       {
        "segments": [
         {
          "t": "text",
-         "v": "10. utili "
+         "v": "4. chiari → "
         },
         {
          "t": "blank",
          "i": 0,
          "answers": [
-          "i più utili"
+          "i più"
          ]
+        },
+        {
+         "t": "text",
+         "v": " chiari"
         }
        ],
        "answers": [
-        "i più utili"
+        "i più"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. golose → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "le più"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " golose"
+        }
+       ],
+       "answers": [
+        "le più"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. povera → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la più"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " povera"
+        }
+       ],
+       "answers": [
+        "la più"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "7. giovane → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la più"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " giovane"
+        }
+       ],
+       "answers": [
+        "la più"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "8. gustoso → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il più"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " gustoso"
+        }
+       ],
+       "answers": [
+        "il più"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "9. spiritosi → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "i più"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " spiritosi"
+        }
+       ],
+       "answers": [
+        "i più"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "10. utili → "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "i più"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " utili"
+        }
+       ],
+       "answers": [
+        "i più"
        ]
       }
      ]
@@ -10470,167 +10730,571 @@ window.QUIZ_DATA = {
     {
      "num": "03",
      "instruction": "Unisci con una freccia ogni nome della prima colonna ad un aggettivo della seconda colonna e poi a un nome della terza colonna, formando delle frasi comparative (di maggioranza, di minoranza, di uguaglianza), che scriverai sul tuo quaderno.",
-     "body": "Il sole è più luminoso della luna.\n\n| Prima colonna | Seconda colonna | Terza colonna |\n|---|---|---|\n| il gatto | alto | la tartaruga |\n| l'Everest | luminoso | la banana |\n| il sole | popolosa | le foglie |\n| l'erba | prezioso | l'acqua |\n| il ghiaccio | veloce | l'Oceania |\n| l'Africa | verde | l'argento |\n| l'oro | dolce | la luna |\n| l'uva | freddo | il Cervino |",
-     "answerBody": "Esempio nel PDF: **Il sole è più luminoso della luna.**\n- Colonna 1: 1 il gatto, 2 l'Everest, 3 il sole, 4 l'erba / 5 il ghiaccio, 6 l'Africa, 7 l'oro, 8 l'uva\n- Colonna 2: 1 veloce, 2 alto, 3 luminoso, 4 verde / 5 freddo, 6 popolosa, 7 prezioso, 8 dolce\n- Colonna 3: 1 la tartaruga, 2 il Cervino, 3 la luna, 4 le foglie / 5 l'acqua, 6 l'Oceania, 7 l'argento, 8 la banana",
+     "body": "Il sole è più luminoso della luna.\n\nveloce • alto • luminoso • verde • freddo • popolosa • prezioso • dolce • la tartaruga • il Cervino • la luna • le foglie • l'acqua • l'Oceania • l'argento • la banana\n\n- il gatto — ___ — ___\n- l'Everest — ___ — ___\n- il sole — ___ — ___\n- l'erba — ___ — ___\n- il ghiaccio — ___ — ___\n- l'Africa — ___ — ___\n- l'oro — ___ — ___\n- l'uva — ___ — ___",
+     "answerBody": "Esempio nel PDF: **Il sole è più luminoso della luna.**\n- il gatto — **veloce** — **la tartaruga**\n- l'Everest — **alto** — **il Cervino**\n- il sole — **luminoso** — **la luna**\n- l'erba — **verde** — **le foglie**\n- il ghiaccio — **freddo** — **l'acqua**\n- l'Africa — **popolosa** — **l'Oceania**\n- l'oro — **prezioso** — **l'argento**\n- l'uva — **dolce** — **la banana**",
      "matching": null,
      "passage": null,
-     "categorization": {
-      "categories": [
-       {
-        "id": "cat_0",
-        "title": "Colonna 1"
-       },
-       {
-        "id": "cat_1",
-        "title": "Colonna 2"
-       },
-       {
-        "id": "cat_2",
-        "title": "Colonna 3"
-       }
-      ],
-      "items": [
-       {
-        "id": "w_0",
-        "text": "1 il gatto",
-        "facitText": "1 il gatto",
-        "targetCat": "cat_0"
-       },
-       {
-        "id": "w_1",
-        "text": "2 l'Everest",
-        "facitText": "2 l'Everest",
-        "targetCat": "cat_0"
-       },
-       {
-        "id": "w_2",
-        "text": "3 il sole",
-        "facitText": "3 il sole",
-        "targetCat": "cat_0"
-       },
-       {
-        "id": "w_3",
-        "text": "4 l'erba / 5 il ghiaccio",
-        "facitText": "4 l'erba / 5 il ghiaccio",
-        "targetCat": "cat_0"
-       },
-       {
-        "id": "w_4",
-        "text": "6 l'Africa",
-        "facitText": "6 l'Africa",
-        "targetCat": "cat_0"
-       },
-       {
-        "id": "w_5",
-        "text": "7 l'oro",
-        "facitText": "7 l'oro",
-        "targetCat": "cat_0"
-       },
-       {
-        "id": "w_6",
-        "text": "8 l'uva",
-        "facitText": "8 l'uva",
-        "targetCat": "cat_0"
-       },
-       {
-        "id": "w_7",
-        "text": "1 veloce",
-        "facitText": "1 veloce",
-        "targetCat": "cat_1"
-       },
-       {
-        "id": "w_8",
-        "text": "2 alto",
-        "facitText": "2 alto",
-        "targetCat": "cat_1"
-       },
-       {
-        "id": "w_9",
-        "text": "3 luminoso",
-        "facitText": "3 luminoso",
-        "targetCat": "cat_1"
-       },
-       {
-        "id": "w_10",
-        "text": "4 verde / 5 freddo",
-        "facitText": "4 verde / 5 freddo",
-        "targetCat": "cat_1"
-       },
-       {
-        "id": "w_11",
-        "text": "6 popolosa",
-        "facitText": "6 popolosa",
-        "targetCat": "cat_1"
-       },
-       {
-        "id": "w_12",
-        "text": "7 prezioso",
-        "facitText": "7 prezioso",
-        "targetCat": "cat_1"
-       },
-       {
-        "id": "w_13",
-        "text": "8 dolce",
-        "facitText": "8 dolce",
-        "targetCat": "cat_1"
-       },
-       {
-        "id": "w_14",
-        "text": "1 la tartaruga",
-        "facitText": "1 la tartaruga",
-        "targetCat": "cat_2"
-       },
-       {
-        "id": "w_15",
-        "text": "2 il Cervino",
-        "facitText": "2 il Cervino",
-        "targetCat": "cat_2"
-       },
-       {
-        "id": "w_16",
-        "text": "3 la luna",
-        "facitText": "3 la luna",
-        "targetCat": "cat_2"
-       },
-       {
-        "id": "w_17",
-        "text": "4 le foglie / 5 l'acqua",
-        "facitText": "4 le foglie / 5 l'acqua",
-        "targetCat": "cat_2"
-       },
-       {
-        "id": "w_18",
-        "text": "6 l'Oceania",
-        "facitText": "6 l'Oceania",
-        "targetCat": "cat_2"
-       },
-       {
-        "id": "w_19",
-        "text": "7 l'argento",
-        "facitText": "7 l'argento",
-        "targetCat": "cat_2"
-       },
-       {
-        "id": "w_20",
-        "text": "8 la banana",
-        "facitText": "8 la banana",
-        "targetCat": "cat_2"
-       }
-      ]
-     },
-     "wordBank": null,
-     "blanks": null
+     "categorization": null,
+     "wordBank": [
+      "veloce",
+      "alto",
+      "luminoso",
+      "verde",
+      "freddo",
+      "popolosa",
+      "prezioso",
+      "dolce",
+      "la tartaruga",
+      "il Cervino",
+      "la luna",
+      "le foglie",
+      "l'acqua",
+      "l'Oceania",
+      "l'argento",
+      "la banana"
+     ],
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "Esempio nel PDF: **Il sole è più luminoso della luna.**"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- il gatto — "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "veloce"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "la tartaruga"
+         ]
+        }
+       ],
+       "answers": [
+        "veloce",
+        "la tartaruga"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- l'Everest — "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "alto"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "il Cervino"
+         ]
+        }
+       ],
+       "answers": [
+        "alto",
+        "il Cervino"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- il sole — "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "luminoso"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "la luna"
+         ]
+        }
+       ],
+       "answers": [
+        "luminoso",
+        "la luna"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- l'erba — "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "verde"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "le foglie"
+         ]
+        }
+       ],
+       "answers": [
+        "verde",
+        "le foglie"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- il ghiaccio — "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "freddo"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "l'acqua"
+         ]
+        }
+       ],
+       "answers": [
+        "freddo",
+        "l'acqua"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- l'Africa — "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "popolosa"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "l'Oceania"
+         ]
+        }
+       ],
+       "answers": [
+        "popolosa",
+        "l'Oceania"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- l'oro — "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "prezioso"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "l'argento"
+         ]
+        }
+       ],
+       "answers": [
+        "prezioso",
+        "l'argento"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "- l'uva — "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "dolce"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " — "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "la banana"
+         ]
+        }
+       ],
+       "answers": [
+        "dolce",
+        "la banana"
+       ]
+      }
+     ]
     },
     {
      "num": "04",
      "instruction": "Con le coppie di parole che seguono inventa delle frasi facendo dei paragoni.",
-     "body": "1. leopardo / gatto\nIl leopardo è più pericoloso del gatto.\nIl gatto è meno grosso del leopardo.\n2. Roma / Bologna\n___\n___\n3. mio cugino / tuo fratello\n___\n___\n4. Stefano / Piergiorgio\n___\n___\n5. estate / primavera\n___\n___\n6. mare / lago\n___\n___\n7. ciliegia / mela\n___",
-     "answerBody": "1. leopardo / gatto – **Il leopardo è più pericoloso del gatto.** / **Il gatto è meno grosso del leopardo.**\n2. Roma / Bologna – **Roma è più popolosa di Bologna.** / **Bologna è meno grande di Roma.**\n3. mio cugino / tuo fratello – **Mio cugino è più giovane di tuo fratello.** / **Tuo fratello è meno alto di mio cugino.**\n4. Stefano / Piergiorgio – **Stefano è più intelligente di Piergiorgio.** / **Piergiorgio è meno grasso di Stefano.**\n5. estate / primavera – **L'estate è più calda della primavera.** / **La primavera è meno afosa dell'estate.**\n6. mare / lago – **Il mare è più blu del lago.** / **Il lago è meno afoso del mare.**\n7. ciliegia / mela – **La ciliegia è più piccola della mela.** / **La mela è meno dolce della ciliegia.**",
+     "body": "1. leopardo / gatto — Il leopardo è più pericoloso del gatto. (pericoloso) — Il gatto è meno grosso del leopardo. (grosso)\n2. Roma / Bologna\n___ (popoloso)\n___ (grande)\n3. mio cugino / tuo fratello\n___ (giovane)\n___ (alto)\n4. Stefano / Piergiorgio\n___ (intelligente)\n___ (grasso)\n5. estate / primavera\n___ (caldo)\n___ (afoso)\n6. mare / lago\n___ (blu)\n___ (afoso)\n7. ciliegia / mela\n___ (piccolo)\n___ (dolce)",
+     "answerBody": "1. leopardo / gatto — Il leopardo è più pericoloso del gatto (pericoloso) — Il gatto è meno grosso del leopardo (grosso)\n2. Roma / Bologna\n**Roma è più popolosa di Bologna** (popoloso)\n**Bologna è meno grande di Roma** (grande)\n3. mio cugino / tuo fratello\n**Mio cugino è più giovane di tuo fratello** (giovane)\n**Tuo fratello è meno alto di mio cugino** (alto)\n4. Stefano / Piergiorgio\n**Stefano è più intelligente di Piergiorgio** (intelligente)\n**Piergiorgio è meno grasso di Stefano** (grasso)\n5. estate / primavera\n**L'estate è più calda della primavera** (caldo)\n**La primavera è meno afosa dell'estate** (afoso)\n6. mare / lago\n**Il mare è più blu del lago** (blu)\n**Il lago è meno afoso del mare** (afoso)\n7. ciliegia / mela\n**La ciliegia è più piccola della mela** (piccolo)\n**La mela è meno dolce della ciliegia** (dolce)",
      "matching": null,
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. leopardo / gatto — Il leopardo è più pericoloso del gatto. (pericoloso) — Il gatto è meno grosso del leopardo. (grosso)"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Roma / Bologna"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Roma è più popolosa di Bologna"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (popoloso)"
+        }
+       ],
+       "answers": [
+        "Roma è più popolosa di Bologna"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Bologna è meno grande di Roma"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (grande)"
+        }
+       ],
+       "answers": [
+        "Bologna è meno grande di Roma"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. mio cugino / tuo fratello"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Mio cugino è più giovane di tuo fratello"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (giovane)"
+        }
+       ],
+       "answers": [
+        "Mio cugino è più giovane di tuo fratello"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Tuo fratello è meno alto di mio cugino"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (alto)"
+        }
+       ],
+       "answers": [
+        "Tuo fratello è meno alto di mio cugino"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Stefano / Piergiorgio"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Stefano è più intelligente di Piergiorgio"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (intelligente)"
+        }
+       ],
+       "answers": [
+        "Stefano è più intelligente di Piergiorgio"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Piergiorgio è meno grasso di Stefano"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (grasso)"
+        }
+       ],
+       "answers": [
+        "Piergiorgio è meno grasso di Stefano"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. estate / primavera"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "L'estate è più calda della primavera"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (caldo)"
+        }
+       ],
+       "answers": [
+        "L'estate è più calda della primavera"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "La primavera è meno afosa dell'estate"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (afoso)"
+        }
+       ],
+       "answers": [
+        "La primavera è meno afosa dell'estate"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. mare / lago"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Il mare è più blu del lago"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (blu)"
+        }
+       ],
+       "answers": [
+        "Il mare è più blu del lago"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Il lago è meno afoso del mare"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (afoso)"
+        }
+       ],
+       "answers": [
+        "Il lago è meno afoso del mare"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "7. ciliegia / mela"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "La ciliegia è più piccola della mela"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (piccolo)"
+        }
+       ],
+       "answers": [
+        "La ciliegia è più piccola della mela"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "La mela è meno dolce della ciliegia"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " (dolce)"
+        }
+       ],
+       "answers": [
+        "La mela è meno dolce della ciliegia"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -11516,9 +12180,930 @@ window.QUIZ_DATA = {
      "num": "04",
      "instruction": "In italiano non è obbligatorio (come in francese, in inglese e in altre lingue) indicare sempre il pronome soggetto; molto spesso – quando è chiaro di chi si parla – non si dice, cioè si lascia sottinteso. Nelle seguenti frasi cancella i pronomi personali soggetto che non sono necessari.",
      "body": "1. Io sono italiano, e tu?\n2. Io avevo un gatto che si chiamava Ulisse e lui era rosso e bianco.\n3. Oggi io devo lavare i piatti.\n4. Oggi devo lavare i piatti io.\n5. Io ho portato il caffè a Stefano e lui mi ha ringraziata moltissimo.\n6. Noi abbiamo affittato una casa nuova e noi domani traslocheremo.\n7. Se tu studi qualche ora oggi, tu domani sarai libero di andare alla partita.\n8. Non è lui che ha vinto la gara, ma quel ragazzo biondo che è seduto là.",
-     "answerBody": "1. ~~Io~~ sono italiano, e tu? → cancellare **Io**\n2. ~~Io~~ avevo un gatto che si chiamava Ulisse e ~~lui~~ era rosso e bianco. → cancellare **Io**, **lui**\n3. Oggi ~~io~~ devo lavare i piatti. → cancellare **io**\n4. Oggi devo lavare i piatti io. → nessun pronome da cancellare (**io** resta, enfatico)\n5. ~~Io~~ ho portato il caffè a Stefano e ~~lui~~ mi ha ringraziata moltissimo. → cancellare **Io**, **lui**\n6. ~~Noi~~ abbiamo affittato una casa nuova e ~~noi~~ domani traslocheremo. → cancellare **Noi**, **noi**\n7. Se ~~tu~~ studi qualche ora oggi, ~~tu~~ domani sarai libero di andare alla partita. → cancellare entrambi i **tu**\n8. Non è lui che ha vinto la gara, ma quel ragazzo biondo che è seduto là. → nessun pronome da cancellare\n\n---",
+     "answerBody": "1. ~~Io~~ sono italiano, e tu? → cancellare **Io**\n2. ~~Io~~ avevo un gatto che si chiamava Ulisse e ~~lui~~ era rosso e bianco. → cancellare **Io**, **lui**\n3. Oggi ~~io~~ devo lavare i piatti. → cancellare **io**\n4. Oggi devo lavare i piatti io. → nessun pronome da cancellare (**io** resta, enfatico)\n5. ~~Io~~ ho portato il caffè a Stefano e ~~lui~~ mi ha ringraziata moltissimo. → cancellare **Io**, **lui**\n6. ~~Noi~~ abbiamo affittato una casa nuova e ~~noi~~ domani traslocheremo. → cancellare **Noi**, **noi**\n7. Se ~~tu~~ studi qualche ora oggi, ~~tu~~ domani sarai libero di andare alla partita. → cancellare entrambi i **tu**\n8. Non è lui che ha vinto la gara, ma quel ragazzo biondo che è seduto là. → nessun pronome da cancellare",
      "matching": null,
-     "passage": null,
+     "passage": {
+      "tokens": [
+       {
+        "t": "raw",
+        "v": "1. "
+       },
+       {
+        "t": "word",
+        "id": 0,
+        "v": "Io",
+        "role": "delete"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 1,
+        "v": "sono",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 2,
+        "v": "italiano",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 3,
+        "v": "e",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 4,
+        "v": "tu",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "?"
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "2. "
+       },
+       {
+        "t": "word",
+        "id": 5,
+        "v": "Io",
+        "role": "delete"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 6,
+        "v": "avevo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 7,
+        "v": "un",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 8,
+        "v": "gatto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 9,
+        "v": "che",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 10,
+        "v": "si",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 11,
+        "v": "chiamava",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 12,
+        "v": "Ulisse",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 13,
+        "v": "e",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 14,
+        "v": "lui",
+        "role": "delete"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 15,
+        "v": "era",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 16,
+        "v": "rosso",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 17,
+        "v": "e",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 18,
+        "v": "bianco",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "3. "
+       },
+       {
+        "t": "word",
+        "id": 19,
+        "v": "Oggi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 20,
+        "v": "io",
+        "role": "delete"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 21,
+        "v": "devo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 22,
+        "v": "lavare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 23,
+        "v": "i",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 24,
+        "v": "piatti",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "4. "
+       },
+       {
+        "t": "word",
+        "id": 25,
+        "v": "Oggi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 26,
+        "v": "devo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 27,
+        "v": "lavare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 28,
+        "v": "i",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 29,
+        "v": "piatti",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 30,
+        "v": "io",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "5. "
+       },
+       {
+        "t": "word",
+        "id": 31,
+        "v": "Io",
+        "role": "delete"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 32,
+        "v": "ho",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 33,
+        "v": "portato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 34,
+        "v": "il",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 35,
+        "v": "caffè",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 36,
+        "v": "a",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 37,
+        "v": "Stefano",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 38,
+        "v": "e",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 39,
+        "v": "lui",
+        "role": "delete"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 40,
+        "v": "mi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 41,
+        "v": "ha",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 42,
+        "v": "ringraziata",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 43,
+        "v": "moltissimo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "6. "
+       },
+       {
+        "t": "word",
+        "id": 44,
+        "v": "Noi",
+        "role": "delete"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 45,
+        "v": "abbiamo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 46,
+        "v": "affittato",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 47,
+        "v": "una",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 48,
+        "v": "casa",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 49,
+        "v": "nuova",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 50,
+        "v": "e",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 51,
+        "v": "noi",
+        "role": "delete"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 52,
+        "v": "domani",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 53,
+        "v": "traslocheremo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "7. "
+       },
+       {
+        "t": "word",
+        "id": 54,
+        "v": "Se",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 55,
+        "v": "tu",
+        "role": "delete"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 56,
+        "v": "studi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 57,
+        "v": "qualche",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 58,
+        "v": "ora",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 59,
+        "v": "oggi",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 60,
+        "v": "tu",
+        "role": "delete"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 61,
+        "v": "domani",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 62,
+        "v": "sarai",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 63,
+        "v": "libero",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 64,
+        "v": "di",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 65,
+        "v": "andare",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 66,
+        "v": "alla",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 67,
+        "v": "partita",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       },
+       {
+        "t": "raw",
+        "v": "8. "
+       },
+       {
+        "t": "word",
+        "id": 68,
+        "v": "Non",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 69,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 70,
+        "v": "lui",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 71,
+        "v": "che",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 72,
+        "v": "ha",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 73,
+        "v": "vinto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 74,
+        "v": "la",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 75,
+        "v": "gara",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": ","
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 76,
+        "v": "ma",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 77,
+        "v": "quel",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 78,
+        "v": "ragazzo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 79,
+        "v": "biondo",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 80,
+        "v": "che",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 81,
+        "v": "è",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 82,
+        "v": "seduto",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": " "
+       },
+       {
+        "t": "word",
+        "id": 83,
+        "v": "là",
+        "role": "none"
+       },
+       {
+        "t": "raw",
+        "v": "."
+       },
+       {
+        "t": "raw",
+        "v": "\n"
+       }
+      ],
+      "totalItems": 10,
+      "mode": "delete"
+     },
      "categorization": null,
      "wordBank": null,
      "blanks": null
@@ -11709,8 +13294,8 @@ window.QUIZ_DATA = {
     {
      "num": "02",
      "instruction": "Completa le seguenti frasi con un pronome personale complemento di 3a persona, facendo attenzione alla differenza tra uso al presente e uso al passato.",
-     "body": "|  | Presente | Passato prossimo |\n|---|---|---|\n| 1. Mangi il pesce? | No, non ___ mangio mai. | Sì, ___ ho mangiato domenica. |\n| 2. Mangi la pasta? | Sì, ___ mangio quasi tutti i giorni. | Oggi no, ma ___ ho mangiata ieri. |\n| 3. Mangi il tiramisù? | Non ___ mangio perché è troppo grasso. | Sì, ___ ho mangiato qualche volta al ristorante. |\n| 4. Mangi le banane? | Sì, ___ mangio, ma in Italia non sono buone. | Sì, ___ ho mangiate oggi a merenda. |\n| 5. Mangi i cioccolatini? | Sì, ___ mangio tutte le volte che posso. | Sì, Anna ne ha portati a scuola e ___ ho mangiati tutti io. |",
-     "answerBody": "|  | Presente | Passato prossimo |\n| --- | --- | --- |\n| 1. Mangi il pesce? | No, non **lo** mangio mai. | Sì, **l'**ho mangiato domenica. |\n| 2. Mangi la pasta? | Sì, **la** mangio quasi tutti i giorni. | Oggi no, ma **l'**ho mangiata ieri. |\n| 3. Mangi il tiramisù? | Non **lo** mangio perché è troppo grasso. | Sì, **l'**ho mangiato qualche volta al ristorante. |\n| 4. Mangi le banane? | Sì, **le** mangio, ma in Italia non sono buone. | Sì, **le** ho mangiate oggi a merenda. |\n| 5. Mangi i cioccolatini? | Sì, **li** mangio tutte le volte che posso. | Sì, Anna ne ha portati a scuola e **li** ho mangiati tutti io. |",
+     "body": "1. Mangi il pesce?\n   No, non ___ mangio mai.\n   Sì, ___ ho mangiato domenica.\n2. Mangi la pasta?\n   Sì, ___ mangio quasi tutti i giorni.\n   Oggi no, ma ___ ho mangiata ieri.\n3. Mangi il tiramisù?\n   Non ___ mangio perché è troppo grasso.\n   Sì, ___ ho mangiato qualche volta al ristorante.\n4. Mangi le banane?\n   Sì, ___ mangio, ma in Italia non sono buone.\n   Sì, ___ ho mangiate oggi a merenda.\n5. Mangi i cioccolatini?\n   Sì, ___ mangio tutte le volte che posso.\n   Sì, Anna ne ha portati a scuola e ___ ho mangiati tutti io.",
+     "answerBody": "1. Mangi il pesce?\n   No, non **lo** mangio mai.\n   Sì, **l'**ho mangiato domenica.\n2. Mangi la pasta?\n   Sì, **la** mangio quasi tutti i giorni.\n   Oggi no, ma **l'**ho mangiata ieri.\n3. Mangi il tiramisù?\n   Non **lo** mangio perché è troppo grasso.\n   Sì, **l'**ho mangiato qualche volta al ristorante.\n4. Mangi le banane?\n   Sì, **le** mangio, ma in Italia non sono buone.\n   Sì, **le** ho mangiate oggi a merenda.\n5. Mangi i cioccolatini?\n   Sì, **li** mangio tutte le volte che posso.\n   Sì, Anna ne ha portati a scuola e **li** ho mangiati tutti io.",
      "matching": null,
      "passage": null,
      "categorization": null,
@@ -11720,7 +13305,7 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "|  | Presente | Passato prossimo |"
+         "v": "1. Mangi il pesce?"
         }
        ],
        "answers": []
@@ -11729,16 +13314,7 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "|---|---|---|"
-        }
-       ],
-       "answers": []
-      },
-      {
-       "segments": [
-        {
-         "t": "text",
-         "v": "| 1. Mangi il pesce? | No, non "
+         "v": "   No, non "
         },
         {
          "t": "blank",
@@ -11749,22 +13325,32 @@ window.QUIZ_DATA = {
         },
         {
          "t": "text",
-         "v": " mangio mai. | Sì, "
+         "v": " mangio mai."
+        }
+       ],
+       "answers": [
+        "lo"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   Sì, "
         },
         {
          "t": "blank",
-         "i": 1,
+         "i": 0,
          "answers": [
           "l'"
          ]
         },
         {
          "t": "text",
-         "v": " ho mangiato domenica. |"
+         "v": " ho mangiato domenica."
         }
        ],
        "answers": [
-        "lo",
         "l'"
        ]
       },
@@ -11772,7 +13358,16 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "| 2. Mangi la pasta? | Sì, "
+         "v": "2. Mangi la pasta?"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   Sì, "
         },
         {
          "t": "blank",
@@ -11783,22 +13378,32 @@ window.QUIZ_DATA = {
         },
         {
          "t": "text",
-         "v": " mangio quasi tutti i giorni. | Oggi no, ma "
+         "v": " mangio quasi tutti i giorni."
+        }
+       ],
+       "answers": [
+        "la"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   Oggi no, ma "
         },
         {
          "t": "blank",
-         "i": 1,
+         "i": 0,
          "answers": [
           "l'"
          ]
         },
         {
          "t": "text",
-         "v": " ho mangiata ieri. |"
+         "v": " ho mangiata ieri."
         }
        ],
        "answers": [
-        "la",
         "l'"
        ]
       },
@@ -11806,7 +13411,16 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "| 3. Mangi il tiramisù? | Non "
+         "v": "3. Mangi il tiramisù?"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   Non "
         },
         {
          "t": "blank",
@@ -11817,22 +13431,32 @@ window.QUIZ_DATA = {
         },
         {
          "t": "text",
-         "v": " mangio perché è troppo grasso. | Sì, "
+         "v": " mangio perché è troppo grasso."
+        }
+       ],
+       "answers": [
+        "lo"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   Sì, "
         },
         {
          "t": "blank",
-         "i": 1,
+         "i": 0,
          "answers": [
           "l'"
          ]
         },
         {
          "t": "text",
-         "v": " ho mangiato qualche volta al ristorante. |"
+         "v": " ho mangiato qualche volta al ristorante."
         }
        ],
        "answers": [
-        "lo",
         "l'"
        ]
       },
@@ -11840,7 +13464,16 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "| 4. Mangi le banane? | Sì, "
+         "v": "4. Mangi le banane?"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   Sì, "
         },
         {
          "t": "blank",
@@ -11851,22 +13484,10 @@ window.QUIZ_DATA = {
         },
         {
          "t": "text",
-         "v": " mangio, ma in Italia non sono buone. | Sì, "
-        },
-        {
-         "t": "blank",
-         "i": 1,
-         "answers": [
-          "le"
-         ]
-        },
-        {
-         "t": "text",
-         "v": " ho mangiate oggi a merenda. |"
+         "v": " mangio, ma in Italia non sono buone."
         }
        ],
        "answers": [
-        "le",
         "le"
        ]
       },
@@ -11874,7 +13495,38 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "| 5. Mangi i cioccolatini? | Sì, "
+         "v": "   Sì, "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " ho mangiate oggi a merenda."
+        }
+       ],
+       "answers": [
+        "le"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. Mangi i cioccolatini?"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   Sì, "
         },
         {
          "t": "blank",
@@ -11885,22 +13537,32 @@ window.QUIZ_DATA = {
         },
         {
          "t": "text",
-         "v": " mangio tutte le volte che posso. | Sì, Anna ne ha portati a scuola e "
+         "v": " mangio tutte le volte che posso."
+        }
+       ],
+       "answers": [
+        "li"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "   Sì, Anna ne ha portati a scuola e "
         },
         {
          "t": "blank",
-         "i": 1,
+         "i": 0,
          "answers": [
           "li"
          ]
         },
         {
          "t": "text",
-         "v": " ho mangiati tutti io. |"
+         "v": " ho mangiati tutti io."
         }
        ],
        "answers": [
-        "li",
         "li"
        ]
       }
@@ -12154,12 +13816,123 @@ window.QUIZ_DATA = {
      "num": "05",
      "instruction": "Completa le seguenti frasi con il pronome personale complemento adatto.",
      "body": "1. Sono ammalata da due giorni e mia mamma vuole portar ___ dal medico.\n2. Il gatto è in casa, ma io non riesco a trovar ___.\n3. Perché i vostri genitori vogliono portar ___ in montagna, se non vi piace?\n4. Non ho capito questa spiegazione anche se la professoressa ___ ha ripetuta due volte.\n5. Le rose erano appassite e ___ ho buttate via.",
-     "answerBody": "1. Sono ammalata da due giorni e mia mamma vuole portar**mi** dal medico.\n2. Il gatto è in casa, ma io non riesco a trovar**lo**.\n3. Perché i vostri genitori vogliono portar**vi** in montagna, se non vi piace?\n4. Non ho capito questa spiegazione anche se la professoressa … **l'**ha ripetuta due volte.\n5. Le rose erano appassite e … **le** ho buttate via.\n\n---",
+     "answerBody": "1. Sono ammalata da due giorni e mia mamma vuole portar**mi** dal medico.\n2. Il gatto è in casa, ma io non riesco a trovar**lo**.\n3. Perché i vostri genitori vogliono portar**vi** in montagna, se non vi piace?\n4. Non ho capito questa spiegazione anche se la professoressa … **l'**ha ripetuta due volte.\n5. Le rose erano appassite e … **le** ho buttate via.",
      "matching": null,
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. Sono ammalata da due giorni e mia mamma vuole portar "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "mi"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " dal medico."
+        }
+       ],
+       "answers": [
+        "mi"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Il gatto è in casa, ma io non riesco a trovar "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "lo"
+         ]
+        },
+        {
+         "t": "text",
+         "v": "."
+        }
+       ],
+       "answers": [
+        "lo"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Perché i vostri genitori vogliono portar "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "vi"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " in montagna, se non vi piace?"
+        }
+       ],
+       "answers": [
+        "vi"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Non ho capito questa spiegazione anche se la professoressa "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "l'"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " ha ripetuta due volte."
+        }
+       ],
+       "answers": [
+        "l'"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. Le rose erano appassite e "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "le"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " ho buttate via."
+        }
+       ],
+       "answers": [
+        "le"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -12669,12 +14442,197 @@ window.QUIZ_DATA = {
      "num": "04",
      "instruction": "Riscrivi le seguenti frasi sostituendo alle parole sottolineate i pronomi personali complemento adatti.",
      "body": "1. Giovanna ha quattro figli e parla sempre dei quattro figli.\n___\n2. Ho telefonato a Rosa e ho detto a Rosa che passerò domani a trovarla.\n___\n3. Mettiti d'accordo con Mario per andare al cinema con Mario.\n___\n4. Alina ha salutato Olga, ma lei non ha risposto a Alina.\n___\n5. L'avvocato ha convocato il cliente per spiegare al cliente a che punto è la causa.\n___\n6. Matteo è venuto da me per dire a me che c'era una telefonata urgente.\n___\n7. Angelo è andato a trovare Paola perché voleva parlare a Paola.\n___\n8. Quando vai dal medico, spiega al medico i tuoi sintomi.\n___",
-     "answerBody": "1. Giovanna ha quattro figli e parla sempre **dei quattro figli**. → … di loro. (= parla sempre di loro.)\n2. Ho telefonato a Rosa e ho detto **a Rosa** che passerò domani a trovarla. → … e le ho detto che passerò … (= Le ho telefonato e le ho detto che passerò domani a trovarla.)\n3. Mettiti d'accordo con Mario per andare al cinema **con Mario**. → … con lui.\n4. Alina ha salutato Olga, ma lei non ha risposto **a Alina**. → … ma lei non le ha risposto.\n5. L'avvocato ha convocato il cliente per spiegare **al cliente** a che punto è la causa. → … per spiegargli a che punto …\n6. Matteo è venuto da me per dire **a me** che c'era una telefonata urgente. → … per dirmi che …\n7. Angelo è andato a trovare Paola perché voleva parlare **a Paola**. → … parlarle.\n8. Quando vai dal medico, spiega **al medico** i tuoi sintomi. → … spiegagli i tuoi sintomi.\n\n---",
+     "answerBody": "1. Giovanna ha quattro figli e parla sempre **dei quattro figli**. → … di loro. (= parla sempre di loro.)\n2. Ho telefonato a Rosa e ho detto **a Rosa** che passerò domani a trovarla. → … e le ho detto che passerò … (= Le ho telefonato e le ho detto che passerò domani a trovarla.)\n3. Mettiti d'accordo con Mario per andare al cinema **con Mario**. → … con lui.\n4. Alina ha salutato Olga, ma lei non ha risposto **a Alina**. → … ma lei non le ha risposto.\n5. L'avvocato ha convocato il cliente per spiegare **al cliente** a che punto è la causa. → … per spiegargli a che punto …\n6. Matteo è venuto da me per dire **a me** che c'era una telefonata urgente. → … per dirmi che …\n7. Angelo è andato a trovare Paola perché voleva parlare **a Paola**. → … parlarle.\n8. Quando vai dal medico, spiega **al medico** i tuoi sintomi. → … spiegagli i tuoi sintomi.",
      "matching": null,
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. Giovanna ha quattro figli e parla sempre dei quattro figli."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "dei quattro figli"
+         ]
+        }
+       ],
+       "answers": [
+        "dei quattro figli"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Ho telefonato a Rosa e ho detto a Rosa che passerò domani a trovarla."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "a Rosa"
+         ]
+        }
+       ],
+       "answers": [
+        "a Rosa"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Mettiti d'accordo con Mario per andare al cinema con Mario."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "con Mario"
+         ]
+        }
+       ],
+       "answers": [
+        "con Mario"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Alina ha salutato Olga, ma lei non ha risposto a Alina."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "a Alina"
+         ]
+        }
+       ],
+       "answers": [
+        "a Alina"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. L'avvocato ha convocato il cliente per spiegare al cliente a che punto è la causa."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "al cliente"
+         ]
+        }
+       ],
+       "answers": [
+        "al cliente"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. Matteo è venuto da me per dire a me che c'era una telefonata urgente."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "a me"
+         ]
+        }
+       ],
+       "answers": [
+        "a me"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "7. Angelo è andato a trovare Paola perché voleva parlare a Paola."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "a Paola"
+         ]
+        }
+       ],
+       "answers": [
+        "a Paola"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "8. Quando vai dal medico, spiega al medico i tuoi sintomi."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "al medico"
+         ]
+        }
+       ],
+       "answers": [
+        "al medico"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -12876,7 +14834,7 @@ window.QUIZ_DATA = {
      "num": "04",
      "instruction": "Completa le frasi usando ne e un'espressione di quantità a scelta tra quelle elencate.",
      "body": "una fetta • un chilo • una forma grossa • un cucchiaino • un pizzico • una dozzina • dieci litri\n\n1. Vuoi lo zucchero nel caffè? – Sì, ___ metto ___\n2. Che belle pere! ___ vorrei ___\n3. Quante uova ti servono? Compra ___ ___\n4. Che buona questa torta! Posso aver ___ ancora ___ ?\n5. Sono quasi senza benzina. Me ___ metta ___\n6. Manca il pane. Compra ___ ___\n7. Aggiungi un po' di sale agli spinaci. ___ basta ___",
-     "answerBody": "1. Vuoi lo zucchero nel caffè? – Sì, … **ne** metto … **un cucchiaino**.\n2. Che belle pere! … **Ne** vorrei … **un chilo**.\n3. Quante uova ti servono? Comprane … **una dozzina**.\n4. Che buona questa torta! Posso averne … ancora … **una fetta**?\n5. Sono quasi senza benzina. Me … **ne** metta … **dieci litri**.\n6. Manca il pane. Comprane … **una forma grossa**.\n7. Aggiungi un po' di sale agli spinaci. … **Ne** basta … **un pizzico**.\n\n---",
+     "answerBody": "1. Vuoi lo zucchero nel caffè? – Sì, … **ne** metto … **un cucchiaino**.\n2. Che belle pere! … **Ne** vorrei … **un chilo**.\n3. Quante uova ti servono? Comprane … **una dozzina**.\n4. Che buona questa torta! Posso averne … ancora … **una fetta**?\n5. Sono quasi senza benzina. Me … **ne** metta … **dieci litri**.\n6. Manca il pane. Comprane … **una forma grossa**.\n7. Aggiungi un po' di sale agli spinaci. … **Ne** basta … **un pizzico**.",
      "matching": null,
      "passage": null,
      "categorization": null,
@@ -13767,12 +15725,189 @@ window.QUIZ_DATA = {
      "num": "04",
      "instruction": "Inserisci nelle frasi seguenti il pronome relativo adatto.",
      "body": "1. La pizza ___ fanno qui è la migliore della città.\n2. Ti spiego il motivo per ___ sono qui.\n3. Franco è il ragazzo con ___ esce mia sorella.\n4. Ho già speso tutti i soldi ___ mi ha dato mio padre.\n5. La sedia su ___ sei seduto sta per rompersi.\n6. Mi è piaciuto molto il libro ___ mi hai portato.\n7. Il compito in classe ___ abbiamo fatto ieri era difficile.\n8. Il motorino ___ ha investito Laura andava troppo veloce.",
-     "answerBody": "1. La pizza … **che** fanno qui è la migliore della città.\n2. Ti spiego il motivo per … **cui** sono qui.\n3. Franco è il ragazzo con … **cui** esce mia sorella.\n4. Ho già speso tutti i soldi … **che** mi ha dato mio padre.\n5. La sedia su … **cui** sei seduto sta per rompersi.\n6. Mi è piaciuto molto il libro … **che** mi hai portato.\n7. Il compito in classe … **che** abbiamo fatto ieri era difficile.\n8. Il motorino … **che** ha investito Laura andava troppo veloce.\n\n---",
+     "answerBody": "1. La pizza … **che** fanno qui è la migliore della città.\n2. Ti spiego il motivo per … **cui** sono qui.\n3. Franco è il ragazzo con … **cui** esce mia sorella.\n4. Ho già speso tutti i soldi … **che** mi ha dato mio padre.\n5. La sedia su … **cui** sei seduto sta per rompersi.\n6. Mi è piaciuto molto il libro … **che** mi hai portato.\n7. Il compito in classe … **che** abbiamo fatto ieri era difficile.\n8. Il motorino … **che** ha investito Laura andava troppo veloce.",
      "matching": null,
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. La pizza "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "che"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " fanno qui è la migliore della città."
+        }
+       ],
+       "answers": [
+        "che"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Ti spiego il motivo per "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "cui"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " sono qui."
+        }
+       ],
+       "answers": [
+        "cui"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Franco è il ragazzo con "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "cui"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " esce mia sorella."
+        }
+       ],
+       "answers": [
+        "cui"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Ho già speso tutti i soldi "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "che"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " mi ha dato mio padre."
+        }
+       ],
+       "answers": [
+        "che"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. La sedia su "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "cui"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " sei seduto sta per rompersi."
+        }
+       ],
+       "answers": [
+        "cui"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. Mi è piaciuto molto il libro "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "che"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " mi hai portato."
+        }
+       ],
+       "answers": [
+        "che"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "7. Il compito in classe "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "che"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " abbiamo fatto ieri era difficile."
+        }
+       ],
+       "answers": [
+        "che"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "8. Il motorino "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "che"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " ha investito Laura andava troppo veloce."
+        }
+       ],
+       "answers": [
+        "che"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -14192,12 +16327,180 @@ window.QUIZ_DATA = {
      "num": "05",
      "instruction": "Sostituisci le espressioni in corsivo con l'aggettivo possessivo corrispondente.",
      "body": "1. La macchina che abbiamo noi. = la nostra macchina\n___\n2. La segretaria che lavora per te. = ___\n3. Il sogno che ho sempre avuto. = ___\n4. La dieta che stai facendo. = ___\n5. Le pantofole che uso in casa. = ___\n6. I giocattoli con cui gioca Sara. = ___\n7. Il gatto che abbiamo noi. = ___\n8. I vestiti che Luisa mette. = ___\n9. I discorsi che fate. = ___",
-     "answerBody": "1. La macchina *che abbiamo noi*. = **la nostra macchina**\n2. La segretaria *che lavora per te*. = **la tua segretaria**\n3. Il sogno *che ho sempre avuto*. = **il mio sogno**\n4. La dieta *che stai facendo*. = **la tua dieta**\n5. Le pantofole *che uso in casa*. = **le mie pantofole**\n6. I giocattoli *con cui gioca Sara*. = **i suoi giocattoli**\n7. Il gatto *che abbiamo noi*. = **il nostro gatto**\n8. I vestiti *che Luisa mette*. = **i suoi vestiti**\n9. I discorsi *che fate*. = **i vostri discorsi**\n\n---",
+     "answerBody": "1. La macchina *che abbiamo noi*. = **la nostra macchina**\n2. La segretaria *che lavora per te*. = **la tua segretaria**\n3. Il sogno *che ho sempre avuto*. = **il mio sogno**\n4. La dieta *che stai facendo*. = **la tua dieta**\n5. Le pantofole *che uso in casa*. = **le mie pantofole**\n6. I giocattoli *con cui gioca Sara*. = **i suoi giocattoli**\n7. Il gatto *che abbiamo noi*. = **il nostro gatto**\n8. I vestiti *che Luisa mette*. = **i suoi vestiti**\n9. I discorsi *che fate*. = **i vostri discorsi**",
      "matching": null,
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. La macchina che abbiamo noi. = la nostra macchina"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la nostra macchina"
+         ]
+        }
+       ],
+       "answers": [
+        "la nostra macchina"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. La segretaria che lavora per te. = "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la tua segretaria"
+         ]
+        }
+       ],
+       "answers": [
+        "la tua segretaria"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Il sogno che ho sempre avuto. = "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il mio sogno"
+         ]
+        }
+       ],
+       "answers": [
+        "il mio sogno"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. La dieta che stai facendo. = "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la tua dieta"
+         ]
+        }
+       ],
+       "answers": [
+        "la tua dieta"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. Le pantofole che uso in casa. = "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "le mie pantofole"
+         ]
+        }
+       ],
+       "answers": [
+        "le mie pantofole"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. I giocattoli con cui gioca Sara. = "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "i suoi giocattoli"
+         ]
+        }
+       ],
+       "answers": [
+        "i suoi giocattoli"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "7. Il gatto che abbiamo noi. = "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "il nostro gatto"
+         ]
+        }
+       ],
+       "answers": [
+        "il nostro gatto"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "8. I vestiti che Luisa mette. = "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "i suoi vestiti"
+         ]
+        }
+       ],
+       "answers": [
+        "i suoi vestiti"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "9. I discorsi che fate. = "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "i vostri discorsi"
+         ]
+        }
+       ],
+       "answers": [
+        "i vostri discorsi"
+       ]
+      }
+     ]
     }
    ]
   },
@@ -14377,12 +16680,189 @@ window.QUIZ_DATA = {
      "num": "04",
      "instruction": "Completa le frasi con l'aggettivo o il pronome identificativo corretti.",
      "body": "1. Da quando è morta sua moglie, Gino non è più ___.\n2. Al cinema Lux danno sempre ___ film.\n3. Che noia! Sempre ___ discorsi!\n4. Luisa si mette ___ vestito tutti i giorni.\n5. Fa' quello che vuoi, per me è ___ cosa.\n6. I medici ___ si sono stupiti di una guarigione così rapida.\n7. Le sorelle Gigliotti vanno nello ___ albergo da dieci anni.\n8. Purtroppo la salute non è più ___ di quando ero giovane.",
-     "answerBody": "1. Da quando è morta sua moglie, Gino non è più … **lo stesso**.\n2. Al cinema Lux danno sempre … **lo stesso** film.\n3. Che noia! Sempre … **gli stessi** discorsi!\n4. Luisa si mette … **lo stesso** vestito tutti i giorni.\n5. Fa' quello che vuoi, per me è … **la stessa** cosa.\n6. I medici … **stessi** si sono stupiti di una guarigione così rapida.\n7. Le sorelle Gigliotti vanno nello … **stesso** albergo da dieci anni.\n8. Purtroppo la salute non è più … **la stessa** di quando ero giovane.\n\n---",
+     "answerBody": "1. Da quando è morta sua moglie, Gino non è più … **lo stesso**.\n2. Al cinema Lux danno sempre … **lo stesso** film.\n3. Che noia! Sempre … **gli stessi** discorsi!\n4. Luisa si mette … **lo stesso** vestito tutti i giorni.\n5. Fa' quello che vuoi, per me è … **la stessa** cosa.\n6. I medici … **stessi** si sono stupiti di una guarigione così rapida.\n7. Le sorelle Gigliotti vanno nello … **stesso** albergo da dieci anni.\n8. Purtroppo la salute non è più … **la stessa** di quando ero giovane.",
      "matching": null,
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. Da quando è morta sua moglie, Gino non è più "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "lo stesso"
+         ]
+        },
+        {
+         "t": "text",
+         "v": "."
+        }
+       ],
+       "answers": [
+        "lo stesso"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Al cinema Lux danno sempre "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "lo stesso"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " film."
+        }
+       ],
+       "answers": [
+        "lo stesso"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Che noia! Sempre "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "gli stessi"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " discorsi!"
+        }
+       ],
+       "answers": [
+        "gli stessi"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Luisa si mette "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "lo stesso"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " vestito tutti i giorni."
+        }
+       ],
+       "answers": [
+        "lo stesso"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. Fa' quello che vuoi, per me è "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la stessa"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " cosa."
+        }
+       ],
+       "answers": [
+        "la stessa"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. I medici "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "stessi"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " si sono stupiti di una guarigione così rapida."
+        }
+       ],
+       "answers": [
+        "stessi"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "7. Le sorelle Gigliotti vanno nello "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "stesso"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " albergo da dieci anni."
+        }
+       ],
+       "answers": [
+        "stesso"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "8. Purtroppo la salute non è più "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "la stessa"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " di quando ero giovane."
+        }
+       ],
+       "answers": [
+        "la stessa"
+       ]
+      }
+     ]
     }
    ]
   },

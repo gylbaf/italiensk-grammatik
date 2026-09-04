@@ -45,7 +45,20 @@ QuizApp.exercises = QuizApp.exercises || {};
       const blanks = l.segments.filter(s=>s.t==='blank').length;
       return blanks===0 || blanks>=6;
     });
-    const extraClass = isYAlign ? ' fill-lines--y-align' : isTable4 ? ' fill-lines--table-4' : '';
+    // Scheda 11 01: 12 rader ×2 luckor ( — 13. ...) – två spalter med mellanrum
+    const isTwoCols = !isYAlign && !isTable4 && blanksLines.length === 12 && blanksLines.every(l=>l.segments.filter(s=>s.t==='blank').length===2);
+    // Scheda 12 02: grupperad fråga + 2 svars-rader (1. Mangi il pesce? → två luck-rader) – kräver 1 prompt + 2 luckor per grupp
+    const isGroupedPrompts = !isYAlign && !isTable4 && !isTwoCols && blanksLines.length >= 9 && blanksLines.length % 3 === 0 && blanksLines.every((l, idx) => {
+      if (l.isHelp) return false;
+      if (idx % 3 === 0) {
+        if (l.segments.some(s=>s.t==='blank' || s.t==='choice' || s.t==='markable')) return false;
+        const txt = l.segments.map(s=>s.v||'').join('').trim();
+        return /^\s*\d+\./.test(txt) && txt.includes('?');
+      } else {
+        return l.segments.some(s=>s.t==='blank');
+      }
+    });
+    const extraClass = isYAlign ? ' fill-lines--y-align' : isTable4 ? ' fill-lines--table-4' : isTwoCols ? ' fill-lines--two-cols' : isGroupedPrompts ? ' fill-lines--grouped' : '';
     if (extraClass.includes('table-4')) {
       html += '<div class="fill-lines' + extraClass + '"><table class="table-4"><thead><tr><th>maschile singolare</th><th>femminile singolare</th><th>maschile plurale</th><th>femminile plurale</th></tr></thead><tbody>';
     } else {
@@ -100,15 +113,54 @@ QuizApp.exercises = QuizApp.exercises || {};
         html += '</tr>';
         return;
       }
-      const isLargeLine = line.segments.length === 1 && line.segments[0].t === "blank" && ((line.answers && line.answers[0] && line.answers[0].length > 35) || (line.segments[0].answers && line.segments[0].answers[0] && line.segments[0].answers[0].length > 35));
-      html += '<div class="fill-line' + (isHelp ? ' fill-line--help' : '') + (isLargeLine ? ' fill-line--large' : '') + '">';
+      const hasOneBlank = line.segments.filter(s=>s.t==='blank').length === 1;
+      const hasParenHint = line.segments.some(s=>s.t==='text' && s.v.includes('('));
+      // Scheda 11 01: två spalter med mellanrum
+      if (extraClass.includes('two-cols') && !isHelp) {
+        const cells = [];
+        let cur = [];
+        line.segments.forEach((seg) => {
+          if (seg.t === "text" && /\s[—–-]\s/.test(seg.v)) {
+            const parts = seg.v.split(/\s+[—–-]\s+/);
+            for (let pi = 0; pi < parts.length; pi++) {
+              if (parts[pi]) cur.push({ t: "text", v: parts[pi] });
+              if (pi < parts.length - 1) { cells.push(cur); cur = []; }
+            }
+          } else if (seg.t === "text" && (seg.v.trim() === "—" || seg.v.trim() === "–" || seg.v.trim() === "-")) {
+            cells.push(cur); cur = [];
+          } else {
+            cur.push(seg);
+          }
+        });
+        cells.push(cur);
+        html += '<div class="fill-line fill-line--two-cols-row">';
+        cells.forEach((cellSegs) => {
+          html += '<span class="two-cols-cell">';
+          cellSegs.forEach((seg) => {
+            if (seg.t === "text") {
+              html += `<span>${escapeHtml(seg.v)}</span>`;
+            } else if (seg.t === "blank") {
+              const expectedLen = (seg.answers && seg.answers[0]) ? seg.answers[0].length : ((line.answers && line.answers[seg.i]) ? line.answers[seg.i].length : 4);
+              const inputSize = Math.max(4, Math.min(12, expectedLen + 2));
+              html += `<input type="text" class="blank-input" autocomplete="off" autocapitalize="off" spellcheck="false" data-line="${li}" data-blank="${seg.i}" size="${inputSize}">`;
+            }
+          });
+          html += '</span>';
+        });
+        html += '</div>';
+        return;
+      }
+      const isPromptLine = isGroupedPrompts && !isHelp && !hasOneBlank && line.segments.length === 1 && line.segments[0].t === "text" && /^\s*\d+\./.test(line.segments[0].v) && line.segments[0].v.includes("?") && line.answers.length === 0;
+      const isLargeLine = hasOneBlank && (hasParenHint || (line.answers && line.answers[0] && line.answers[0].length > 35) || line.segments.some(s=>s.t==='blank' && s.answers && s.answers[0] && s.answers[0].length > 35));
+      html += '<div class="fill-line' + (isHelp ? ' fill-line--help' : '') + (isPromptLine ? ' fill-line--prompt' : '') + (isLargeLine ? ' fill-line--large' : '') + '">';
       line.segments.forEach((seg) => {
         if (seg.t === "text") {
           html += `<span>${escapeHtml(seg.v)}</span>`;
         } else if (seg.t === "blank") {
           const expectedLen = (seg.answers && seg.answers[0]) ? seg.answers[0].length : ((line.answers && line.answers[seg.i]) ? line.answers[seg.i].length : 8);
           if (isLargeLine) {
-            html += `<textarea class="blank-input blank-textarea" autocomplete="off" autocapitalize="off" spellcheck="false" data-line="${li}" data-blank="${seg.i}" rows="2" placeholder="Skriv hela meningen här..."></textarea>`;
+            const inputSizeLarge = Math.max(30, Math.min(60, expectedLen + 5));
+            html += `<input type="text" class="blank-input blank-input--large" autocomplete="off" autocapitalize="off" spellcheck="false" data-line="${li}" data-blank="${seg.i}" size="${inputSizeLarge}" placeholder="Skriv hela meningen här...">`;
           } else {
             const inputSize = Math.max(8, Math.min(26, expectedLen + 2));
             html += `<input type="text" class="blank-input" autocomplete="off" autocapitalize="off" spellcheck="false" data-line="${li}" data-blank="${seg.i}" size="${inputSize}">`;

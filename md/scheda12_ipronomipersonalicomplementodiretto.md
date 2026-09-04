@@ -65,13 +65,21 @@ Facciamo una festa a scuola…
 
 ### 02 • Completa le seguenti frasi con un pronome personale complemento di 3a persona, facendo attenzione alla differenza tra uso al presente e uso al passato.
 
-|  | Presente | Passato prossimo |
-|---|---|---|
-| 1. Mangi il pesce? | No, non ___ mangio mai. | Sì, ___ ho mangiato domenica. |
-| 2. Mangi la pasta? | Sì, ___ mangio quasi tutti i giorni. | Oggi no, ma ___ ho mangiata ieri. |
-| 3. Mangi il tiramisù? | Non ___ mangio perché è troppo grasso. | Sì, ___ ho mangiato qualche volta al ristorante. |
-| 4. Mangi le banane? | Sì, ___ mangio, ma in Italia non sono buone. | Sì, ___ ho mangiate oggi a merenda. |
-| 5. Mangi i cioccolatini? | Sì, ___ mangio tutte le volte che posso. | Sì, Anna ne ha portati a scuola e ___ ho mangiati tutti io. |
+1. Mangi il pesce?
+   No, non ___ mangio mai.
+   Sì, ___ ho mangiato domenica.
+2. Mangi la pasta?
+   Sì, ___ mangio quasi tutti i giorni.
+   Oggi no, ma ___ ho mangiata ieri.
+3. Mangi il tiramisù?
+   Non ___ mangio perché è troppo grasso.
+   Sì, ___ ho mangiato qualche volta al ristorante.
+4. Mangi le banane?
+   Sì, ___ mangio, ma in Italia non sono buone.
+   Sì, ___ ho mangiate oggi a merenda.
+5. Mangi i cioccolatini?
+   Sì, ___ mangio tutte le volte che posso.
+   Sì, Anna ne ha portati a scuola e ___ ho mangiati tutti io.
 
 ### 03 • Completa le seguenti frasi con il pronome personale complemento corretto.
 

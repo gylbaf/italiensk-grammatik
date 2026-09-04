@@ -130,21 +130,28 @@
   padding: .1rem .15rem;
   margin: 0 .04rem;
 }
-.fill-line--large { display: block; margin: .1rem 0 .9rem 0; }
-.blank-textarea {
-  width: 100%;
-  min-height: 3.2em;
+.fill-line--large { display: flex; align-items: center; gap: .6rem; margin: .25rem 0 1rem 0; flex-wrap: wrap; }
+.fill-line--large .blank-input--large {
+  flex: 1 1 auto;
+  min-width: 340px;
+  width: auto;
+  font-size: 1.02rem;
+  padding: .5rem .7rem;
+}
+.fill-line--large .blank-textarea {
+  flex: 1 1 auto;
+  min-width: 280px;
+  min-height: 2.8em;
   resize: vertical;
   border: 1.5px solid var(--border);
   border-bottom: 2px solid var(--accent);
   border-radius: 8px;
   padding: .55rem .7rem;
-  font-size: 1rem;
+  font-size: 1.02rem;
   font-family: inherit;
   background: #fffdf9;
   line-height: 1.5;
   display: block;
-  margin-top: .35rem;
 }
 .blank-textarea:focus { outline: none; border-bottom-color: var(--accent-dark); background: #fff; }
 .blank-textarea.correct { background: #eaf6ea; border-bottom-color: var(--green); }
@@ -153,6 +160,26 @@
   .fill-lines--table-4 .table-4 { font-size: .9rem; }
   .fill-lines--table-4 .table-4 th, .fill-lines--table-4 .table-4 td { padding: .35rem .45rem; }
 }
+
+/* Scheda 11 01: två spalter med mellanrum */
+.fill-lines--two-cols { gap: .5rem; }
+.fill-lines--two-cols .fill-line--two-cols-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: .6rem 2.8rem;
+  align-items: center;
+  padding: .15rem 0;
+}
+.fill-lines--two-cols .two-cols-cell {
+  display: flex;
+  align-items: center;
+  gap: .35rem;
+  flex-wrap: wrap;
+}
+@media (max-width: 600px) {
+  .fill-lines--two-cols .fill-line--two-cols-row { grid-template-columns: 1fr; gap: .4rem; }
+}
+
 .blank-input {
   border: 1px solid var(--border);
   border-bottom: 2px solid var(--accent);
@@ -276,4 +303,24 @@
 }
 .mark-word.disabled {
   cursor: default;
+}
+
+/* Scheda 12 02 – grupperad prompt + svars-rader: markera frågan och luft mellan frågor */
+.fill-lines--grouped { gap: .35rem; }
+.fill-lines--grouped .fill-line--prompt {
+  font-weight: 600;
+  font-size: 1.02rem;
+  color: var(--accent-dark);
+  background: #fff7ec;
+  padding: .38rem .75rem;
+  border-radius: 8px;
+  margin: 1.15rem 0 .4rem 0;
+  line-height: 1.45;
+}
+.fill-lines--grouped .fill-line--prompt:first-child { margin-top: 0; }
+.fill-lines--grouped .fill-line:not(.fill-line--prompt) {
+  padding-left: .85rem;
+}
+@media (max-width: 560px) {
+  .fill-lines--grouped .fill-line--prompt { font-size: .98rem; padding: .32rem .6rem; }
 }

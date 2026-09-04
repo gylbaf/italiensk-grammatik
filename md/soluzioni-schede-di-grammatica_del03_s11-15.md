@@ -69,13 +69,21 @@
 
 ### 02 • Completa le seguenti frasi con un pronome personale complemento di 3ª persona, facendo attenzione alla differenza tra uso al presente e uso al passato.
 
-|  | Presente | Passato prossimo |
-| --- | --- | --- |
-| 1. Mangi il pesce? | No, non **lo** mangio mai. | Sì, **l'**ho mangiato domenica. |
-| 2. Mangi la pasta? | Sì, **la** mangio quasi tutti i giorni. | Oggi no, ma **l'**ho mangiata ieri. |
-| 3. Mangi il tiramisù? | Non **lo** mangio perché è troppo grasso. | Sì, **l'**ho mangiato qualche volta al ristorante. |
-| 4. Mangi le banane? | Sì, **le** mangio, ma in Italia non sono buone. | Sì, **le** ho mangiate oggi a merenda. |
-| 5. Mangi i cioccolatini? | Sì, **li** mangio tutte le volte che posso. | Sì, Anna ne ha portati a scuola e **li** ho mangiati tutti io. |
+1. Mangi il pesce?
+   No, non **lo** mangio mai.
+   Sì, **l'**ho mangiato domenica.
+2. Mangi la pasta?
+   Sì, **la** mangio quasi tutti i giorni.
+   Oggi no, ma **l'**ho mangiata ieri.
+3. Mangi il tiramisù?
+   Non **lo** mangio perché è troppo grasso.
+   Sì, **l'**ho mangiato qualche volta al ristorante.
+4. Mangi le banane?
+   Sì, **le** mangio, ma in Italia non sono buone.
+   Sì, **le** ho mangiate oggi a merenda.
+5. Mangi i cioccolatini?
+   Sì, **li** mangio tutte le volte che posso.
+   Sì, Anna ne ha portati a scuola e **li** ho mangiati tutti io.
 
 ### 03 • Completa le seguenti frasi con il pronome personale complemento corretto.
 

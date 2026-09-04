@@ -74,5 +74,9 @@ def parse_soluzioni_files():
             if h["level"] in (3, 4) and current_scheda is not None:
                 em = EXERCISE_HEADING_RE.match(h["text"])
                 if em:
-                    answer_map.setdefault(current_scheda, {})[em.group(1)] = h["body"].strip()
+                    body = h["body"].strip()
+                    # Ta bort avslutande "---" separator som hör till nästa scheda, inte övningen
+                    body = re.sub(r"\n---+\s*$", "", body).strip()
+                    body = re.sub(r"^---+\n", "", body).strip()
+                    answer_map.setdefault(current_scheda, {})[em.group(1)] = body
     return answer_map
