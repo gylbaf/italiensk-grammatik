@@ -37,7 +37,23 @@ def try_arrow_or_dash_line_answers(q_line: str, a_line: str, n_blanks: int):
             return [ans]
 
     if len(a_parts) == 2:
-        return [a_parts[1].strip()]
+        # Dash without bold – decide which side is the answer based on
+        # which side already appears in the question.
+        # e.g. q="___ i farmaci" / a="il farmaco – i farmaci" -> answer is left (singular)
+        #      q="il medico ___" / a="il medico – i medici"    -> answer is right (plural)
+        a_left = re.sub(r'^\d+[\.\)]\s*', '', a_parts[0].strip())
+        a_right = a_parts[1].strip()
+        q_norm = _norm_ws(q_line).lower()
+        left_norm = _norm_ws(a_left).lower()
+        right_norm = _norm_ws(a_right).lower()
+        if right_norm and right_norm in q_norm:
+            return [a_left]
+        if left_norm and left_norm in q_norm:
+            return [a_right]
+        # Fallback: position of blank
+        if re.search(r'^\s*(\d+[\.\)]\s*)?___', q_line):
+            return [a_left]
+        return [a_right]
 
     return None
 

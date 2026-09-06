@@ -7764,7 +7764,7 @@ window.QUIZ_DATA = {
      "num": "01",
      "instruction": "Volgi al plurale i seguenti nomi singolari.",
      "body": "1. l'omicida ___\n2. l'uomo ___\n3. la borsetta ___\n4. il pino ___\n5. la ciliegia ___\n6. la scodella ___\n7. la pioggia ___\n8. il giornalista ___\n9. l'automobile ___\n10. il lampadario ___\n11. la principessa ___\n12. il rubinetto ___\n13. lo zaino ___\n14. il semaforo ___\n15. la goccia ___\n16. il guadagno ___\n17. la lavatrice ___\n18. il giornale ___\n19. la freccia ___\n20. il dizionario ___\n21. la pallina ___\n22. il frigorifero ___\n23. la ringhiera ___\n24. la scarpa ___",
-     "answerBody": "1. l'omicida – gli omicidi\n2. l'uomo – gli uomini\n3. la borsetta – le borsette\n4. il pino – i pini\n5. la ciliegia – le ciliegie\n6. la scodella – le scodelle\n7. la pioggia – le piogge\n8. il giornalista – i giornalisti\n9. l'automobile – le automobili\n10. il lampadario – i lampadari\n11. la principessa – le principesse\n12. il rubinetto – i rubinetti\n13. lo zaino – gli zaini\n14. il semaforo – i semafori\n15. la goccia – le gocce\n16. il guadagno – i guadagni\n17. la lavatrice – le lavatrici\n18. il giornale – i giornali\n19. la freccia – le frecce\n20. il dizionario – i dizionari\n21. la pallina – le palline\n22. il frigorifero – i frigoriferi\n23. la ringhiera – le ringhiere\n24. la scarpa – le scarpe",
+     "answerBody": "1. l'omicida – **gli omicidi**\n2. l'uomo – **gli uomini**\n3. la borsetta – **le borsette**\n4. il pino – **i pini**\n5. la ciliegia – **le ciliegie**\n6. la scodella – **le scodelle**\n7. la pioggia – **le piogge**\n8. il giornalista – **i giornalisti**\n9. l'automobile – **le automobili**\n10. il lampadario – **i lampadari**\n11. la principessa – **le principesse**\n12. il rubinetto – **i rubinetti**\n13. lo zaino – **gli zaini**\n14. il semaforo – **i semafori**\n15. la goccia – **le gocce**\n16. il guadagno – **i guadagni**\n17. la lavatrice – **le lavatrici**\n18. il giornale – **i giornali**\n19. la freccia – **le frecce**\n20. il dizionario – **i dizionari**\n21. la pallina – **le palline**\n22. il frigorifero – **i frigoriferi**\n23. la ringhiera – **le ringhiere**\n24. la scarpa – **le scarpe**",
      "matching": null,
      "passage": null,
      "categorization": null,
@@ -8208,7 +8208,7 @@ window.QUIZ_DATA = {
      "num": "02",
      "instruction": "Volgi al plurale i nomi singolari e al singolare i nomi plurali.",
      "body": "1. il medico ___\n2. l'infermiera ___\n3. ___ i dottori\n4. l'infermiere ___\n5. la medicina ___\n6. la farmacia ___\n7. il farmacista ___\n8. ___ i farmaci\n9. l'iniezione ___\n10. lo sciroppo ___\n11. ___ le pastiglie\n12. la radiografia ___\n13. l'analisi ___\n14. la goccia ___\n15. l'ambulatorio ___\n16. ___ gli ospedali\n17. il pediatra ___\n18. ___ i cardiologi",
-     "answerBody": "1. il medico – i medici\n2. l'infermiera – le infermiere\n3. il dottore – i dottori\n4. l'infermiere – gli infermieri\n5. la medicina – le medicine\n6. la farmacia – le farmacie\n7. il farmacista – i farmacisti\n8. il farmaco – i farmaci\n9. l'iniezione – le iniezioni\n10. lo sciroppo – gli sciroppi\n11. la pastiglia – le pastiglie\n12. la radiografia – le radiografie\n13. l'analisi – le analisi\n14. la goccia – le gocce\n15. l'ambulatorio – gli ambulatori\n16. l'ospedale – gli ospedali\n17. il pediatra – i pediatri\n18. il cardiologo – i cardiologi",
+     "answerBody": "1. il medico – **i medici**\n2. l'infermiera – **le infermiere**\n3. **il dottore** – i dottori\n4. l'infermiere – **gli infermieri**\n5. la medicina – **le medicine**\n6. la farmacia – **le farmacie**\n7. il farmacista – **i farmacisti**\n8. **il farmaco** – i farmaci\n9. l'iniezione – **le iniezioni**\n10. lo sciroppo – **gli sciroppi**\n11. **la pastiglia** – le pastiglie\n12. la radiografia – **le radiografie**\n13. l'analisi – **le analisi**\n14. la goccia – **le gocce**\n15. l'ambulatorio – **gli ambulatori**\n16. **l'ospedale** – gli ospedali\n17. il pediatra – **i pediatri**\n18. **il cardiologo** – i cardiologi",
      "matching": null,
      "passage": null,
      "categorization": null,
@@ -8260,7 +8260,7 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "i dottori"
+          "il dottore"
          ]
         },
         {
@@ -8269,7 +8269,7 @@ window.QUIZ_DATA = {
         }
        ],
        "answers": [
-        "i dottori"
+        "il dottore"
        ]
       },
       {
@@ -8354,7 +8354,7 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "i farmaci"
+          "il farmaco"
          ]
         },
         {
@@ -8363,7 +8363,7 @@ window.QUIZ_DATA = {
         }
        ],
        "answers": [
-        "i farmaci"
+        "il farmaco"
        ]
       },
       {
@@ -8412,7 +8412,7 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "le pastiglie"
+          "la pastiglia"
          ]
         },
         {
@@ -8421,7 +8421,7 @@ window.QUIZ_DATA = {
         }
        ],
        "answers": [
-        "le pastiglie"
+        "la pastiglia"
        ]
       },
       {
@@ -8506,7 +8506,7 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "gli ospedali"
+          "l'ospedale"
          ]
         },
         {
@@ -8515,7 +8515,7 @@ window.QUIZ_DATA = {
         }
        ],
        "answers": [
-        "gli ospedali"
+        "l'ospedale"
        ]
       },
       {
@@ -8546,7 +8546,7 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "i cardiologi"
+          "il cardiologo"
          ]
         },
         {
@@ -8555,7 +8555,7 @@ window.QUIZ_DATA = {
         }
        ],
        "answers": [
-        "i cardiologi"
+        "il cardiologo"
        ]
       }
      ]
@@ -15073,12 +15073,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "**Te la presenterò stasera.**"
+          "Vuoi conoscere Paola? Presenterò **Paola a te** stasera."
          ]
         }
        ],
        "answers": [
-        "**Te la presenterò stasera.**"
+        "Vuoi conoscere Paola? Presenterò **Paola a te** stasera."
        ]
       },
       {
@@ -15096,12 +15096,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "**Posso farglielo vedere?**"
+          "Ho finito il problema. Posso far vedere **il problema alla professoressa**?"
          ]
         }
        ],
        "answers": [
-        "**Posso farglielo vedere?**"
+        "Ho finito il problema. Posso far vedere **il problema alla professoressa**?"
        ]
       },
       {
@@ -17005,12 +17005,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Che cosa vuoi?"
+          "Dimmi che cosa vuoi."
          ]
         }
        ],
        "answers": [
-        "Che cosa vuoi?"
+        "Dimmi che cosa vuoi."
        ]
       },
       {
@@ -17028,12 +17028,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Che cosa stai facendo?"
+          "Non riesco a capire che cosa stai facendo."
          ]
         }
        ],
        "answers": [
-        "Che cosa stai facendo?"
+        "Non riesco a capire che cosa stai facendo."
        ]
       },
       {
@@ -17051,12 +17051,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Quanto costano questi pantaloni?"
+          "Vorrei sapere quanto costano questi pantaloni."
          ]
         }
        ],
        "answers": [
-        "Quanto costano questi pantaloni?"
+        "Vorrei sapere quanto costano questi pantaloni."
        ]
       },
       {
@@ -17074,12 +17074,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Che ore sono?"
+          "Dimmi che ore sono."
          ]
         }
        ],
        "answers": [
-        "Che ore sono?"
+        "Dimmi che ore sono."
        ]
       },
       {
@@ -17097,12 +17097,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "A chi stavi telefonando?"
+          "Ti ho chiesto a chi stavi telefonando."
          ]
         }
        ],
        "answers": [
-        "A chi stavi telefonando?"
+        "Ti ho chiesto a chi stavi telefonando."
        ]
       },
       {
@@ -17120,12 +17120,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Quanti amici ha Beppe?"
+          "Chissà quanti amici ha Beppe."
          ]
         }
        ],
        "answers": [
-        "Quanti amici ha Beppe?"
+        "Chissà quanti amici ha Beppe."
        ]
       },
       {
@@ -17143,12 +17143,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "A che ora arrivi?"
+          "Fammi sapere a che ora arrivi."
          ]
         }
        ],
        "answers": [
-        "A che ora arrivi?"
+        "Fammi sapere a che ora arrivi."
        ]
       },
       {
@@ -17166,12 +17166,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Quante uova devo mettere nella crema?"
+          "Non so quante uova devo mettere nella crema."
          ]
         }
        ],
        "answers": [
-        "Quante uova devo mettere nella crema?"
+        "Non so quante uova devo mettere nella crema."
        ]
       }
      ]
@@ -17196,12 +17196,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Piove e fa freddo."
+          "Che tempo fa a Milano?"
          ]
         }
        ],
        "answers": [
-        "Piove e fa freddo."
+        "Che tempo fa a Milano?"
        ]
       },
       {
@@ -17223,12 +17223,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Spaghetti al pomodoro."
+          "Che cosa prendi?"
          ]
         }
        ],
        "answers": [
-        "Spaghetti al pomodoro."
+        "Che cosa prendi?"
        ]
       },
       {
@@ -17250,12 +17250,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Due euro al chilo."
+          "Quanto costano le arance?"
          ]
         }
        ],
        "answers": [
-        "Due euro al chilo."
+        "Quanto costano le arance?"
        ]
       },
       {
@@ -17277,12 +17277,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Credo che verrà alle nove."
+          "Quando verrà Mario?"
          ]
         }
        ],
        "answers": [
-        "Credo che verrà alle nove."
+        "Quando verrà Mario?"
        ]
       },
       {
@@ -17304,12 +17304,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Mi piacerebbe fare la parrucchiera."
+          "Che lavoro vorresti fare?"
          ]
         }
        ],
        "answers": [
-        "Mi piacerebbe fare la parrucchiera."
+        "Che lavoro vorresti fare?"
        ]
       },
       {
@@ -17331,12 +17331,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Quella rosa a righe blu."
+          "Quale camicia preferisci?"
          ]
         }
        ],
        "answers": [
-        "Quella rosa a righe blu."
+        "Quale camicia preferisci?"
        ]
       },
       {
@@ -17358,12 +17358,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Le otto meno venti."
+          "Che ore sono?"
          ]
         }
        ],
        "answers": [
-        "Le otto meno venti."
+        "Che ore sono?"
        ]
       },
       {
@@ -17405,7 +17405,7 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "1000"
+          "mille"
          ]
         },
         {
@@ -17414,7 +17414,7 @@ window.QUIZ_DATA = {
         }
        ],
        "answers": [
-        "1000"
+        "mille"
        ]
       },
       {
@@ -17565,7 +17565,7 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "ventidue"
+          "a. 22"
          ]
         },
         {
@@ -17574,7 +17574,7 @@ window.QUIZ_DATA = {
         }
        ],
        "answers": [
-        "ventidue"
+        "a. 22"
        ]
       },
       {
@@ -18110,7 +18110,7 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "giocare"
+          "giocate"
          ]
         },
         {
@@ -18119,7 +18119,7 @@ window.QUIZ_DATA = {
         }
        ],
        "answers": [
-        "giocare"
+        "giocate"
        ]
       },
       {
@@ -18591,12 +18591,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "La mamma è uscita di casa al mattino presto."
+          "La mamma esce di casa al mattino presto."
          ]
         }
        ],
        "answers": [
-        "La mamma è uscita di casa al mattino presto."
+        "La mamma esce di casa al mattino presto."
        ]
       },
       {
@@ -18614,12 +18614,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Mi ha accompagnato a scuola."
+          "Accompagna me a scuola."
          ]
         }
        ],
        "answers": [
-        "Mi ha accompagnato a scuola."
+        "Accompagna me a scuola."
        ]
       },
       {
@@ -18637,12 +18637,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Ha portato Angela alla scuola materna."
+          "Porta Angela alla scuola materna."
          ]
         }
        ],
        "answers": [
-        "Ha portato Angela alla scuola materna."
+        "Porta Angela alla scuola materna."
        ]
       },
       {
@@ -18660,12 +18660,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "È andata a fare (la spesa al mercato)."
+          "Va a fare la spesa al mercato."
          ]
         }
        ],
        "answers": [
-        "È andata a fare (la spesa al mercato)."
+        "Va a fare la spesa al mercato."
        ]
       },
       {
@@ -18683,12 +18683,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "È tornata a casa."
+          "Torna a casa verso le dieci."
          ]
         }
        ],
        "answers": [
-        "È tornata a casa."
+        "Torna a casa verso le dieci."
        ]
       },
       {
@@ -18706,12 +18706,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Ha fatto le pulizie, ha lavato e ha stirato."
+          "Fa le pulizie, lava e stira."
          ]
         }
        ],
        "answers": [
-        "Ha fatto le pulizie, ha lavato e ha stirato."
+        "Fa le pulizie, lava e stira."
        ]
       },
       {
@@ -18729,12 +18729,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Ha preparato il pranzo."
+          "Prepara il pranzo."
          ]
         }
        ],
        "answers": [
-        "Ha preparato il pranzo."
+        "Prepara il pranzo."
        ]
       }
      ]
@@ -19514,12 +19514,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "visse"
+          "Il re Vittorio Emanuele II è vissuto a Torino e a Roma."
          ]
         }
        ],
        "answers": [
-        "visse"
+        "Il re Vittorio Emanuele II è vissuto a Torino e a Roma."
        ]
       },
       {
@@ -19537,12 +19537,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "scrisse"
+          "Dante ha scritto la Divina Commedia."
          ]
         }
        ],
        "answers": [
-        "scrisse"
+        "Dante ha scritto la Divina Commedia."
        ]
       },
       {
@@ -19560,12 +19560,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "morì"
+          "Il giorno di Ferragosto di vent'anni fa è morta mia zia."
          ]
         }
        ],
        "answers": [
-        "morì"
+        "Il giorno di Ferragosto di vent'anni fa è morta mia zia."
        ]
       },
       {
@@ -19583,12 +19583,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "nacque"
+          "Napoleone è nato nel secolo diciottesimo."
          ]
         }
        ],
        "answers": [
-        "nacque"
+        "Napoleone è nato nel secolo diciottesimo."
        ]
       },
       {
@@ -19606,12 +19606,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "venne"
+          "La signora Cheng è venuta ad abitare in Italia quasi trent'anni fa."
          ]
         }
        ],
        "answers": [
-        "venne"
+        "La signora Cheng è venuta ad abitare in Italia quasi trent'anni fa."
        ]
       }
      ]
@@ -21586,12 +21586,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "**Pagando** …"
+          "**Dato che pago** con la carta di credito, tengo pochi soldi nel portafoglio."
          ]
         }
        ],
        "answers": [
-        "**Pagando** …"
+        "**Dato che pago** con la carta di credito, tengo pochi soldi nel portafoglio."
        ]
       },
       {
@@ -21613,12 +21613,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "**Scendendo** …"
+          "**Mentre scendeva** le scale, Paola è scivolata e si è fatta male."
          ]
         }
        ],
        "answers": [
-        "**Scendendo** …"
+        "**Mentre scendeva** le scale, Paola è scivolata e si è fatta male."
        ]
       },
       {
@@ -21640,12 +21640,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "**attraversando** …"
+          "La poveretta è stata investita dalla macchina, **mentre attraversava** la strada sulle strisce pedonali."
          ]
         }
        ],
        "answers": [
-        "**attraversando** …"
+        "La poveretta è stata investita dalla macchina, **mentre attraversava** la strada sulle strisce pedonali."
        ]
       },
       {
@@ -21667,12 +21667,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "**Pensando** …"
+          "**Mentre pensava** a lei, Peter era felice."
          ]
         }
        ],
        "answers": [
-        "**Pensando** …"
+        "**Mentre pensava** a lei, Peter era felice."
        ]
       },
       {
@@ -21694,12 +21694,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "**Lavandomi** …"
+          "**Quando mi lavo** i capelli, mi accorgo che ne perdo molti."
          ]
         }
        ],
        "answers": [
-        "**Lavandomi** …"
+        "**Quando mi lavo** i capelli, mi accorgo che ne perdo molti."
        ]
       }
      ]

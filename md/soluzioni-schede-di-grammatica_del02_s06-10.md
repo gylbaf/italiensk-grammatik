@@ -52,50 +52,50 @@
 ## Scheda 7 – Il numero del nome
 
 ### 01 • Volgi al plurale i seguenti nomi singolari.
-1. l'omicida – gli omicidi
-2. l'uomo – gli uomini
-3. la borsetta – le borsette
-4. il pino – i pini
-5. la ciliegia – le ciliegie
-6. la scodella – le scodelle
-7. la pioggia – le piogge
-8. il giornalista – i giornalisti
-9. l'automobile – le automobili
-10. il lampadario – i lampadari
-11. la principessa – le principesse
-12. il rubinetto – i rubinetti
-13. lo zaino – gli zaini
-14. il semaforo – i semafori
-15. la goccia – le gocce
-16. il guadagno – i guadagni
-17. la lavatrice – le lavatrici
-18. il giornale – i giornali
-19. la freccia – le frecce
-20. il dizionario – i dizionari
-21. la pallina – le palline
-22. il frigorifero – i frigoriferi
-23. la ringhiera – le ringhiere
-24. la scarpa – le scarpe
+1. l'omicida – **gli omicidi**
+2. l'uomo – **gli uomini**
+3. la borsetta – **le borsette**
+4. il pino – **i pini**
+5. la ciliegia – **le ciliegie**
+6. la scodella – **le scodelle**
+7. la pioggia – **le piogge**
+8. il giornalista – **i giornalisti**
+9. l'automobile – **le automobili**
+10. il lampadario – **i lampadari**
+11. la principessa – **le principesse**
+12. il rubinetto – **i rubinetti**
+13. lo zaino – **gli zaini**
+14. il semaforo – **i semafori**
+15. la goccia – **le gocce**
+16. il guadagno – **i guadagni**
+17. la lavatrice – **le lavatrici**
+18. il giornale – **i giornali**
+19. la freccia – **le frecce**
+20. il dizionario – **i dizionari**
+21. la pallina – **le palline**
+22. il frigorifero – **i frigoriferi**
+23. la ringhiera – **le ringhiere**
+24. la scarpa – **le scarpe**
 
 ### 02 • Volgi al plurale i nomi singolari e al singolare i nomi plurali.
-1. il medico – i medici
-2. l'infermiera – le infermiere
-3. il dottore – i dottori
-4. l'infermiere – gli infermieri
-5. la medicina – le medicine
-6. la farmacia – le farmacie
-7. il farmacista – i farmacisti
-8. il farmaco – i farmaci
-9. l'iniezione – le iniezioni
-10. lo sciroppo – gli sciroppi
-11. la pastiglia – le pastiglie
-12. la radiografia – le radiografie
-13. l'analisi – le analisi
-14. la goccia – le gocce
-15. l'ambulatorio – gli ambulatori
-16. l'ospedale – gli ospedali
-17. il pediatra – i pediatri
-18. il cardiologo – i cardiologi
+1. il medico – **i medici**
+2. l'infermiera – **le infermiere**
+3. **il dottore** – i dottori
+4. l'infermiere – **gli infermieri**
+5. la medicina – **le medicine**
+6. la farmacia – **le farmacie**
+7. il farmacista – **i farmacisti**
+8. **il farmaco** – i farmaci
+9. l'iniezione – **le iniezioni**
+10. lo sciroppo – **gli sciroppi**
+11. **la pastiglia** – le pastiglie
+12. la radiografia – **le radiografie**
+13. l'analisi – **le analisi**
+14. la goccia – **le gocce**
+15. l'ambulatorio – **gli ambulatori**
+16. **l'ospedale** – gli ospedali
+17. il pediatra – **i pediatri**
+18. **il cardiologo** – i cardiologi
 
 ### 03 • Indica (✓) il plurale corretto.
 1. doccia → **docce** / doccie
