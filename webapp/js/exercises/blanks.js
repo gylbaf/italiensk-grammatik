@@ -151,7 +151,8 @@ QuizApp.exercises = QuizApp.exercises || {};
         return;
       }
       const isPromptLine = isGroupedPrompts && !isHelp && !hasOneBlank && line.segments.length === 1 && line.segments[0].t === "text" && /^\s*\d+\./.test(line.segments[0].v) && line.segments[0].v.includes("?") && line.answers.length === 0;
-      const isLargeLine = hasOneBlank && (hasParenHint || (line.answers && line.answers[0] && line.answers[0].length > 35) || line.segments.some(s=>s.t==='blank' && s.answers && s.answers[0] && s.answers[0].length > 35));
+      const hasLongParenAnswer = hasParenHint && line.segments.some(s => s.t === "blank" && s.answers && s.answers[0] && (s.answers[0].includes(" ") || s.answers[0].length > 15));
+      const isLargeLine = hasOneBlank && (hasLongParenAnswer || (line.answers && line.answers[0] && line.answers[0].length > 35) || line.segments.some(s=>s.t==='blank' && s.answers && s.answers[0] && s.answers[0].length > 35));
       html += '<div class="fill-line' + (isHelp ? ' fill-line--help' : '') + (isPromptLine ? ' fill-line--prompt' : '') + (isLargeLine ? ' fill-line--large' : '') + '">';
       line.segments.forEach((seg) => {
         if (seg.t === "text") {
