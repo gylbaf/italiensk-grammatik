@@ -58,9 +58,14 @@ QuizApp.exercises = QuizApp.exercises || {};
         return l.segments.some(s=>s.t==='blank');
       }
     });
-    const extraClass = isYAlign ? ' fill-lines--y-align' : isTable4 ? ' fill-lines--table-4' : isTwoCols ? ' fill-lines--two-cols' : isGroupedPrompts ? ' fill-lines--grouped' : '';
+    const isMdTable = !isYAlign && !isTable4 && !isTwoCols && !isGroupedPrompts && blanksLines.length >= 6 && blanksLines[0].segments[0] && blanksLines[0].segments[0].v.includes("Aggettivo") && blanksLines[0].segments[0].v.includes("|") && blanksLines.some(l=>l.segments.some(s=>s.t==='blank'));
+    const extraClass = isYAlign ? ' fill-lines--y-align' : isTable4 ? ' fill-lines--table-4' : isTwoCols ? ' fill-lines--two-cols' : isGroupedPrompts ? ' fill-lines--grouped' : isMdTable ? ' fill-lines--md-table' : '';
     if (extraClass.includes('table-4')) {
       html += '<div class="fill-lines' + extraClass + '"><table class="table-4"><thead><tr><th>maschile singolare</th><th>femminile singolare</th><th>maschile plurale</th><th>femminile plurale</th></tr></thead><tbody>';
+    } else if (extraClass.includes('md-table')) {
+      const rawHeader = (blanksLines[0].segments[0] && blanksLines[0].segments[0].v) || "";
+      const headerCells = rawHeader.split("|").map(c=>c.trim()).filter(c=>c);
+      html += '<div class="fill-lines' + extraClass + '"><table class="md-table"><thead><tr>' + headerCells.map(h=>`<th>${escapeHtml(h)}</th>`).join('') + '</tr></thead><tbody>';
     } else {
       html += '<div class="fill-lines' + extraClass + '">';
     }
@@ -108,6 +113,32 @@ QuizApp.exercises = QuizApp.exercises || {};
               html += `<input type="text" class="blank-input blank-input--small" autocomplete="off" autocapitalize="off" spellcheck="false" data-line="${li}" data-blank="${seg.i}" size="${inputSize}">`;
             }
           });
+          html += '</td>';
+        });
+        html += '</tr>';
+        return;
+      }
+      // Markdown table (scheda36 01): header + separator + data rows with | and blanks
+      if (extraClass.includes('md-table') && !isHelp) {
+        if (li < 2) return; // skip header and separator
+        const rawLine = line.segments.map(s=> s.t==='blank' ? '___' : s.v).join('');
+        const cellsRaw = rawLine.split("|").slice(1,-1).map(c=>c.trim());
+        if (cellsRaw.length === 0) return;
+        const blanksInLine = line.segments.filter(s=>s.t==='blank');
+        let blankIdx = 0;
+        html += '<tr>';
+        cellsRaw.forEach(cellRaw => {
+          html += '<td>';
+          if (cellRaw === "___" || cellRaw.includes("___")) {
+            const segBlank = blanksInLine[blankIdx];
+            const ans = segBlank ? (segBlank.answers ? segBlank.answers[0] : (line.answers[blankIdx] || "")) : "";
+            const size = Math.max(8, Math.min(18, (ans ? ans.length : 8)+2));
+            const bIdx = segBlank ? segBlank.i : blankIdx;
+            html += `<input type="text" class="blank-input blank-input--small" autocomplete="off" autocapitalize="off" spellcheck="false" data-line="${li}" data-blank="${bIdx}" size="${size}">`;
+            blankIdx++;
+          } else if (cellRaw) {
+            html += `<span>${escapeHtml(cellRaw)}</span>`;
+          }
           html += '</td>';
         });
         html += '</tr>';
@@ -184,7 +215,7 @@ QuizApp.exercises = QuizApp.exercises || {};
       });
       html += "</div>";
     });
-    if (extraClass.includes('table-4')) {
+    if (extraClass.includes('table-4') || extraClass.includes('md-table')) {
       html += "</tbody></table></div>";
     } else {
       html += "</div>";

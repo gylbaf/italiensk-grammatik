@@ -161,6 +161,47 @@
   .fill-lines--table-4 .table-4 th, .fill-lines--table-4 .table-4 td { padding: .35rem .45rem; }
 }
 
+/* Scheda 36 01: Aggettivo → Avverbio tabell, snygg */
+.fill-lines--md-table { gap: 0; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.fill-lines--md-table .md-table {
+  width: 100%;
+  min-width: 560px;
+  border-collapse: collapse;
+  font-size: .96rem;
+  table-layout: fixed;
+}
+.fill-lines--md-table .md-table th,
+.fill-lines--md-table .md-table td {
+  border: 1px solid var(--border);
+  padding: .45rem .6rem;
+  text-align: left;
+  vertical-align: middle;
+}
+.fill-lines--md-table .md-table th {
+  background: #f4ede4;
+  font-size: .78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: var(--muted);
+  text-align: center;
+}
+.fill-lines--md-table .md-table td {
+  background: #fffdf9;
+  white-space: nowrap;
+}
+.fill-lines--md-table .blank-input--small {
+  min-width: 6em;
+  max-width: 11em;
+  text-align: left;
+  font-size: .92rem;
+  padding: .18rem .4rem;
+}
+@media (max-width: 640px) {
+  .fill-lines--md-table .md-table { font-size: .9rem; min-width: 480px; }
+  .fill-lines--md-table .md-table th, .fill-lines--md-table .md-table td { padding: .35rem .45rem; }
+}
+
 /* Scheda 11 01: två spalter med mellanrum */
 .fill-lines--two-cols { gap: .5rem; }
 .fill-lines--two-cols .fill-line--two-cols-row {
