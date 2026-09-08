@@ -17854,31 +17854,6 @@ window.QUIZ_DATA = {
          "id": "1",
          "text": "1. decidere in quattro e quattr'otto",
          "ans": "b"
-        },
-        {
-         "id": "2",
-         "text": "2. mangiare due spaghetti",
-         "ans": "c"
-        },
-        {
-         "id": "3",
-         "text": "3. fare quattro passi",
-         "ans": "c"
-        },
-        {
-         "id": "4",
-         "text": "4. essere al settimo cielo",
-         "ans": "a"
-        },
-        {
-         "id": "5",
-         "text": "5. parlare a quattr'occhi",
-         "ans": "b"
-        },
-        {
-         "id": "6",
-         "text": "6. mangiare un boccone",
-         "ans": "a"
         }
        ],
        "right": [
@@ -17893,7 +17868,19 @@ window.QUIZ_DATA = {
         {
          "id": "c",
          "text": "c. decidere con precisione."
-        },
+        }
+       ]
+      },
+      {
+       "groupTitle": null,
+       "left": [
+        {
+         "id": "2",
+         "text": "2. mangiare due spaghetti",
+         "ans": "c"
+        }
+       ],
+       "right": [
         {
          "id": "a",
          "text": "a. digiunare;"
@@ -17905,7 +17892,19 @@ window.QUIZ_DATA = {
         {
          "id": "c",
          "text": "c. mangiare un po' di pasta."
-        },
+        }
+       ]
+      },
+      {
+       "groupTitle": null,
+       "left": [
+        {
+         "id": "3",
+         "text": "3. fare quattro passi",
+         "ans": "c"
+        }
+       ],
+       "right": [
         {
          "id": "a",
          "text": "a. camminare adagio;"
@@ -17917,7 +17916,19 @@ window.QUIZ_DATA = {
         {
          "id": "c",
          "text": "c. fare una breve passeggiata."
-        },
+        }
+       ]
+      },
+      {
+       "groupTitle": null,
+       "left": [
+        {
+         "id": "4",
+         "text": "4. essere al settimo cielo",
+         "ans": "a"
+        }
+       ],
+       "right": [
         {
          "id": "a",
          "text": "a. essere felici;"
@@ -17929,7 +17940,19 @@ window.QUIZ_DATA = {
         {
          "id": "c",
          "text": "c. guardare le nuvole."
-        },
+        }
+       ]
+      },
+      {
+       "groupTitle": null,
+       "left": [
+        {
+         "id": "5",
+         "text": "5. parlare a quattr'occhi",
+         "ans": "b"
+        }
+       ],
+       "right": [
         {
          "id": "a",
          "text": "a. mettersi gli occhiali;"
@@ -17941,7 +17964,19 @@ window.QUIZ_DATA = {
         {
          "id": "c",
          "text": "c. parlare in quattro tra amici."
-        },
+        }
+       ]
+      },
+      {
+       "groupTitle": null,
+       "left": [
+        {
+         "id": "6",
+         "text": "6. mangiare un boccone",
+         "ans": "a"
+        }
+       ],
+       "right": [
         {
          "id": "a",
          "text": "a. mangiare poco e in fretta;"

@@ -79,18 +79,49 @@ def build_matching(body: str, answer_body: str):
     elif len(ans_groups) == 1:
         ans_map = {p["num"]: p["letter"] for p in ans_groups[0]}
         b_lines = [l.strip() for l in body.split("\n") if l.strip()]
-        left = []
-        right = []
-        for l in b_lines:
-            m_l = re.match(r"^(\d+)[\.\)]\s*(.*)$", l)
-            m_r = re.match(r"^([a-z])[\.\)]\s*(.*)$", l, re.I)
+        # Per-question a/b/c (scheda21 04): varje numrerad fråga följs av sina egna a/b/c-alternativ
+        per_q = []
+        i = 0
+        while i < len(b_lines):
+            m_l = re.match(r"^(\d+)[\.\)]\s*(.*)$", b_lines[i])
             if m_l:
-                n = m_l.group(1)
-                left.append({"id": n, "text": l, "ans": ans_map.get(n, "")})
-            elif m_r:
-                let = m_r.group(1).lower()
-                right.append({"id": let, "text": l})
-        if left and right:
-            matching_result.append({"groupTitle": None, "left": left, "right": right})
+                num = m_l.group(1)
+                left_text = b_lines[i]
+                right = []
+                j = i + 1
+                while j < len(b_lines):
+                    m_r = re.match(r"^([a-c])[\.\)]\s*(.*)$", b_lines[j], re.I)
+                    if m_r:
+                        right.append({"id": m_r.group(1).lower(), "text": b_lines[j]})
+                        j += 1
+                    else:
+                        break
+                if right:
+                    per_q.append({"num": num, "left_text": left_text, "right": right})
+                    i = j
+                    continue
+            i += 1
+        if per_q and len(per_q) == len(ans_map) and all(len(g["right"]) >= 2 for g in per_q):
+            for g in per_q:
+                ans_letter = ans_map.get(g["num"], "")
+                matching_result.append({
+                    "groupTitle": None,
+                    "left": [{"id": g["num"], "text": g["left_text"], "ans": ans_letter}],
+                    "right": g["right"]
+                })
+        else:
+            left = []
+            right = []
+            for l in b_lines:
+                m_l = re.match(r"^(\d+)[\.\)]\s*(.*)$", l)
+                m_r = re.match(r"^([a-z])[\.\)]\s*(.*)$", l, re.I)
+                if m_l:
+                    n = m_l.group(1)
+                    left.append({"id": n, "text": l, "ans": ans_map.get(n, "")})
+                elif m_r:
+                    let = m_r.group(1).lower()
+                    right.append({"id": let, "text": l})
+            if left and right:
+                matching_result.append({"groupTitle": None, "left": left, "right": right})
 
     return matching_result if matching_result else None
