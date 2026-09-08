@@ -17388,8 +17388,8 @@ window.QUIZ_DATA = {
     {
      "num": "01",
      "instruction": "Trascrivi in cifre i seguenti numeri cardinali scritti in lettere.",
-     "body": "1. mille ___ 1000\n2. centocinquantadue ___\n3. ventinove ___\n4. diciottomila ___\n5. sessantuno ___\n6. quattromiladuecentoquarantasette ___\n7. trecentonovantacinque ___\n8. quattromilioni ___",
-     "answerBody": "1. mille → 1000\n2. centocinquantadue → 152\n3. ventinove → 29\n4. diciottomila → 18000\n5. sessantuno → 61\n6. quattromiladuecentoquarantasette → 4247\n7. trecentonovantacinque → 395\n8. quattromilioni → 4000000",
+     "body": "1. mille ___\n2. centocinquantadue ___\n3. ventinove ___\n4. diciottomila ___\n5. sessantuno ___\n6. quattromiladuecentoquarantasette ___\n7. trecentonovantacinque ___\n8. quattromilioni ___",
+     "answerBody": "1. mille → **1000**\n2. centocinquantadue → 152\n3. ventinove → 29\n4. diciottomila → 18000\n5. sessantuno → 61\n6. quattromiladuecentoquarantasette → 4247\n7. trecentonovantacinque → 395\n8. quattromilioni → 4000000",
      "matching": null,
      "passage": null,
      "categorization": null,
@@ -17405,16 +17405,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "mille"
+          "1000"
          ]
-        },
-        {
-         "t": "text",
-         "v": " 1000"
         }
        ],
        "answers": [
-        "mille"
+        "1000"
        ]
       },
       {
@@ -17548,8 +17544,8 @@ window.QUIZ_DATA = {
     {
      "num": "02",
      "instruction": "Trascrivi in lettere i seguenti numeri cardinali scritti in cifre.",
-     "body": "a. 22 ___ ventidue\nb. 1 045 ___\nc. 783 ___\nd. 1 890 000 ___\ne. 267 ___\nf. 1951 ___\ng. 2000 ___\nh. 88 600 ___",
-     "answerBody": "- a. 22 → ventidue\n- b. 1 045 → millequarantacinque\n- c. 783 → settecentottantatré\n- d. 1 890 000 → un milione e ottocentonovantamila\n- e. 267 → duecentosessantasette\n- f. 1951 → millenovecentocinquantuno\n- g. 2000 → duemila\n- h. 88 600 → ottantottomilaseicento",
+     "body": "a. 22 ___\nb. 1 045 ___\nc. 783 ___\nd. 1 890 000 ___\ne. 267 ___\nf. 1951 ___\ng. 2000 ___\nh. 88 600 ___",
+     "answerBody": "- a. 22 → **ventidue**\n- b. 1 045 → millequarantacinque\n- c. 783 → settecentottantatré\n- d. 1 890 000 → un milione e ottocentonovantamila\n- e. 267 → duecentosessantasette\n- f. 1951 → millenovecentocinquantuno\n- g. 2000 → duemila\n- h. 88 600 → ottantottomilaseicento",
      "matching": null,
      "passage": null,
      "categorization": null,
@@ -17565,16 +17561,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "a. 22"
+          "ventidue"
          ]
-        },
-        {
-         "t": "text",
-         "v": " ventidue"
         }
        ],
        "answers": [
-        "a. 22"
+        "ventidue"
        ]
       },
       {
@@ -18110,7 +18102,7 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "giocate"
+          "giocare"
          ]
         },
         {
@@ -18119,7 +18111,7 @@ window.QUIZ_DATA = {
         }
        ],
        "answers": [
-        "giocate"
+        "giocare"
        ]
       },
       {

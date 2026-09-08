@@ -37,22 +37,33 @@ def try_arrow_or_dash_line_answers(q_line: str, a_line: str, n_blanks: int):
             return [ans]
 
     if len(a_parts) == 2:
-        # Dash without bold – decide which side is the answer based on
-        # which side already appears in the question.
-        # e.g. q="___ i farmaci" / a="il farmaco – i farmaci" -> answer is left (singular)
-        #      q="il medico ___" / a="il medico – i medici"    -> answer is right (plural)
+        # Dash without bold – decide which side is the answer.
+        # Primary rule: blank at start (after list marker) → left side is answer,
+        # otherwise right side is answer.
+        # Handles "___ i farmaci" → il farmaco and "mille ___ 1000" → 1000.
         a_left = re.sub(r'^\d+[\.\)]\s*', '', a_parts[0].strip())
         a_right = a_parts[1].strip()
+        # Check if question starts with blank (after optional list prefix)
+        q_no_prefix = re.sub(r'^\s*(?:\d+[\.\)]|[a-zA-Z][\.\)])\s*', '', q_line.strip())
+        if q_no_prefix.startswith("___"):
+            return [a_left]
+        if re.search(r'^\s*(?:\d+[\.\)]|[a-zA-Z][\.\)])?\s*___', q_line):
+            # Fallback generic check for "8. ___ ..." etc.
+            q_after_num = re.sub(r'^\s*\d+[\.\)]\s*', '', q_line.strip())
+            if q_after_num.startswith("___"):
+                return [a_left]
+        # Also handle case where right side is clearly before blank (rare) via content check
         q_norm = _norm_ws(q_line).lower()
         left_norm = _norm_ws(a_left).lower()
         right_norm = _norm_ws(a_right).lower()
-        if right_norm and right_norm in q_norm:
+        # Only use content check when exactly one side is present in question
+        left_in_q = bool(left_norm) and left_norm in q_norm
+        right_in_q = bool(right_norm) and right_norm in q_norm
+        if right_in_q and not left_in_q:
             return [a_left]
-        if left_norm and left_norm in q_norm:
+        if left_in_q and not right_in_q:
             return [a_right]
-        # Fallback: position of blank
-        if re.search(r'^\s*(\d+[\.\)]\s*)?___', q_line):
-            return [a_left]
+        # Default: blank not at start → right side
         return [a_right]
 
     return None

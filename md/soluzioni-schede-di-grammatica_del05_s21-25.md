@@ -47,7 +47,7 @@
 ## Scheda 21 – I numerali
 
 ### 01 • Trascrivi in cifre i seguenti numeri cardinali scritti in lettere.
-1. mille → 1000
+1. mille → **1000**
 2. centocinquantadue → 152
 3. ventinove → 29
 4. diciottomila → 18000
@@ -57,7 +57,7 @@
 8. quattromilioni → 4000000
 
 ### 02 • Trascrivi in lettere i seguenti numeri cardinali scritti in cifre.
-- a. 22 → ventidue
+- a. 22 → **ventidue**
 - b. 1 045 → millequarantacinque
 - c. 783 → settecentottantatré
 - d. 1 890 000 → un milione e ottocentonovantamila

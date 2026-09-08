@@ -69,7 +69,7 @@ Grammatica 21
 
 ### 01 • Trascrivi in cifre i seguenti numeri cardinali scritti in lettere.
 
-1. mille ___ 1000
+1. mille ___
 2. centocinquantadue ___
 3. ventinove ___
 4. diciottomila ___
@@ -80,7 +80,7 @@ Grammatica 21
 
 ### 02 • Trascrivi in lettere i seguenti numeri cardinali scritti in cifre.
 
-a. 22 ___ ventidue
+a. 22 ___
 b. 1 045 ___
 c. 783 ___
 d. 1 890 000 ___
