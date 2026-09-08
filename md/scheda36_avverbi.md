@@ -94,11 +94,13 @@ appena • domani • tardi • mai • poi • ora • subito • oggi • pres
 9. Non so spiegarmi il motivo, ma ___ sono veramente stanco.
 10. ___ studio, ___ telefono a Marta.
 
-### 04 • In ogni gruppo cancella l'avverbio o l'espressione avverbiale che non c'entra.
+### 04 • Trascina ogni avverbio alla categoria corretta.
 
-1. Avverbi di modo: malissimo, di più, gentilmente, benino, educatamente, fortemente.
-2. Avverbi di tempo: ora, adesso, forse, stamattina, domani, tardi.
-3. Avverbi di luogo: di sopra, da tutte le parti, nelle vicinanze, più o meno, lontano, di fianco.
-4. Avverbi di quantità: abbastanza, moltissimo, un po', tanto, troppo, presto.
-5. Avverbi interrogativi: perché?, quanto?, quando?, come mai?, dove?, sotto.
-6. Avverbi di valutazione: molto, neanche, niente affatto, non, forse, sì.
+malissimo • di più • gentilmente • benino • educatamente • fortemente • ora • adesso • forse • stamattina • domani • tardi • di sopra • da tutte le parti • nelle vicinanze • più o meno • lontano • di fianco • abbastanza • moltissimo • un po' • tanto • troppo • presto • perché? • quanto? • quando? • come mai? • dove? • sotto • molto • neanche • niente affatto • non • sì
+
+- Avverbi di modo:
+- Avverbi di tempo:
+- Avverbi di luogo:
+- Avverbi di quantità:
+- Avverbi interrogativi:
+- Avverbi di valutazione:

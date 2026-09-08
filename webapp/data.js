@@ -23030,36 +23030,36 @@ window.QUIZ_DATA = {
     },
     {
      "num": "04",
-     "instruction": "In ogni gruppo cancella l'avverbio o l'espressione avverbiale che non c'entra.",
-     "body": "1. Avverbi di modo: malissimo, di più, gentilmente, benino, educatamente, fortemente.\n2. Avverbi di tempo: ora, adesso, forse, stamattina, domani, tardi.\n3. Avverbi di luogo: di sopra, da tutte le parti, nelle vicinanze, più o meno, lontano, di fianco.\n4. Avverbi di quantità: abbastanza, moltissimo, un po', tanto, troppo, presto.\n5. Avverbi interrogativi: perché?, quanto?, quando?, come mai?, dove?, sotto.\n6. Avverbi di valutazione: molto, neanche, niente affatto, non, forse, sì.",
-     "answerBody": "- 1. Avverbi di modo: malissimo, **~~di più~~**, gentilmente, benino, educatamente, fortemente.\n- 2. Avverbi di tempo: ora, adesso, **~~forse~~**, stamattina, domani, tardi.\n- 3. Avverbi di luogo: di sopra, da tutte le parti, nelle vicinanze, **~~più o meno~~**, lontano, di fianco.\n- 4. Avverbi di quantità: abbastanza, moltissimo, un po', tanto, troppo, **~~presto~~**.\n- 5. Avverbi interrogativi: perché?, quanto?, quando?, come mai?, dove?, **~~sotto~~**.\n- 6. Avverbi di valutazione: **~~molto~~**, neanche, niente affatto, non, forse, sì.",
+     "instruction": "Trascina ogni avverbio alla categoria corretta.",
+     "body": "malissimo • di più • gentilmente • benino • educatamente • fortemente • ora • adesso • forse • stamattina • domani • tardi • di sopra • da tutte le parti • nelle vicinanze • più o meno • lontano • di fianco • abbastanza • moltissimo • un po' • tanto • troppo • presto • perché? • quanto? • quando? • come mai? • dove? • sotto • molto • neanche • niente affatto • non • sì\n\n- Avverbi di modo:\n- Avverbi di tempo:\n- Avverbi di luogo:\n- Avverbi di quantità:\n- Avverbi interrogativi:\n- Avverbi di valutazione:",
+     "answerBody": "- Avverbi di modo: malissimo, gentilmente, benino, educatamente, fortemente\n- Avverbi di tempo: ora, adesso, stamattina, domani, tardi, presto\n- Avverbi di luogo: di sopra, da tutte le parti, nelle vicinanze, lontano, di fianco, sotto\n- Avverbi di quantità: abbastanza, moltissimo, un po', tanto, troppo, di più, più o meno, molto\n- Avverbi interrogativi: perché?, quanto?, quando?, come mai?, dove?\n- Avverbi di valutazione: neanche, niente affatto, non, forse, sì",
      "matching": null,
      "passage": null,
      "categorization": {
       "categories": [
        {
         "id": "cat_0",
-        "title": "1. Avverbi di modo"
+        "title": "Avverbi di modo"
        },
        {
         "id": "cat_1",
-        "title": "2. Avverbi di tempo"
+        "title": "Avverbi di tempo"
        },
        {
         "id": "cat_2",
-        "title": "3. Avverbi di luogo"
+        "title": "Avverbi di luogo"
        },
        {
         "id": "cat_3",
-        "title": "4. Avverbi di quantità"
+        "title": "Avverbi di quantità"
        },
        {
         "id": "cat_4",
-        "title": "5. Avverbi interrogativi"
+        "title": "Avverbi interrogativi"
        },
        {
         "id": "cat_5",
-        "title": "6. Avverbi di valutazione"
+        "title": "Avverbi di valutazione"
        }
       ],
       "items": [
@@ -23071,9 +23071,9 @@ window.QUIZ_DATA = {
        },
        {
         "id": "w_1",
-        "text": "**~~di più~~**",
-        "facitText": "**~~di più~~**",
-        "targetCat": "cat_0"
+        "text": "di più",
+        "facitText": "di più",
+        "targetCat": "cat_3"
        },
        {
         "id": "w_2",
@@ -23095,8 +23095,8 @@ window.QUIZ_DATA = {
        },
        {
         "id": "w_5",
-        "text": "fortemente.",
-        "facitText": "fortemente.",
+        "text": "fortemente",
+        "facitText": "fortemente",
         "targetCat": "cat_0"
        },
        {
@@ -23113,9 +23113,9 @@ window.QUIZ_DATA = {
        },
        {
         "id": "w_8",
-        "text": "**~~forse~~**",
-        "facitText": "**~~forse~~**",
-        "targetCat": "cat_1"
+        "text": "forse",
+        "facitText": "forse",
+        "targetCat": "cat_5"
        },
        {
         "id": "w_9",
@@ -23131,8 +23131,8 @@ window.QUIZ_DATA = {
        },
        {
         "id": "w_11",
-        "text": "tardi.",
-        "facitText": "tardi.",
+        "text": "tardi",
+        "facitText": "tardi",
         "targetCat": "cat_1"
        },
        {
@@ -23155,9 +23155,9 @@ window.QUIZ_DATA = {
        },
        {
         "id": "w_15",
-        "text": "**~~più o meno~~**",
-        "facitText": "**~~più o meno~~**",
-        "targetCat": "cat_2"
+        "text": "più o meno",
+        "facitText": "più o meno",
+        "targetCat": "cat_3"
        },
        {
         "id": "w_16",
@@ -23167,8 +23167,8 @@ window.QUIZ_DATA = {
        },
        {
         "id": "w_17",
-        "text": "di fianco.",
-        "facitText": "di fianco.",
+        "text": "di fianco",
+        "facitText": "di fianco",
         "targetCat": "cat_2"
        },
        {
@@ -23203,9 +23203,9 @@ window.QUIZ_DATA = {
        },
        {
         "id": "w_23",
-        "text": "**~~presto~~**.",
-        "facitText": "**~~presto~~**.",
-        "targetCat": "cat_3"
+        "text": "presto",
+        "facitText": "presto",
+        "targetCat": "cat_1"
        },
        {
         "id": "w_24",
@@ -23239,15 +23239,15 @@ window.QUIZ_DATA = {
        },
        {
         "id": "w_29",
-        "text": "**~~sotto~~**.",
-        "facitText": "**~~sotto~~**.",
-        "targetCat": "cat_4"
+        "text": "sotto",
+        "facitText": "sotto",
+        "targetCat": "cat_2"
        },
        {
         "id": "w_30",
-        "text": "**~~molto~~**",
-        "facitText": "**~~molto~~**",
-        "targetCat": "cat_5"
+        "text": "molto",
+        "facitText": "molto",
+        "targetCat": "cat_3"
        },
        {
         "id": "w_31",
@@ -23269,19 +23269,49 @@ window.QUIZ_DATA = {
        },
        {
         "id": "w_34",
-        "text": "forse",
-        "facitText": "forse",
-        "targetCat": "cat_5"
-       },
-       {
-        "id": "w_35",
-        "text": "sì.",
-        "facitText": "sì.",
+        "text": "sì",
+        "facitText": "sì",
         "targetCat": "cat_5"
        }
       ]
      },
-     "wordBank": null,
+     "wordBank": [
+      "malissimo",
+      "di più",
+      "gentilmente",
+      "benino",
+      "educatamente",
+      "fortemente",
+      "ora",
+      "adesso",
+      "forse",
+      "stamattina",
+      "domani",
+      "tardi",
+      "di sopra",
+      "da tutte le parti",
+      "nelle vicinanze",
+      "più o meno",
+      "lontano",
+      "di fianco",
+      "abbastanza",
+      "moltissimo",
+      "un po'",
+      "tanto",
+      "troppo",
+      "presto",
+      "perché?",
+      "quanto?",
+      "quando?",
+      "come mai?",
+      "dove?",
+      "sotto",
+      "molto",
+      "neanche",
+      "niente affatto",
+      "non",
+      "sì"
+     ],
      "blanks": null
     }
    ]

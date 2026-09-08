@@ -84,14 +84,14 @@
 - 9. Non so spiegarmi il motivo, ma **oggi** sono veramente stanco.
 - 10. **Ora** studio, **poi** telefono a Marta.
 
-### 04 • In ogni gruppo cancella l'avverbio o l'espressione avverbiale che non c'entra (barrato = da cancellare)
+### 04 • Trascina ogni avverbio alla categoria corretta.
 
-- 1. Avverbi di modo: malissimo, **~~di più~~**, gentilmente, benino, educatamente, fortemente.
-- 2. Avverbi di tempo: ora, adesso, **~~forse~~**, stamattina, domani, tardi.
-- 3. Avverbi di luogo: di sopra, da tutte le parti, nelle vicinanze, **~~più o meno~~**, lontano, di fianco.
-- 4. Avverbi di quantità: abbastanza, moltissimo, un po', tanto, troppo, **~~presto~~**.
-- 5. Avverbi interrogativi: perché?, quanto?, quando?, come mai?, dove?, **~~sotto~~**.
-- 6. Avverbi di valutazione: **~~molto~~**, neanche, niente affatto, non, forse, sì.
+- Avverbi di modo: malissimo, gentilmente, benino, educatamente, fortemente
+- Avverbi di tempo: ora, adesso, stamattina, domani, tardi, presto
+- Avverbi di luogo: di sopra, da tutte le parti, nelle vicinanze, lontano, di fianco, sotto
+- Avverbi di quantità: abbastanza, moltissimo, un po', tanto, troppo, di più, più o meno, molto
+- Avverbi interrogativi: perché?, quanto?, quando?, come mai?, dove?
+- Avverbi di valutazione: neanche, niente affatto, non, forse, sì
 
 ## Scheda 37 – Preposizioni (p. 37)
 
