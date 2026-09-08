@@ -18660,7 +18660,78 @@ window.QUIZ_DATA = {
      "instruction": "Collega i soggetti della prima colonna con le frasi della seconda colonna. Poi scrivi l'infinito del verbo.",
      "body": "1. Alberto – a. studia matematica. ___ studiare\n2. Silvano e Giorgio – b. calcola le spese mensili. ___\n3. I miei cani – c. sono due sorelle. ___\n4. Papà – d. è una maestra in pensione. ___\n5. Vittoria – e. è pieno di brutte notizie. ___\n6. Il giornale – f. passano le vacanze in California. ___\n7. Nerina e Maria Carla – g. abbaiano poco. ___",
      "answerBody": "1. Alberto → a. studia matematica. → studiare\n2. Silvano e Giorgio → f. passano le vacanze in California. → passare\n3. I miei cani → g. abbaiano poco. → abbaiare\n4. Papà → b. calcola le spese mensili. → calcolare\n5. Vittoria → d. è una maestra in pensione. → essere\n6. Il giornale → e. è pieno di brutte notizie. → essere\n7. Nerina e Maria Carla → c. sono due sorelle. → essere",
-     "matching": null,
+     "matching": [
+      {
+       "groupTitle": null,
+       "left": [
+        {
+         "id": "1",
+         "text": "1. Alberto",
+         "ans": "a"
+        },
+        {
+         "id": "2",
+         "text": "2. Silvano e Giorgio",
+         "ans": "f"
+        },
+        {
+         "id": "3",
+         "text": "3. I miei cani",
+         "ans": "g"
+        },
+        {
+         "id": "4",
+         "text": "4. Papà",
+         "ans": "b"
+        },
+        {
+         "id": "5",
+         "text": "5. Vittoria",
+         "ans": "d"
+        },
+        {
+         "id": "6",
+         "text": "6. Il giornale",
+         "ans": "e"
+        },
+        {
+         "id": "7",
+         "text": "7. Nerina e Maria Carla",
+         "ans": "c"
+        }
+       ],
+       "right": [
+        {
+         "id": "a",
+         "text": "a. studia matematica. ___ studiare"
+        },
+        {
+         "id": "b",
+         "text": "b. calcola le spese mensili. ___"
+        },
+        {
+         "id": "c",
+         "text": "c. sono due sorelle. ___"
+        },
+        {
+         "id": "d",
+         "text": "d. è una maestra in pensione. ___"
+        },
+        {
+         "id": "e",
+         "text": "e. è pieno di brutte notizie. ___"
+        },
+        {
+         "id": "f",
+         "text": "f. passano le vacanze in California. ___"
+        },
+        {
+         "id": "g",
+         "text": "g. abbaiano poco. ___"
+        }
+       ]
+      }
+     ],
      "passage": null,
      "categorization": null,
      "wordBank": null,
@@ -22571,7 +22642,96 @@ window.QUIZ_DATA = {
      "instruction": "Collega con una freccia gli avverbi che hanno significato uguale o molto simile.",
      "body": "1. davanti — a. qua\n2. tanto — b. certamente\n3. raramente — c. ogni tanto\n4. di sicuro — d. sovente\n5. altrove — e. molto\n6. talvolta — f. di rado\n7. spesso — g. in un altro posto\n8. qui — h. nemmeno\n9. neanche — i. dinanzi",
      "answerBody": "- 1. davanti → **i. dinanzi**\n- 2. tanto → **e. molto**\n- 3. raramente → **f. di rado**\n- 4. di sicuro → **b. certamente**\n- 5. altrove → **g. in un altro posto**\n- 6. talvolta → **c. ogni tanto**\n- 7. spesso → **d. sovente**\n- 8. qui → **a. qua**\n- 9. neanche → **h. nemmeno**",
-     "matching": null,
+     "matching": [
+      {
+       "groupTitle": null,
+       "left": [
+        {
+         "id": "1",
+         "text": "1. davanti",
+         "ans": "i"
+        },
+        {
+         "id": "2",
+         "text": "2. tanto",
+         "ans": "e"
+        },
+        {
+         "id": "3",
+         "text": "3. raramente",
+         "ans": "f"
+        },
+        {
+         "id": "4",
+         "text": "4. di sicuro",
+         "ans": "b"
+        },
+        {
+         "id": "5",
+         "text": "5. altrove",
+         "ans": "g"
+        },
+        {
+         "id": "6",
+         "text": "6. talvolta",
+         "ans": "c"
+        },
+        {
+         "id": "7",
+         "text": "7. spesso",
+         "ans": "d"
+        },
+        {
+         "id": "8",
+         "text": "8. qui",
+         "ans": "a"
+        },
+        {
+         "id": "9",
+         "text": "9. neanche",
+         "ans": "h"
+        }
+       ],
+       "right": [
+        {
+         "id": "a",
+         "text": "a. qua"
+        },
+        {
+         "id": "b",
+         "text": "b. certamente"
+        },
+        {
+         "id": "c",
+         "text": "c. ogni tanto"
+        },
+        {
+         "id": "d",
+         "text": "d. sovente"
+        },
+        {
+         "id": "e",
+         "text": "e. molto"
+        },
+        {
+         "id": "f",
+         "text": "f. di rado"
+        },
+        {
+         "id": "g",
+         "text": "g. in un altro posto"
+        },
+        {
+         "id": "h",
+         "text": "h. nemmeno"
+        },
+        {
+         "id": "i",
+         "text": "i. dinanzi"
+        }
+       ]
+      }
+     ],
      "passage": null,
      "categorization": null,
      "wordBank": null,
@@ -24872,7 +25032,87 @@ window.QUIZ_DATA = {
      "instruction": "Collega con una freccia ciascuna delle preposizioni con il significato che esprime.",
      "body": "1. Sono morto di stanchezza. — a. luogo\n2. A Valerio piace disegnare. — b. causa\n3. Sei uscito con i tuoi amici? — c. possesso\n4. Ho visto un nido tra le foglie. — d. termine\n5. La professoressa ha parlato della seconda guerra mondiale. — e. tempo\n6. Non riesco a dormire di giorno. — f. argomento\n7. Il marito di Franca si chiama Claudio. — g. compagnia\n8. Studio per poter andare a lavorare. — h. fine",
      "answerBody": "- 1. Sono morto **di** stanchezza → **b. causa**\n- 2. A Valerio piace disegnare (a = termine) → **d. termine**\n- 3. Sei uscito **con** i tuoi amici? → **g. compagnia**\n- 4. Ho visto un nido **tra** le foglie → **a. luogo**\n- 5. La professoressa ha parlato **della** seconda guerra mondiale → **f. argomento**\n- 6. Non riesco a dormire **di** giorno → **e. tempo**\n- 7. Il marito **di** Franca si chiama Claudio → **c. possesso**\n- 8. Studio **per** poter andare a lavorare → **h. fine**",
-     "matching": null,
+     "matching": [
+      {
+       "groupTitle": null,
+       "left": [
+        {
+         "id": "1",
+         "text": "1. Sono morto di stanchezza.",
+         "ans": "b"
+        },
+        {
+         "id": "2",
+         "text": "2. A Valerio piace disegnare.",
+         "ans": "d"
+        },
+        {
+         "id": "3",
+         "text": "3. Sei uscito con i tuoi amici?",
+         "ans": "g"
+        },
+        {
+         "id": "4",
+         "text": "4. Ho visto un nido tra le foglie.",
+         "ans": "a"
+        },
+        {
+         "id": "5",
+         "text": "5. La professoressa ha parlato della seconda guerra mondiale.",
+         "ans": "f"
+        },
+        {
+         "id": "6",
+         "text": "6. Non riesco a dormire di giorno.",
+         "ans": "e"
+        },
+        {
+         "id": "7",
+         "text": "7. Il marito di Franca si chiama Claudio.",
+         "ans": "c"
+        },
+        {
+         "id": "8",
+         "text": "8. Studio per poter andare a lavorare.",
+         "ans": "h"
+        }
+       ],
+       "right": [
+        {
+         "id": "a",
+         "text": "a. luogo"
+        },
+        {
+         "id": "b",
+         "text": "b. causa"
+        },
+        {
+         "id": "c",
+         "text": "c. possesso"
+        },
+        {
+         "id": "d",
+         "text": "d. termine"
+        },
+        {
+         "id": "e",
+         "text": "e. tempo"
+        },
+        {
+         "id": "f",
+         "text": "f. argomento"
+        },
+        {
+         "id": "g",
+         "text": "g. compagnia"
+        },
+        {
+         "id": "h",
+         "text": "h. fine"
+        }
+       ]
+      }
+     ],
      "passage": null,
      "categorization": null,
      "wordBank": null,
@@ -25371,7 +25611,60 @@ window.QUIZ_DATA = {
      "instruction": "Collega con una freccia ogni frase della prima colonna con la frase della seconda colonna che la completa.",
      "body": "1. Verrò in montagna con voi — a. perché costa meno.\n2. Non vinciamo la partita — b. purché ci sia neve.\n3. Mi ha guardato male — c. se non corriamo di più.\n4. Loredana mangia troppo — d. come se fosse colpa mia.\n5. Compro la frutta al mercato — e. anche se le fa male.",
      "answerBody": "- 1. Verrò in montagna con voi → **b. purché ci sia neve.**\n- 2. Non vinciamo la partita → **c. se non corriamo di più.**\n- 3. Mi ha guardato male → **d. come se fosse colpa mia.**\n- 4. Loredana mangia troppo → **e. anche se le fa male.**\n- 5. Compro la frutta al mercato → **a. perché costa meno.**",
-     "matching": null,
+     "matching": [
+      {
+       "groupTitle": null,
+       "left": [
+        {
+         "id": "1",
+         "text": "1. Verrò in montagna con voi",
+         "ans": "b"
+        },
+        {
+         "id": "2",
+         "text": "2. Non vinciamo la partita",
+         "ans": "c"
+        },
+        {
+         "id": "3",
+         "text": "3. Mi ha guardato male",
+         "ans": "d"
+        },
+        {
+         "id": "4",
+         "text": "4. Loredana mangia troppo",
+         "ans": "e"
+        },
+        {
+         "id": "5",
+         "text": "5. Compro la frutta al mercato",
+         "ans": "a"
+        }
+       ],
+       "right": [
+        {
+         "id": "a",
+         "text": "a. perché costa meno."
+        },
+        {
+         "id": "b",
+         "text": "b. purché ci sia neve."
+        },
+        {
+         "id": "c",
+         "text": "c. se non corriamo di più."
+        },
+        {
+         "id": "d",
+         "text": "d. come se fosse colpa mia."
+        },
+        {
+         "id": "e",
+         "text": "e. anche se le fa male."
+        }
+       ]
+      }
+     ],
      "passage": null,
      "categorization": null,
      "wordBank": null,
@@ -26202,7 +26495,69 @@ window.QUIZ_DATA = {
      "instruction": "Unisci con una freccia ogni frase della prima colonna con una frase della seconda colonna, in base al senso.",
      "body": "1. Se riesco a finire in tempo questo lavoro,\n2. Se i miei trovassero un appartamento più grande,\n3. Se suo padre non fosse morto,\n4. Se nascessi un'altra volta,\n5. Se domani mi interroga di geografia,\n6. Se Giovanna ci invitasse a cena,\n\na. Rita non avrebbe avuto un'infanzia così triste.\nb. vorrei essere un pescatore dei mari del Sud.\nc. non so niente.\nd. potremmo portarle una bottiglia di spumante.\ne. mi rilasso e guardo un po' la televisione con voi.\nf. la zia potrebbe venire a stare con noi.",
      "answerBody": "- 1. Se riesco a finire in tempo questo lavoro, → **e. mi rilasso e guardo un po' la televisione con voi.**\n- 2. Se i miei trovassero un appartamento più grande, → **f. la zia potrebbe venire a stare con noi.**\n- 3. Se suo padre non fosse morto, → **a. Rita non avrebbe avuto un'infanzia così triste.**\n- 4. Se nascessi un'altra volta, → **b. vorrei essere un pescatore dei mari del Sud.**\n- 5. Se domani mi interroga di geografia, → **c. non so niente.**\n- 6. Se Giovanna ci invitasse a cena, → **d. potremmo portarle una bottiglia di spumante.**",
-     "matching": null,
+     "matching": [
+      {
+       "groupTitle": null,
+       "left": [
+        {
+         "id": "1",
+         "text": "1. Se riesco a finire in tempo questo lavoro,",
+         "ans": "e"
+        },
+        {
+         "id": "2",
+         "text": "2. Se i miei trovassero un appartamento più grande,",
+         "ans": "f"
+        },
+        {
+         "id": "3",
+         "text": "3. Se suo padre non fosse morto,",
+         "ans": "a"
+        },
+        {
+         "id": "4",
+         "text": "4. Se nascessi un'altra volta,",
+         "ans": "b"
+        },
+        {
+         "id": "5",
+         "text": "5. Se domani mi interroga di geografia,",
+         "ans": "c"
+        },
+        {
+         "id": "6",
+         "text": "6. Se Giovanna ci invitasse a cena,",
+         "ans": "d"
+        }
+       ],
+       "right": [
+        {
+         "id": "a",
+         "text": "a. Rita non avrebbe avuto un'infanzia così triste."
+        },
+        {
+         "id": "b",
+         "text": "b. vorrei essere un pescatore dei mari del Sud."
+        },
+        {
+         "id": "c",
+         "text": "c. non so niente."
+        },
+        {
+         "id": "d",
+         "text": "d. potremmo portarle una bottiglia di spumante."
+        },
+        {
+         "id": "e",
+         "text": "e. mi rilasso e guardo un po' la televisione con voi."
+        },
+        {
+         "id": "f",
+         "text": "f. la zia potrebbe venire a stare con noi."
+        }
+       ]
+      }
+     ],
      "passage": null,
      "categorization": null,
      "wordBank": null,

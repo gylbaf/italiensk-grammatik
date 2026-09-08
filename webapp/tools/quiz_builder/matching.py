@@ -10,7 +10,7 @@ def build_matching(body: str, answer_body: str):
         return None
 
     ans_lines = [l.strip() for l in answer_body.split("\n") if l.strip()]
-    pair_re = re.compile(r"^(?:[-\u2022]\s*)?(\d+)[\.\)]\s*(.*?)\s*(?:→|➜|->)\s*([a-z])[\.\)]\s*(.*)$", re.I)
+    pair_re = re.compile(r"^(?:[-\u2022]\s*)?(\d+)[\.\)]\s*(.*?)\s*(?:→|➜|->)\s*\*{0,2}([a-z])[\.\)]\s*(.*)$", re.I)
 
     ans_groups = []
     current_pairs = []
@@ -110,9 +110,32 @@ def build_matching(body: str, answer_body: str):
                     "right": g["right"]
                 })
         else:
+            # Hantera rader som "1. davanti — a. qua" där vänster och höger står på samma rad
             left = []
             right = []
             for l in b_lines:
+                # Försök dela på tankstreck (—/–/-) om båda sidor finns på samma rad
+                dash_parts = None
+                if re.search(r"\s[—–]\s", l):
+                    dash_parts = re.split(r"\s*[—–]\s*", l, maxsplit=1)
+                elif " — " in l:
+                    dash_parts = l.split(" — ", 1)
+                elif " - " in l and re.match(r"^\d+[\.\)]", l):
+                    # Försiktig: dela endast om vänster börjar med siffra och höger med bokstav
+                    cand = l.split(" - ", 1)
+                    if len(cand) == 2 and re.match(r"^\s*[a-zA-Z][\.\)]", cand[1].strip()):
+                        dash_parts = cand
+                if dash_parts and len(dash_parts) == 2:
+                    left_part, right_part = dash_parts[0].strip(), dash_parts[1].strip()
+                    m_l = re.match(r"^(\d+)[\.\)]\s*(.*)$", left_part)
+                    m_r = re.match(r"^([a-z])[\.\)]\s*(.*)$", right_part, re.I)
+                    if m_l:
+                        n = m_l.group(1)
+                        left.append({"id": n, "text": left_part, "ans": ans_map.get(n, "")})
+                    if m_r:
+                        let = m_r.group(1).lower()
+                        right.append({"id": let, "text": right_part})
+                    continue
                 m_l = re.match(r"^(\d+)[\.\)]\s*(.*)$", l)
                 m_r = re.match(r"^([a-z])[\.\)]\s*(.*)$", l, re.I)
                 if m_l:
