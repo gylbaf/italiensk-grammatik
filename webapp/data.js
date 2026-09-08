@@ -17701,12 +17701,145 @@ window.QUIZ_DATA = {
      "num": "03",
      "instruction": "Completa le seguenti frasi con un numerale cardinale o ordinale adatto.",
      "body": "1. Io abito al ___ piano\n2. Un litro di latte costa ___ euro.\n3. Prenderemo il treno delle ___.\n4. Oggi è il ___ di febbraio.\n5. 20 è un ___ di 60.\n6. Il ___ classificato di una gara prende la medaglia d'oro.",
-     "answerBody": "1. Io abito al primo piano.\n2. Un litro di latte costa 2 euro.\n3. Prenderemo il treno delle 5.\n4. Oggi è il 6 di febbraio.\n5. 20 è un terzo di 60.\n6. Il primo classificato di una gara prende la medaglia d'oro.",
+     "answerBody": "1. Io abito al **primo** piano.\n2. Un litro di latte costa **2** euro.\n3. Prenderemo il treno delle **5**.\n4. Oggi è il **6** di febbraio.\n5. 20 è un **terzo** di 60.\n6. Il **primo** classificato di una gara prende la medaglia d'oro.",
      "matching": null,
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. Io abito al "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "primo"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " piano"
+        }
+       ],
+       "answers": [
+        "primo"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Un litro di latte costa "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "2"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " euro."
+        }
+       ],
+       "answers": [
+        "2"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Prenderemo il treno delle "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "5"
+         ]
+        },
+        {
+         "t": "text",
+         "v": "."
+        }
+       ],
+       "answers": [
+        "5"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Oggi è il "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "6"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " di febbraio."
+        }
+       ],
+       "answers": [
+        "6"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. 20 è un "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "terzo"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " di 60."
+        }
+       ],
+       "answers": [
+        "terzo"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. Il "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "primo"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " classificato di una gara prende la medaglia d'oro."
+        }
+       ],
+       "answers": [
+        "primo"
+       ]
+      }
+     ]
     },
     {
      "num": "04",

@@ -67,12 +67,12 @@
 - h. 88 600 → ottantottomilaseicento
 
 ### 03 • Completa le seguenti frasi con un numerale cardinale o ordinale adatto.
-1. Io abito al primo piano.
-2. Un litro di latte costa 2 euro.
-3. Prenderemo il treno delle 5.
-4. Oggi è il 6 di febbraio.
-5. 20 è un terzo di 60.
-6. Il primo classificato di una gara prende la medaglia d'oro.
+1. Io abito al **primo** piano.
+2. Un litro di latte costa **2** euro.
+3. Prenderemo il treno delle **5**.
+4. Oggi è il **6** di febbraio.
+5. 20 è un **terzo** di 60.
+6. Il **primo** classificato di una gara prende la medaglia d'oro.
 
 ### 04 • Che cosa significano i seguenti modi di dire con i numeri? Indica (✓) la risposta esatta.
 1. decidere in quattro e quattr'otto → b. decidere in fretta
