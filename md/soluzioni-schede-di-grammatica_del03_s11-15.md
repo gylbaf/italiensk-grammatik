@@ -213,9 +213,9 @@
 
 1. Vuoi conoscere Paola? Presenterò **Paola a te** stasera. → **Te la presenterò stasera.**
 2. Ho finito il problema. Posso far vedere **il problema alla professoressa**? → **Posso farglielo vedere?**
-3. Mio fratello aveva dei francobolli e ha dato **a me cinque francobolli**. → … e me li ha dati.
-4. Se non ti piace come si comporta, dì **questo a lui**. → … diglielo.
-5. Vittoria mi ha imprestato 5 euro. Devo ricordarmi di restituire **5 euro a lei**. → … di restituirglieli.
+3. Mio fratello aveva dei francobolli e ha dato **a me cinque francobolli**. → **e me li ha dati.**
+4. Se non ti piace come si comporta, dì **questo a lui**. → **diglielo.**
+5. Vittoria mi ha imprestato 5 euro. Devo ricordarmi di restituire **5 euro a lei**. → **di restituirglieli.**
 
 ### 03 • Riscrivi la seconda parte delle seguenti frasi, in corsivo, usando il pronome combinato adatto.
 
