@@ -189,10 +189,10 @@
 
 1. Vuoi lo zucchero nel caffè? – Sì, … **ne** metto … **un cucchiaino**.
 2. Che belle pere! … **Ne** vorrei … **un chilo**.
-3. Quante uova ti servono? Comprane … **una dozzina**.
-4. Che buona questa torta! Posso averne … ancora … **una fetta**?
+3. Quante uova ti servono? Compra **ne** **una dozzina**.
+4. Che buona questa torta! Posso avere **ne** ancora **una fetta**?
 5. Sono quasi senza benzina. Me … **ne** metta … **dieci litri**.
-6. Manca il pane. Comprane … **una forma grossa**.
+6. Manca il pane. Compra **ne** **una forma grossa**.
 7. Aggiungi un po' di sale agli spinaci. … **Ne** basta … **un pizzico**.
 
 ---

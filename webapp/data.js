@@ -15112,7 +15112,7 @@ window.QUIZ_DATA = {
      "num": "04",
      "instruction": "Completa le frasi usando ne e un'espressione di quantità a scelta tra quelle elencate.",
      "body": "una fetta • un chilo • una forma grossa • un cucchiaino • un pizzico • una dozzina • dieci litri\n\n1. Vuoi lo zucchero nel caffè? – Sì, ___ metto ___\n2. Che belle pere! ___ vorrei ___\n3. Quante uova ti servono? Compra ___ ___\n4. Che buona questa torta! Posso aver ___ ancora ___ ?\n5. Sono quasi senza benzina. Me ___ metta ___\n6. Manca il pane. Compra ___ ___\n7. Aggiungi un po' di sale agli spinaci. ___ basta ___",
-     "answerBody": "1. Vuoi lo zucchero nel caffè? – Sì, … **ne** metto … **un cucchiaino**.\n2. Che belle pere! … **Ne** vorrei … **un chilo**.\n3. Quante uova ti servono? Comprane … **una dozzina**.\n4. Che buona questa torta! Posso averne … ancora … **una fetta**?\n5. Sono quasi senza benzina. Me … **ne** metta … **dieci litri**.\n6. Manca il pane. Comprane … **una forma grossa**.\n7. Aggiungi un po' di sale agli spinaci. … **Ne** basta … **un pizzico**.",
+     "answerBody": "1. Vuoi lo zucchero nel caffè? – Sì, … **ne** metto … **un cucchiaino**.\n2. Che belle pere! … **Ne** vorrei … **un chilo**.\n3. Quante uova ti servono? Compra **ne** **una dozzina**.\n4. Che buona questa torta! Posso avere **ne** ancora **una fetta**?\n5. Sono quasi senza benzina. Me … **ne** metta … **dieci litri**.\n6. Manca il pane. Compra **ne** **una forma grossa**.\n7. Aggiungi un po' di sale agli spinaci. … **Ne** basta … **un pizzico**.",
      "matching": null,
      "passage": null,
      "categorization": null,
@@ -15125,7 +15125,231 @@ window.QUIZ_DATA = {
       "una dozzina",
       "dieci litri"
      ],
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "una fetta • un chilo • una forma grossa • un cucchiaino • un pizzico • una dozzina • dieci litri"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. Vuoi lo zucchero nel caffè? – Sì, "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "ne"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " metto "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "un cucchiaino"
+         ]
+        }
+       ],
+       "answers": [
+        "ne",
+        "un cucchiaino"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Che belle pere! "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Ne"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " vorrei "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "un chilo"
+         ]
+        }
+       ],
+       "answers": [
+        "Ne",
+        "un chilo"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Quante uova ti servono? Compra "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "ne"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "una dozzina"
+         ]
+        }
+       ],
+       "answers": [
+        "ne",
+        "una dozzina"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Che buona questa torta! Posso aver "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "ne"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " ancora "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "una fetta"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " ?"
+        }
+       ],
+       "answers": [
+        "ne",
+        "una fetta"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. Sono quasi senza benzina. Me "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "ne"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " metta "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "dieci litri"
+         ]
+        }
+       ],
+       "answers": [
+        "ne",
+        "dieci litri"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. Manca il pane. Compra "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "ne"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "una forma grossa"
+         ]
+        }
+       ],
+       "answers": [
+        "ne",
+        "una forma grossa"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "7. Aggiungi un po' di sale agli spinaci. "
+        },
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Ne"
+         ]
+        },
+        {
+         "t": "text",
+         "v": " basta "
+        },
+        {
+         "t": "blank",
+         "i": 1,
+         "answers": [
+          "un pizzico"
+         ]
+        }
+       ],
+       "answers": [
+        "Ne",
+        "un pizzico"
+       ]
+      }
+     ]
     }
    ]
   },
