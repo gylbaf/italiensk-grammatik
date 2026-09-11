@@ -86,19 +86,19 @@ Lui non è Michele ma un'altra persona, per esempio suo figlio, suo fratello, un
 
 ### 04 • Riscrivi le seguenti frasi sostituendo alle parole sottolineate i pronomi personali complemento adatti.
 
-1. Giovanna ha quattro figli e parla sempre dei quattro figli.
+1. Giovanna ha quattro figli e parla sempre **dei quattro figli**.
 ___
-2. Ho telefonato a Rosa e ho detto a Rosa che passerò domani a trovarla.
+2. Ho telefonato a Rosa e ho detto **a Rosa** che passerò domani a trovarla.
 ___
-3. Mettiti d'accordo con Mario per andare al cinema con Mario.
+3. Mettiti d'accordo con Mario per andare al cinema **con Mario**.
 ___
-4. Alina ha salutato Olga, ma lei non ha risposto a Alina.
+4. Alina ha salutato Olga, ma lei non ha risposto **a Alina**.
 ___
-5. L'avvocato ha convocato il cliente per spiegare al cliente a che punto è la causa.
+5. L'avvocato ha convocato il cliente per spiegare **al cliente** a che punto è la causa.
 ___
-6. Matteo è venuto da me per dire a me che c'era una telefonata urgente.
+6. Matteo è venuto da me per dire **a me** che c'era una telefonata urgente.
 ___
-7. Angelo è andato a trovare Paola perché voleva parlare a Paola.
+7. Angelo è andato a trovare Paola perché voleva parlare **a Paola**.
 ___
-8. Quando vai dal medico, spiega al medico i tuoi sintomi.
+8. Quando vai dal medico, spiega **al medico** i tuoi sintomi.
 ___

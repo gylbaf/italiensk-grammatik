@@ -14441,7 +14441,7 @@ window.QUIZ_DATA = {
     {
      "num": "04",
      "instruction": "Riscrivi le seguenti frasi sostituendo alle parole sottolineate i pronomi personali complemento adatti.",
-     "body": "1. Giovanna ha quattro figli e parla sempre dei quattro figli.\n___\n2. Ho telefonato a Rosa e ho detto a Rosa che passerò domani a trovarla.\n___\n3. Mettiti d'accordo con Mario per andare al cinema con Mario.\n___\n4. Alina ha salutato Olga, ma lei non ha risposto a Alina.\n___\n5. L'avvocato ha convocato il cliente per spiegare al cliente a che punto è la causa.\n___\n6. Matteo è venuto da me per dire a me che c'era una telefonata urgente.\n___\n7. Angelo è andato a trovare Paola perché voleva parlare a Paola.\n___\n8. Quando vai dal medico, spiega al medico i tuoi sintomi.\n___",
+     "body": "1. Giovanna ha quattro figli e parla sempre **dei quattro figli**.\n___\n2. Ho telefonato a Rosa e ho detto **a Rosa** che passerò domani a trovarla.\n___\n3. Mettiti d'accordo con Mario per andare al cinema **con Mario**.\n___\n4. Alina ha salutato Olga, ma lei non ha risposto **a Alina**.\n___\n5. L'avvocato ha convocato il cliente per spiegare **al cliente** a che punto è la causa.\n___\n6. Matteo è venuto da me per dire **a me** che c'era una telefonata urgente.\n___\n7. Angelo è andato a trovare Paola perché voleva parlare **a Paola**.\n___\n8. Quando vai dal medico, spiega **al medico** i tuoi sintomi.\n___",
      "answerBody": "1. Giovanna ha quattro figli e parla sempre **dei quattro figli**. → … di loro. (= parla sempre di loro.)\n2. Ho telefonato a Rosa e ho detto **a Rosa** che passerò domani a trovarla. → … e le ho detto che passerò … (= Le ho telefonato e le ho detto che passerò domani a trovarla.)\n3. Mettiti d'accordo con Mario per andare al cinema **con Mario**. → … con lui.\n4. Alina ha salutato Olga, ma lei non ha risposto **a Alina**. → … ma lei non le ha risposto.\n5. L'avvocato ha convocato il cliente per spiegare **al cliente** a che punto è la causa. → … per spiegargli a che punto …\n6. Matteo è venuto da me per dire **a me** che c'era una telefonata urgente. → … per dirmi che …\n7. Angelo è andato a trovare Paola perché voleva parlare **a Paola**. → … parlarle.\n8. Quando vai dal medico, spiega **al medico** i tuoi sintomi. → … spiegagli i tuoi sintomi.",
      "matching": null,
      "passage": null,
@@ -14452,7 +14452,7 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "1. Giovanna ha quattro figli e parla sempre dei quattro figli."
+         "v": "1. Giovanna ha quattro figli e parla sempre **dei quattro figli**."
         }
        ],
        "answers": []
@@ -14475,7 +14475,7 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "2. Ho telefonato a Rosa e ho detto a Rosa che passerò domani a trovarla."
+         "v": "2. Ho telefonato a Rosa e ho detto **a Rosa** che passerò domani a trovarla."
         }
        ],
        "answers": []
@@ -14498,7 +14498,7 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "3. Mettiti d'accordo con Mario per andare al cinema con Mario."
+         "v": "3. Mettiti d'accordo con Mario per andare al cinema **con Mario**."
         }
        ],
        "answers": []
@@ -14521,7 +14521,7 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "4. Alina ha salutato Olga, ma lei non ha risposto a Alina."
+         "v": "4. Alina ha salutato Olga, ma lei non ha risposto **a Alina**."
         }
        ],
        "answers": []
@@ -14544,7 +14544,7 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "5. L'avvocato ha convocato il cliente per spiegare al cliente a che punto è la causa."
+         "v": "5. L'avvocato ha convocato il cliente per spiegare **al cliente** a che punto è la causa."
         }
        ],
        "answers": []
@@ -14567,7 +14567,7 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "6. Matteo è venuto da me per dire a me che c'era una telefonata urgente."
+         "v": "6. Matteo è venuto da me per dire **a me** che c'era una telefonata urgente."
         }
        ],
        "answers": []
@@ -14590,7 +14590,7 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "7. Angelo è andato a trovare Paola perché voleva parlare a Paola."
+         "v": "7. Angelo è andato a trovare Paola perché voleva parlare **a Paola**."
         }
        ],
        "answers": []
@@ -14613,7 +14613,7 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "8. Quando vai dal medico, spiega al medico i tuoi sintomi."
+         "v": "8. Quando vai dal medico, spiega **al medico** i tuoi sintomi."
         }
        ],
        "answers": []
