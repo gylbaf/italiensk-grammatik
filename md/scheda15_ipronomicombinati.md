@@ -89,15 +89,15 @@ ___
 
 ### 03 • Riscrivi la seconda parte delle seguenti frasi, in corsivo, usando il pronome combinato adatto.
 
-1. Hai troppe prugne? Portale a noi.
+1. Hai troppe prugne? *Portale a noi.*
 ___
-2. Non ti servono quei giornali? Portali a noi.
+2. Non ti servono quei giornali? *Portali a noi.*
 ___
-3. Ho fatto il gelato alla nocciola. Lo farò assaggiare a te.
+3. Ho fatto il gelato alla nocciola. *Lo farò assaggiare a te.*
 ___
-4. Il direttore ha l'abitudine di cambiare gli orari senza dirlo a noi.
+4. Il direttore ha l'abitudine di cambiare gli orari senza *dirlo a noi.*
 ___
-5. Hai detto al macellaio che la carne non era buona? – No, mi sono dimenticato di questo.
+5. Hai detto al macellaio che la carne non era buona? – No, *mi sono dimenticato di questo.*
 ___
 
 ### 04 • Rispondi alle domande usando un pronome combinato.

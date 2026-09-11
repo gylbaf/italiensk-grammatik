@@ -15680,7 +15680,7 @@ window.QUIZ_DATA = {
     {
      "num": "03",
      "instruction": "Riscrivi la seconda parte delle seguenti frasi, in corsivo, usando il pronome combinato adatto.",
-     "body": "1. Hai troppe prugne? Portale a noi.\n___\n2. Non ti servono quei giornali? Portali a noi.\n___\n3. Ho fatto il gelato alla nocciola. Lo farò assaggiare a te.\n___\n4. Il direttore ha l'abitudine di cambiare gli orari senza dirlo a noi.\n___\n5. Hai detto al macellaio che la carne non era buona? – No, mi sono dimenticato di questo.\n___",
+     "body": "1. Hai troppe prugne? *Portale a noi.*\n___\n2. Non ti servono quei giornali? *Portali a noi.*\n___\n3. Ho fatto il gelato alla nocciola. *Lo farò assaggiare a te.*\n___\n4. Il direttore ha l'abitudine di cambiare gli orari senza *dirlo a noi.*\n___\n5. Hai detto al macellaio che la carne non era buona? – No, *mi sono dimenticato di questo.*\n___",
      "answerBody": "1. Hai troppe prugne? *Portale a noi.* → **Portacele.**\n2. Non ti servono quei giornali? *Portali a noi.* → **Portaceli.**\n3. Ho fatto il gelato alla nocciola. *Lo farò assaggiare a te.* → **Te lo farò assaggiare.**\n4. Il direttore ha l'abitudine di cambiare gli orari senza *dirlo a noi*. → **senza dircelo.**\n5. Hai detto al macellaio che la carne non era buona? – No, *mi sono dimenticato di questo*. → **No, me ne sono dimenticato.**",
      "matching": null,
      "passage": null,
@@ -15691,7 +15691,7 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "1. Hai troppe prugne? Portale a noi."
+         "v": "1. Hai troppe prugne? *Portale a noi.*"
         }
        ],
        "answers": []
@@ -15714,7 +15714,7 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "2. Non ti servono quei giornali? Portali a noi."
+         "v": "2. Non ti servono quei giornali? *Portali a noi.*"
         }
        ],
        "answers": []
@@ -15737,7 +15737,7 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "3. Ho fatto il gelato alla nocciola. Lo farò assaggiare a te."
+         "v": "3. Ho fatto il gelato alla nocciola. *Lo farò assaggiare a te.*"
         }
        ],
        "answers": []
@@ -15760,7 +15760,7 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "4. Il direttore ha l'abitudine di cambiare gli orari senza dirlo a noi."
+         "v": "4. Il direttore ha l'abitudine di cambiare gli orari senza *dirlo a noi.*"
         }
        ],
        "answers": []
@@ -15783,7 +15783,7 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "5. Hai detto al macellaio che la carne non era buona? – No, mi sono dimenticato di questo."
+         "v": "5. Hai detto al macellaio che la carne non era buona? – No, *mi sono dimenticato di questo.*"
         }
        ],
        "answers": []
