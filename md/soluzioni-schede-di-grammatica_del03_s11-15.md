@@ -144,14 +144,14 @@
 
 ### 04 • Riscrivi le seguenti frasi sostituendo alle parole sottolineate i pronomi personali complemento adatti.
 
-1. Giovanna ha quattro figli e parla sempre **dei quattro figli**. → … di loro. (= parla sempre di loro.)
-2. Ho telefonato a Rosa e ho detto **a Rosa** che passerò domani a trovarla. → … e le ho detto che passerò … (= Le ho telefonato e le ho detto che passerò domani a trovarla.)
-3. Mettiti d'accordo con Mario per andare al cinema **con Mario**. → … con lui.
-4. Alina ha salutato Olga, ma lei non ha risposto **a Alina**. → … ma lei non le ha risposto.
-5. L'avvocato ha convocato il cliente per spiegare **al cliente** a che punto è la causa. → … per spiegargli a che punto …
-6. Matteo è venuto da me per dire **a me** che c'era una telefonata urgente. → … per dirmi che …
-7. Angelo è andato a trovare Paola perché voleva parlare **a Paola**. → … parlarle.
-8. Quando vai dal medico, spiega **al medico** i tuoi sintomi. → … spiegagli i tuoi sintomi.
+1. Giovanna ha quattro figli e parla sempre dei quattro figli. → **di loro**
+2. Ho telefonato a Rosa e ho detto a Rosa che passerò domani a trovarla. → **le ho detto**
+3. Mettiti d'accordo con Mario per andare al cinema con Mario. → **con lui**
+4. Alina ha salutato Olga, ma lei non ha risposto a Alina. → **le ha risposto**
+5. L'avvocato ha convocato il cliente per spiegare al cliente a che punto è la causa. → **spiegargli**
+6. Matteo è venuto da me per dire a me che c'era una telefonata urgente. → **dirmi**
+7. Angelo è andato a trovare Paola perché voleva parlare a Paola. → **parlarle**
+8. Quando vai dal medico, spiega al medico i tuoi sintomi. → **spiegagli**
 
 ---
 

@@ -14442,7 +14442,7 @@ window.QUIZ_DATA = {
      "num": "04",
      "instruction": "Riscrivi le seguenti frasi sostituendo alle parole sottolineate i pronomi personali complemento adatti.",
      "body": "1. Giovanna ha quattro figli e parla sempre **dei quattro figli**.\n___\n2. Ho telefonato a Rosa e ho detto **a Rosa** che passerò domani a trovarla.\n___\n3. Mettiti d'accordo con Mario per andare al cinema **con Mario**.\n___\n4. Alina ha salutato Olga, ma lei non ha risposto **a Alina**.\n___\n5. L'avvocato ha convocato il cliente per spiegare **al cliente** a che punto è la causa.\n___\n6. Matteo è venuto da me per dire **a me** che c'era una telefonata urgente.\n___\n7. Angelo è andato a trovare Paola perché voleva parlare **a Paola**.\n___\n8. Quando vai dal medico, spiega **al medico** i tuoi sintomi.\n___",
-     "answerBody": "1. Giovanna ha quattro figli e parla sempre **dei quattro figli**. → … di loro. (= parla sempre di loro.)\n2. Ho telefonato a Rosa e ho detto **a Rosa** che passerò domani a trovarla. → … e le ho detto che passerò … (= Le ho telefonato e le ho detto che passerò domani a trovarla.)\n3. Mettiti d'accordo con Mario per andare al cinema **con Mario**. → … con lui.\n4. Alina ha salutato Olga, ma lei non ha risposto **a Alina**. → … ma lei non le ha risposto.\n5. L'avvocato ha convocato il cliente per spiegare **al cliente** a che punto è la causa. → … per spiegargli a che punto …\n6. Matteo è venuto da me per dire **a me** che c'era una telefonata urgente. → … per dirmi che …\n7. Angelo è andato a trovare Paola perché voleva parlare **a Paola**. → … parlarle.\n8. Quando vai dal medico, spiega **al medico** i tuoi sintomi. → … spiegagli i tuoi sintomi.",
+     "answerBody": "1. Giovanna ha quattro figli e parla sempre dei quattro figli. → **di loro**\n2. Ho telefonato a Rosa e ho detto a Rosa che passerò domani a trovarla. → **le ho detto**\n3. Mettiti d'accordo con Mario per andare al cinema con Mario. → **con lui**\n4. Alina ha salutato Olga, ma lei non ha risposto a Alina. → **le ha risposto**\n5. L'avvocato ha convocato il cliente per spiegare al cliente a che punto è la causa. → **spiegargli**\n6. Matteo è venuto da me per dire a me che c'era una telefonata urgente. → **dirmi**\n7. Angelo è andato a trovare Paola perché voleva parlare a Paola. → **parlarle**\n8. Quando vai dal medico, spiega al medico i tuoi sintomi. → **spiegagli**",
      "matching": null,
      "passage": null,
      "categorization": null,
@@ -14463,12 +14463,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "dei quattro figli"
+          "di loro"
          ]
         }
        ],
        "answers": [
-        "dei quattro figli"
+        "di loro"
        ]
       },
       {
@@ -14486,12 +14486,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "a Rosa"
+          "le ho detto"
          ]
         }
        ],
        "answers": [
-        "a Rosa"
+        "le ho detto"
        ]
       },
       {
@@ -14509,12 +14509,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "con Mario"
+          "con lui"
          ]
         }
        ],
        "answers": [
-        "con Mario"
+        "con lui"
        ]
       },
       {
@@ -14532,12 +14532,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "a Alina"
+          "le ha risposto"
          ]
         }
        ],
        "answers": [
-        "a Alina"
+        "le ha risposto"
        ]
       },
       {
@@ -14555,12 +14555,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "al cliente"
+          "spiegargli"
          ]
         }
        ],
        "answers": [
-        "al cliente"
+        "spiegargli"
        ]
       },
       {
@@ -14578,12 +14578,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "a me"
+          "dirmi"
          ]
         }
        ],
        "answers": [
-        "a me"
+        "dirmi"
        ]
       },
       {
@@ -14601,12 +14601,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "a Paola"
+          "parlarle"
          ]
         }
        ],
        "answers": [
-        "a Paola"
+        "parlarle"
        ]
       },
       {
@@ -14624,12 +14624,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "al medico"
+          "spiegagli"
          ]
         }
        ],
        "answers": [
-        "al medico"
+        "spiegagli"
        ]
       }
      ]
