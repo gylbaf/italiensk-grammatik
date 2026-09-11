@@ -76,15 +76,15 @@ ___ regalerò per il tuo compleanno.
 
 ### 02 • Riscrivi le seguenti frasi usando un pronome combinato al posto delle parole in neretto.
 
-1. Vuoi conoscere Paola? Presenterò Paola a te stasera.
+1. Vuoi conoscere Paola? Presenterò **Paola a te** stasera.
 ___
-2. Ho finito il problema. Posso far vedere il problema alla professoressa?
+2. Ho finito il problema. Posso far vedere **il problema alla professoressa**?
 ___
-3. Mio fratello aveva dei francobolli e ha dato a me cinque francobolli.
+3. Mio fratello aveva dei francobolli e ha dato **a me cinque francobolli**.
 ___
-4. Se non ti piace come si comporta, dì questo a lui.
+4. Se non ti piace come si comporta, dì **questo a lui**.
 ___
-5. Vittoria mi ha imprestato 5 euro. Devo ricordarmi di restituire 5 euro a lei.
+5. Vittoria mi ha imprestato 5 euro. Devo ricordarmi di restituire **5 euro a lei**.
 ___
 
 ### 03 • Riscrivi la seconda parte delle seguenti frasi, in corsivo, usando il pronome combinato adatto.

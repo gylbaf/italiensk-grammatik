@@ -15553,7 +15553,7 @@ window.QUIZ_DATA = {
     {
      "num": "02",
      "instruction": "Riscrivi le seguenti frasi usando un pronome combinato al posto delle parole in neretto.",
-     "body": "1. Vuoi conoscere Paola? Presenterò Paola a te stasera.\n___\n2. Ho finito il problema. Posso far vedere il problema alla professoressa?\n___\n3. Mio fratello aveva dei francobolli e ha dato a me cinque francobolli.\n___\n4. Se non ti piace come si comporta, dì questo a lui.\n___\n5. Vittoria mi ha imprestato 5 euro. Devo ricordarmi di restituire 5 euro a lei.\n___",
+     "body": "1. Vuoi conoscere Paola? Presenterò **Paola a te** stasera.\n___\n2. Ho finito il problema. Posso far vedere **il problema alla professoressa**?\n___\n3. Mio fratello aveva dei francobolli e ha dato **a me cinque francobolli**.\n___\n4. Se non ti piace come si comporta, dì **questo a lui**.\n___\n5. Vittoria mi ha imprestato 5 euro. Devo ricordarmi di restituire **5 euro a lei**.\n___",
      "answerBody": "1. Vuoi conoscere Paola? Presenterò **Paola a te** stasera. → **Te la presenterò stasera.**\n2. Ho finito il problema. Posso far vedere **il problema alla professoressa**? → **Posso farglielo vedere?**\n3. Mio fratello aveva dei francobolli e ha dato **a me cinque francobolli**. → … e me li ha dati.\n4. Se non ti piace come si comporta, dì **questo a lui**. → … diglielo.\n5. Vittoria mi ha imprestato 5 euro. Devo ricordarmi di restituire **5 euro a lei**. → … di restituirglieli.",
      "matching": null,
      "passage": null,
@@ -15564,7 +15564,7 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "1. Vuoi conoscere Paola? Presenterò Paola a te stasera."
+         "v": "1. Vuoi conoscere Paola? Presenterò **Paola a te** stasera."
         }
        ],
        "answers": []
@@ -15587,7 +15587,7 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "2. Ho finito il problema. Posso far vedere il problema alla professoressa?"
+         "v": "2. Ho finito il problema. Posso far vedere **il problema alla professoressa**?"
         }
        ],
        "answers": []
@@ -15610,7 +15610,7 @@ window.QUIZ_DATA = {
        "segments": [
         {
          "t": "text",
-         "v": "3. Mio fratello aveva dei francobolli e ha dato a me cinque francobolli."
+         "v": "3. Mio fratello aveva dei francobolli e ha dato **a me cinque francobolli**."
         }
        ],
        "answers": []
@@ -15621,19 +15621,19 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "a me cinque francobolli"
+          "e me li ha dati."
          ]
         }
        ],
        "answers": [
-        "a me cinque francobolli"
+        "e me li ha dati."
        ]
       },
       {
        "segments": [
         {
          "t": "text",
-         "v": "4. Se non ti piace come si comporta, dì questo a lui."
+         "v": "4. Se non ti piace come si comporta, dì **questo a lui**."
         }
        ],
        "answers": []
@@ -15644,19 +15644,19 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "questo a lui"
+          "diglielo."
          ]
         }
        ],
        "answers": [
-        "questo a lui"
+        "diglielo."
        ]
       },
       {
        "segments": [
         {
          "t": "text",
-         "v": "5. Vittoria mi ha imprestato 5 euro. Devo ricordarmi di restituire 5 euro a lei."
+         "v": "5. Vittoria mi ha imprestato 5 euro. Devo ricordarmi di restituire **5 euro a lei**."
         }
        ],
        "answers": []
@@ -15667,12 +15667,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "5 euro a lei"
+          "di restituirglieli."
          ]
         }
        ],
        "answers": [
-        "5 euro a lei"
+        "di restituirglieli."
        ]
       }
      ]

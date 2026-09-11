@@ -407,6 +407,54 @@ def build_blanks(body: str, answer_body: str):
                 lines.append({"segments": [{"t": "text", "v": re.sub(r'^[-\u2022]\s*', '', a_line.strip())}], "answers": []})
                 continue
             a_line_norm = re.sub(r'\*?\*?\([–\-]\)\*?\*?', '**–**', a_line)
+            # For q="___" with arrow (Riscrivi), answer is right side after arrow, not left bold
+            if q_line.strip() == "___" and re.search(r'\s*(?:→|➜|->|—|–)\s*', a_line):
+                answers = try_arrow_or_dash_line_answers(q_line, a_line, n_blanks)
+                if answers is not None:
+                    accepted_list = [[ans] for ans in answers]
+                else:
+                    answers = None
+                    accepted_list = None
+                if answers is not None:
+                    # Use arrow answer, skip bold shortcut
+                    pass
+                else:
+                    bold_answers = BOLD_RE.findall(a_line_norm)
+                    if len(bold_answers) == n_blanks:
+                        answers = []
+                        accepted_list = []
+                        for a in bold_answers:
+                            a_clean = a.strip()
+                            if a_clean in ('–', '-'):
+                                answers.append('–')
+                                accepted_list.append(['–', '-', '', '(–)', 'nessuno', 'no', '/'])
+                            else:
+                                answers.append(a_clean)
+                                accepted_list.append([a_clean])
+                    else:
+                        answers = try_arrow_or_dash_line_answers(q_line, a_line, n_blanks)
+                        accepted_list = [[ans] for ans in answers] if answers else None
+                        if answers is None:
+                            answers = try_slash_line_answers(q_line, a_line, n_blanks)
+                            accepted_list = [[ans] for ans in answers] if answers else None
+                            if answers is None:
+                                return None
+                # Continue to segment building below
+                if answers is None:
+                    return None
+                total_blanks += n_blanks
+                parts = q_line.split("___")
+                segments = []
+                for i, part in enumerate(parts):
+                    if part:
+                        segments.append({"t": "text", "v": part})
+                    if i < len(parts) - 1:
+                        seg_blank = {"t": "blank", "i": i}
+                        if accepted_list and i < len(accepted_list):
+                            seg_blank["answers"] = accepted_list[i]
+                        segments.append(seg_blank)
+                lines.append({"segments": segments, "answers": answers})
+                continue
             bold_answers = BOLD_RE.findall(a_line_norm)
             if len(bold_answers) == n_blanks:
                 answers = []
