@@ -19,6 +19,28 @@ def try_arrow_or_dash_line_answers(q_line: str, a_line: str, n_blanks: int):
     a_clean = re.sub(r'^[-\u2022]\s*', '', a_line.strip())
     a_clean = re.sub(r'\s*\([^)]*(?:esempio|modello)[^)]*\)\s*$', '', a_clean, flags=re.I)
 
+    # Special case: blank is just "___" on its own line (Riscrivi, e.g. scheda14) → answer is right side after arrow
+    if q_line.strip() == "___":
+        # Debug for scheda14
+        # print(f"DEBUG special q={q_line!r} a={a_line!r} a_clean={a_clean!r}")
+        sep_pat = r'\s*(?:➜|→|->|—|–)\s*'
+        if re.search(sep_pat, a_clean):
+            parts = re.split(sep_pat, a_clean, maxsplit=1)
+            if len(parts) == 2:
+                right = parts[1].strip()
+                # Prefer bold on right side if present
+                rb = BOLD_RE.findall(right)
+                if rb:
+                    # print(f"DEBUG right bold {rb}")
+                    return [rb[0].strip()]
+                # Clean leading "…" and trailing parenthetical
+                right_clean = re.sub(r'^\s*…\s*', '', right).strip()
+                right_clean = re.sub(r'\s*\(.*\)\s*$', '', right_clean).strip()
+                if right_clean:
+                    # print(f"DEBUG right_clean {right_clean!r}")
+                    return [right_clean]
+                return [right]
+
     bolds = BOLD_RE.findall(a_clean)
     if len(bolds) == 1:
         return [bolds[0].strip()]
@@ -37,6 +59,21 @@ def try_arrow_or_dash_line_answers(q_line: str, a_line: str, n_blanks: int):
             return [ans]
 
     if len(a_parts) == 2:
+        # Special case: blank is just "___" on its own line (Riscrivi, e.g. scheda13/14) → answer is right side after arrow
+        if q_line.strip() == "___":
+            a_right = a_parts[1].strip()
+            # If right side has bold, return that bold (the rewritten phrase)
+            rb = BOLD_RE.findall(a_right)
+            if rb:
+                return [rb[0].strip()]
+            # Otherwise return right side cleaned
+            a_right_clean = re.sub(r'^\d+[\.\)]\s*', '', a_right).strip()
+            # Remove leading "…" and parentheses
+            a_right_clean = re.sub(r'^\s*…\s*', '', a_right_clean)
+            a_right_clean = re.sub(r'\s*\(.*\)\s*$', '', a_right_clean).strip()
+            if a_right_clean:
+                return [a_right_clean]
+            return [a_right]
         # Dash without bold – decide which side is the answer.
         # Primary rule: blank at start (after list marker) → left side is answer,
         # otherwise right side is answer.

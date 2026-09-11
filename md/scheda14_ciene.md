@@ -40,32 +40,32 @@ Lo, la, li, le significano tutto. Ne invece significa un po', ed è necessario s
 
 ### 01 • Riscrivi le frasi sostituendo ci alle espressioni in neretto. Attenzione alla posizione di ci nella frase.
 
-1. Porta a noi una birra.
-Portaci una birra.
-2. Luisa ha telefonato a noi?
+1. Porta **a noi** una birra.
 ___
-3. Ho la febbre, vado a letto e resto a letto fino a domani.
+2. Luisa ha telefonato **a noi**?
 ___
-4. Mario ha regalato a noi una scatola di cioccolatini.
+3. Ho la febbre, vado a letto e resto **a letto** fino a domani.
 ___
-5. La dottoressa oggi è in studio e sarà in studio anche venerdì.
+4. Mario ha regalato **a noi** una scatola di cioccolatini.
 ___
-6. Tutti vanno alla festa, ma io non posso andare alla festa.
+5. La dottoressa oggi è **in studio** e sarà **in studio** anche venerdì.
 ___
-7. Restituisci a noi gli sci.
+6. Tutti vanno alla festa, ma io non posso andare **alla festa**.
+___
+7. Restituisci **a noi** gli sci.
 ___
 
 ### 02 • Riscrivi le frasi sostituendo ne alle espressioni in neretto. Attenzione alla posizione di ne nella frase.
 
-1. Non mi importa niente di lui.
-Non me ne importa niente.
-2. Non gli importa niente di studiare.
+1. Non mi importa niente **di lui**.
 ___
-3. Tanta gente parla male di Manuela.
+2. Non gli importa niente **di studiare**.
 ___
-4. Ho troppe banane. Vuoi un po' di banane?
+3. Tanta gente parla male **di Manuela**.
 ___
-5. A Fausto piace molto il calcio. Parla sempre di calcio.
+4. Ho troppe banane. Vuoi un po' **di banane**?
+___
+5. A Fausto piace molto il calcio. Parla sempre **di calcio**.
 ___
 
 ### 03 • Completa le seguenti frasi usando ci o ne.

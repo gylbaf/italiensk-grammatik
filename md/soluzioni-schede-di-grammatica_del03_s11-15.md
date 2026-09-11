@@ -161,11 +161,11 @@
 
 1. Porta **a noi** una birra. → **Portaci una birra.**
 2. Luisa ha telefonato **a noi**? → **Luisa ci ha telefonato?**
-3. Ho la febbre, vado a letto e resto **a letto** fino a domani. → … e ci resto fino a domani.
-4. Mario ha regalato **a noi** una scatola di cioccolatini. → Mario ci ha regalato una scatola di cioccolatini.
-5. La dottoressa oggi è in studio e sarà **in studio** anche venerdì. → … e ci sarà anche venerdì.
-6. Tutti vanno alla festa, ma io non posso andare **alla festa**. → … ma io non posso andarci.
-7. Restituisci **a noi** gli sci. → Restituiscici gli sci.
+3. Ho la febbre, vado a letto e resto **a letto** fino a domani. → **e ci resto fino a domani.**
+4. Mario ha regalato **a noi** una scatola di cioccolatini. → **Mario ci ha regalato una scatola di cioccolatini.**
+5. La dottoressa oggi è in studio e sarà **in studio** anche venerdì. → **e ci sarà anche venerdì.**
+6. Tutti vanno alla festa, ma io non posso andare **alla festa**. → **ma io non posso andarci.**
+7. Restituisci **a noi** gli sci. → **Restituiscici gli sci.**
 
 ### 02 • Riscrivi le frasi sostituendo ne alle espressioni in neretto. Attenzione alla posizione di ne nella frase.
 

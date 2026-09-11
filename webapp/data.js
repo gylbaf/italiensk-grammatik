@@ -14645,24 +14645,302 @@ window.QUIZ_DATA = {
     {
      "num": "01",
      "instruction": "Riscrivi le frasi sostituendo ci alle espressioni in neretto. Attenzione alla posizione di ci nella frase.",
-     "body": "1. Porta a noi una birra.\nPortaci una birra.\n2. Luisa ha telefonato a noi?\n___\n3. Ho la febbre, vado a letto e resto a letto fino a domani.\n___\n4. Mario ha regalato a noi una scatola di cioccolatini.\n___\n5. La dottoressa oggi è in studio e sarà in studio anche venerdì.\n___\n6. Tutti vanno alla festa, ma io non posso andare alla festa.\n___\n7. Restituisci a noi gli sci.\n___",
-     "answerBody": "1. Porta **a noi** una birra. → **Portaci una birra.**\n2. Luisa ha telefonato **a noi**? → **Luisa ci ha telefonato?**\n3. Ho la febbre, vado a letto e resto **a letto** fino a domani. → … e ci resto fino a domani.\n4. Mario ha regalato **a noi** una scatola di cioccolatini. → Mario ci ha regalato una scatola di cioccolatini.\n5. La dottoressa oggi è in studio e sarà **in studio** anche venerdì. → … e ci sarà anche venerdì.\n6. Tutti vanno alla festa, ma io non posso andare **alla festa**. → … ma io non posso andarci.\n7. Restituisci **a noi** gli sci. → Restituiscici gli sci.",
+     "body": "1. Porta **a noi** una birra.\n___\n2. Luisa ha telefonato **a noi**?\n___\n3. Ho la febbre, vado a letto e resto **a letto** fino a domani.\n___\n4. Mario ha regalato **a noi** una scatola di cioccolatini.\n___\n5. La dottoressa oggi è **in studio** e sarà **in studio** anche venerdì.\n___\n6. Tutti vanno alla festa, ma io non posso andare **alla festa**.\n___\n7. Restituisci **a noi** gli sci.\n___",
+     "answerBody": "1. Porta **a noi** una birra. → **Portaci una birra.**\n2. Luisa ha telefonato **a noi**? → **Luisa ci ha telefonato?**\n3. Ho la febbre, vado a letto e resto **a letto** fino a domani. → **e ci resto fino a domani.**\n4. Mario ha regalato **a noi** una scatola di cioccolatini. → **Mario ci ha regalato una scatola di cioccolatini.**\n5. La dottoressa oggi è in studio e sarà **in studio** anche venerdì. → **e ci sarà anche venerdì.**\n6. Tutti vanno alla festa, ma io non posso andare **alla festa**. → **ma io non posso andarci.**\n7. Restituisci **a noi** gli sci. → **Restituiscici gli sci.**",
      "matching": null,
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. Porta **a noi** una birra."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Portaci una birra."
+         ]
+        }
+       ],
+       "answers": [
+        "Portaci una birra."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Luisa ha telefonato **a noi**?"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Luisa ci ha telefonato?"
+         ]
+        }
+       ],
+       "answers": [
+        "Luisa ci ha telefonato?"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Ho la febbre, vado a letto e resto **a letto** fino a domani."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "e ci resto fino a domani."
+         ]
+        }
+       ],
+       "answers": [
+        "e ci resto fino a domani."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Mario ha regalato **a noi** una scatola di cioccolatini."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Mario ci ha regalato una scatola di cioccolatini."
+         ]
+        }
+       ],
+       "answers": [
+        "Mario ci ha regalato una scatola di cioccolatini."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. La dottoressa oggi è **in studio** e sarà **in studio** anche venerdì."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "e ci sarà anche venerdì."
+         ]
+        }
+       ],
+       "answers": [
+        "e ci sarà anche venerdì."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "6. Tutti vanno alla festa, ma io non posso andare **alla festa**."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "ma io non posso andarci."
+         ]
+        }
+       ],
+       "answers": [
+        "ma io non posso andarci."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "7. Restituisci **a noi** gli sci."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Restituiscici gli sci."
+         ]
+        }
+       ],
+       "answers": [
+        "Restituiscici gli sci."
+       ]
+      }
+     ]
     },
     {
      "num": "02",
      "instruction": "Riscrivi le frasi sostituendo ne alle espressioni in neretto. Attenzione alla posizione di ne nella frase.",
-     "body": "1. Non mi importa niente di lui.\nNon me ne importa niente.\n2. Non gli importa niente di studiare.\n___\n3. Tanta gente parla male di Manuela.\n___\n4. Ho troppe banane. Vuoi un po' di banane?\n___\n5. A Fausto piace molto il calcio. Parla sempre di calcio.\n___",
+     "body": "1. Non mi importa niente **di lui**.\n___\n2. Non gli importa niente **di studiare**.\n___\n3. Tanta gente parla male **di Manuela**.\n___\n4. Ho troppe banane. Vuoi un po' **di banane**?\n___\n5. A Fausto piace molto il calcio. Parla sempre **di calcio**.\n___",
      "answerBody": "1. Non mi importa niente **di lui**. → **Non me ne importa niente.**\n2. Non gli importa niente **di studiare**. → **Non gliene importa niente.**\n3. Tanta gente parla male **di Manuela**. → **Tanta gente ne parla male.**\n4. Ho troppe banane. Vuoi un po' **di banane**? → **Ne vuoi un po'?**\n5. A Fausto piace molto il calcio. Parla sempre **di calcio**. → **Ne parla sempre.**",
      "matching": null,
      "passage": null,
      "categorization": null,
      "wordBank": null,
-     "blanks": null
+     "blanks": [
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "1. Non mi importa niente **di lui**."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Non me ne importa niente."
+         ]
+        }
+       ],
+       "answers": [
+        "Non me ne importa niente."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "2. Non gli importa niente **di studiare**."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Non gliene importa niente."
+         ]
+        }
+       ],
+       "answers": [
+        "Non gliene importa niente."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "3. Tanta gente parla male **di Manuela**."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Tanta gente ne parla male."
+         ]
+        }
+       ],
+       "answers": [
+        "Tanta gente ne parla male."
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "4. Ho troppe banane. Vuoi un po' **di banane**?"
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Ne vuoi un po'?"
+         ]
+        }
+       ],
+       "answers": [
+        "Ne vuoi un po'?"
+       ]
+      },
+      {
+       "segments": [
+        {
+         "t": "text",
+         "v": "5. A Fausto piace molto il calcio. Parla sempre **di calcio**."
+        }
+       ],
+       "answers": []
+      },
+      {
+       "segments": [
+        {
+         "t": "blank",
+         "i": 0,
+         "answers": [
+          "Ne parla sempre."
+         ]
+        }
+       ],
+       "answers": [
+        "Ne parla sempre."
+       ]
+      }
+     ]
     },
     {
      "num": "03",
@@ -15073,12 +15351,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Vuoi conoscere Paola? Presenterò **Paola a te** stasera."
+          "Te la presenterò stasera."
          ]
         }
        ],
        "answers": [
-        "Vuoi conoscere Paola? Presenterò **Paola a te** stasera."
+        "Te la presenterò stasera."
        ]
       },
       {
@@ -15096,12 +15374,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Ho finito il problema. Posso far vedere **il problema alla professoressa**?"
+          "Posso farglielo vedere?"
          ]
         }
        ],
        "answers": [
-        "Ho finito il problema. Posso far vedere **il problema alla professoressa**?"
+        "Posso farglielo vedere?"
        ]
       },
       {
@@ -17005,12 +17283,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Dimmi che cosa vuoi."
+          "Che cosa vuoi?"
          ]
         }
        ],
        "answers": [
-        "Dimmi che cosa vuoi."
+        "Che cosa vuoi?"
        ]
       },
       {
@@ -17028,12 +17306,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Non riesco a capire che cosa stai facendo."
+          "Che cosa stai facendo?"
          ]
         }
        ],
        "answers": [
-        "Non riesco a capire che cosa stai facendo."
+        "Che cosa stai facendo?"
        ]
       },
       {
@@ -17051,12 +17329,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Vorrei sapere quanto costano questi pantaloni."
+          "Quanto costano questi pantaloni?"
          ]
         }
        ],
        "answers": [
-        "Vorrei sapere quanto costano questi pantaloni."
+        "Quanto costano questi pantaloni?"
        ]
       },
       {
@@ -17074,12 +17352,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Dimmi che ore sono."
+          "Che ore sono?"
          ]
         }
        ],
        "answers": [
-        "Dimmi che ore sono."
+        "Che ore sono?"
        ]
       },
       {
@@ -17097,12 +17375,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Ti ho chiesto a chi stavi telefonando."
+          "A chi stavi telefonando?"
          ]
         }
        ],
        "answers": [
-        "Ti ho chiesto a chi stavi telefonando."
+        "A chi stavi telefonando?"
        ]
       },
       {
@@ -17120,12 +17398,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Chissà quanti amici ha Beppe."
+          "Quanti amici ha Beppe?"
          ]
         }
        ],
        "answers": [
-        "Chissà quanti amici ha Beppe."
+        "Quanti amici ha Beppe?"
        ]
       },
       {
@@ -17143,12 +17421,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Fammi sapere a che ora arrivi."
+          "A che ora arrivi?"
          ]
         }
        ],
        "answers": [
-        "Fammi sapere a che ora arrivi."
+        "A che ora arrivi?"
        ]
       },
       {
@@ -17166,12 +17444,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Non so quante uova devo mettere nella crema."
+          "Quante uova devo mettere nella crema?"
          ]
         }
        ],
        "answers": [
-        "Non so quante uova devo mettere nella crema."
+        "Quante uova devo mettere nella crema?"
        ]
       }
      ]
@@ -18822,12 +19100,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "La mamma esce di casa al mattino presto."
+          "La mamma è uscita di casa al mattino presto."
          ]
         }
        ],
        "answers": [
-        "La mamma esce di casa al mattino presto."
+        "La mamma è uscita di casa al mattino presto."
        ]
       },
       {
@@ -18845,12 +19123,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Accompagna me a scuola."
+          "Mi ha accompagnato a scuola."
          ]
         }
        ],
        "answers": [
-        "Accompagna me a scuola."
+        "Mi ha accompagnato a scuola."
        ]
       },
       {
@@ -18868,12 +19146,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Porta Angela alla scuola materna."
+          "Ha portato Angela alla scuola materna."
          ]
         }
        ],
        "answers": [
-        "Porta Angela alla scuola materna."
+        "Ha portato Angela alla scuola materna."
        ]
       },
       {
@@ -18891,12 +19169,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Va a fare la spesa al mercato."
+          "È andata a fare (la spesa al mercato)."
          ]
         }
        ],
        "answers": [
-        "Va a fare la spesa al mercato."
+        "È andata a fare (la spesa al mercato)."
        ]
       },
       {
@@ -18914,12 +19192,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Torna a casa verso le dieci."
+          "È tornata a casa."
          ]
         }
        ],
        "answers": [
-        "Torna a casa verso le dieci."
+        "È tornata a casa."
        ]
       },
       {
@@ -18937,12 +19215,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Fa le pulizie, lava e stira."
+          "Ha fatto le pulizie, ha lavato e ha stirato."
          ]
         }
        ],
        "answers": [
-        "Fa le pulizie, lava e stira."
+        "Ha fatto le pulizie, ha lavato e ha stirato."
        ]
       },
       {
@@ -18960,12 +19238,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Prepara il pranzo."
+          "Ha preparato il pranzo."
          ]
         }
        ],
        "answers": [
-        "Prepara il pranzo."
+        "Ha preparato il pranzo."
        ]
       }
      ]
@@ -19745,12 +20023,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Il re Vittorio Emanuele II è vissuto a Torino e a Roma."
+          "visse"
          ]
         }
        ],
        "answers": [
-        "Il re Vittorio Emanuele II è vissuto a Torino e a Roma."
+        "visse"
        ]
       },
       {
@@ -19768,12 +20046,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Dante ha scritto la Divina Commedia."
+          "scrisse"
          ]
         }
        ],
        "answers": [
-        "Dante ha scritto la Divina Commedia."
+        "scrisse"
        ]
       },
       {
@@ -19791,12 +20069,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Il giorno di Ferragosto di vent'anni fa è morta mia zia."
+          "morì"
          ]
         }
        ],
        "answers": [
-        "Il giorno di Ferragosto di vent'anni fa è morta mia zia."
+        "morì"
        ]
       },
       {
@@ -19814,12 +20092,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "Napoleone è nato nel secolo diciottesimo."
+          "nacque"
          ]
         }
        ],
        "answers": [
-        "Napoleone è nato nel secolo diciottesimo."
+        "nacque"
        ]
       },
       {
@@ -19837,12 +20115,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "La signora Cheng è venuta ad abitare in Italia quasi trent'anni fa."
+          "venne"
          ]
         }
        ],
        "answers": [
-        "La signora Cheng è venuta ad abitare in Italia quasi trent'anni fa."
+        "venne"
        ]
       }
      ]
@@ -21817,12 +22095,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "**Dato che pago** con la carta di credito, tengo pochi soldi nel portafoglio."
+          "Pagando"
          ]
         }
        ],
        "answers": [
-        "**Dato che pago** con la carta di credito, tengo pochi soldi nel portafoglio."
+        "Pagando"
        ]
       },
       {
@@ -21844,12 +22122,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "**Mentre scendeva** le scale, Paola è scivolata e si è fatta male."
+          "Scendendo"
          ]
         }
        ],
        "answers": [
-        "**Mentre scendeva** le scale, Paola è scivolata e si è fatta male."
+        "Scendendo"
        ]
       },
       {
@@ -21871,12 +22149,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "La poveretta è stata investita dalla macchina, **mentre attraversava** la strada sulle strisce pedonali."
+          "attraversando"
          ]
         }
        ],
        "answers": [
-        "La poveretta è stata investita dalla macchina, **mentre attraversava** la strada sulle strisce pedonali."
+        "attraversando"
        ]
       },
       {
@@ -21898,12 +22176,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "**Mentre pensava** a lei, Peter era felice."
+          "Pensando"
          ]
         }
        ],
        "answers": [
-        "**Mentre pensava** a lei, Peter era felice."
+        "Pensando"
        ]
       },
       {
@@ -21925,12 +22203,12 @@ window.QUIZ_DATA = {
          "t": "blank",
          "i": 0,
          "answers": [
-          "**Quando mi lavo** i capelli, mi accorgo che ne perdo molti."
+          "Lavandomi"
          ]
         }
        ],
        "answers": [
-        "**Quando mi lavo** i capelli, mi accorgo che ne perdo molti."
+        "Lavandomi"
        ]
       }
      ]
